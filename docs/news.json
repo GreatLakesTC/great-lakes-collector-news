@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-23T06:17:45.895389+00:00",
-  "count": 6,
+  "updated_at": "2026-10-23T06:23:17.115801+00:00",
+  "count": 8,
   "articles": [
     {
       "title": "How the former Top 100 prospects in this year's World Series stack up",
@@ -10,18 +10,32 @@
       "timestamp": 1792712400.0
     },
     {
-      "title": "Warriors rookie Yaxel Lendeborg says he 'lost all respect' for Luka Dončić in NBA debut: 'I told him he sucks'",
-      "url": "https://www.cbssports.com/nba/news/warriors-rookie-yaxel-lendeborg-lost-all-respect-luka-doncic/",
+      "title": "Familiar faces, new places: Grading debuts for Giannis Antetokounmpo, Kawhi Leonard, other NBA stars",
+      "url": "https://www.cbssports.com/nba/news/nba-opening-night-grades-giannis-lamelo-ball-anthony-davis-kawhi-leonard-ja-morant/",
       "source": "CBS NBA",
-      "published": "Thu, 22 Oct 2026 12:36:07 +0000",
-      "timestamp": 1792672567.0
+      "published": "Thu, 22 Oct 2026 04:31:35 +0000",
+      "timestamp": 1792643495.0
     },
     {
-      "title": "World Series MVP odds, predictions: Expert picks for Brewers-Rays, including Jackson Chourio, a stud reliever",
-      "url": "https://www.cbssports.com/mlb/news/world-series-mvp-odds-predictions-expert-picks-brewers-rays/",
-      "source": "CBS MLB",
-      "published": "Wed, 21 Oct 2026 13:21:34 +0000",
-      "timestamp": 1792588894.0
+      "title": "Timberwolves vs. Heat NBA odds: Can Giannis Antetokounmpo outduel LaMelo Ball and be a winner in Miami debut?",
+      "url": "https://www.cbssports.com/betting/news/timberwolves-vs-heat-nba-odds-can-giannis-antetokounmpo-outduel-lamelo-ball-and-be-a-winner-in-miami-debut/",
+      "source": "CBS NBA",
+      "published": "Wed, 21 Oct 2026 21:47:18 +0000",
+      "timestamp": 1792619238.0
+    },
+    {
+      "title": "LeBron James shines in 76ers debut; CBS Sports Midseason All-Americans revealed",
+      "url": "https://www.cbssports.com/nba/news/lebron-james-76ers-knicks-thunder-spurs-nba-cbs-sports-college-football-all-americans/",
+      "source": "CBS NBA",
+      "published": "Wed, 21 Oct 2026 12:50:30 +0000",
+      "timestamp": 1792587030.0
+    },
+    {
+      "title": "Grading LeBron James' 76ers debut: The King gets sterling marks as Philly spoils Knicks' title celebration",
+      "url": "https://www.cbssports.com/nba/news/lebron-james-76ers-debut-grades-knicks-banner-rings-nba-opening-night/",
+      "source": "CBS NBA",
+      "published": "Wed, 21 Oct 2026 03:10:08 +0000",
+      "timestamp": 1792552208.0
     },
     {
       "title": "Back to the beginning: Both LCS MVPs face teams they debuted with in Fall Classic",
