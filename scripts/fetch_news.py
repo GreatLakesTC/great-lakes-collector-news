@@ -12,7 +12,9 @@ from html import unescape
 
 FEEDS = {
     "MLB": "https://www.mlb.com/feeds/news/rss.xml",
-    "Hobby": "https://www.sportscollectorsdaily.com/feed/",
+    "CBS MLB": "https://www.cbssports.com/rss/headlines/mlb",
+    "CBS NFL": "https://www.cbssports.com/rss/headlines/nfl",
+    "CBS NBA": "https://www.cbssports.com/rss/headlines/nba",
 }
 
 KEYWORDS = [
