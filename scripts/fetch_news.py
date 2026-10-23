@@ -59,7 +59,26 @@ def fetch_feed(source, url):
             if not title or not link.startswith("https://"):
                 continue
 
-            search_text = (title + " " + description).lower()
+            
+search_text = title.lower()
+
+# Exclude promotions, betting content, and unrelated offers
+EXCLUDED_TERMS = [
+    "promo code",
+    "bonus bets",
+    "sportsbook",
+    "betting odds",
+    "kalshi",
+    "prediction market",
+    "parlay",
+    "free bets",
+    "how to bet",
+    "best bets",
+]
+
+if any(term in search_text for term in EXCLUDED_TERMS):
+    continue
+
 
             if not any(word in search_text for word in KEYWORDS):
                 continue
