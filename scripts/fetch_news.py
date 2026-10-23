@@ -16,7 +16,7 @@ FEEDS = {
     "CBS MLB": "https://www.cbssports.com/rss/headlines/mlb",
     "CBS NFL": "https://www.cbssports.com/rss/headlines/nfl",
     "CBS NBA": "https://www.cbssports.com/rss/headlines/nba",
-    "Hobby": "https://sportscardinvestor.com/feed/",
+    "Hobby": "https://insider.cards/feed.xml",
 }
 
 
