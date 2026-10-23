@@ -1,13 +1,27 @@
 {
-  "updated_at": "2026-10-23T12:55:44.476653+00:00",
+  "updated_at": "2026-10-23T18:53:31.432957+00:00",
   "count": 8,
   "articles": [
+    {
+      "title": "Bears fear season-ending injury for Cole Kmet after veteran tight end is carted off field",
+      "url": "https://www.cbssports.com/nfl/news/bears-cole-kmet-season-ending-knee-injury/",
+      "source": "CBS NFL",
+      "published": "Fri, 23 Oct 2026 18:15:51 +0000",
+      "timestamp": 1792779351.0
+    },
     {
       "title": "How the former Top 100 prospects in this year's World Series stack up",
       "url": "https://www.mlb.com/news/2026-world-series-players-ranked-as-prospects",
       "source": "MLB",
-      "published": "Thu, 22 Oct 2026 23:40:00 GMT",
-      "timestamp": 1792712400.0
+      "published": "Fri, 23 Oct 2026 16:28:00 GMT",
+      "timestamp": 1792772880.0
+    },
+    {
+      "title": "'09 World Series MVP Matsui named manager of NPB's Giants",
+      "url": "https://www.mlb.com/news/hideki-matsui-named-manager-of-yomiuri-giants",
+      "source": "MLB",
+      "published": "Fri, 23 Oct 2026 13:08:11 GMT",
+      "timestamp": 1792760891.0
     },
     {
       "title": "Familiar faces, new places: Grading debuts for Giannis Antetokounmpo, Kawhi Leonard, other NBA stars",
@@ -38,25 +52,11 @@
       "timestamp": 1792552208.0
     },
     {
-      "title": "Back to the beginning: Both LCS MVPs face teams they debuted with in Fall Classic",
-      "url": "https://www.mlb.com/news/freddy-peralta-jake-bauers-facing-former-teams-in-world-series",
-      "source": "MLB",
-      "published": "Tue, 20 Oct 2026 05:11:13 GMT",
-      "timestamp": 1792473073.0
-    },
-    {
       "title": "Rays' Freddy Peralta named ALCS MVP after two starts, including Game 6 clincher, one relief appearance",
       "url": "https://www.cbssports.com/mlb/news/rays-freddy-peralta-alcs-mvp-2026-mlb-playoffs/",
       "source": "CBS MLB",
       "published": "Tue, 20 Oct 2026 04:36:30 +0000",
       "timestamp": 1792470990.0
-    },
-    {
-      "title": "The Brewers got it Made: In World Series for first time in 44 years, Milwaukee also has MLB's No. 1 prospect",
-      "url": "https://www.cbssports.com/mlb/news/brewers-world-series-mlbs-top-prospect-jesus-made/",
-      "source": "CBS MLB",
-      "published": "Sat, 17 Oct 2026 14:55:34 +0000",
-      "timestamp": 1792248934.0
     }
   ]
 }
