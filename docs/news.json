@@ -1,83 +1,13 @@
 {
-  "updated_at": "2026-10-23T05:30:47.885100+00:00",
-  "count": 24,
+  "updated_at": "2026-10-23T06:17:45.895389+00:00",
+  "count": 6,
   "articles": [
-    {
-      "title": "Bauers, Díaz reunite in World Series 8 years after trade that altered their careers",
-      "url": "https://www.mlb.com/news/jake-bauers-yandy-diaz-discuss-2018-trade-world-series",
-      "source": "MLB",
-      "published": "Fri, 23 Oct 2026 01:26:45 GMT",
-      "timestamp": 1792718805.0
-    },
     {
       "title": "How the former Top 100 prospects in this year's World Series stack up",
       "url": "https://www.mlb.com/news/2026-world-series-players-ranked-as-prospects",
       "source": "MLB",
       "published": "Thu, 22 Oct 2026 23:40:00 GMT",
       "timestamp": 1792712400.0
-    },
-    {
-      "title": "Saquon Barkley trade proposals: Six deals Eagles could consider, including stunning Giants reunion",
-      "url": "https://www.cbssports.com/nfl/news/eagles-saquon-barkley-trade-proposals-giants-bengals/",
-      "source": "CBS NFL",
-      "published": "Thu, 22 Oct 2026 22:26:36 +0000",
-      "timestamp": 1792707996.0
-    },
-    {
-      "title": "Chiefs to place Josh Simmons on injured reserve; LT not eligible to return until Week 11",
-      "url": "https://www.cbssports.com/nfl/news/chiefs-to-place-josh-simmons-on-injured-reserve/",
-      "source": "CBS NFL",
-      "published": "Thu, 22 Oct 2026 21:50:07 +0000",
-      "timestamp": 1792705807.0
-    },
-    {
-      "title": "Cowboys' Jerry Jones says Dallas could be 'active' at trade deadline: Here's who it should target",
-      "url": "https://www.cbssports.com/nfl/news/cowboys-jerry-jones-dallas-active-trade-deadline-three-targets/",
-      "source": "CBS NFL",
-      "published": "Thu, 22 Oct 2026 19:14:16 +0000",
-      "timestamp": 1792696456.0
-    },
-    {
-      "title": "Winners of the 2026 Fielding Bible Awards announced",
-      "url": "https://www.mlb.com/news/fielding-bible-award-winners-for-2026",
-      "source": "MLB",
-      "published": "Thu, 22 Oct 2026 19:13:23 GMT",
-      "timestamp": 1792696403.0
-    },
-    {
-      "title": "NFL trade rumors: 5 receivers the Rams should target in a deal, including Cowboys' George Pickens",
-      "url": "https://www.cbssports.com/nfl/news/nfl-trade-rumors-5-receivers-rams-should-target-george-pickens/",
-      "source": "CBS NFL",
-      "published": "Thu, 22 Oct 2026 18:09:23 +0000",
-      "timestamp": 1792692563.0
-    },
-    {
-      "title": "Should Vikings trade for Justin Herbert? Making the case for and against potential blockbuster deal",
-      "url": "https://www.cbssports.com/nfl/news/should-vikings-trade-for-justin-herbert-chargers/",
-      "source": "CBS NFL",
-      "published": "Thu, 22 Oct 2026 17:51:57 +0000",
-      "timestamp": 1792691517.0
-    },
-    {
-      "title": "NBA one-game overreactions: The Warriors need to trade Stephen Curry, Ja Morant is a perfect fit in Portland",
-      "url": "https://www.cbssports.com/nba/news/nba-one-game-overreactions-warriors-trade-stephen-curry-ja-morant-perfect-fit/",
-      "source": "CBS NBA",
-      "published": "Thu, 22 Oct 2026 13:30:10 +0000",
-      "timestamp": 1792675810.0
-    },
-    {
-      "title": "NFL punishes Patriots, Eagles and Jets head coaches with near-record fines, per report",
-      "url": "https://www.cbssports.com/nfl/news/nfl-punishes-patriots-eagles-jets-head-coaches-record-fines/",
-      "source": "CBS NFL",
-      "published": "Thu, 22 Oct 2026 13:01:56 +0000",
-      "timestamp": 1792674116.0
-    },
-    {
-      "title": "Titans release DT Jordan Elliott after incident with firearm at team facility",
-      "url": "https://www.cbssports.com/nfl/news/titans-release-jordan-elliott-after-incident/",
-      "source": "CBS NFL",
-      "published": "Thu, 22 Oct 2026 12:38:32 +0000",
-      "timestamp": 1792672712.0
     },
     {
       "title": "Warriors rookie Yaxel Lendeborg says he 'lost all respect' for Luka Dončić in NBA debut: 'I told him he sucks'",
@@ -87,67 +17,11 @@
       "timestamp": 1792672567.0
     },
     {
-      "title": "Familiar faces, new places: Grading debuts for Giannis Antetokounmpo, Kawhi Leonard, other NBA stars",
-      "url": "https://www.cbssports.com/nba/news/nba-opening-night-grades-giannis-lamelo-ball-anthony-davis-kawhi-leonard-ja-morant/",
-      "source": "CBS NBA",
-      "published": "Thu, 22 Oct 2026 04:31:35 +0000",
-      "timestamp": 1792643495.0
-    },
-    {
-      "title": "Kristaps Porziņģis trade destinations: Three viable moves the Warriors could make to improve their roster",
-      "url": "https://www.cbssports.com/nba/news/kristaps-porzingis-trade-destinations-rumors-warriors/",
-      "source": "CBS NBA",
-      "published": "Wed, 21 Oct 2026 22:05:17 +0000",
-      "timestamp": 1792620317.0
-    },
-    {
-      "title": "Timberwolves vs. Heat NBA odds: Can Giannis Antetokounmpo outduel LaMelo Ball and be a winner in Miami debut?",
-      "url": "https://www.cbssports.com/betting/news/timberwolves-vs-heat-nba-odds-can-giannis-antetokounmpo-outduel-lamelo-ball-and-be-a-winner-in-miami-debut/",
-      "source": "CBS NBA",
-      "published": "Wed, 21 Oct 2026 21:47:18 +0000",
-      "timestamp": 1792619238.0
-    },
-    {
-      "title": "Warriors exploring trades for Kristaps Porziņģis, who is contemplating future amid health issues, per report",
-      "url": "https://www.cbssports.com/nba/news/warriors-trades-kristaps-porzingis-contemplating-future-health-issues/",
-      "source": "CBS NBA",
-      "published": "Wed, 21 Oct 2026 21:14:48 +0000",
-      "timestamp": 1792617288.0
-    },
-    {
       "title": "World Series MVP odds, predictions: Expert picks for Brewers-Rays, including Jackson Chourio, a stud reliever",
       "url": "https://www.cbssports.com/mlb/news/world-series-mvp-odds-predictions-expert-picks-brewers-rays/",
       "source": "CBS MLB",
       "published": "Wed, 21 Oct 2026 13:21:34 +0000",
       "timestamp": 1792588894.0
-    },
-    {
-      "title": "LeBron James shines in 76ers debut; CBS Sports Midseason All-Americans revealed",
-      "url": "https://www.cbssports.com/nba/news/lebron-james-76ers-knicks-thunder-spurs-nba-cbs-sports-college-football-all-americans/",
-      "source": "CBS NBA",
-      "published": "Wed, 21 Oct 2026 12:50:30 +0000",
-      "timestamp": 1792587030.0
-    },
-    {
-      "title": "Grading LeBron James' 76ers debut: The King gets sterling marks as Philly spoils Knicks' title celebration",
-      "url": "https://www.cbssports.com/nba/news/lebron-james-76ers-debut-grades-knicks-banner-rings-nba-opening-night/",
-      "source": "CBS NBA",
-      "published": "Wed, 21 Oct 2026 03:10:08 +0000",
-      "timestamp": 1792552208.0
-    },
-    {
-      "title": "No. 1 overall pick AJ Dybantsa will miss Wizards' season opener with ankle injury",
-      "url": "https://www.cbssports.com/nba/news/wizards-ad-dybantsa-injury-timeline-season-opener/",
-      "source": "CBS NBA",
-      "published": "Tue, 20 Oct 2026 16:57:41 +0000",
-      "timestamp": 1792515461.0
-    },
-    {
-      "title": "NBA predictions: Expert picks for 2026-27 awards as Wemby has inside track to two honors, but what about ROY?",
-      "url": "https://www.cbssports.com/nba/news/nba-predictions-expert-picks-2026-27-awards-mvp/",
-      "source": "CBS NBA",
-      "published": "Tue, 20 Oct 2026 13:44:49 +0000",
-      "timestamp": 1792503889.0
     },
     {
       "title": "Back to the beginning: Both LCS MVPs face teams they debuted with in Fall Classic",
