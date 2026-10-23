@@ -18,29 +18,50 @@ FEEDS = {
 }
 
 
+
 KEYWORDS = [
-    # Rookie and prospect developments
-    "rookie", "prospect", "top prospect",
-    "mlb debut", "nba debut", "nfl debut",
-    "major league debut", "call-up", "called up",
-    "first career", "breakout", "rising star",
+    # Rookies and prospects
+    "rookie",
+    "prospect",
+    "debut",
+    "call-up",
+    "called up",
+    "breakout",
+    "rising star",
+    "first career",
 
-    # Significant player developments
-    "mvp", "rookie of the year",
-    "all-star", "record-breaking",
-    "historic performance", "milestone",
-    "blockbuster trade", "traded to",
-    "season-ending injury", "retirement",
+    # Major player developments
+    "rookie of the year",
+    "alcs mvp",
+    "nlcs mvp",
+    "world series mvp",
+    "finals mvp",
+    "named mvp",
+    "wins mvp",
+    "record-breaking",
+    "historic performance",
+    "milestone",
+    "blockbuster trade",
+    "traded to",
+    "season-ending injury",
+    "retirement",
 
-    # Trading card industry
-    "trading card", "sports card",
-    "topps", "bowman", "panini",
-    "refractor", "autograph card",
-    "rookie card", "card checklist",
-    "hobby box", "card grading",
-    "psa grading", "beckett grading",
+    # Trading card news
+    "trading card",
+    "sports card",
+    "topps",
+    "bowman",
+    "panini",
+    "refractor",
+    "rookie card",
+    "card checklist",
+    "hobby box",
+    "card grading",
+    "psa grading",
+    "beckett grading",
     "card auction"
 ]
+
 
 
 MAX_ARTICLES = 30
@@ -61,6 +82,7 @@ def fetch_feed(source, url):
         headers={"User-Agent": "GreatLakesCollectorNews/1.0"}
     )
 
+    
     excluded_terms = [
         "promo code",
         "bonus bets",
@@ -72,7 +94,15 @@ def fetch_feed(source, url):
         "free bets",
         "how to bet",
         "best bets",
+        "mvp odds",
+        "odds and predictions",
+        "expert picks",
+        "lost all respect",
+        "facing former teams",
+        "coaches fined",
+        "head coaches with fines",
     ]
+
 
     try:
         with urllib.request.urlopen(request, timeout=20) as response:
