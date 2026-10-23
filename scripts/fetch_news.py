@@ -130,6 +130,34 @@ def fetch_feed(source, url):
             # Only include relevant collector-focused topics
             if not any(word in search_text for word in KEYWORDS):
                 continue
+            
+            # Additional rules for hobby news
+            if source == "Hobby":
+                hobby_exclusions = [
+                    "pokemon", "pokémon",
+                    "magic: the gathering",
+                    "yu-gi-oh",
+                    "stolen", "theft",
+                    "robbery", "partnership",
+                    "sponsorship"
+                ]
+
+                hobby_topics = [
+                    "topps", "bowman", "panini",
+                    "baseball card", "football card",
+                    "basketball card", "sports card",
+                    "rookie card", "hobby box",
+                    "blaster", "checklist",
+                    "refractor", "autograph",
+                    "grading"
+                ]
+
+                if any(term in search_text for term in hobby_exclusions):
+                    continue
+
+                if not any(term in search_text for term in hobby_topics):
+                    continue
+
 
             try:
                 date = parsedate_to_datetime(published)
