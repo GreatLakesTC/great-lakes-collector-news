@@ -10,12 +10,15 @@ from html import unescape
 
 # The Great Lakes Collector - Automated News Feed
 
+
 FEEDS = {
     "MLB": "https://www.mlb.com/feeds/news/rss.xml",
     "CBS MLB": "https://www.cbssports.com/rss/headlines/mlb",
     "CBS NFL": "https://www.cbssports.com/rss/headlines/nfl",
     "CBS NBA": "https://www.cbssports.com/rss/headlines/nba",
+    "Hobby": "https://sportscardinvestor.com/feed/",
 }
+
 
 
 
