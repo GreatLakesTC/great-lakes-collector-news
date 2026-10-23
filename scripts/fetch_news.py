@@ -17,15 +17,31 @@ FEEDS = {
     "CBS NBA": "https://www.cbssports.com/rss/headlines/nba",
 }
 
+
 KEYWORDS = [
-    "rookie", "prospect", "call-up", "debut",
-    "trade", "traded", "injury", "injured",
-    "breakout", "record", "mvp", "award",
-    "topps", "bowman", "panini", "refractor",
-    "trading card", "sports card", "checklist",
-    "release", "grading", "psa", "beckett",
-    "auction", "collectible"
+    # Rookie and prospect developments
+    "rookie", "prospect", "top prospect",
+    "mlb debut", "nba debut", "nfl debut",
+    "major league debut", "call-up", "called up",
+    "first career", "breakout", "rising star",
+
+    # Significant player developments
+    "mvp", "rookie of the year",
+    "all-star", "record-breaking",
+    "historic performance", "milestone",
+    "blockbuster trade", "traded to",
+    "season-ending injury", "retirement",
+
+    # Trading card industry
+    "trading card", "sports card",
+    "topps", "bowman", "panini",
+    "refractor", "autograph card",
+    "rookie card", "card checklist",
+    "hobby box", "card grading",
+    "psa grading", "beckett grading",
+    "card auction"
 ]
+
 
 MAX_ARTICLES = 30
 OUTPUT = Path("docs/news.json")
