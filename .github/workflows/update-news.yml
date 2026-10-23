@@ -8,9 +8,11 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 concurrency:
-  group: update-collector-news
+  group: collector-news-pages
   cancel-in-progress: false
 
 jobs:
@@ -47,3 +49,25 @@ jobs:
           else
             echo "No changes to commit"
           fi
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload news feed
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: docs
+
+  deploy:
+    needs: update-news
+    runs-on: ubuntu-latest
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Deploy news feed
+        id: deployment
+        uses: actions/deploy-pages@v4
+
