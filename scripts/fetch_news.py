@@ -36,6 +36,7 @@ def clean_text(value):
     return re.sub(r"\s+", " ", unescape(value)).strip()
 
 
+
 def fetch_feed(source, url):
     articles = []
 
@@ -43,6 +44,19 @@ def fetch_feed(source, url):
         url,
         headers={"User-Agent": "GreatLakesCollectorNews/1.0"}
     )
+
+    excluded_terms = [
+        "promo code",
+        "bonus bets",
+        "sportsbook",
+        "betting odds",
+        "kalshi",
+        "prediction market",
+        "parlay",
+        "free bets",
+        "how to bet",
+        "best bets",
+    ]
 
     try:
         with urllib.request.urlopen(request, timeout=20) as response:
@@ -53,41 +67,29 @@ def fetch_feed(source, url):
         for item in root.findall(".//item"):
             title = clean_text(item.findtext("title"))
             link = (item.findtext("link") or "").strip()
-            description = clean_text(item.findtext("description"))
             published = item.findtext("pubDate") or ""
 
             if not title or not link.startswith("https://"):
                 continue
 
-            
-search_text = title.lower()
+            search_text = title.lower()
 
-# Exclude promotions, betting content, and unrelated offers
-EXCLUDED_TERMS = [
-    "promo code",
-    "bonus bets",
-    "sportsbook",
-    "betting odds",
-    "kalshi",
-    "prediction market",
-    "parlay",
-    "free bets",
-    "how to bet",
-    "best bets",
-]
+            # Exclude betting and promotional headlines
+            if any(term in search_text for term in excluded_terms):
+                continue
 
-if any(term in search_text for term in EXCLUDED_TERMS):
-    continue
-
-
+            # Only include relevant collector-focused topics
             if not any(word in search_text for word in KEYWORDS):
                 continue
 
             try:
                 date = parsedate_to_datetime(published)
+
                 if date.tzinfo is None:
                     date = date.replace(tzinfo=timezone.utc)
+
                 timestamp = date.timestamp()
+
             except (ValueError, TypeError, OverflowError):
                 timestamp = 0
 
@@ -95,7 +97,7 @@ if any(term in search_text for term in EXCLUDED_TERMS):
                 "title": title,
                 "url": link,
                 "source": source,
-                "published": published,
+                "published": published.strip(),
                 "timestamp": timestamp
             })
 
