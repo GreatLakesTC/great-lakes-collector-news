@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-25T12:52:09.715740+00:00",
-  "count": 9,
+  "updated_at": "2026-10-25T18:47:25.566265+00:00",
+  "count": 8,
   "articles": [
     {
       "title": "John Harbaugh challenges Tom Brady to leave retirement: 'I doubt for one second he could'",
@@ -24,11 +24,11 @@
       "timestamp": 1792822137.0
     },
     {
-      "title": "Replay Sports Cards Opens First Nashville-Area Location, Expanding National Footprint",
+      "title": "Replay Sports Cards Opens First Nashville Location Oct. 24",
       "url": "https://insider.cards/story/replay-sports-cards-opens-first-nashville-area-location-expanding-104e1a/",
       "source": "Hobby",
-      "published": "Thu, 22 Oct 2026 17:31:42 +0000",
-      "timestamp": 1792690302.0
+      "published": "Fri, 23 Oct 2026 17:32:48 +0000",
+      "timestamp": 1792776768.0
     },
     {
       "title": "Familiar faces, new places: Grading debuts for Giannis Antetokounmpo, Kawhi Leonard, other NBA stars",
@@ -57,13 +57,6 @@
       "source": "CBS NBA",
       "published": "Wed, 21 Oct 2026 12:50:30 +0000",
       "timestamp": 1792587030.0
-    },
-    {
-      "title": "Grading LeBron James' 76ers debut: The King gets sterling marks as Philly spoils Knicks' title celebration",
-      "url": "https://www.cbssports.com/nba/news/lebron-james-76ers-debut-grades-knicks-banner-rings-nba-opening-night/",
-      "source": "CBS NBA",
-      "published": "Wed, 21 Oct 2026 03:10:08 +0000",
-      "timestamp": 1792552208.0
     }
   ]
 }
