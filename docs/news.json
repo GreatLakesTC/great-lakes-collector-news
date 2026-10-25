@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-25T00:53:33.503758+00:00",
-  "count": 12,
+  "updated_at": "2026-10-25T06:55:40.789697+00:00",
+  "count": 11,
   "articles": [
     {
       "title": "John Harbaugh challenges Tom Brady to leave retirement: 'I doubt for one second he could'",
@@ -31,13 +31,6 @@
       "timestamp": 1792793950.0
     },
     {
-      "title": "2026 Bowman U Best Football Big Kahuna Autographs | Behind the Design",
-      "url": "https://insider.cards/story/2026-bowman-u-best-football-big-kahuna-autographs-behind-the-design-a10b89/",
-      "source": "Hobby",
-      "published": "Fri, 23 Oct 2026 20:21:54 +0000",
-      "timestamp": 1792786914.0
-    },
-    {
       "title": "Bears fear season-ending injury for Cole Kmet after veteran tight end is carted off field",
       "url": "https://www.cbssports.com/nfl/news/bears-cole-kmet-season-ending-knee-injury/",
       "source": "CBS NFL",
@@ -66,6 +59,13 @@
       "timestamp": 1792619238.0
     },
     {
+      "title": "2026 Topps Holiday Football Deck the Fields | Behind the Design",
+      "url": "https://insider.cards/story/2026-topps-holiday-football-deck-the-fields-behind-the-design-ffa40d/",
+      "source": "Hobby",
+      "published": "Wed, 21 Oct 2026 17:24:04 +0000",
+      "timestamp": 1792603444.0
+    },
+    {
       "title": "LeBron James shines in 76ers debut; CBS Sports Midseason All-Americans revealed",
       "url": "https://www.cbssports.com/nba/news/lebron-james-76ers-knicks-thunder-spurs-nba-cbs-sports-college-football-all-americans/",
       "source": "CBS NBA",
@@ -78,13 +78,6 @@
       "source": "CBS NBA",
       "published": "Wed, 21 Oct 2026 03:10:08 +0000",
       "timestamp": 1792552208.0
-    },
-    {
-      "title": "Rays' Freddy Peralta named ALCS MVP after two starts, including Game 6 clincher, one relief appearance",
-      "url": "https://www.cbssports.com/mlb/news/rays-freddy-peralta-alcs-mvp-2026-mlb-playoffs/",
-      "source": "CBS MLB",
-      "published": "Tue, 20 Oct 2026 04:36:30 +0000",
-      "timestamp": 1792470990.0
     }
   ]
 }
