@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-10-26T07:02:53.939748+00:00",
-  "count": 6,
+  "updated_at": "2026-10-26T14:55:19.143240+00:00",
+  "count": 5,
   "articles": [
+    {
+      "title": "Dak Prescott Topps Trading Card Goes Viral For Overlooked NSFW Message",
+      "url": "https://insider.cards/story/dak-prescott-topps-trading-card-goes-viral-for-overlooked-nsfw-message-1d4364/",
+      "source": "Hobby",
+      "published": "Mon, 26 Oct 2026 11:14:03 +0000",
+      "timestamp": 1793013243.0
+    },
     {
       "title": "Wagner Brings $1.98 Million; Topps Mantle Records Fall in Heritage Auction",
       "url": "https://insider.cards/story/wagner-brings-usd-1-98-million-topps-mantle-records-fall-in-heritage-507b80/",
@@ -29,20 +36,6 @@
       "source": "CBS NBA",
       "published": "Wed, 21 Oct 2026 21:47:18 +0000",
       "timestamp": 1792619238.0
-    },
-    {
-      "title": "2026 Topps Holiday Football Deck the Fields | Behind the Design",
-      "url": "https://insider.cards/story/2026-topps-holiday-football-deck-the-fields-behind-the-design-ffa40d/",
-      "source": "Hobby",
-      "published": "Wed, 21 Oct 2026 17:24:04 +0000",
-      "timestamp": 1792603444.0
-    },
-    {
-      "title": "LeBron James shines in 76ers debut; CBS Sports Midseason All-Americans revealed",
-      "url": "https://www.cbssports.com/nba/news/lebron-james-76ers-knicks-thunder-spurs-nba-cbs-sports-college-football-all-americans/",
-      "source": "CBS MLB",
-      "published": "Wed, 21 Oct 2026 12:50:30 +0000",
-      "timestamp": 1792587030.0
     }
   ]
 }
