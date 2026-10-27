@@ -65,6 +65,27 @@ KEYWORDS = [
     "card auction"
 ]
 
+SPORTS_KEYWORDS = [
+    "rookie", "prospect", "debut", "call-up",
+    "breakout", "injury", "injured", "returns",
+    "returning", "questionable", "out for",
+    "trade", "traded", "signs", "signed",
+    "extension", "contract", "free agent",
+    "waived", "released", "starting",
+    "starter", "lineup", "rotation",
+    "recap", "highlights", "win over",
+    "beats", "defeats", "scores", "points",
+    "touchdowns", "passing yards",
+    "rushing yards", "home run", "homers",
+    "strikeouts", "triple-double",
+    "double-double", "career-high",
+    "season-high", "career best",
+    "record", "milestone", "mvp",
+    "all-star", "playoffs", "world series",
+    "championship", "performance",
+    "takeaways", "power rankings"
+]
+
 
 
 MAX_ARTICLES = 30
@@ -127,9 +148,18 @@ def fetch_feed(source, url):
             if any(term in search_text for term in excluded_terms):
                 continue
 
-            # Only include relevant collector-focused topics
-            if not any(word in search_text for word in KEYWORDS):
+            
+            active_keywords = (
+                KEYWORDS if source == "Hobby"
+                else SPORTS_KEYWORDS
+            )
+
+            if not any(
+                word in search_text
+                for word in active_keywords
+            ):
                 continue
+
             
             # Additional rules for hobby news
             if source == "Hobby":
