@@ -1,7 +1,63 @@
 {
-  "updated_at": "2026-10-27T18:56:00.945088+00:00",
-  "count": 5,
+  "updated_at": "2026-10-28T00:06:21.527892+00:00",
+  "count": 30,
   "articles": [
+    {
+      "title": "LIVE on FOX/FOX One: Brewers-Rays World Series Game 4",
+      "url": "https://www.mlb.com/news/brewers-rays-world-series-game-4-starting-lineups-and-pitching-matchup",
+      "source": "MLB",
+      "published": "Wed, 28 Oct 2026 00:00:00 GMT",
+      "timestamp": 1793145600.0
+    },
+    {
+      "title": "DeForest Buckner trade grades: 49ers get reunion with three-time Pro Bowler, Colts work toward rebuild",
+      "url": "https://www.cbssports.com/nfl/news/deforest-buckner-trade-grades-49ers-colts/",
+      "source": "CBS NFL",
+      "published": "Tue, 27 Oct 2026 22:33:47 +0000",
+      "timestamp": 1793140427.0
+    },
+    {
+      "title": "DeForest Buckner trade: Colts send DT to 49ers in exchange for 2027 fourth-round pick",
+      "url": "https://www.cbssports.com/nfl/news/deforest-buckner-trade-colts-49ers/",
+      "source": "CBS NFL",
+      "published": "Tue, 27 Oct 2026 22:04:07 +0000",
+      "timestamp": 1793138647.0
+    },
+    {
+      "title": "NFL trade deadline: Four Eagles, a star Colt and two starting QBs included among top 25 candidates",
+      "url": "https://www.cbssports.com/nfl/news/2026-nfl-trade-deadline-rankings-top-25-eagles-colts/",
+      "source": "CBS NFL",
+      "published": "Tue, 27 Oct 2026 21:11:05 +0000",
+      "timestamp": 1793135465.0
+    },
+    {
+      "title": "Quenton Nelson trade grades: Seahawks add eight-time Pro Bowler, while Colts look to sell pieces",
+      "url": "https://www.cbssports.com/nfl/news/quenton-nelson-trade-grades-seahawks-colts/",
+      "source": "CBS NFL",
+      "published": "Tue, 27 Oct 2026 18:29:31 +0000",
+      "timestamp": 1793125771.0
+    },
+    {
+      "title": "Chase Royalty in Panini 2026 NWSL Crown Royale Soccer",
+      "url": "https://insider.cards/story/chase-royalty-in-panini-2026-nwsl-crown-royale-soccer-7cacd9/",
+      "source": "Hobby",
+      "published": "Tue, 27 Oct 2026 18:27:24 +0000",
+      "timestamp": 1793125644.0
+    },
+    {
+      "title": "Should the Giants trade for Saquon Barkley? Making the case for and against potential blockbuster deal",
+      "url": "https://www.cbssports.com/nfl/news/case-for-against-giants-trading-for-saquon-barkley/",
+      "source": "CBS NFL",
+      "published": "Tue, 27 Oct 2026 18:13:53 +0000",
+      "timestamp": 1793124833.0
+    },
+    {
+      "title": "Quenton Nelson trade: Seahawks acquire All-Pro guard from Colts for two draft picks, per report",
+      "url": "https://www.cbssports.com/nfl/news/quenton-nelson-trade-seahawks-colts-nfl-draft-picks/",
+      "source": "CBS NFL",
+      "published": "Tue, 27 Oct 2026 17:07:05 +0000",
+      "timestamp": 1793120825.0
+    },
     {
       "title": "Vote tonight for the World Series MVP Award",
       "url": "https://www.mlb.com/postseason/mvp-vote?affiliateID=ws_mvp_vote_digital_2026",
@@ -10,11 +66,11 @@
       "timestamp": 1793119294.0
     },
     {
-      "title": "almost sports cards",
-      "url": "https://insider.cards/story/almost-sports-cards-e6598d/",
-      "source": "Hobby",
-      "published": "Tue, 27 Oct 2026 16:19:33 +0000",
-      "timestamp": 1793117973.0
+      "title": "Kawhi Leonard sidelined with knee injury, which means he'll miss his return to Clippers' Intuit Dome",
+      "url": "https://www.cbssports.com/nba/news/kawhi-leonard-sidelined-knee-injury-miss-return-to-clippers-intuit-dome/",
+      "source": "CBS NBA",
+      "published": "Tue, 27 Oct 2026 16:17:58 +0000",
+      "timestamp": 1793117878.0
     },
     {
       "title": "Who's the World Series MVP frontrunner? Plus more pressing questions for Brewers vs. Rays Game 4",
@@ -24,18 +80,137 @@
       "timestamp": 1793116620.0
     },
     {
-      "title": "Round Two: Street Fighter is Back on Topps",
-      "url": "https://insider.cards/story/round-two-street-fighter-is-back-on-topps-e638b5/",
-      "source": "Hobby",
-      "published": "Tue, 27 Oct 2026 15:27:59 +0000",
-      "timestamp": 1793114879.0
+      "title": "How the Rays were broken by the merciless Brewers, who are on the verge of a World Series sweep",
+      "url": "https://www.cbssports.com/mlb/news/how-rays-were-broken-by-merciless-brewers-world-series/",
+      "source": "CBS MLB",
+      "published": "Tue, 27 Oct 2026 14:52:15 +0000",
+      "timestamp": 1793112735.0
     },
     {
-      "title": "2026 Topps Five Star Baseball Collector Guide: Discover Top MLB Autos and Relics",
-      "url": "https://insider.cards/story/2026-topps-five-star-baseball-collector-guide-discover-top-mlb-autos-8a5a2e/",
+      "title": "4 takeaways from Crew's Game 3 dominance",
+      "url": "https://www.mlb.com/news/key-takeaways-from-world-series-game-3-2026",
+      "source": "MLB",
+      "published": "Tue, 27 Oct 2026 14:20:00 GMT",
+      "timestamp": 1793110800.0
+    },
+    {
+      "title": "Jaylen Brown's rep says reported trade request from Celtics is '10,000% a lie'",
+      "url": "https://www.cbssports.com/nba/news/jaylen-browns-trade-request-celtics-lie/",
+      "source": "CBS NBA",
+      "published": "Tue, 27 Oct 2026 13:19:49 +0000",
+      "timestamp": 1793107189.0
+    },
+    {
+      "title": "Who will Jay-Z bring out for the 2027 Super Bowl halftime show? Four possible guests",
+      "url": "https://www.cbssports.com/nfl/news/2027-super-bowl-halftime-special-guests-jay-z/",
+      "source": "CBS NFL",
+      "published": "Tue, 27 Oct 2026 13:04:45 +0000",
+      "timestamp": 1793106285.0
+    },
+    {
+      "title": "Jackson Chourio just showing off now as the face of the Brewers as Crew creeps closer to World Series title",
+      "url": "https://www.cbssports.com/mlb/news/jackson-chourio-brewers-world-series-face-of-the-franchise/",
+      "source": "CBS MLB",
+      "published": "Tue, 27 Oct 2026 12:54:08 +0000",
+      "timestamp": 1793105648.0
+    },
+    {
+      "title": "2026 MLB playoff bracket: Schedule and scores with Brewers one win away from first World Series title",
+      "url": "https://www.cbssports.com/mlb/news/2026-mlb-playoff-bracket-schedule-scores-results-how-to-watch/",
+      "source": "CBS MLB",
+      "published": "Tue, 27 Oct 2026 12:53:16 +0000",
+      "timestamp": 1793105596.0
+    },
+    {
+      "title": "NFL trade deadline matchmaker: Vikings add Jonathan Taylor to boost offense, Chiefs nab WR",
+      "url": "https://www.cbssports.com/nfl/news/nfl-trade-deadline-matchmaker-vikings-jonathan-taylor-chiefs/",
+      "source": "CBS NFL",
+      "published": "Tue, 27 Oct 2026 12:52:44 +0000",
+      "timestamp": 1793105564.0
+    },
+    {
+      "title": "Cowboys crush Eagles to revive NFC East hopes; Brewers hammer Rays for 3-0 World Series lead",
+      "url": "https://www.cbssports.com/nfl/news/cowboys-eagles-nfc-east-nfl-brewers-rays-world-series-mlb/",
+      "source": "CBS NFL",
+      "published": "Tue, 27 Oct 2026 12:50:24 +0000",
+      "timestamp": 1793105424.0
+    },
+    {
+      "title": "Tolle knocks it out of the park as World Series correspondent ... is anyone surprised?",
+      "url": "https://www.mlb.com/news/payton-tolle-world-series-player-correspondent-highlights",
+      "source": "MLB",
+      "published": "Tue, 27 Oct 2026 12:36:12 GMT",
+      "timestamp": 1793104572.0
+    },
+    {
+      "title": "Prisco's NFL Week 8 Power Rankings: Lone unbeaten Vikings take over top spot",
+      "url": "https://www.cbssports.com/nfl/news/priscos-nfl-week-8-power-rankings-vikings/",
+      "source": "CBS NFL",
+      "published": "Tue, 27 Oct 2026 10:00:54 +0000",
+      "timestamp": 1793095254.0
+    },
+    {
+      "title": "1 unprecedented inning not only way Crew rewriting Fall Classic record books",
+      "url": "https://www.mlb.com/news/stats-facts-from-brewers-win-world-series-game-3-2026",
+      "source": "MLB",
+      "published": "Tue, 27 Oct 2026 06:38:44 GMT",
+      "timestamp": 1793083124.0
+    },
+    {
+      "title": "With historic romp, unrelenting Crew just 1 win from 1st World Series title",
+      "url": "https://www.mlb.com/news/brewers-win-world-series-game-3-2026",
+      "source": "MLB",
+      "published": "Tue, 27 Oct 2026 04:48:00 GMT",
+      "timestamp": 1793076480.0
+    },
+    {
+      "title": "3 big questions for a World Series Game 4 that could seal Brewers' first title",
+      "url": "https://www.mlb.com/news/2026-world-series-game-4-storylines-brewers-rays",
+      "source": "MLB",
+      "published": "Tue, 27 Oct 2026 04:33:58 GMT",
+      "timestamp": 1793075638.0
+    },
+    {
+      "title": "From crab claws to tomahawks, World Series fans can get fancy at the Trop",
+      "url": "https://www.mlb.com/news/rays-unveil-world-series-food-options-at-tropicana-field",
+      "source": "MLB",
+      "published": "Tue, 27 Oct 2026 01:44:38 GMT",
+      "timestamp": 1793065478.0
+    },
+    {
+      "title": "2025-26 Topps Stadium Club Basketball Marks Brand’s Return to Hardwood",
+      "url": "https://insider.cards/story/2025-26-topps-stadium-club-basketball-marks-brands-return-to-hardwood-b1eb52/",
       "source": "Hobby",
-      "published": "Mon, 26 Oct 2026 18:40:27 +0000",
-      "timestamp": 1793040027.0
+      "published": "Tue, 27 Oct 2026 00:27:08 +0000",
+      "timestamp": 1793060828.0
+    },
+    {
+      "title": "What Jalen Williams and Cason Wallace injuries mean for the Thunder and why a trade isn't so simple",
+      "url": "https://www.cbssports.com/nba/news/jalen-williams-injury-means-thunder-trade-options/",
+      "source": "CBS NBA",
+      "published": "Mon, 26 Oct 2026 23:13:40 +0000",
+      "timestamp": 1793056420.0
+    },
+    {
+      "title": "Eagles vs. Cowboys prediction: Dallas visits injury-ravaged Philadelphia on 'Monday Night Football'",
+      "url": "https://www.cbssports.com/nfl/news/eagles-vs-cowboys-prediction-odds-monday-night-football-2026/",
+      "source": "CBS NFL",
+      "published": "Mon, 26 Oct 2026 22:58:53 +0000",
+      "timestamp": 1793055533.0
+    },
+    {
+      "title": "Brewers vs. Rays World Series Game 3 picks: Freddy Peralta faces former club at crucial point in series",
+      "url": "https://www.cbssports.com/betting/news/brewers-vs-rays-world-series-game-3-picks-freddy-peralta-faces-former-club-at-crucial-point-in-series/",
+      "source": "CBS MLB",
+      "published": "Mon, 26 Oct 2026 22:45:48 +0000",
+      "timestamp": 1793054748.0
+    },
+    {
+      "title": "More than a championship hangover: Four reasons behind Knicks' troubling 0-3 start",
+      "url": "https://www.cbssports.com/nba/news/more-than-championship-hangover-four-reasons-behind-knicks-troubling-start/",
+      "source": "CBS NBA",
+      "published": "Mon, 26 Oct 2026 21:48:47 +0000",
+      "timestamp": 1793051327.0
     }
   ]
 }
