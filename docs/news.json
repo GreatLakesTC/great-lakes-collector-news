@@ -1,13 +1,90 @@
 {
-  "updated_at": "2026-10-28T01:12:20.123995+00:00",
+  "updated_at": "2026-10-28T07:10:32.713854+00:00",
   "count": 30,
   "articles": [
     {
-      "title": "LIVE on FOX/FOX One: Brewers-Rays World Series Game 4",
-      "url": "https://www.mlb.com/news/brewers-rays-world-series-game-4-starting-lineups-and-pitching-matchup",
+      "title": "Key takeaways as Rays stay alive with thrilling Game 4 walk-off",
+      "url": "https://www.mlb.com/news/key-takeaways-from-world-series-game-4-2026",
       "source": "MLB",
-      "published": "Wed, 28 Oct 2026 00:00:00 GMT",
-      "timestamp": 1793145600.0
+      "published": "Wed, 28 Oct 2026 06:57:00 GMT",
+      "timestamp": 1793170620.0
+    },
+    {
+      "title": "Brewers-Rays World Series Game 5 FAQ (8 ET, FOX/FOX One)",
+      "url": "https://www.mlb.com/news/brewers-rays-world-series-game-5-starting-lineups-and-pitching-matchup",
+      "source": "MLB",
+      "published": "Wed, 28 Oct 2026 06:46:08 GMT",
+      "timestamp": 1793169968.0
+    },
+    {
+      "title": "18 straight 0's: Ashby makes playoff history with record scoreless relief streak",
+      "url": "https://www.mlb.com/news/aaron-ashby-postseason-consecutive-scoreless-innings-reliever-record",
+      "source": "MLB",
+      "published": "Wed, 28 Oct 2026 06:08:00 GMT",
+      "timestamp": 1793167680.0
+    },
+    {
+      "title": "3 big questions for Game 5 with Rays starting to regain some mojo",
+      "url": "https://www.mlb.com/news/2026-world-series-game-5-storylines-brewers-rays",
+      "source": "MLB",
+      "published": "Wed, 28 Oct 2026 05:46:10 GMT",
+      "timestamp": 1793166370.0
+    },
+    {
+      "title": "2026 MLB playoff bracket: Schedule and scores as Rays stave off World Series elimination vs. Brewers",
+      "url": "https://www.cbssports.com/mlb/news/2026-mlb-playoff-bracket-schedule-scores-results-how-to-watch/",
+      "source": "CBS MLB",
+      "published": "Wed, 28 Oct 2026 05:06:39 +0000",
+      "timestamp": 1793163999.0
+    },
+    {
+      "title": "Nick Martinez, bullpen save the Rays from World Series elimination, but Game 4 win merely a stay of execution",
+      "url": "https://www.cbssports.com/mlb/news/world-series-game-4-rays-bullpen-elimination-nick-martinez/",
+      "source": "CBS MLB",
+      "published": "Wed, 28 Oct 2026 05:04:16 +0000",
+      "timestamp": 1793163856.0
+    },
+    {
+      "title": "Game 4 joins other crazy World Series finishes",
+      "url": "https://www.mlb.com/news/craziest-finishes-in-world-series-history",
+      "source": "MLB",
+      "published": "Wed, 28 Oct 2026 04:52:00 GMT",
+      "timestamp": 1793163120.0
+    },
+    {
+      "title": "Teams with the best records in a postseason",
+      "url": "https://www.mlb.com/news/best-mlb-single-season-postseason-winning-percentages",
+      "source": "MLB",
+      "published": "Wed, 28 Oct 2026 04:47:00 GMT",
+      "timestamp": 1793162820.0
+    },
+    {
+      "title": "The best comeback attempts from 3-0 holes in playoffs",
+      "url": "https://www.mlb.com/news/best-3-0-comeback-attempts-in-postseason",
+      "source": "MLB",
+      "published": "Wed, 28 Oct 2026 04:42:00 GMT",
+      "timestamp": 1793162520.0
+    },
+    {
+      "title": "Players with best postseason performances",
+      "url": "https://www.mlb.com/news/best-playoff-performances-in-mlb-history-c296028438",
+      "source": "MLB",
+      "published": "Wed, 28 Oct 2026 04:35:00 GMT",
+      "timestamp": 1793162100.0
+    },
+    {
+      "title": "Crew honors Ueck as World Series pauses for powerful Stand Up To Cancer moment",
+      "url": "https://www.mlb.com/news/stand-up-to-cancer-at-world-series-game-4-2026",
+      "source": "MLB",
+      "published": "Wed, 28 Oct 2026 02:38:06 GMT",
+      "timestamp": 1793155086.0
+    },
+    {
+      "title": "1962 Topps Football Set Sells for Record $1.47 Million in MHCC Auction",
+      "url": "https://insider.cards/story/1962-topps-football-set-sells-for-record-usd-1-47-million-in-mhcc-c4d782/",
+      "source": "Hobby",
+      "published": "Tue, 27 Oct 2026 23:17:43 +0000",
+      "timestamp": 1793143063.0
     },
     {
       "title": "DeForest Buckner trade grades: 49ers get reunion with three-time Pro Bowler, Colts work toward rebuild",
@@ -45,6 +122,13 @@
       "timestamp": 1793125644.0
     },
     {
+      "title": "Mars Attacks MLB® Descends on 2026 Topps Cosmic Chrome® Baseball | Behind the Design",
+      "url": "https://insider.cards/story/mars-attacks-mlb-descends-on-2026-topps-cosmic-chrome-baseball-behind-8ec695/",
+      "source": "Hobby",
+      "published": "Tue, 27 Oct 2026 18:24:02 +0000",
+      "timestamp": 1793125442.0
+    },
+    {
       "title": "Should the Giants trade for Saquon Barkley? Making the case for and against potential blockbuster deal",
       "url": "https://www.cbssports.com/nfl/news/case-for-against-giants-trading-for-saquon-barkley/",
       "source": "CBS NFL",
@@ -59,11 +143,11 @@
       "timestamp": 1793120825.0
     },
     {
-      "title": "Vote tonight for the World Series MVP Award",
-      "url": "https://www.mlb.com/postseason/mvp-vote?affiliateID=ws_mvp_vote_digital_2026",
-      "source": "MLB",
-      "published": "Tue, 27 Oct 2026 16:41:34 GMT",
-      "timestamp": 1793119294.0
+      "title": "Topps Gilded Collection Baseball Product History",
+      "url": "https://insider.cards/story/topps-gilded-collection-baseball-product-history-ec9da6/",
+      "source": "Hobby",
+      "published": "Tue, 27 Oct 2026 16:56:09 +0000",
+      "timestamp": 1793120169.0
     },
     {
       "title": "Kawhi Leonard sidelined with knee injury, which means he'll miss his return to Clippers' Intuit Dome",
@@ -115,13 +199,6 @@
       "timestamp": 1793105648.0
     },
     {
-      "title": "2026 MLB playoff bracket: Schedule and scores with Brewers one win away from first World Series title",
-      "url": "https://www.cbssports.com/mlb/news/2026-mlb-playoff-bracket-schedule-scores-results-how-to-watch/",
-      "source": "CBS MLB",
-      "published": "Tue, 27 Oct 2026 12:53:16 +0000",
-      "timestamp": 1793105596.0
-    },
-    {
       "title": "NFL trade deadline matchmaker: Vikings add Jonathan Taylor to boost offense, Chiefs nab WR",
       "url": "https://www.cbssports.com/nfl/news/nfl-trade-deadline-matchmaker-vikings-jonathan-taylor-chiefs/",
       "source": "CBS NFL",
@@ -134,83 +211,6 @@
       "source": "CBS NFL",
       "published": "Tue, 27 Oct 2026 12:50:24 +0000",
       "timestamp": 1793105424.0
-    },
-    {
-      "title": "Tolle knocks it out of the park as World Series correspondent ... is anyone surprised?",
-      "url": "https://www.mlb.com/news/payton-tolle-world-series-player-correspondent-highlights",
-      "source": "MLB",
-      "published": "Tue, 27 Oct 2026 12:36:12 GMT",
-      "timestamp": 1793104572.0
-    },
-    {
-      "title": "Prisco's NFL Week 8 Power Rankings: Lone unbeaten Vikings take over top spot",
-      "url": "https://www.cbssports.com/nfl/news/priscos-nfl-week-8-power-rankings-vikings/",
-      "source": "CBS NFL",
-      "published": "Tue, 27 Oct 2026 10:00:54 +0000",
-      "timestamp": 1793095254.0
-    },
-    {
-      "title": "1 unprecedented inning not only way Crew rewriting Fall Classic record books",
-      "url": "https://www.mlb.com/news/stats-facts-from-brewers-win-world-series-game-3-2026",
-      "source": "MLB",
-      "published": "Tue, 27 Oct 2026 06:38:44 GMT",
-      "timestamp": 1793083124.0
-    },
-    {
-      "title": "With historic romp, unrelenting Crew just 1 win from 1st World Series title",
-      "url": "https://www.mlb.com/news/brewers-win-world-series-game-3-2026",
-      "source": "MLB",
-      "published": "Tue, 27 Oct 2026 04:48:00 GMT",
-      "timestamp": 1793076480.0
-    },
-    {
-      "title": "3 big questions for a World Series Game 4 that could seal Brewers' first title",
-      "url": "https://www.mlb.com/news/2026-world-series-game-4-storylines-brewers-rays",
-      "source": "MLB",
-      "published": "Tue, 27 Oct 2026 04:33:58 GMT",
-      "timestamp": 1793075638.0
-    },
-    {
-      "title": "From crab claws to tomahawks, World Series fans can get fancy at the Trop",
-      "url": "https://www.mlb.com/news/rays-unveil-world-series-food-options-at-tropicana-field",
-      "source": "MLB",
-      "published": "Tue, 27 Oct 2026 01:44:38 GMT",
-      "timestamp": 1793065478.0
-    },
-    {
-      "title": "2025-26 Topps Stadium Club Basketball Marks Brand’s Return to Hardwood",
-      "url": "https://insider.cards/story/2025-26-topps-stadium-club-basketball-marks-brands-return-to-hardwood-b1eb52/",
-      "source": "Hobby",
-      "published": "Tue, 27 Oct 2026 00:27:08 +0000",
-      "timestamp": 1793060828.0
-    },
-    {
-      "title": "What Jalen Williams and Cason Wallace injuries mean for the Thunder and why a trade isn't so simple",
-      "url": "https://www.cbssports.com/nba/news/jalen-williams-injury-means-thunder-trade-options/",
-      "source": "CBS NBA",
-      "published": "Mon, 26 Oct 2026 23:13:40 +0000",
-      "timestamp": 1793056420.0
-    },
-    {
-      "title": "Eagles vs. Cowboys prediction: Dallas visits injury-ravaged Philadelphia on 'Monday Night Football'",
-      "url": "https://www.cbssports.com/nfl/news/eagles-vs-cowboys-prediction-odds-monday-night-football-2026/",
-      "source": "CBS NFL",
-      "published": "Mon, 26 Oct 2026 22:58:53 +0000",
-      "timestamp": 1793055533.0
-    },
-    {
-      "title": "Brewers vs. Rays World Series Game 3 picks: Freddy Peralta faces former club at crucial point in series",
-      "url": "https://www.cbssports.com/betting/news/brewers-vs-rays-world-series-game-3-picks-freddy-peralta-faces-former-club-at-crucial-point-in-series/",
-      "source": "CBS MLB",
-      "published": "Mon, 26 Oct 2026 22:45:48 +0000",
-      "timestamp": 1793054748.0
-    },
-    {
-      "title": "More than a championship hangover: Four reasons behind Knicks' troubling 0-3 start",
-      "url": "https://www.cbssports.com/nba/news/more-than-championship-hangover-four-reasons-behind-knicks-troubling-start/",
-      "source": "CBS NBA",
-      "published": "Mon, 26 Oct 2026 21:48:47 +0000",
-      "timestamp": 1793051327.0
     }
   ]
 }
