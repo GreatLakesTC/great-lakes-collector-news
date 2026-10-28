@@ -1,11 +1,102 @@
 {
-  "updated_at": "2026-10-28T13:09:11.541536+00:00",
+  "updated_at": "2026-10-28T19:01:30.179109+00:00",
   "count": 30,
   "articles": [
     {
+      "title": "Tyrese Haliburton becomes latest injured NBA star: Pacers guard will miss time with hamstring strain",
+      "url": "https://www.cbssports.com/nba/news/tyrese-haliburton-injury-update-timeline-pacers/",
+      "source": "CBS NBA",
+      "published": "Wed, 28 Oct 2026 18:26:12 +0000",
+      "timestamp": 1793211972.0
+    },
+    {
+      "title": "Brewers vs. Rays World Series Game 5 most-wagered player props: Bettors on Jacob Misiorowski to strike out 5",
+      "url": "https://www.cbssports.com/mlb/news/brewers-vs-rays-world-series-game-5-most-wagered-player-props-bettors-on-jacob-misiorowski-to-strike-out-5/",
+      "source": "CBS MLB",
+      "published": "Wed, 28 Oct 2026 18:16:09 +0000",
+      "timestamp": 1793211369.0
+    },
+    {
+      "title": "Celtics star Jayson Tatum says he's 'starting to feel like my old self' again after hitting game-winner",
+      "url": "https://www.cbssports.com/nba/news/celtics-jayson-tatum-feel-like-my-old-self-game-winner/",
+      "source": "CBS NBA",
+      "published": "Wed, 28 Oct 2026 16:24:48 +0000",
+      "timestamp": 1793204688.0
+    },
+    {
+      "title": "NBA one-week overreactions: Luka Dončić as the MVP frontrunner? Who's in the most trouble?",
+      "url": "https://www.cbssports.com/nba/news/nba-one-week-overreactions-luka-doncic-mvp-most-trouble/",
+      "source": "CBS NBA",
+      "published": "Wed, 28 Oct 2026 16:03:37 +0000",
+      "timestamp": 1793203417.0
+    },
+    {
+      "title": "3 big questions for Game 5 with Rays starting to regain some mojo",
+      "url": "https://www.mlb.com/news/2026-world-series-game-5-storylines-brewers-rays",
+      "source": "MLB",
+      "published": "Wed, 28 Oct 2026 15:30:00 GMT",
+      "timestamp": 1793201400.0
+    },
+    {
+      "title": "Biggest questions for World Series Game 5: Where will Rays turn to avoid elimination (again)?",
+      "url": "https://www.cbssports.com/mlb/news/biggest-questions-world-series-game-5-rays-brewers/",
+      "source": "CBS MLB",
+      "published": "Wed, 28 Oct 2026 15:17:44 +0000",
+      "timestamp": 1793200664.0
+    },
+    {
+      "title": "Jacob Misiorowski's moment? MLB's most electric starter can pitch the Brewers to their first title",
+      "url": "https://www.cbssports.com/mlb/news/jacob-misiorowski-moment-mlb-most-electric-starter-brewers-world-series/",
+      "source": "CBS MLB",
+      "published": "Wed, 28 Oct 2026 15:15:43 +0000",
+      "timestamp": 1793200543.0
+    },
+    {
+      "title": "4 takeaways from a thrilling Game 4",
+      "url": "https://www.mlb.com/news/key-takeaways-from-world-series-game-4-2026",
+      "source": "MLB",
+      "published": "Wed, 28 Oct 2026 15:00:00 GMT",
+      "timestamp": 1793199600.0
+    },
+    {
+      "title": "Jonathan Taylor's wife speaks out on Colts trade rumors: 'My mind is spiraling'",
+      "url": "https://www.cbssports.com/nfl/news/jonathan-taylors-wife-speaks-colts-trade-rumors/",
+      "source": "CBS NFL",
+      "published": "Wed, 28 Oct 2026 14:35:02 +0000",
+      "timestamp": 1793198102.0
+    },
+    {
+      "title": "Caminero expected to be fine despite exiting Game 4 with apparent injury",
+      "url": "https://www.mlb.com/news/junior-caminero-injury-status-world-series-game-5",
+      "source": "MLB",
+      "published": "Wed, 28 Oct 2026 13:59:28 GMT",
+      "timestamp": 1793195968.0
+    },
+    {
+      "title": "Saquon Barkley trade rumors: Should the Seahawks trade for the Eagles' running back?",
+      "url": "https://www.cbssports.com/nfl/news/case-for-against-seahawks-trading-for-saquon-barkley/",
+      "source": "CBS NFL",
+      "published": "Wed, 28 Oct 2026 13:58:55 +0000",
+      "timestamp": 1793195935.0
+    },
+    {
+      "title": "NFL QB Power Rankings, Week 8: There's a new name at No. 1, Patrick Mahomes out of the top 10",
+      "url": "https://www.cbssports.com/nfl/news/nfl-qb-power-rankings-week-8-jared-goff-patrick-mahomes/",
+      "source": "CBS NFL",
+      "published": "Wed, 28 Oct 2026 13:37:53 +0000",
+      "timestamp": 1793194673.0
+    },
+    {
+      "title": "NBA Power Rankings: Rockets take over No. 1 spot with sublime start, Heat take huge tumble",
+      "url": "https://www.cbssports.com/nba/news/nba-power-rankings-rockets-no-1-spot-heat-tumble-oct-28/",
+      "source": "CBS NBA",
+      "published": "Wed, 28 Oct 2026 13:08:10 +0000",
+      "timestamp": 1793192890.0
+    },
+    {
       "title": "Rays stay alive vs. Brewers in extra-innings World Series classic; Colts begin NFL trade deadline sale",
       "url": "https://www.cbssports.com/mlb/news/rays-brewers-world-series-classic-mlb-colts-nfl-trade-deadline-sale/",
-      "source": "CBS NFL",
+      "source": "CBS NBA",
       "published": "Wed, 28 Oct 2026 12:44:32 +0000",
       "timestamp": 1793191472.0
     },
@@ -15,6 +106,20 @@
       "source": "CBS NFL",
       "published": "Wed, 28 Oct 2026 11:17:57 +0000",
       "timestamp": 1793186277.0
+    },
+    {
+      "title": "The Sports Card Market Is Sending a VERY Clear Message (PAY ATTENTION!)",
+      "url": "https://insider.cards/story/the-sports-card-market-is-sending-a-very-clear-message-pay-attention-223c47/",
+      "source": "Hobby",
+      "published": "Wed, 28 Oct 2026 09:30:01 +0000",
+      "timestamp": 1793179801.0
+    },
+    {
+      "title": "Leonard Fournette Ranks ALL-TIME GREAT ROOKIE CARDS! | The Lenny & Gio Show Ep. 1",
+      "url": "https://insider.cards/story/leonard-fournette-ranks-all-time-great-rookie-cards-the-lenny-and-gio-1bac41/",
+      "source": "Hobby",
+      "published": "Wed, 28 Oct 2026 09:19:00 +0000",
+      "timestamp": 1793179140.0
     },
     {
       "title": "Placed in a tough spot, rookie lefty Drohan can't stifle Rays rally in 12th",
@@ -31,13 +136,6 @@
       "timestamp": 1793172095.0
     },
     {
-      "title": "Key takeaways as Rays stay alive with thrilling Game 4 walk-off",
-      "url": "https://www.mlb.com/news/key-takeaways-from-world-series-game-4-2026",
-      "source": "MLB",
-      "published": "Wed, 28 Oct 2026 06:57:00 GMT",
-      "timestamp": 1793170620.0
-    },
-    {
       "title": "Brewers-Rays World Series Game 5 FAQ (8 ET, FOX/FOX One)",
       "url": "https://www.mlb.com/news/brewers-rays-world-series-game-5-starting-lineups-and-pitching-matchup",
       "source": "MLB",
@@ -50,13 +148,6 @@
       "source": "MLB",
       "published": "Wed, 28 Oct 2026 06:08:00 GMT",
       "timestamp": 1793167680.0
-    },
-    {
-      "title": "3 big questions for Game 5 with Rays starting to regain some mojo",
-      "url": "https://www.mlb.com/news/2026-world-series-game-5-storylines-brewers-rays",
-      "source": "MLB",
-      "published": "Wed, 28 Oct 2026 05:46:10 GMT",
-      "timestamp": 1793166370.0
     },
     {
       "title": "2026 MLB playoff bracket: Schedule and scores as Rays stave off World Series elimination vs. Brewers",
@@ -94,6 +185,13 @@
       "timestamp": 1793162520.0
     },
     {
+      "title": "Jason Williams paid $515 for a slot in a Cooper Flagg card break; his one-of-one rookie card sold for $8.04 million",
+      "url": "https://insider.cards/story/jason-williams-paid-usd-515-for-a-slot-in-a-cooper-flagg-card-break-his-34f96d/",
+      "source": "Hobby",
+      "published": "Wed, 28 Oct 2026 04:38:36 +0000",
+      "timestamp": 1793162316.0
+    },
+    {
       "title": "Players with best postseason performances",
       "url": "https://www.mlb.com/news/best-playoff-performances-in-mlb-history-c296028438",
       "source": "MLB",
@@ -113,104 +211,6 @@
       "source": "Hobby",
       "published": "Tue, 27 Oct 2026 23:17:43 +0000",
       "timestamp": 1793143063.0
-    },
-    {
-      "title": "DeForest Buckner trade grades: 49ers get reunion with three-time Pro Bowler, Colts work toward rebuild",
-      "url": "https://www.cbssports.com/nfl/news/deforest-buckner-trade-grades-49ers-colts/",
-      "source": "CBS NFL",
-      "published": "Tue, 27 Oct 2026 22:33:47 +0000",
-      "timestamp": 1793140427.0
-    },
-    {
-      "title": "DeForest Buckner trade: Colts send DT to 49ers in exchange for 2027 fourth-round pick",
-      "url": "https://www.cbssports.com/nfl/news/deforest-buckner-trade-colts-49ers/",
-      "source": "CBS NFL",
-      "published": "Tue, 27 Oct 2026 22:04:07 +0000",
-      "timestamp": 1793138647.0
-    },
-    {
-      "title": "NFL trade deadline: Four Eagles, a star Colt and two starting QBs included among top 25 candidates",
-      "url": "https://www.cbssports.com/nfl/news/2026-nfl-trade-deadline-rankings-top-25-eagles-colts/",
-      "source": "CBS NFL",
-      "published": "Tue, 27 Oct 2026 21:11:05 +0000",
-      "timestamp": 1793135465.0
-    },
-    {
-      "title": "Quenton Nelson trade grades: Seahawks add eight-time Pro Bowler, while Colts look to sell pieces",
-      "url": "https://www.cbssports.com/nfl/news/quenton-nelson-trade-grades-seahawks-colts/",
-      "source": "CBS NFL",
-      "published": "Tue, 27 Oct 2026 18:29:31 +0000",
-      "timestamp": 1793125771.0
-    },
-    {
-      "title": "Chase Royalty in Panini 2026 NWSL Crown Royale Soccer",
-      "url": "https://insider.cards/story/chase-royalty-in-panini-2026-nwsl-crown-royale-soccer-7cacd9/",
-      "source": "Hobby",
-      "published": "Tue, 27 Oct 2026 18:27:24 +0000",
-      "timestamp": 1793125644.0
-    },
-    {
-      "title": "Mars Attacks MLB® Descends on 2026 Topps Cosmic Chrome® Baseball | Behind the Design",
-      "url": "https://insider.cards/story/mars-attacks-mlb-descends-on-2026-topps-cosmic-chrome-baseball-behind-8ec695/",
-      "source": "Hobby",
-      "published": "Tue, 27 Oct 2026 18:24:02 +0000",
-      "timestamp": 1793125442.0
-    },
-    {
-      "title": "Should the Giants trade for Saquon Barkley? Making the case for and against potential blockbuster deal",
-      "url": "https://www.cbssports.com/nfl/news/case-for-against-giants-trading-for-saquon-barkley/",
-      "source": "CBS NFL",
-      "published": "Tue, 27 Oct 2026 18:13:53 +0000",
-      "timestamp": 1793124833.0
-    },
-    {
-      "title": "Quenton Nelson trade: Seahawks acquire All-Pro guard from Colts for two draft picks, per report",
-      "url": "https://www.cbssports.com/nfl/news/quenton-nelson-trade-seahawks-colts-nfl-draft-picks/",
-      "source": "CBS NFL",
-      "published": "Tue, 27 Oct 2026 17:07:05 +0000",
-      "timestamp": 1793120825.0
-    },
-    {
-      "title": "Kawhi Leonard sidelined with knee injury, which means he'll miss his return to Clippers' Intuit Dome",
-      "url": "https://www.cbssports.com/nba/news/kawhi-leonard-sidelined-knee-injury-miss-return-to-clippers-intuit-dome/",
-      "source": "CBS NBA",
-      "published": "Tue, 27 Oct 2026 16:17:58 +0000",
-      "timestamp": 1793117878.0
-    },
-    {
-      "title": "Who's the World Series MVP frontrunner? Plus more pressing questions for Brewers vs. Rays Game 4",
-      "url": "https://www.cbssports.com/mlb/news/world-series-mvp-pressing-questions-brewers-rays-game-4/",
-      "source": "CBS MLB",
-      "published": "Tue, 27 Oct 2026 15:57:00 +0000",
-      "timestamp": 1793116620.0
-    },
-    {
-      "title": "How the Rays were broken by the merciless Brewers, who are on the verge of a World Series sweep",
-      "url": "https://www.cbssports.com/mlb/news/how-rays-were-broken-by-merciless-brewers-world-series/",
-      "source": "CBS MLB",
-      "published": "Tue, 27 Oct 2026 14:52:15 +0000",
-      "timestamp": 1793112735.0
-    },
-    {
-      "title": "Jaylen Brown's rep says reported trade request from Celtics is '10,000% a lie'",
-      "url": "https://www.cbssports.com/nba/news/jaylen-browns-trade-request-celtics-lie/",
-      "source": "CBS NBA",
-      "published": "Tue, 27 Oct 2026 13:19:49 +0000",
-      "timestamp": 1793107189.0
-    },
-    {
-      "title": "Who will Jay-Z bring out for the 2027 Super Bowl halftime show? Four possible guests",
-      "url": "https://www.cbssports.com/nfl/news/2027-super-bowl-halftime-special-guests-jay-z/",
-      "source": "CBS NFL",
-      "published": "Tue, 27 Oct 2026 13:04:45 +0000",
-      "timestamp": 1793106285.0
-    },
-    {
-      "title": "Jackson Chourio just showing off now as the face of the Brewers as Crew creeps closer to World Series title",
-      "url": "https://www.cbssports.com/mlb/news/jackson-chourio-brewers-world-series-face-of-the-franchise/",
-      "source": "CBS MLB",
-      "published": "Tue, 27 Oct 2026 12:54:08 +0000",
-      "timestamp": 1793105648.0
     }
   ]
 }
