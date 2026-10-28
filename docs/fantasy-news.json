@@ -1,12 +1,57 @@
 {
-  "updated_at": "2026-10-28T13:01:25.318995+00:00",
-  "count": 25,
+  "updated_at": "2026-10-28T18:55:20.156159+00:00",
+  "count": 24,
   "counts": {
     "Fantasy NFL": 15,
     "Fantasy NBA": 5,
-    "Fantasy MLB": 5
+    "Fantasy MLB": 4
   },
   "articles": [
+    {
+      "title": "21 Fantasy Football Players to Buy Low & Sell High in Week 8",
+      "url": "https://www.fantasypros.com/2026/10/21-fantasy-football-players-to-buy-low-sell-high-in-week-8/",
+      "source": "FantasyPros",
+      "sport": "Fantasy NFL",
+      "published": "2026-10-28T17:14:40+00:00",
+      "timestamp": 1793207680,
+      "summary": "Our Featured Pros have some ideas about who you can sell high and who you should be targeting for a buy-low swap in your fantasy football leagues. Waiver Wire Picks Weekly Fantasy Football Expert..."
+    },
+    {
+      "title": "DJ Moore: Practicing, but not yet taking contact",
+      "url": "https://www.rotowire.com//football/player/dj-moore-12477",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-10-28T11:43:00+00:00",
+      "timestamp": 1793187780,
+      "summary": "Moore (shoulder) was spotted on the field for the open portion of Wednesday's practice but was donning a no-contact jersey, Matt Parrino of The Syracuse Post-Standard reports. Visit RotoWire.com..."
+    },
+    {
+      "title": "Naji Marshall: Downgraded to doubtful",
+      "url": "https://www.rotowire.com//basketball/player/naji-marshall-5204",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-10-28T11:22:00+00:00",
+      "timestamp": 1793186520,
+      "summary": "Marshall (illness) is now doubtful for Wednesday against the Thunder. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Aaron Jones: Won't practice Wednesday",
+      "url": "https://www.rotowire.com//football/player/aaron-jones-11763",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-10-28T11:11:00+00:00",
+      "timestamp": 1793185860,
+      "summary": "Head coach Kevin O'Connell said Jones (knee) won't practice Wednesday, Alec Lewis of The Athletic reports. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Alex Caruso: Return timeline uncertain",
+      "url": "https://www.rotowire.com//basketball/player/alex-caruso-3952",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-10-28T11:06:00+00:00",
+      "timestamp": 1793185560,
+      "summary": "Caruso is expected to miss time due to an ankle sprain, Clemente Almanza of USA Today reports. Visit RotoWire.com for more analysis on this update."
+    },
     {
       "title": "Fantasy Points Allowed: Best & Worst Matchups (Week 8)",
       "url": "https://www.fantasypros.com/2026/10/fantasy-points-allowed-best-worst-matchups-week-8-2026/",
@@ -33,6 +78,60 @@
       "published": "2026-10-28T10:58:56+00:00",
       "timestamp": 1793185136,
       "summary": "The 2026 NFL season is rolling along, so it's time to look ahead to Week 8. In this article, we'll focus on the biggest fantasy football risers and fallers heading into Week 8. Key news has..."
+    },
+    {
+      "title": "Ja'Marr Chase: Absent from Wednesday stretch",
+      "url": "https://www.rotowire.com//football/player/jamarr-chase-15183",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-10-28T10:58:00+00:00",
+      "timestamp": 1793185080,
+      "summary": "Chase wasn't spotted during the stretch portion of Wednesday's practice, Mike Petraglia of CLNSCincy.com reports. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Tyrese Haliburton: To miss time with hamstring issue",
+      "url": "https://www.rotowire.com//basketball/player/tyrese-haliburton-5114",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-10-28T10:40:00+00:00",
+      "timestamp": 1793184000,
+      "summary": "Haliburton (hamstring) will miss time, though his timetable has yet to be announced, Shams Charania of ESPN reports. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Emeka Egbuka: Progressing in recovery",
+      "url": "https://www.rotowire.com//football/player/emeka-egbuka-18549",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-10-28T10:38:00+00:00",
+      "timestamp": 1793183880,
+      "summary": "Head coach Todd Bowles said Egbuka (concussion/foot) took part in individual drills Wednesday, but the wide receiver will need to do more Thursday to progress toward a return to action, Scott..."
+    },
+    {
+      "title": "Lamar Jackson: On field to begin Week 8 prep",
+      "url": "https://www.rotowire.com//football/player/lamar-jackson-12561",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-10-28T10:32:00+00:00",
+      "timestamp": 1793183520,
+      "summary": "Jackson (ankle) was spotted on the field for the start of Wednesday's practice, Jamison Hensley of ESPN.com reports. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Yaxel Lendeborg: Participates in shootaround",
+      "url": "https://www.rotowire.com//basketball/player/yaxel-lendeborg-6562",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-10-28T10:17:00+00:00",
+      "timestamp": 1793182620,
+      "summary": "Lendeborg (foot) went through Wednesday's morning shootaround, per Nick Friedell of The Athletic. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Ausar Thompson: Probable for Wednesday",
+      "url": "https://www.rotowire.com//basketball/player/ausar-thompson-5932",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-10-28T09:50:00+00:00",
+      "timestamp": 1793181000,
+      "summary": "Thompson (ankle) is probable for Wednesday against the Hornets. Visit RotoWire.com for more analysis on this update."
     },
     {
       "title": "10 Players to Trade Away Week 8 (2026 Fantasy Football)",
@@ -89,58 +188,13 @@
       "summary": "Start em or sit em? Fantasy football start or sit decisions can be excruciating. While it feels great to make the right call and cruise to fantasy glory, it hurts just as much when you have..."
     },
     {
-      "title": "Fantasy Football Panic Meter: Garrett Wilson, Justin Jefferson, Juwan Johnson",
-      "url": "https://www.fantasypros.com/2026/10/fantasy-football-panic-meter-garrett-wilson-justin-jefferson-juwan-johnson-week-8-2026/",
-      "source": "FantasyPros",
-      "sport": "Fantasy NFL",
-      "published": "2026-10-28T07:25:52+00:00",
-      "timestamp": 1793172352,
-      "summary": "Should fantasy managers be worried about Garrett Wilson, Justin Jefferson and Juwan Johnson heading into Week 8? Our Week 8 fantasy football panic meter breaks down these struggling players, along..."
-    },
-    {
-      "title": "Julius Randle: Scores 24 points Tuesday",
-      "url": "https://www.rotowire.com//basketball/player/julius-randle-3574",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-10-28T05:30:00+00:00",
-      "timestamp": 1793165400,
-      "summary": "Randle registered 24 points (10-23 FG, 0-7 3Pt, 4-5 FT), nine rebounds, four assists and two steals across 44 minutes in Tuesday's 125-124 overtime loss to the Celtics. Visit RotoWire.com for more..."
-    },
-    {
-      "title": "Deni Avdija: Logs team-high 23 points",
-      "url": "https://www.rotowire.com//basketball/player/deni-avdija-5152",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-10-28T02:34:00+00:00",
-      "timestamp": 1793154840,
-      "summary": "Avdija notched 23 points (8-15 FG, 4-7 3Pt, 3-7 FT), four rebounds, nine assists and one steal over 33 minutes during Tuesday's 136-129 win over the Lakers. Visit RotoWire.com for more analysis on..."
-    },
-    {
-      "title": "Luka Doncic: Drills sox threes in defeat",
-      "url": "https://www.rotowire.com//basketball/player/luka-doncic-4396",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-10-28T02:27:00+00:00",
-      "timestamp": 1793154420,
-      "summary": "Doncic produced 41 points (12-22 FG, 6-15 3Pt, 11-13 FT), five rebounds, nine assists and one block in 37 minutes during Tuesday's 136-129 loss to the Trail Blazers. Visit RotoWire.com for more..."
-    },
-    {
-      "title": "Jalen Coker: Practices fully Tuesday",
-      "url": "https://www.rotowire.com//football/player/jalen-coker-17976",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-10-27T12:23:00+00:00",
-      "timestamp": 1793103780,
-      "summary": "Coker (shoulder) was listed as a full participant in Tuesday's practice, Mike Kaye of ESPN.com reports. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Junior Caminero: Exits Game 4 with injury",
+      "title": "Junior Caminero: Expected to be fine for Game 5",
       "url": "https://www.rotowire.com//baseball/player/junior-caminero-17704",
       "source": "RotoWire",
       "sport": "Fantasy MLB",
-      "published": "2026-10-27T09:48:00+00:00",
-      "timestamp": 1793094480,
-      "summary": "Caminero was removed from Game 4 of the World Series against Milwaukee on Tuesday due to an apparent leg injury. Visit RotoWire.com for more analysis on this update."
+      "published": "2026-10-28T06:17:00+00:00",
+      "timestamp": 1793168220,
+      "summary": "Rays manager Kevin Cash said after Tuesday's win over the Brewers that Caminero (foot) is expected to be fine, Marc Topkin of the Tampa Bay Times reports. Visit RotoWire.com for more analysis on..."
     },
     {
       "title": "Ben Williamson: Walks off Brewers in Game 4",
@@ -149,7 +203,7 @@
       "sport": "Fantasy MLB",
       "published": "2026-10-27T09:43:00+00:00",
       "timestamp": 1793094180,
-      "summary": "Williamson delivered a walk-off, RBI single as a pinch hitter in the 12th inning of Game 4 of the World Series against the Brewers on Tuesday. Visit RotoWire.com for more analysis on this update."
+      "summary": "Williamson delivered a walk-off RBI single as a pinch hitter in the 12th inning of Game 4 of the World Series against the Brewers on Tuesday. Visit RotoWire.com for more analysis on this update."
     },
     {
       "title": "Cooper Pratt: Carries offense in Game 4 loss",
@@ -161,60 +215,6 @@
       "summary": "Pratt went 4-for-5 with a double, a solo home run and an additional RBI in Game 4 of the World Series against the Rays on Tuesday. Visit RotoWire.com for more analysis on this update."
     },
     {
-      "title": "Egor Demin: Injury 'nothing serious'",
-      "url": "https://www.rotowire.com//basketball/player/egor-demin-6559",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-10-27T08:47:00+00:00",
-      "timestamp": 1793090820,
-      "summary": "Demin (leg) stated Tuesday he isn't sure if he will be able to play in Friday's game against Detroit, Erik Slater of ClutchPoints.com reports. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Michael Porter: Remains active defensively in loss",
-      "url": "https://www.rotowire.com//basketball/player/michael-porter-4375",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-10-27T08:29:00+00:00",
-      "timestamp": 1793089740,
-      "summary": "Porter ended with 27 points (8-16 FG, 6-12 3Pt, 5-6 FT), 12 rebounds, two assists and two blocks over 40 minutes in Tuesday's 125-124 overtime loss to Boston. Visit RotoWire.com for more analysis..."
-    },
-    {
-      "title": "Tyrone Tracy: Move to IR official",
-      "url": "https://www.rotowire.com//football/player/tyrone-tracy-17967",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-10-27T02:04:00+00:00",
-      "timestamp": 1793066640,
-      "summary": "The Giants placed Tracy (hamstring) on injured reserve Tuesday, Dan Salomone of the team's official site reports. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "DeForest Buckner: Headed back to San Francisco",
-      "url": "https://www.rotowire.com//football/player/deforest-buckner-10925",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-10-27T01:51:00+00:00",
-      "timestamp": 1793065860,
-      "summary": "The 49ers acquired Buckner from the Colts on Tuesday in exchange for a 2027 fourth-round draft pick, Tom Pelissero of Netflix reports. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Lamar Jackson: Trending toward return in Week 8",
-      "url": "https://www.rotowire.com//football/player/lamar-jackson-12561",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-10-27T01:32:00+00:00",
-      "timestamp": 1793064720,
-      "summary": "Jackson (ankle) is \"believed to be close to 100 percent\" and is expected to play Sunday versus the Bills, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Matthew Golden: Sits out walkthrough practice",
-      "url": "https://www.rotowire.com//football/player/matthew-golden-18500",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-10-27T01:22:00+00:00",
-      "timestamp": 1793064120,
-      "summary": "Golden (shoulder/foot) didn't participate in Tuesday's walkthrough practice. Visit RotoWire.com for more analysis on this update."
-    },
-    {
       "title": "Brice Turang: Two RBI in Game 3",
       "url": "https://www.rotowire.com//baseball/player/brice-turang-15415",
       "source": "RotoWire",
@@ -222,15 +222,6 @@
       "published": "2026-10-26T09:43:00+00:00",
       "timestamp": 1793007780,
       "summary": "Turang went 3-for-5 with a double, two RBI and one run in Game 3 of the World Series against the Rays on Monday. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Freddy Peralta: Falters versus Brewers",
-      "url": "https://www.rotowire.com//baseball/player/freddy-peralta-14194",
-      "source": "RotoWire",
-      "sport": "Fantasy MLB",
-      "published": "2026-10-26T09:21:00+00:00",
-      "timestamp": 1793006460,
-      "summary": "Peralta took the loss in Game 3 of the World Series against the Brewers on Monday, giving up five runs on seven hits and three walks over 4.2 innings. He struck out four. Visit RotoWire.com for..."
     }
   ]
 }
