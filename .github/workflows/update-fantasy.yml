@@ -1,0 +1,74 @@
+
+name: Update Great Lakes Fantasy News
+
+on:
+  schedule:
+    - cron: '15 12,18,0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: fantasy-news-update
+  cancel-in-progress: false
+
+jobs:
+  update-fantasy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Fetch fantasy sports news
+        run: python scripts/fetch_fantasy.py
+
+      - name: Save updated fantasy news
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/fantasy-news.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Update fantasy sports news"
+            git push
+          fi
+
+  deploy:
+    needs: update-fantasy
+    runs-on: ubuntu-latest
+
+    concurrency:
+      group: github-pages
+      cancel-in-progress: false
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Checkout latest files
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload news files
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+      - name: Deploy GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
