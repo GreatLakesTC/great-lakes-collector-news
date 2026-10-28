@@ -50,9 +50,27 @@ MAX_AGE_DAYS = 10
 MAX_PER_SPORT = 20
 
 
+
 def clean_text(value):
-    value = re.sub(r"<[^>]+>", " ", value or "")
-    return re.sub(r"\s+", " ", unescape(value)).strip()
+    import html
+
+    text = value or ""
+
+    # Decode HTML entities, including nested encodings
+    for _ in range(3):
+        decoded = html.unescape(text)
+        if decoded == text:
+            break
+        text = decoded
+
+    # Remove HTML tags
+    text = re.sub(r"<[^>]+>", " ", text)
+
+    # Normalize whitespace
+    text = re.sub(r"\s+", " ", text).strip()
+
+    return text
+
 
 
 def read_feed(url):
@@ -135,7 +153,13 @@ def collect():
                         "sport": sport,
                         "published": published.isoformat(),
                         "timestamp": int(published.timestamp()),
-                        "summary": description[:220]
+                        
+"summary": (
+    description[:197].rsplit(" ", 1)[0] + "..."
+    if len(description) > 200
+    else description
+)
+
                     })
                     source_count += 1
 
