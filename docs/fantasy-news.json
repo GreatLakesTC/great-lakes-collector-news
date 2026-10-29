@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-28T18:55:20.156159+00:00",
-  "count": 24,
+  "updated_at": "2026-10-29T01:02:00.497511+00:00",
+  "count": 22,
   "counts": {
     "Fantasy NFL": 15,
-    "Fantasy NBA": 5,
-    "Fantasy MLB": 4
+    "Fantasy NBA": 4,
+    "Fantasy MLB": 3
   },
   "articles": [
     {
@@ -17,40 +17,13 @@
       "summary": "Our Featured Pros have some ideas about who you can sell high and who you should be targeting for a buy-low swap in your fantasy football leagues. Waiver Wire Picks Weekly Fantasy Football Expert..."
     },
     {
-      "title": "DJ Moore: Practicing, but not yet taking contact",
-      "url": "https://www.rotowire.com//football/player/dj-moore-12477",
+      "title": "Drew Rasmussen: Tapped for Game 5 start",
+      "url": "https://www.rotowire.com//baseball/player/drew-rasmussen-14877",
       "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-10-28T11:43:00+00:00",
-      "timestamp": 1793187780,
-      "summary": "Moore (shoulder) was spotted on the field for the open portion of Wednesday's practice but was donning a no-contact jersey, Matt Parrino of The Syracuse Post-Standard reports. Visit RotoWire.com..."
-    },
-    {
-      "title": "Naji Marshall: Downgraded to doubtful",
-      "url": "https://www.rotowire.com//basketball/player/naji-marshall-5204",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-10-28T11:22:00+00:00",
-      "timestamp": 1793186520,
-      "summary": "Marshall (illness) is now doubtful for Wednesday against the Thunder. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Aaron Jones: Won't practice Wednesday",
-      "url": "https://www.rotowire.com//football/player/aaron-jones-11763",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-10-28T11:11:00+00:00",
-      "timestamp": 1793185860,
-      "summary": "Head coach Kevin O'Connell said Jones (knee) won't practice Wednesday, Alec Lewis of The Athletic reports. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Alex Caruso: Return timeline uncertain",
-      "url": "https://www.rotowire.com//basketball/player/alex-caruso-3952",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-10-28T11:06:00+00:00",
-      "timestamp": 1793185560,
-      "summary": "Caruso is expected to miss time due to an ankle sprain, Clemente Almanza of USA Today reports. Visit RotoWire.com for more analysis on this update."
+      "sport": "Fantasy MLB",
+      "published": "2026-10-28T12:19:00+00:00",
+      "timestamp": 1793189940,
+      "summary": "Rasmussen will start Wednesday in Game 5 of the World Series against the Brewers, Marc Topkin of the Tampa Bay Times reports. Visit RotoWire.com for more analysis on this update."
     },
     {
       "title": "Fantasy Points Allowed: Best & Worst Matchups (Week 8)",
@@ -78,60 +51,6 @@
       "published": "2026-10-28T10:58:56+00:00",
       "timestamp": 1793185136,
       "summary": "The 2026 NFL season is rolling along, so it's time to look ahead to Week 8. In this article, we'll focus on the biggest fantasy football risers and fallers heading into Week 8. Key news has..."
-    },
-    {
-      "title": "Ja'Marr Chase: Absent from Wednesday stretch",
-      "url": "https://www.rotowire.com//football/player/jamarr-chase-15183",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-10-28T10:58:00+00:00",
-      "timestamp": 1793185080,
-      "summary": "Chase wasn't spotted during the stretch portion of Wednesday's practice, Mike Petraglia of CLNSCincy.com reports. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Tyrese Haliburton: To miss time with hamstring issue",
-      "url": "https://www.rotowire.com//basketball/player/tyrese-haliburton-5114",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-10-28T10:40:00+00:00",
-      "timestamp": 1793184000,
-      "summary": "Haliburton (hamstring) will miss time, though his timetable has yet to be announced, Shams Charania of ESPN reports. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Emeka Egbuka: Progressing in recovery",
-      "url": "https://www.rotowire.com//football/player/emeka-egbuka-18549",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-10-28T10:38:00+00:00",
-      "timestamp": 1793183880,
-      "summary": "Head coach Todd Bowles said Egbuka (concussion/foot) took part in individual drills Wednesday, but the wide receiver will need to do more Thursday to progress toward a return to action, Scott..."
-    },
-    {
-      "title": "Lamar Jackson: On field to begin Week 8 prep",
-      "url": "https://www.rotowire.com//football/player/lamar-jackson-12561",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-10-28T10:32:00+00:00",
-      "timestamp": 1793183520,
-      "summary": "Jackson (ankle) was spotted on the field for the start of Wednesday's practice, Jamison Hensley of ESPN.com reports. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Yaxel Lendeborg: Participates in shootaround",
-      "url": "https://www.rotowire.com//basketball/player/yaxel-lendeborg-6562",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-10-28T10:17:00+00:00",
-      "timestamp": 1793182620,
-      "summary": "Lendeborg (foot) went through Wednesday's morning shootaround, per Nick Friedell of The Athletic. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Ausar Thompson: Probable for Wednesday",
-      "url": "https://www.rotowire.com//basketball/player/ausar-thompson-5932",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-10-28T09:50:00+00:00",
-      "timestamp": 1793181000,
-      "summary": "Thompson (ankle) is probable for Wednesday against the Hornets. Visit RotoWire.com for more analysis on this update."
     },
     {
       "title": "10 Players to Trade Away Week 8 (2026 Fantasy Football)",
@@ -188,13 +107,94 @@
       "summary": "Start em or sit em? Fantasy football start or sit decisions can be excruciating. While it feels great to make the right call and cruise to fantasy glory, it hurts just as much when you have..."
     },
     {
-      "title": "Junior Caminero: Expected to be fine for Game 5",
+      "title": "Jaxson Hayes: Starting Wednesday",
+      "url": "https://www.rotowire.com//basketball/player/jaxson-hayes-4771",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-10-28T05:53:00+00:00",
+      "timestamp": 1793166780,
+      "summary": "Hayes is in the starting lineup for Wednesday's matchup with the Spurs. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Karl-Anthony Towns: Returns to Wednesday's game",
+      "url": "https://www.rotowire.com//basketball/player/karl-anthony-towns-3741",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-10-28T05:39:00+00:00",
+      "timestamp": 1793165940,
+      "summary": "Towns (wrist) returned to Wednesday's game against the Bulls with 2:18 remaining in the first quarter, Brett Siegel of ClutchPoints.com reports. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Tyler Allgeier: DNP on Wednesday",
+      "url": "https://www.rotowire.com//football/player/tyler-allgeier-15976",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-10-28T05:16:00+00:00",
+      "timestamp": 1793164560,
+      "summary": "Allgeier (toe) didn't practice Wednesday, Darren Urban of the Cardinals' official site reports. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Ajay Mitchell: Will play Wednesday",
+      "url": "https://www.rotowire.com//basketball/player/ajay-mitchell-6289",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-10-28T05:14:00+00:00",
+      "timestamp": 1793164440,
+      "summary": "Mitchell (ankle) will play Wednesday against the Mavericks, Clemente Almanza of USA Today reports. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Lauri Markkanen: Won't play Wednesday",
+      "url": "https://www.rotowire.com//basketball/player/lauri-markkanen-4119",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-10-28T05:14:00+00:00",
+      "timestamp": 1793164440,
+      "summary": "Markkanen (wrist) is out for Wednesday's tilt against the Spurs. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Michael Wilson: Limited Wednesday",
+      "url": "https://www.rotowire.com//football/player/michael-wilson-16957",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-10-28T05:12:00+00:00",
+      "timestamp": 1793164320,
+      "summary": "Wilson (ribs) was a limited participant in Wednesday's practice, Darren Urban of the Cardinals' official site reports. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "DeVonta Smith: No practice Wednesday",
+      "url": "https://www.rotowire.com//football/player/devonta-smith-15406",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-10-28T04:11:00+00:00",
+      "timestamp": 1793160660,
+      "summary": "Smith (hamstring) was a non-participant at Wednesday's walkthrough. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Saquon Barkley: Doesn't practice Wednesday",
+      "url": "https://www.rotowire.com//football/player/saquon-barkley-12507",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-10-28T04:05:00+00:00",
+      "timestamp": 1793160300,
+      "summary": "Barkley (hamstring/back) was listed as a non-participant in Wednesday's walkthrough. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Stefon Diggs: DNP due to 'hand/hamstring/rest'",
+      "url": "https://www.rotowire.com//football/player/stefon-diggs-10133",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-10-28T03:54:00+00:00",
+      "timestamp": 1793159640,
+      "summary": "Diggs (hand/hamstring/rest) was a non-participant at Wednesday's practice. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Junior Caminero: In lineup, batting third",
       "url": "https://www.rotowire.com//baseball/player/junior-caminero-17704",
       "source": "RotoWire",
       "sport": "Fantasy MLB",
-      "published": "2026-10-28T06:17:00+00:00",
-      "timestamp": 1793168220,
-      "summary": "Rays manager Kevin Cash said after Tuesday's win over the Brewers that Caminero (foot) is expected to be fine, Marc Topkin of the Tampa Bay Times reports. Visit RotoWire.com for more analysis on..."
+      "published": "2026-10-28T01:18:00+00:00",
+      "timestamp": 1793150280,
+      "summary": "Caminero (foot) will start at third base and will bat third Wednesday in Game 5 of the World Series against the Brewers. Visit RotoWire.com for more analysis on this update."
     },
     {
       "title": "Ben Williamson: Walks off Brewers in Game 4",
@@ -204,24 +204,6 @@
       "published": "2026-10-27T09:43:00+00:00",
       "timestamp": 1793094180,
       "summary": "Williamson delivered a walk-off RBI single as a pinch hitter in the 12th inning of Game 4 of the World Series against the Brewers on Tuesday. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Cooper Pratt: Carries offense in Game 4 loss",
-      "url": "https://www.rotowire.com//baseball/player/cooper-pratt-18927",
-      "source": "RotoWire",
-      "sport": "Fantasy MLB",
-      "published": "2026-10-27T09:39:00+00:00",
-      "timestamp": 1793093940,
-      "summary": "Pratt went 4-for-5 with a double, a solo home run and an additional RBI in Game 4 of the World Series against the Rays on Tuesday. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Brice Turang: Two RBI in Game 3",
-      "url": "https://www.rotowire.com//baseball/player/brice-turang-15415",
-      "source": "RotoWire",
-      "sport": "Fantasy MLB",
-      "published": "2026-10-26T09:43:00+00:00",
-      "timestamp": 1793007780,
-      "summary": "Turang went 3-for-5 with a double, two RBI and one run in Game 3 of the World Series against the Rays on Monday. Visit RotoWire.com for more analysis on this update."
     }
   ]
 }
