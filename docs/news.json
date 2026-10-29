@@ -1,27 +1,160 @@
 {
-  "updated_at": "2026-10-29T01:10:32.713064+00:00",
+  "updated_at": "2026-10-29T07:11:17.629242+00:00",
   "count": 30,
   "articles": [
+    {
+      "title": "'How awesome is this?': Pratt sets World Series rookie record to help Crew to 1st title",
+      "url": "https://www.mlb.com/news/cooper-pratt-world-series-rookie-record-six-straight-hits",
+      "source": "MLB",
+      "published": "Thu, 29 Oct 2026 06:58:00 GMT",
+      "timestamp": 1793257080.0
+    },
+    {
+      "title": "After dream season, Rays' World Series wishes crash back down to earth",
+      "url": "https://www.mlb.com/news/rays-lose-2026-world-series-to-brewers",
+      "source": "MLB",
+      "published": "Thu, 29 Oct 2026 06:48:46 GMT",
+      "timestamp": 1793256526.0
+    },
+    {
+      "title": "Mighty Brewers prove they're an unbeatable crew, capture first World Series!",
+      "url": "https://www.mlb.com/news/brewers-win-world-series-2026",
+      "source": "MLB",
+      "published": "Thu, 29 Oct 2026 06:07:00 GMT",
+      "timestamp": 1793254020.0
+    },
+    {
+      "title": "Extra rest a boon to Brewers in World Series",
+      "url": "https://www.mlb.com/news/impact-of-extra-rest-before-world-series",
+      "source": "MLB",
+      "published": "Thu, 29 Oct 2026 05:39:00 GMT",
+      "timestamp": 1793252340.0
+    },
+    {
+      "title": "Contreras honored with World Series MVP for prowess behind the plate",
+      "url": "https://www.mlb.com/news/william-contreras-wins-2026-world-series-mvp",
+      "source": "MLB",
+      "published": "Thu, 29 Oct 2026 05:18:00 GMT",
+      "timestamp": 1793251080.0
+    },
+    {
+      "title": "NFL QB Power Rankings, Week 8: There's a new name at No. 1, Patrick Mahomes out of the top 10",
+      "url": "https://www.cbssports.com/nfl/news/nfl-qb-power-rankings-week-8-jared-goff-patrick-mahomes/",
+      "source": "CBS NFL",
+      "published": "Thu, 29 Oct 2026 04:27:09 +0000",
+      "timestamp": 1793248029.0
+    },
+    {
+      "title": "Watch the end of every World Series since 1943",
+      "url": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-10/28/d4c6958c-9621499a-94f2db94-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+      "source": "MLB",
+      "published": "Thu, 29 Oct 2026 04:26:53 GMT",
+      "timestamp": 1793248013.0
+    },
     {
       "title": "NFL Week 8 injury report: Lamar Jackson practices in full, Lions star Kerby Joseph returns",
       "url": "https://www.cbssports.com/nfl/news/nfl-week-8-injury-report-lamar-jackson-kerby-joseph-updates/",
       "source": "CBS NFL",
-      "published": "Thu, 29 Oct 2026 00:24:26 +0000",
-      "timestamp": 1793233466.0
+      "published": "Thu, 29 Oct 2026 04:25:40 +0000",
+      "timestamp": 1793247940.0
     },
     {
-      "title": "LIVE: Brewers-Rays World Series Game 5 (FOX/FOX One)",
-      "url": "https://www.mlb.com/news/brewers-rays-world-series-game-5-starting-lineups-and-pitching-matchup",
+      "title": "Jacob Misiorowski wraps breakout Brewers year with World Series title and a reminder that best is yet to come",
+      "url": "https://www.cbssports.com/mlb/news/jacob-misiorowski-brewers-2026-world-series/",
+      "source": "CBS MLB",
+      "published": "Thu, 29 Oct 2026 04:07:18 +0000",
+      "timestamp": 1793246838.0
+    },
+    {
+      "title": "Check out all the top plays from the 2026 World Series",
+      "url": "https://www.mlb.com/stories/mlb-top-plays-world-series-2026",
       "source": "MLB",
-      "published": "Thu, 29 Oct 2026 00:00:00 GMT",
-      "timestamp": 1793232000.0
+      "published": "Thu, 29 Oct 2026 04:06:02 GMT",
+      "timestamp": 1793246762.0
     },
     {
-      "title": "2026 MLB playoff bracket: Schedule and scores as Brewers take second shot at first World Series title",
+      "title": "2027 World Series odds: Can Brewers go back-to-back? Will Dodgers reclaim the crown?",
+      "url": "https://www.cbssports.com/mlb/news/2027-world-series-odds-brewers-repeat-dodgers/",
+      "source": "CBS MLB",
+      "published": "Thu, 29 Oct 2026 04:03:41 +0000",
+      "timestamp": 1793246621.0
+    },
+    {
+      "title": "2026 MLB playoff bracket: Schedule and scores as Milwaukee Brewers win first World Series title",
       "url": "https://www.cbssports.com/mlb/news/2026-mlb-playoff-bracket-schedule-scores-results-how-to-watch/",
       "source": "CBS MLB",
-      "published": "Wed, 28 Oct 2026 23:44:24 +0000",
-      "timestamp": 1793231064.0
+      "published": "Thu, 29 Oct 2026 03:57:10 +0000",
+      "timestamp": 1793246230.0
+    },
+    {
+      "title": "Pratt the latest rookie to make a name for himself in postseason",
+      "url": "https://www.mlb.com/news/best-mlb-postseasons-by-rookies",
+      "source": "MLB",
+      "published": "Thu, 29 Oct 2026 03:57:00 GMT",
+      "timestamp": 1793246220.0
+    },
+    {
+      "title": "The 2026 Brewers were the team of destiny all along -- and now they're World Series champions",
+      "url": "https://www.cbssports.com/mlb/news/2026-brewers-world-series-champions-team-of-destiny/",
+      "source": "CBS MLB",
+      "published": "Thu, 29 Oct 2026 03:56:25 +0000",
+      "timestamp": 1793246185.0
+    },
+    {
+      "title": "Best rookie postseason performances",
+      "url": "https://www.mlb.com/news/each-team-s-best-rookie-postseason-performance",
+      "source": "MLB",
+      "published": "Thu, 29 Oct 2026 03:55:00 GMT",
+      "timestamp": 1793246100.0
+    },
+    {
+      "title": "What's next for the Rays? Three questions after World Series loss, including payroll and Junior Caminero",
+      "url": "https://www.cbssports.com/mlb/news/whats-next-for-rays-three-questions-world-series-loss/",
+      "source": "CBS MLB",
+      "published": "Thu, 29 Oct 2026 03:54:57 +0000",
+      "timestamp": 1793246097.0
+    },
+    {
+      "title": "William Contreras named World Series MVP: Brewers catcher impacted 2026 title in multiple ways",
+      "url": "https://www.cbssports.com/mlb/news/william-contreras-world-series-mvp-brewers-catcher-2026-title/",
+      "source": "CBS MLB",
+      "published": "Thu, 29 Oct 2026 03:54:39 +0000",
+      "timestamp": 1793246079.0
+    },
+    {
+      "title": "Brothers who have won World Series titles",
+      "url": "https://www.mlb.com/news/brothers-who-won-the-world-series",
+      "source": "MLB",
+      "published": "Thu, 29 Oct 2026 03:50:00 GMT",
+      "timestamp": 1793245800.0
+    },
+    {
+      "title": "Brewers win the 2026 World Series: Where the Brew Crew ranks among the best recent MLB champions",
+      "url": "https://www.cbssports.com/mlb/news/brewers-world-series-champions-ranked/",
+      "source": "CBS MLB",
+      "published": "Thu, 29 Oct 2026 03:46:43 +0000",
+      "timestamp": 1793245603.0
+    },
+    {
+      "title": "Believe it, Milwaukee! Brewers are World Series champs for 1st time",
+      "url": "https://www.mlb.com/news/brewers-beat-rays-game-5-win-2026-world-series",
+      "source": "MLB",
+      "published": "Thu, 29 Oct 2026 03:24:39 GMT",
+      "timestamp": 1793244279.0
+    },
+    {
+      "title": "New MLB Network doc marks 25th anniversary of D-backs' 2001 World Series title",
+      "url": "https://www.mlb.com/news/new-mlb-network-documentary-spotlights-d-backs-2001-world-series-win",
+      "source": "MLB",
+      "published": "Thu, 29 Oct 2026 01:27:39 GMT",
+      "timestamp": 1793237259.0
+    },
+    {
+      "title": "DICK’S Plans Basketball Rip Events With NBA Stars, Early Access to Topps Boxes",
+      "url": "https://insider.cards/story/dicks-plans-basketball-rip-events-with-nba-stars-early-access-to-topps-19887f/",
+      "source": "Hobby",
+      "published": "Wed, 28 Oct 2026 23:51:46 +0000",
+      "timestamp": 1793231506.0
     },
     {
       "title": "Tyrese Haliburton becomes latest injured NBA star: Pacers guard 'week-to-week' with hamstring strain",
@@ -59,20 +192,6 @@
       "timestamp": 1793218096.0
     },
     {
-      "title": "NFL QB Power Rankings, Week 8: There's a new name at No. 1, Patrick Mahomes out of the top 10",
-      "url": "https://www.cbssports.com/nfl/news/nfl-qb-power-rankings-week-8-jared-goff-patrick-mahomes/",
-      "source": "CBS NFL",
-      "published": "Wed, 28 Oct 2026 19:59:06 +0000",
-      "timestamp": 1793217546.0
-    },
-    {
-      "title": "3 big questions for Game 5 with Rays starting to regain some mojo",
-      "url": "https://www.mlb.com/news/2026-world-series-game-5-storylines-brewers-rays",
-      "source": "MLB",
-      "published": "Wed, 28 Oct 2026 19:10:00 GMT",
-      "timestamp": 1793214600.0
-    },
-    {
       "title": "Brewers vs. Rays World Series Game 5 most-wagered player props: Bettors on Jacob Misiorowski to strike out 5",
       "url": "https://www.cbssports.com/mlb/news/brewers-vs-rays-world-series-game-5-most-wagered-player-props-bettors-on-jacob-misiorowski-to-strike-out-5/",
       "source": "CBS MLB",
@@ -80,137 +199,18 @@
       "timestamp": 1793211369.0
     },
     {
+      "title": "2026 Topps Mint Disney Collector Guide",
+      "url": "https://insider.cards/story/2026-topps-mint-disney-collector-guide-5313c7/",
+      "source": "Hobby",
+      "published": "Wed, 28 Oct 2026 17:53:41 +0000",
+      "timestamp": 1793210021.0
+    },
+    {
       "title": "Celtics star Jayson Tatum says he's 'starting to feel like my old self' again after hitting game-winner",
       "url": "https://www.cbssports.com/nba/news/celtics-jayson-tatum-feel-like-my-old-self-game-winner/",
       "source": "CBS NBA",
       "published": "Wed, 28 Oct 2026 16:24:48 +0000",
       "timestamp": 1793204688.0
-    },
-    {
-      "title": "NBA one-week overreactions: Luka Dončić as the MVP frontrunner? Who's in the most trouble?",
-      "url": "https://www.cbssports.com/nba/news/nba-one-week-overreactions-luka-doncic-mvp-most-trouble/",
-      "source": "CBS NBA",
-      "published": "Wed, 28 Oct 2026 16:03:37 +0000",
-      "timestamp": 1793203417.0
-    },
-    {
-      "title": "Topps Stadium Club Chrome® UEFA Champions League 2025/26 Collector Guide",
-      "url": "https://insider.cards/story/topps-stadium-club-chrome-uefa-champions-league-2025-26-collector-guide-a4eaa7/",
-      "source": "Hobby",
-      "published": "Wed, 28 Oct 2026 16:01:52 +0000",
-      "timestamp": 1793203312.0
-    },
-    {
-      "title": "Jacob Misiorowski's moment? MLB's most electric starter can pitch the Brewers to their first title",
-      "url": "https://www.cbssports.com/mlb/news/jacob-misiorowski-moment-mlb-most-electric-starter-brewers-world-series/",
-      "source": "CBS MLB",
-      "published": "Wed, 28 Oct 2026 15:15:43 +0000",
-      "timestamp": 1793200543.0
-    },
-    {
-      "title": "4 takeaways from a thrilling Game 4",
-      "url": "https://www.mlb.com/news/key-takeaways-from-world-series-game-4-2026",
-      "source": "MLB",
-      "published": "Wed, 28 Oct 2026 15:00:00 GMT",
-      "timestamp": 1793199600.0
-    },
-    {
-      "title": "Jonathan Taylor's wife speaks out on Colts trade rumors: 'My mind is spiraling'",
-      "url": "https://www.cbssports.com/nfl/news/jonathan-taylors-wife-speaks-colts-trade-rumors/",
-      "source": "CBS NFL",
-      "published": "Wed, 28 Oct 2026 14:35:02 +0000",
-      "timestamp": 1793198102.0
-    },
-    {
-      "title": "Saquon Barkley trade rumors: Should the Seahawks trade for the Eagles' running back?",
-      "url": "https://www.cbssports.com/nfl/news/case-for-against-seahawks-trading-for-saquon-barkley/",
-      "source": "CBS NFL",
-      "published": "Wed, 28 Oct 2026 13:58:55 +0000",
-      "timestamp": 1793195935.0
-    },
-    {
-      "title": "NBA Power Rankings: Rockets take over No. 1 spot with sublime start, Heat take huge tumble",
-      "url": "https://www.cbssports.com/nba/news/nba-power-rankings-rockets-no-1-spot-heat-tumble-oct-28/",
-      "source": "CBS NBA",
-      "published": "Wed, 28 Oct 2026 13:08:10 +0000",
-      "timestamp": 1793192890.0
-    },
-    {
-      "title": "Rays stay alive vs. Brewers in extra-innings World Series classic; Colts begin NFL trade deadline sale",
-      "url": "https://www.cbssports.com/mlb/news/rays-brewers-world-series-classic-mlb-colts-nfl-trade-deadline-sale/",
-      "source": "CBS NBA",
-      "published": "Wed, 28 Oct 2026 12:44:32 +0000",
-      "timestamp": 1793191472.0
-    },
-    {
-      "title": "One year later, regrading the 10 biggest deals from the 2025 NFL trade deadline",
-      "url": "https://www.cbssports.com/nfl/news/2026-nfl-trade-deadline-grades-for-biggest-2025-deals/",
-      "source": "CBS NFL",
-      "published": "Wed, 28 Oct 2026 11:17:57 +0000",
-      "timestamp": 1793186277.0
-    },
-    {
-      "title": "Placed in a tough spot, rookie lefty Drohan can't stifle Rays rally in 12th",
-      "url": "https://www.mlb.com/news/shane-drohan-allows-walk-off-in-12th-inning-of-world-series-game-4",
-      "source": "MLB",
-      "published": "Wed, 28 Oct 2026 07:37:15 GMT",
-      "timestamp": 1793173035.0
-    },
-    {
-      "title": "Pratt unshaken after losing out on potential World Series-winning HR",
-      "url": "https://www.mlb.com/news/cooper-pratt-homers-12th-inning-brewers-world-series-game-4-loss-rays",
-      "source": "MLB",
-      "published": "Wed, 28 Oct 2026 07:21:35 GMT",
-      "timestamp": 1793172095.0
-    },
-    {
-      "title": "18 straight 0's: Ashby makes playoff history with record scoreless relief streak",
-      "url": "https://www.mlb.com/news/aaron-ashby-postseason-consecutive-scoreless-innings-reliever-record",
-      "source": "MLB",
-      "published": "Wed, 28 Oct 2026 06:08:00 GMT",
-      "timestamp": 1793167680.0
-    },
-    {
-      "title": "Nick Martinez, bullpen save the Rays from World Series elimination, but Game 4 win merely a stay of execution",
-      "url": "https://www.cbssports.com/mlb/news/world-series-game-4-rays-bullpen-elimination-nick-martinez/",
-      "source": "CBS MLB",
-      "published": "Wed, 28 Oct 2026 05:04:16 +0000",
-      "timestamp": 1793163856.0
-    },
-    {
-      "title": "Game 4 joins other crazy World Series finishes",
-      "url": "https://www.mlb.com/news/craziest-finishes-in-world-series-history",
-      "source": "MLB",
-      "published": "Wed, 28 Oct 2026 04:52:00 GMT",
-      "timestamp": 1793163120.0
-    },
-    {
-      "title": "Teams with the best records in a postseason",
-      "url": "https://www.mlb.com/news/best-mlb-single-season-postseason-winning-percentages",
-      "source": "MLB",
-      "published": "Wed, 28 Oct 2026 04:47:00 GMT",
-      "timestamp": 1793162820.0
-    },
-    {
-      "title": "The best comeback attempts from 3-0 holes in playoffs",
-      "url": "https://www.mlb.com/news/best-3-0-comeback-attempts-in-postseason",
-      "source": "MLB",
-      "published": "Wed, 28 Oct 2026 04:42:00 GMT",
-      "timestamp": 1793162520.0
-    },
-    {
-      "title": "Crew honors Ueck as World Series pauses for powerful Stand Up To Cancer moment",
-      "url": "https://www.mlb.com/news/stand-up-to-cancer-at-world-series-game-4-2026",
-      "source": "MLB",
-      "published": "Wed, 28 Oct 2026 02:38:06 GMT",
-      "timestamp": 1793155086.0
-    },
-    {
-      "title": "The Ultimate 2026 Topps Holiday Football Review",
-      "url": "https://insider.cards/story/2026-topps-holiday-football-preview-checklist-rookie-chases-and-box-b68a23/",
-      "source": "Hobby",
-      "published": "Tue, 27 Oct 2026 23:00:39 +0000",
-      "timestamp": 1793142039.0
     }
   ]
 }
