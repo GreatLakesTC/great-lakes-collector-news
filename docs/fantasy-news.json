@@ -1,128 +1,182 @@
 {
-  "updated_at": "2026-10-29T01:02:00.497511+00:00",
-  "count": 22,
+  "updated_at": "2026-10-29T13:02:27.301769+00:00",
+  "count": 25,
   "counts": {
     "Fantasy NFL": 15,
-    "Fantasy NBA": 4,
-    "Fantasy MLB": 3
+    "Fantasy NBA": 5,
+    "Fantasy MLB": 5
   },
   "articles": [
     {
-      "title": "21 Fantasy Football Players to Buy Low & Sell High in Week 8",
-      "url": "https://www.fantasypros.com/2026/10/21-fantasy-football-players-to-buy-low-sell-high-in-week-8/",
+      "title": "Fantasy Football NFL Air Yards Analysis & Takeaways (Week 8)",
+      "url": "https://www.fantasypros.com/2026/10/fantasy-football-nfl-air-yards-analysis-takeaways-week-8-2026/",
       "source": "FantasyPros",
       "sport": "Fantasy NFL",
-      "published": "2026-10-28T17:14:40+00:00",
-      "timestamp": 1793207680,
-      "summary": "Our Featured Pros have some ideas about who you can sell high and who you should be targeting for a buy-low swap in your fantasy football leagues. Waiver Wire Picks Weekly Fantasy Football Expert..."
+      "published": "2026-10-29T11:26:20+00:00",
+      "timestamp": 1793273180,
+      "summary": "Analyzing NFL air yards for fantasy football is a valuable exercise for prognosticating what might be coming for certain receivers. If a wide receiver saw a tremendous number of air yards but fell..."
     },
     {
-      "title": "Drew Rasmussen: Tapped for Game 5 start",
+      "title": "6 Fantasy Football Lineup Landmines: Start/Sit Advice (Week 8)",
+      "url": "https://www.fantasypros.com/2026/10/6-fantasy-football-lineup-landmines-start-sit-advice-week-8-2026/",
+      "source": "FantasyPros",
+      "sport": "Fantasy NFL",
+      "published": "2026-10-29T11:26:04+00:00",
+      "timestamp": 1793273164,
+      "summary": "Arguably, the most frustrating thing in fantasy football is seeing someone in your starting lineup struggle that week. Therefore, the logic behind this article is simple: identify fantasy football..."
+    },
+    {
+      "title": "4 Fantasy Football Players Trending Up & Down: Week 8 (2026)",
+      "url": "https://www.fantasypros.com/2026/10/4-fantasy-football-players-trending-up-down-week-8-2026/",
+      "source": "FantasyPros",
+      "sport": "Fantasy NFL",
+      "published": "2026-10-29T11:25:52+00:00",
+      "timestamp": 1793273152,
+      "summary": "Each week during the 2026 fantasy football season, I'll highlight a few players whose stock is trending up or down based on injuries, usage and performance. Some may be worth buying, while others..."
+    },
+    {
+      "title": "If Your Fantasy Football League Drafted Today (2026)",
+      "url": "https://www.fantasypros.com/2026/10/if-your-fantasy-football-league-drafted-today-2026-week-8/",
+      "source": "FantasyPros",
+      "sport": "Fantasy NFL",
+      "published": "2026-10-29T11:25:43+00:00",
+      "timestamp": 1793273143,
+      "summary": "The one constant in fantasy football? Change. The moment you think you have it all figured out, you get humbled. No matter how great your player evaluation process is, surprises are part of the..."
+    },
+    {
+      "title": "NFL DFS Lineup Advice: Picks & Predictions (Week 8)",
+      "url": "https://www.fantasypros.com/2026/10/nfl-dfs-lineup-advice-picks-predictions-week-8-2026/",
+      "source": "FantasyPros",
+      "sport": "Fantasy NFL",
+      "published": "2026-10-29T11:25:22+00:00",
+      "timestamp": 1793273122,
+      "summary": "Four teams have a bye in Week 8, and there's no Sunday morning contest. As a result, the NFL DFS main slate features 11 games. The top game to stack is one of two tied for the slate's highest..."
+    },
+    {
+      "title": "Fantasy Football Rankings: Most Accurate Experts (Week 8)",
+      "url": "https://www.fantasypros.com/2026/10/fantasy-football-rankings-most-accurate-experts-week-8-2026/",
+      "source": "FantasyPros",
+      "sport": "Fantasy NFL",
+      "published": "2026-10-29T11:25:06+00:00",
+      "timestamp": 1793273106,
+      "summary": "Do you have difficult fantasy football start/sit lineup decisions to be made? A great way to get ready for the week is to use our FREE Who Should I Start tool! Beyond that, you can check out our..."
+    },
+    {
+      "title": "Fantasy Football Start/Sit: Josh Jacobs, Matthew Golden, Tetairoa McMillan",
+      "url": "https://www.fantasypros.com/2026/10/fantasy-football-start-sit-josh-jacobs-matthew-golden-tetairoa-mcmillan-week-8-2026/",
+      "source": "FantasyPros",
+      "sport": "Fantasy NFL",
+      "published": "2026-10-29T07:56:00+00:00",
+      "timestamp": 1793260560,
+      "summary": "Start em or sit em? Fantasy football start or sit decisions can be excruciating. While it feels great to make the right call and cruise to fantasy glory, it hurts just as much when you have..."
+    },
+    {
+      "title": "Fantasy Football Start/Sit: Bryce Young, Jalen Coker, Jordan Love",
+      "url": "https://www.fantasypros.com/2026/10/fantasy-football-start-sit-bryce-young-jalen-coker-jordan-love-week-8-2026/",
+      "source": "FantasyPros",
+      "sport": "Fantasy NFL",
+      "published": "2026-10-29T07:55:16+00:00",
+      "timestamp": 1793260516,
+      "summary": "Start em or sit em? Fantasy football start or sit decisions can be excruciating. While it feels great to make the right call and cruise to fantasy glory, it hurts just as much when you have..."
+    },
+    {
+      "title": "Fantasy Football Start/Sit Lineup Advice: Defenses (Week 8)",
+      "url": "https://www.fantasypros.com/2026/10/fantasy-football-start-sit-lineup-advice-defenses-week-8-2026/",
+      "source": "FantasyPros",
+      "sport": "Fantasy NFL",
+      "published": "2026-10-29T07:54:55+00:00",
+      "timestamp": 1793260495,
+      "summary": "Find the best defense to start with our Week 8 fantasy football D/ST rankings and start/sit advice. Whether you're searching for a waiver wire streamer or deciding if your usual starter is worth..."
+    },
+    {
+      "title": "13 Players to Buy Low Week 8 (2026 Fantasy Football)",
+      "url": "https://www.fantasypros.com/2026/10/13-players-to-buy-low-week-8-2026-fantasy-football/",
+      "source": "FantasyPros",
+      "sport": "Fantasy NFL",
+      "published": "2026-10-29T07:52:48+00:00",
+      "timestamp": 1793260368,
+      "summary": "Looking for fantasy football players to buy low in Week 8? Disappointing performances and bye-week roster crunches could create opportunities to acquire talented players at a discount. From Nico..."
+    },
+    {
+      "title": "Drew Rasmussen: Takes loss in Game 5",
       "url": "https://www.rotowire.com//baseball/player/drew-rasmussen-14877",
       "source": "RotoWire",
       "sport": "Fantasy MLB",
-      "published": "2026-10-28T12:19:00+00:00",
-      "timestamp": 1793189940,
-      "summary": "Rasmussen will start Wednesday in Game 5 of the World Series against the Brewers, Marc Topkin of the Tampa Bay Times reports. Visit RotoWire.com for more analysis on this update."
+      "published": "2026-10-28T10:21:00+00:00",
+      "timestamp": 1793182860,
+      "summary": "Rasmussen was charged with the loss in Game 5 of the World Series against the Brewers on Wednesday. He gave up one run on two hits with four strikeouts and no walks over four innings. Visit..."
     },
     {
-      "title": "Fantasy Points Allowed: Best & Worst Matchups (Week 8)",
-      "url": "https://www.fantasypros.com/2026/10/fantasy-points-allowed-best-worst-matchups-week-8-2026/",
-      "source": "FantasyPros",
-      "sport": "Fantasy NFL",
-      "published": "2026-10-28T10:59:35+00:00",
-      "timestamp": 1793185175,
-      "summary": "As we enter Week 8, four teams have a bye. As you know, it pushes some players up the rankings and forces us to start some bench players we don't normally start. Depth is crucial at this point in..."
-    },
-    {
-      "title": "6 Fantasy Football Smash Starts: Week 8 (2026)",
-      "url": "https://www.fantasypros.com/2026/10/6-fantasy-football-smash-starts-week-8-2026/",
-      "source": "FantasyPros",
-      "sport": "Fantasy NFL",
-      "published": "2026-10-28T10:59:15+00:00",
-      "timestamp": 1793185155,
-      "summary": "Welcome to Week 8 of the fantasy football season. Today, we dive into six smash starts for Week 8 fantasy football lineups. However, first, let me explain how I differentiate a smash start player..."
-    },
-    {
-      "title": "6 Fantasy Football Risers & Fallers: Week 8 (2026)",
-      "url": "https://www.fantasypros.com/2026/10/6-fantasy-football-risers-fallers-week-8-2026/",
-      "source": "FantasyPros",
-      "sport": "Fantasy NFL",
-      "published": "2026-10-28T10:58:56+00:00",
-      "timestamp": 1793185136,
-      "summary": "The 2026 NFL season is rolling along, so it's time to look ahead to Week 8. In this article, we'll focus on the biggest fantasy football risers and fallers heading into Week 8. Key news has..."
-    },
-    {
-      "title": "10 Players to Trade Away Week 8 (2026 Fantasy Football)",
-      "url": "https://www.fantasypros.com/2026/10/10-players-to-trade-away-week-8-2026-fantasy-football/",
-      "source": "FantasyPros",
-      "sport": "Fantasy NFL",
-      "published": "2026-10-28T07:46:04+00:00",
-      "timestamp": 1793173564,
-      "summary": "Knowing which players to trade away in Week 8 can help you capitalize on a breakout performance or move on before a player's value drops further. From selling high on Tony Pollard's..."
-    },
-    {
-      "title": "10 Players to Trade For Week 8 (2026 Fantasy Football)",
-      "url": "https://www.fantasypros.com/2026/10/10-players-to-trade-for-week-8-2026-fantasy-football/",
-      "source": "FantasyPros",
-      "sport": "Fantasy NFL",
-      "published": "2026-10-28T07:45:33+00:00",
-      "timestamp": 1793173533,
-      "summary": "Finding the right fantasy football trade targets for Week 8 could help turn your season around or strengthen your roster for a playoff push. This week's players to trade for include emerging..."
-    },
-    {
-      "title": "Fantasy Football Start/Sit: Jonah Coleman, Antonio Williams, Omar Cooper Jr.",
-      "url": "https://www.fantasypros.com/2026/10/fantasy-football-start-sit-jonah-coleman-antonio-williams-omar-cooper-jr-week-8-2026/",
-      "source": "FantasyPros",
-      "sport": "Fantasy NFL",
-      "published": "2026-10-28T07:41:04+00:00",
-      "timestamp": 1793173264,
-      "summary": "Start em or sit em? Fantasy football start or sit decisions can be excruciating. While it feels great to make the right call and cruise to fantasy glory, it hurts just as much when you have..."
-    },
-    {
-      "title": "Fantasy Football Expert Rankings: Rest of Season (Week 8)",
-      "url": "https://www.fantasypros.com/2026/10/fantasy-football-expert-rankings-rest-of-season-week-8-2026/",
-      "source": "FantasyPros",
-      "sport": "Fantasy NFL",
-      "published": "2026-10-28T07:39:32+00:00",
-      "timestamp": 1793173172,
-      "summary": "Our Week 8 fantasy football rest-of-season rankings can help you identify trade targets, evaluate waiver wire pickups and decide which players deserve a spot on your roster. As player roles shift..."
-    },
-    {
-      "title": "Fantasy Football Start/Sit: Sam Darnold, Baker Mayfield, Jacoby Brissett",
-      "url": "https://www.fantasypros.com/2026/10/fantasy-football-start-sit-sam-darnold-baker-mayfield-jacoby-brissett-week-8-2026-quarterbacks/",
-      "source": "FantasyPros",
-      "sport": "Fantasy NFL",
-      "published": "2026-10-28T07:38:59+00:00",
-      "timestamp": 1793173139,
-      "summary": "Start em or sit em? Fantasy football start or sit decisions can be excruciating. While it feels great to make the right call and cruise to fantasy glory, it hurts just as much when you have..."
-    },
-    {
-      "title": "Fantasy Football Start/Sit: Chig Okonkwo, Greg Dulcich, Mason Taylor",
-      "url": "https://www.fantasypros.com/2026/10/fantasy-football-start-sit-chig-okonkwo-greg-dulcich-mason-taylor-tight-ends-week-8-2026/",
-      "source": "FantasyPros",
-      "sport": "Fantasy NFL",
-      "published": "2026-10-28T07:30:56+00:00",
-      "timestamp": 1793172656,
-      "summary": "Start em or sit em? Fantasy football start or sit decisions can be excruciating. While it feels great to make the right call and cruise to fantasy glory, it hurts just as much when you have..."
-    },
-    {
-      "title": "Jaxson Hayes: Starting Wednesday",
-      "url": "https://www.rotowire.com//basketball/player/jaxson-hayes-4771",
+      "title": "Quentin Grimes: Productive all-around showing in victory",
+      "url": "https://www.rotowire.com//basketball/player/quentin-grimes-5391",
       "source": "RotoWire",
       "sport": "Fantasy NBA",
-      "published": "2026-10-28T05:53:00+00:00",
-      "timestamp": 1793166780,
-      "summary": "Hayes is in the starting lineup for Wednesday's matchup with the Spurs. Visit RotoWire.com for more analysis on this update."
+      "published": "2026-10-28T10:05:00+00:00",
+      "timestamp": 1793181900,
+      "summary": "Grimes finished Wednesday's 103-87 win over the Clippers with 23 points (7-15 FG, 0-3 3Pt, 9-11 FT), five assists, four steals and three rebounds across 38 minutes. Visit RotoWire.com for more..."
     },
     {
-      "title": "Karl-Anthony Towns: Returns to Wednesday's game",
-      "url": "https://www.rotowire.com//basketball/player/karl-anthony-towns-3741",
+      "title": "Cooper Pratt: Powers offense again",
+      "url": "https://www.rotowire.com//baseball/player/cooper-pratt-18927",
+      "source": "RotoWire",
+      "sport": "Fantasy MLB",
+      "published": "2026-10-28T10:04:00+00:00",
+      "timestamp": 1793181840,
+      "summary": "Pratt went 2-for-3 with two RBI and a run scored in Game 5 of the World Series on Wednesday. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Cooper Flagg: Leads Dallas to another win",
+      "url": "https://www.rotowire.com//basketball/player/cooper-flagg-6548",
       "source": "RotoWire",
       "sport": "Fantasy NBA",
-      "published": "2026-10-28T05:39:00+00:00",
-      "timestamp": 1793165940,
-      "summary": "Towns (wrist) returned to Wednesday's game against the Bulls with 2:18 remaining in the first quarter, Brett Siegel of ClutchPoints.com reports. Visit RotoWire.com for more analysis on this update."
+      "published": "2026-10-28T09:24:00+00:00",
+      "timestamp": 1793179440,
+      "summary": "Flagg finished with 26 points (10-23 FG, 2-8 3Pt, 4-4 FT), five rebounds and eight assists across 33 minutes in Wednesday's 120-96 victory over Oklahoma City. Visit RotoWire.com for more analysis..."
+    },
+    {
+      "title": "Cade Cunningham: Well-rounded outing in win",
+      "url": "https://www.rotowire.com//basketball/player/cade-cunningham-5336",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-10-28T09:20:00+00:00",
+      "timestamp": 1793179200,
+      "summary": "Cunningham contributed 30 points (10-22 FG, 4-9 3Pt, 6-8 FT), seven assists, five rebounds and two steals across 39 minutes in Wednesday's 97-89 win over Charlotte. Visit RotoWire.com for more..."
+    },
+    {
+      "title": "Naz Reid: Benched in second half Wednesday",
+      "url": "https://www.rotowire.com//basketball/player/naz-reid-4806",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-10-28T09:02:00+00:00",
+      "timestamp": 1793178120,
+      "summary": "Reid recorded seven points (2-6 FG, 1-1 3Pt, 2-2 FT), six rebounds and one block across 13 minutes in Wednesday's 97-89 loss to the Pistons. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "William Contreras: Named World Series MVP",
+      "url": "https://www.rotowire.com//baseball/player/william-contreras-15160",
+      "source": "RotoWire",
+      "sport": "Fantasy MLB",
+      "published": "2026-10-28T08:59:00+00:00",
+      "timestamp": 1793177940,
+      "summary": "Contreras was named the World Series MVP after going 1-for-4 with an RBI and a run scored during Game 5 against the Rays on Wednesday. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Josh Giddey: Falls short of triple-double",
+      "url": "https://www.rotowire.com//basketball/player/josh-giddey-5366",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-10-28T08:56:00+00:00",
+      "timestamp": 1793177760,
+      "summary": "Giddey ended with 10 points (4-9 FG, 1-1 3Pt, 1-1 FT), eight rebounds, 11 assists and one steal over 31 minutes in Wednesday's 133-127 loss to the Knicks. Visit RotoWire.com for more analysis on..."
+    },
+    {
+      "title": "Jacob Misiorowski: Leaves Game 5 with trainer",
+      "url": "https://www.rotowire.com//baseball/player/jacob-misiorowski-16834",
+      "source": "RotoWire",
+      "sport": "Fantasy MLB",
+      "published": "2026-10-28T07:25:00+00:00",
+      "timestamp": 1793172300,
+      "summary": "Misiorowski was removed from Game 5 of the World Series against the Rays on Wednesday due to cramping in his right calf, Adam McCalvy of MLB.com reports. Visit RotoWire.com for more analysis on..."
     },
     {
       "title": "Tyler Allgeier: DNP on Wednesday",
@@ -132,24 +186,6 @@
       "published": "2026-10-28T05:16:00+00:00",
       "timestamp": 1793164560,
       "summary": "Allgeier (toe) didn't practice Wednesday, Darren Urban of the Cardinals' official site reports. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Ajay Mitchell: Will play Wednesday",
-      "url": "https://www.rotowire.com//basketball/player/ajay-mitchell-6289",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-10-28T05:14:00+00:00",
-      "timestamp": 1793164440,
-      "summary": "Mitchell (ankle) will play Wednesday against the Mavericks, Clemente Almanza of USA Today reports. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Lauri Markkanen: Won't play Wednesday",
-      "url": "https://www.rotowire.com//basketball/player/lauri-markkanen-4119",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-10-28T05:14:00+00:00",
-      "timestamp": 1793164440,
-      "summary": "Markkanen (wrist) is out for Wednesday's tilt against the Spurs. Visit RotoWire.com for more analysis on this update."
     },
     {
       "title": "Michael Wilson: Limited Wednesday",
@@ -195,15 +231,6 @@
       "published": "2026-10-28T01:18:00+00:00",
       "timestamp": 1793150280,
       "summary": "Caminero (foot) will start at third base and will bat third Wednesday in Game 5 of the World Series against the Brewers. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Ben Williamson: Walks off Brewers in Game 4",
-      "url": "https://www.rotowire.com//baseball/player/ben-williamson-19028",
-      "source": "RotoWire",
-      "sport": "Fantasy MLB",
-      "published": "2026-10-27T09:43:00+00:00",
-      "timestamp": 1793094180,
-      "summary": "Williamson delivered a walk-off RBI single as a pinch hitter in the 12th inning of Game 4 of the World Series against the Brewers on Tuesday. Visit RotoWire.com for more analysis on this update."
     }
   ]
 }
