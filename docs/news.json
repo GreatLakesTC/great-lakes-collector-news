@@ -1,13 +1,76 @@
 {
-  "updated_at": "2026-10-28T19:01:30.179109+00:00",
+  "updated_at": "2026-10-29T01:10:32.713064+00:00",
   "count": 30,
   "articles": [
     {
-      "title": "Tyrese Haliburton becomes latest injured NBA star: Pacers guard will miss time with hamstring strain",
+      "title": "NFL Week 8 injury report: Lamar Jackson practices in full, Lions star Kerby Joseph returns",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-8-injury-report-lamar-jackson-kerby-joseph-updates/",
+      "source": "CBS NFL",
+      "published": "Thu, 29 Oct 2026 00:24:26 +0000",
+      "timestamp": 1793233466.0
+    },
+    {
+      "title": "LIVE: Brewers-Rays World Series Game 5 (FOX/FOX One)",
+      "url": "https://www.mlb.com/news/brewers-rays-world-series-game-5-starting-lineups-and-pitching-matchup",
+      "source": "MLB",
+      "published": "Thu, 29 Oct 2026 00:00:00 GMT",
+      "timestamp": 1793232000.0
+    },
+    {
+      "title": "2026 MLB playoff bracket: Schedule and scores as Brewers take second shot at first World Series title",
+      "url": "https://www.cbssports.com/mlb/news/2026-mlb-playoff-bracket-schedule-scores-results-how-to-watch/",
+      "source": "CBS MLB",
+      "published": "Wed, 28 Oct 2026 23:44:24 +0000",
+      "timestamp": 1793231064.0
+    },
+    {
+      "title": "Tyrese Haliburton becomes latest injured NBA star: Pacers guard 'week-to-week' with hamstring strain",
       "url": "https://www.cbssports.com/nba/news/tyrese-haliburton-injury-update-timeline-pacers/",
       "source": "CBS NBA",
-      "published": "Wed, 28 Oct 2026 18:26:12 +0000",
-      "timestamp": 1793211972.0
+      "published": "Wed, 28 Oct 2026 21:45:51 +0000",
+      "timestamp": 1793223951.0
+    },
+    {
+      "title": "NBA rumors: Injury-plagued Thunder eyeing player 'they've already had,' and one surging star makes most sense",
+      "url": "https://www.cbssports.com/nba/news/thunder-injuries-trade-targets-nba-rumors/",
+      "source": "CBS NBA",
+      "published": "Wed, 28 Oct 2026 21:37:54 +0000",
+      "timestamp": 1793223474.0
+    },
+    {
+      "title": "DICK’S Will Sell 2026-27 Topps Basketball Early With NBA Legends Joining Collectors at 15 Stores",
+      "url": "https://insider.cards/story/dicks-will-sell-2026-27-topps-basketball-early-with-nba-legends-joining-36af69/",
+      "source": "Hobby",
+      "published": "Wed, 28 Oct 2026 20:54:32 +0000",
+      "timestamp": 1793220872.0
+    },
+    {
+      "title": "Agent's Take: Detroit Lions' Sam LaPorta contract problem isn't going away",
+      "url": "https://www.cbssports.com/nfl/news/agents-take-lions-sam-laporta-contract-problem/",
+      "source": "CBS NFL",
+      "published": "Wed, 28 Oct 2026 20:24:59 +0000",
+      "timestamp": 1793219099.0
+    },
+    {
+      "title": "Biggest questions for World Series Game 5: How will the Rays get enough innings to avoid elimination (again)?",
+      "url": "https://www.cbssports.com/mlb/news/biggest-questions-world-series-game-5-rays-brewers/",
+      "source": "CBS MLB",
+      "published": "Wed, 28 Oct 2026 20:08:16 +0000",
+      "timestamp": 1793218096.0
+    },
+    {
+      "title": "NFL QB Power Rankings, Week 8: There's a new name at No. 1, Patrick Mahomes out of the top 10",
+      "url": "https://www.cbssports.com/nfl/news/nfl-qb-power-rankings-week-8-jared-goff-patrick-mahomes/",
+      "source": "CBS NFL",
+      "published": "Wed, 28 Oct 2026 19:59:06 +0000",
+      "timestamp": 1793217546.0
+    },
+    {
+      "title": "3 big questions for Game 5 with Rays starting to regain some mojo",
+      "url": "https://www.mlb.com/news/2026-world-series-game-5-storylines-brewers-rays",
+      "source": "MLB",
+      "published": "Wed, 28 Oct 2026 19:10:00 GMT",
+      "timestamp": 1793214600.0
     },
     {
       "title": "Brewers vs. Rays World Series Game 5 most-wagered player props: Bettors on Jacob Misiorowski to strike out 5",
@@ -31,18 +94,11 @@
       "timestamp": 1793203417.0
     },
     {
-      "title": "3 big questions for Game 5 with Rays starting to regain some mojo",
-      "url": "https://www.mlb.com/news/2026-world-series-game-5-storylines-brewers-rays",
-      "source": "MLB",
-      "published": "Wed, 28 Oct 2026 15:30:00 GMT",
-      "timestamp": 1793201400.0
-    },
-    {
-      "title": "Biggest questions for World Series Game 5: Where will Rays turn to avoid elimination (again)?",
-      "url": "https://www.cbssports.com/mlb/news/biggest-questions-world-series-game-5-rays-brewers/",
-      "source": "CBS MLB",
-      "published": "Wed, 28 Oct 2026 15:17:44 +0000",
-      "timestamp": 1793200664.0
+      "title": "Topps Stadium Club Chrome® UEFA Champions League 2025/26 Collector Guide",
+      "url": "https://insider.cards/story/topps-stadium-club-chrome-uefa-champions-league-2025-26-collector-guide-a4eaa7/",
+      "source": "Hobby",
+      "published": "Wed, 28 Oct 2026 16:01:52 +0000",
+      "timestamp": 1793203312.0
     },
     {
       "title": "Jacob Misiorowski's moment? MLB's most electric starter can pitch the Brewers to their first title",
@@ -66,25 +122,11 @@
       "timestamp": 1793198102.0
     },
     {
-      "title": "Caminero expected to be fine despite exiting Game 4 with apparent injury",
-      "url": "https://www.mlb.com/news/junior-caminero-injury-status-world-series-game-5",
-      "source": "MLB",
-      "published": "Wed, 28 Oct 2026 13:59:28 GMT",
-      "timestamp": 1793195968.0
-    },
-    {
       "title": "Saquon Barkley trade rumors: Should the Seahawks trade for the Eagles' running back?",
       "url": "https://www.cbssports.com/nfl/news/case-for-against-seahawks-trading-for-saquon-barkley/",
       "source": "CBS NFL",
       "published": "Wed, 28 Oct 2026 13:58:55 +0000",
       "timestamp": 1793195935.0
-    },
-    {
-      "title": "NFL QB Power Rankings, Week 8: There's a new name at No. 1, Patrick Mahomes out of the top 10",
-      "url": "https://www.cbssports.com/nfl/news/nfl-qb-power-rankings-week-8-jared-goff-patrick-mahomes/",
-      "source": "CBS NFL",
-      "published": "Wed, 28 Oct 2026 13:37:53 +0000",
-      "timestamp": 1793194673.0
     },
     {
       "title": "NBA Power Rankings: Rockets take over No. 1 spot with sublime start, Heat take huge tumble",
@@ -108,20 +150,6 @@
       "timestamp": 1793186277.0
     },
     {
-      "title": "The Sports Card Market Is Sending a VERY Clear Message (PAY ATTENTION!)",
-      "url": "https://insider.cards/story/the-sports-card-market-is-sending-a-very-clear-message-pay-attention-223c47/",
-      "source": "Hobby",
-      "published": "Wed, 28 Oct 2026 09:30:01 +0000",
-      "timestamp": 1793179801.0
-    },
-    {
-      "title": "Leonard Fournette Ranks ALL-TIME GREAT ROOKIE CARDS! | The Lenny & Gio Show Ep. 1",
-      "url": "https://insider.cards/story/leonard-fournette-ranks-all-time-great-rookie-cards-the-lenny-and-gio-1bac41/",
-      "source": "Hobby",
-      "published": "Wed, 28 Oct 2026 09:19:00 +0000",
-      "timestamp": 1793179140.0
-    },
-    {
       "title": "Placed in a tough spot, rookie lefty Drohan can't stifle Rays rally in 12th",
       "url": "https://www.mlb.com/news/shane-drohan-allows-walk-off-in-12th-inning-of-world-series-game-4",
       "source": "MLB",
@@ -136,25 +164,11 @@
       "timestamp": 1793172095.0
     },
     {
-      "title": "Brewers-Rays World Series Game 5 FAQ (8 ET, FOX/FOX One)",
-      "url": "https://www.mlb.com/news/brewers-rays-world-series-game-5-starting-lineups-and-pitching-matchup",
-      "source": "MLB",
-      "published": "Wed, 28 Oct 2026 06:46:08 GMT",
-      "timestamp": 1793169968.0
-    },
-    {
       "title": "18 straight 0's: Ashby makes playoff history with record scoreless relief streak",
       "url": "https://www.mlb.com/news/aaron-ashby-postseason-consecutive-scoreless-innings-reliever-record",
       "source": "MLB",
       "published": "Wed, 28 Oct 2026 06:08:00 GMT",
       "timestamp": 1793167680.0
-    },
-    {
-      "title": "2026 MLB playoff bracket: Schedule and scores as Rays stave off World Series elimination vs. Brewers",
-      "url": "https://www.cbssports.com/mlb/news/2026-mlb-playoff-bracket-schedule-scores-results-how-to-watch/",
-      "source": "CBS MLB",
-      "published": "Wed, 28 Oct 2026 05:06:39 +0000",
-      "timestamp": 1793163999.0
     },
     {
       "title": "Nick Martinez, bullpen save the Rays from World Series elimination, but Game 4 win merely a stay of execution",
@@ -185,20 +199,6 @@
       "timestamp": 1793162520.0
     },
     {
-      "title": "Jason Williams paid $515 for a slot in a Cooper Flagg card break; his one-of-one rookie card sold for $8.04 million",
-      "url": "https://insider.cards/story/jason-williams-paid-usd-515-for-a-slot-in-a-cooper-flagg-card-break-his-34f96d/",
-      "source": "Hobby",
-      "published": "Wed, 28 Oct 2026 04:38:36 +0000",
-      "timestamp": 1793162316.0
-    },
-    {
-      "title": "Players with best postseason performances",
-      "url": "https://www.mlb.com/news/best-playoff-performances-in-mlb-history-c296028438",
-      "source": "MLB",
-      "published": "Wed, 28 Oct 2026 04:35:00 GMT",
-      "timestamp": 1793162100.0
-    },
-    {
       "title": "Crew honors Ueck as World Series pauses for powerful Stand Up To Cancer moment",
       "url": "https://www.mlb.com/news/stand-up-to-cancer-at-world-series-game-4-2026",
       "source": "MLB",
@@ -206,11 +206,11 @@
       "timestamp": 1793155086.0
     },
     {
-      "title": "1962 Topps Football Set Sells for Record $1.47 Million in MHCC Auction",
-      "url": "https://insider.cards/story/1962-topps-football-set-sells-for-record-usd-1-47-million-in-mhcc-c4d782/",
+      "title": "The Ultimate 2026 Topps Holiday Football Review",
+      "url": "https://insider.cards/story/2026-topps-holiday-football-preview-checklist-rookie-chases-and-box-b68a23/",
       "source": "Hobby",
-      "published": "Tue, 27 Oct 2026 23:17:43 +0000",
-      "timestamp": 1793143063.0
+      "published": "Tue, 27 Oct 2026 23:00:39 +0000",
+      "timestamp": 1793142039.0
     }
   ]
 }
