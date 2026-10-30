@@ -1,12 +1,111 @@
 {
-  "updated_at": "2026-10-30T01:03:56.781905+00:00",
-  "count": 25,
+  "updated_at": "2026-10-30T13:00:13.132849+00:00",
+  "count": 24,
   "counts": {
-    "Fantasy NFL": 15,
+    "Fantasy NFL": 14,
     "Fantasy NBA": 5,
     "Fantasy MLB": 5
   },
   "articles": [
+    {
+      "title": "Trey Murphy: Bounces back Thursday",
+      "url": "https://www.rotowire.com//basketball/player/trey-murphy-5401",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-10-30T12:26:00+00:00",
+      "timestamp": 1793363160,
+      "summary": "Murphy finished with 19 points (6-12 FG, 2-7 3Pt, 5-8 FT), five rebounds, three assists and a steal across 32 minutes in Thursday's 132-120 win over the Kings. Visit RotoWire.com for more analysis..."
+    },
+    {
+      "title": "Zion Williamson: Surpasses 20-point mark again",
+      "url": "https://www.rotowire.com//basketball/player/zion-williamson-4777",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-10-30T12:22:00+00:00",
+      "timestamp": 1793362920,
+      "summary": "Williamson registered 22 points (10-12 FG, 2-4 FT), six rebounds, two assists, five steals and a block across 31 minutes in Thursday's 132-120 win over the Kings. Visit RotoWire.com for more..."
+    },
+    {
+      "title": "Zach LaVine: Scores 21 points in loss",
+      "url": "https://www.rotowire.com//basketball/player/zach-lavine-3597",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-10-30T12:21:00+00:00",
+      "timestamp": 1793362860,
+      "summary": "LaVine tallied 21 points (7-17 FG, 3-10 3Pt, 4-6 FT), three rebounds, five assists and three steals across 39 minutes in Thursday's 132-120 loss to the Pelicans. Visit RotoWire.com for more..."
+    },
+    {
+      "title": "Domantas Sabonis: Grabs 15 rebounds in loss",
+      "url": "https://www.rotowire.com//basketball/player/domantas-sabonis-3865",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-10-30T12:14:00+00:00",
+      "timestamp": 1793362440,
+      "summary": "Sabonis finished with nine points (4-7 FG, 1-2 FT), 15 rebounds, seven assists, two steals and a block across 40 minutes in Thursday's 132-120 loss to the Pelicans. Visit RotoWire.com for more..."
+    },
+    {
+      "title": "Fantasy Football Rankings, Tiers & Start/Sit Advice (Week 8)",
+      "url": "https://www.fantasypros.com/2026/10/fantasy-football-rankings-tiers-start-sit-advice-week-8-2026/",
+      "source": "FantasyPros",
+      "sport": "Fantasy NFL",
+      "published": "2026-10-30T11:17:09+00:00",
+      "timestamp": 1793359029,
+      "summary": "Feel free to use these tiered half-point PPR fantasy football rankings for Week 8 as a tiebreaker for your difficult lineup decisions. Beneath the tiers, I'll offer brief thoughts on a few of the..."
+    },
+    {
+      "title": "6 Fantasy Football Waiver Wire Pickups & Injury Replacements (Week 8)",
+      "url": "https://www.fantasypros.com/2026/10/6-fantasy-football-waiver-wire-pickups-injury-replacements-week-8-2026/",
+      "source": "FantasyPros",
+      "sport": "Fantasy NFL",
+      "published": "2026-10-30T11:16:02+00:00",
+      "timestamp": 1793358962,
+      "summary": "Fantasy football can be an extremely fun game to play. It can also be highly frustrating at times. Nothing is more annoying than having to make a last-minute waiver wire move because someone in..."
+    },
+    {
+      "title": "3 Bold Predictions for Week 8 (2026 Fantasy Football)",
+      "url": "https://www.fantasypros.com/2026/10/3-bold-predictions-for-week-8-2026-fantasy-football/",
+      "source": "FantasyPros",
+      "sport": "Fantasy NFL",
+      "published": "2026-10-30T11:15:30+00:00",
+      "timestamp": 1793358930,
+      "summary": "The bold predictions began Week 7 with a 4-13-1 record. Thanks to Caleb Douglas showing out last week, the record climbs to 5-15-1 entering Week 8. A .300 batting average for my bold predictions..."
+    },
+    {
+      "title": "10 Fantasy Football Stats You Need to Know (Week 8)",
+      "url": "https://www.fantasypros.com/2026/10/10-fantasy-football-stats-you-need-to-know-week-8-2026/",
+      "source": "FantasyPros",
+      "sport": "Fantasy NFL",
+      "published": "2026-10-30T11:15:24+00:00",
+      "timestamp": 1793358924,
+      "summary": "FantasyPros publishes approximately 7.7 million pieces of weekly fantasy football content to help you win your league and eventually take home fantasy gold. It can be difficult to read such a vast..."
+    },
+    {
+      "title": "22 Injuries to Know for Week 8 (2026 Fantasy Football)",
+      "url": "https://www.fantasypros.com/2026/10/22-injuries-to-know-for-week-8-2026-fantasy-football/",
+      "source": "FantasyPros",
+      "sport": "Fantasy NFL",
+      "published": "2026-10-30T11:15:14+00:00",
+      "timestamp": 1793358914,
+      "summary": "Every week, fantasy matchups are won and lost based on who's available. Below are some of the biggest names on this week's injury report and what to expect. Waiver Wire Advice Weekly Fantasy..."
+    },
+    {
+      "title": "Fantasy Football IDP Start/Sit Lineup Advice: Week 8 (2026)Â",
+      "url": "https://www.fantasypros.com/2026/10/fantasy-football-idp-start-sit-lineup-advice-week-8-2026/",
+      "source": "FantasyPros",
+      "sport": "Fantasy NFL",
+      "published": "2026-10-30T11:15:04+00:00",
+      "timestamp": 1793358904,
+      "summary": "Thursday Night Football is complete, and fantasy football managers now turn their attention to the weekend's contests as we try to decide which players to start and which players to sit. For IDP..."
+    },
+    {
+      "title": "Fantasy Football Week 8 Expert Rankings (2026)",
+      "url": "https://www.fantasypros.com/2026/10/fantasy-football-week-8-expert-rankings-2026/",
+      "source": "FantasyPros",
+      "sport": "Fantasy NFL",
+      "published": "2026-10-30T07:32:52+00:00",
+      "timestamp": 1793345572,
+      "summary": "Set your lineup with confidence using our Week 8 fantasy football expert rankings for 2026. Whether you're weighing a difficult start/sit decision or comparing options at flex, our analysts'..."
+    },
     {
       "title": "The 10 Most Intriguing Fantasy Football Players of Week 8 (2026)",
       "url": "https://www.fantasypros.com/2026/10/the-10-most-intriguing-fantasy-football-players-of-week-8-2026/",
@@ -26,121 +125,58 @@
       "summary": "The fantasy season is halfway through. We're rapidly approaching the business end of the fantasy regular season. Some fantasy managers will be sitting comfortably at the top of their leagues...."
     },
     {
-      "title": "Fantasy Football Week 8 Start/Sit Advice: 18 Sleepers & Duds (2026)",
-      "url": "https://www.fantasypros.com/2026/10/fantasy-football-week-8-start-sit-advice-18-sleepers-duds-2026/",
-      "source": "FantasyPros",
-      "sport": "Fantasy NFL",
-      "published": "2026-10-29T16:29:10+00:00",
-      "timestamp": 1793291350,
-      "summary": "Our Featured Pros have identified the fantasy football players they feel will outscore their projections and the ones most likely to disappoint fantasy managers this week. Here are your sleepers..."
-    },
-    {
-      "title": "The Primer: Week 8 Edition (2026 Fantasy Football)",
-      "url": "https://www.fantasypros.com/2026/10/the-primer-week-8-edition-2026-fantasy-football/",
-      "source": "FantasyPros",
-      "sport": "Fantasy NFL",
-      "published": "2026-10-29T13:47:57+00:00",
-      "timestamp": 1793281677,
-      "summary": "The Primer is presented by Leaguebase. Leaguebase is the private clubhouse for the one league that actually matters: the one with a decade of rivalries and inside jokes behind it. Connect your..."
-    },
-    {
-      "title": "Fantasy Football Start/Sit Lineup Advice: Tight Ends (Week 8)",
-      "url": "https://www.fantasypros.com/2026/10/fantasy-football-start-sit-lineup-advice-tight-ends-week-8-2026/",
-      "source": "FantasyPros",
-      "sport": "Fantasy NFL",
-      "published": "2026-10-29T13:41:08+00:00",
-      "timestamp": 1793281268,
-      "summary": "Start em or sit em? Fantasy football start or sit decisions can be excruciating. While it feels great to make the right call and cruise to fantasy glory, it hurts just as much when you have..."
-    },
-    {
-      "title": "Fantasy Football Start/Sit Lineup Advice: Wide Receivers (Week 8)",
-      "url": "https://www.fantasypros.com/2026/10/fantasy-football-start-sit-lineup-advice-wide-receivers-week-8-2026/",
-      "source": "FantasyPros",
-      "sport": "Fantasy NFL",
-      "published": "2026-10-29T13:41:05+00:00",
-      "timestamp": 1793281265,
-      "summary": "Start em or sit em? Fantasy football start or sit decisions can be excruciating. While it feels great to make the right call and cruise to fantasy glory, it hurts just as much when you have..."
-    },
-    {
-      "title": "Fantasy Football Start/Sit Lineup Advice: Running Backs (Week 8)",
-      "url": "https://www.fantasypros.com/2026/10/fantasy-football-start-sit-lineup-advice-running-backs-week-8-2026/",
-      "source": "FantasyPros",
-      "sport": "Fantasy NFL",
-      "published": "2026-10-29T13:41:02+00:00",
-      "timestamp": 1793281262,
-      "summary": "Start em or sit em? Fantasy football start or sit decisions can be excruciating. While it feels great to make the right call and cruise to fantasy glory, it hurts just as much when you have..."
-    },
-    {
-      "title": "Fantasy Football Start/Sit Lineup Advice: Quarterbacks (Week 8)",
-      "url": "https://www.fantasypros.com/2026/10/fantasy-football-start-sit-lineup-advice-quarterbacks-week-8-2026/",
-      "source": "FantasyPros",
-      "sport": "Fantasy NFL",
-      "published": "2026-10-29T13:41:00+00:00",
-      "timestamp": 1793281260,
-      "summary": "Start em or sit em? Fantasy football start or sit decisions can be excruciating. While it feels great to make the right call and cruise to fantasy glory, it hurts just as much when you have..."
-    },
-    {
-      "title": "Fantasy Football NFL Air Yards Analysis & Takeaways (Week 8)",
-      "url": "https://www.fantasypros.com/2026/10/fantasy-football-nfl-air-yards-analysis-takeaways-week-8-2026/",
-      "source": "FantasyPros",
-      "sport": "Fantasy NFL",
-      "published": "2026-10-29T11:26:20+00:00",
-      "timestamp": 1793273180,
-      "summary": "Analyzing NFL air yards for fantasy football is a valuable exercise for prognosticating what might be coming for certain receivers. If a wide receiver saw a tremendous number of air yards but fell..."
-    },
-    {
-      "title": "6 Fantasy Football Lineup Landmines: Start/Sit Advice (Week 8)",
-      "url": "https://www.fantasypros.com/2026/10/6-fantasy-football-lineup-landmines-start-sit-advice-week-8-2026/",
-      "source": "FantasyPros",
-      "sport": "Fantasy NFL",
-      "published": "2026-10-29T11:26:04+00:00",
-      "timestamp": 1793273164,
-      "summary": "Arguably, the most frustrating thing in fantasy football is seeing someone in your starting lineup struggle that week. Therefore, the logic behind this article is simple: identify fantasy football..."
-    },
-    {
-      "title": "Luka Doncic: Set for Friday return",
-      "url": "https://www.rotowire.com//basketball/player/luka-doncic-4396",
+      "title": "Nickeil Alexander-Walker: Scores 25 points Thursday",
+      "url": "https://www.rotowire.com//basketball/player/nickeil-alexander-walker-4765",
       "source": "RotoWire",
       "sport": "Fantasy NBA",
-      "published": "2026-10-29T05:04:00+00:00",
-      "timestamp": 1793250240,
-      "summary": "Doncic (back) will play in Friday's game against the Warriors. Visit RotoWire.com for more analysis on this update."
+      "published": "2026-10-29T11:51:00+00:00",
+      "timestamp": 1793274660,
+      "summary": "Alexander-Walker delivered 25 points (8-17 FG, 4-12 3Pt, 5-5 FT), three rebounds, an assist and a block across 31 minutes in Thursday's 114-111 win over the Cavaliers. Visit RotoWire.com for more..."
     },
     {
-      "title": "Ziaire Williams: Could play Friday",
-      "url": "https://www.rotowire.com//basketball/player/ziaire-williams-5400",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-10-29T05:03:00+00:00",
-      "timestamp": 1793250180,
-      "summary": "Williams (foot) is questionable for Friday's game against Golden State. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Cameron Johnson: Listed questionable for Friday",
-      "url": "https://www.rotowire.com//basketball/player/cameron-johnson-4916",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-10-29T04:50:00+00:00",
-      "timestamp": 1793249400,
-      "summary": "Johnson (ankle) is questionable for Friday's game against Phoenix. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Jaylon Tyson: Available vs. Hawks",
-      "url": "https://www.rotowire.com//basketball/player/jaylon-tyson-6277",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-10-29T04:33:00+00:00",
-      "timestamp": 1793248380,
-      "summary": "Tyson (neck) has been cleared to play Thursday night against Atlanta. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Michael Wilson: Stays limited Thursday",
-      "url": "https://www.rotowire.com//football/player/michael-wilson-16957",
+      "title": "Jalen Coker: Salvages night with TD in loss",
+      "url": "https://www.rotowire.com//football/player/jalen-coker-17976",
       "source": "RotoWire",
       "sport": "Fantasy NFL",
-      "published": "2026-10-29T04:31:00+00:00",
-      "timestamp": 1793248260,
-      "summary": "Wilson (ribs) was a limited practice participant Thursday, Theo Mackie of The Arizona Republic reports. Visit RotoWire.com for more analysis on this update."
+      "published": "2026-10-29T09:23:00+00:00",
+      "timestamp": 1793265780,
+      "summary": "Coker secured two of five targets for 37 yards and a touchdown in the Panthers' 27-19 loss to the Packers on Thursday. He also lost a fumble. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Jordan Love: Stays hot in Week 9 win",
+      "url": "https://www.rotowire.com//football/player/jordan-love-14371",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-10-29T09:18:00+00:00",
+      "timestamp": 1793265480,
+      "summary": "Love completed 30 of 41 passes for 288 yards with three touchdowns and one interception and recovered a fumble in the Packers' 27-19 win over the Panthers on Thursday. Visit RotoWire.com for more..."
+    },
+    {
+      "title": "Bryce Young: Struggles again in defeat",
+      "url": "https://www.rotowire.com//football/player/bryce-young-16807",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-10-29T09:10:00+00:00",
+      "timestamp": 1793265000,
+      "summary": "Young completed 23 of 41 passes for 209 yards with one touchdown and one interception in the Panthers' 27-19 loss to the Packers on Thursday. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Christian Watson: Suffers broken rib Thursday",
+      "url": "https://www.rotowire.com//football/player/christian-watson-15946",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-10-29T09:06:00+00:00",
+      "timestamp": 1793264760,
+      "summary": "Watson said he suffered a broken rib in Thursday night's 27-19 win over the Panthers, Rob Demovsky of ESPN.com reports. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Tucker Kraft: Back in end zone during win",
+      "url": "https://www.rotowire.com//football/player/tucker-kraft-16649",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-10-29T09:04:00+00:00",
+      "timestamp": 1793264640,
+      "summary": "Kraft secured all six targets for 53 yards and a touchdown in the Packers' 27-19 win over the Panthers on Thursday. Visit RotoWire.com for more analysis on this update."
     },
     {
       "title": "Dustin May: Becomes free agent",
@@ -150,42 +186,6 @@
       "published": "2026-10-29T04:30:00+00:00",
       "timestamp": 1793248200,
       "summary": "May declined his mutual option with the Brewers on Thursday, becoming a free agent, Jon Heyman of the New York Post reports. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Tyler Allgeier: Limited Thursday",
-      "url": "https://www.rotowire.com//football/player/tyler-allgeier-15976",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-10-29T04:17:00+00:00",
-      "timestamp": 1793247420,
-      "summary": "Allgeier (toe) practiced in a limited capacity Thursday, Theo Mackie of The Arizona Republic reports. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Jeremiyah Love: Another limited session",
-      "url": "https://www.rotowire.com//football/player/jeremiyah-love-19235",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-10-29T04:11:00+00:00",
-      "timestamp": 1793247060,
-      "summary": "Love (ankle) was a limited practice participant Thursday, Theo Mackie of The Arizona Republic reports. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Jadarian Price: Limited in return to practice",
-      "url": "https://www.rotowire.com//football/player/jadarian-price-19299",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-10-29T04:10:00+00:00",
-      "timestamp": 1793247000,
-      "summary": "Price (chest) was limited in Thursday's practice, John Boyle of the Seahawks' official site reports. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Zach Charbonnet: Logs full practice Thursday",
-      "url": "https://www.rotowire.com//football/player/zach-charbonnet-16897",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-10-29T04:07:00+00:00",
-      "timestamp": 1793246820,
-      "summary": "Charbonnet (knee) was a full participant at Thursday's practice, John Boyle of the Seahawks' official site reports. Visit RotoWire.com for more analysis on this update."
     },
     {
       "title": "Bo Bichette: Exercises player option",
@@ -213,15 +213,6 @@
       "published": "2026-10-29T03:32:00+00:00",
       "timestamp": 1793244720,
       "summary": "Atlanta exercised Albies' $7 million club option for the 2027 season Thursday. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Dejounte Murray: Late scratch Thursday",
-      "url": "https://www.rotowire.com//basketball/player/dejounte-murray-3856",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-10-29T03:23:00+00:00",
-      "timestamp": 1793244180,
-      "summary": "Murray (personal) is out for Thursday's game against the Kings, Jim Eichenhofer of the Pelicans' official site reports. Visit RotoWire.com for more analysis on this update."
     },
     {
       "title": "Luis Robert: O's to decline option",
