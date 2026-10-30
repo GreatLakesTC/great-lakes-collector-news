@@ -1,7 +1,105 @@
 {
-  "updated_at": "2026-10-30T13:08:07.669409+00:00",
+  "updated_at": "2026-10-30T18:57:45.702586+00:00",
   "count": 30,
   "articles": [
+    {
+      "title": "Ravens coach Jesse Minter confirms Lamar Jackson will return from ankle injury, start vs. Bills",
+      "url": "https://www.cbssports.com/nfl/news/ravens-lamar-jackson-injury-update-bills/",
+      "source": "CBS NFL",
+      "published": "Fri, 30 Oct 2026 17:50:27 +0000",
+      "timestamp": 1793382627.0
+    },
+    {
+      "title": "NBA's 'unprecedented' early season injury crisis has players and coaches searching for answers",
+      "url": "https://www.cbssports.com/nba/news/nba-unprecedented-early-season-injury-crisis-players-coaches-answers/",
+      "source": "CBS NBA",
+      "published": "Fri, 30 Oct 2026 17:37:38 +0000",
+      "timestamp": 1793381858.0
+    },
+    {
+      "title": "King opts out of deal with Padres to become free agent",
+      "url": "https://www.mlb.com/news/michael-king-free-agent-2027",
+      "source": "MLB",
+      "published": "Fri, 30 Oct 2026 17:22:00 GMT",
+      "timestamp": 1793380920.0
+    },
+    {
+      "title": "Tigers acquire INF Cheng in trade with Red Sox",
+      "url": "https://www.mlb.com/news/tsung-che-cheng-traded-to-tigers-from-red-sox",
+      "source": "MLB",
+      "published": "Fri, 30 Oct 2026 16:28:53 GMT",
+      "timestamp": 1793377733.0
+    },
+    {
+      "title": "MLB rumors: Mets' Bo Bichette makes contract decision, familiar All-Star back on trade block",
+      "url": "https://www.cbssports.com/mlb/news/mlb-rumors-mets-bo-bichette-oct-30/",
+      "source": "CBS MLB",
+      "published": "Fri, 30 Oct 2026 16:00:24 +0000",
+      "timestamp": 1793376024.0
+    },
+    {
+      "title": "Cam Skattebo says he feared amputation after gruesome injury that ended his 2025 season",
+      "url": "https://www.cbssports.com/nfl/news/giants-cam-skattebo-feared-amputation-after-2025-injury/",
+      "source": "CBS NFL",
+      "published": "Fri, 30 Oct 2026 15:46:19 +0000",
+      "timestamp": 1793375179.0
+    },
+    {
+      "title": "Ranking the top 50 MLB free agents for the 2026-27 offseason, plus landing spots for every player",
+      "url": "https://www.cbssports.com/mlb/news/mlb-free-agency-2026-27-ranking-top-50-landing-spots/",
+      "source": "CBS MLB",
+      "published": "Fri, 30 Oct 2026 15:36:52 +0000",
+      "timestamp": 1793374612.0
+    },
+    {
+      "title": "The best moment from each series during the playoffs",
+      "url": "https://www.mlb.com/news/best-postseason-moments-2026",
+      "source": "MLB",
+      "published": "Fri, 30 Oct 2026 15:35:00 GMT",
+      "timestamp": 1793374500.0
+    },
+    {
+      "title": "MLB qualifying offer: Predicting who will get a QO this offseason, plus how the $23.15 million contract works",
+      "url": "https://www.cbssports.com/mlb/news/mlb-qualifying-offer-contract-predictions-2026-27-offseason/",
+      "source": "CBS MLB",
+      "published": "Fri, 30 Oct 2026 15:27:55 +0000",
+      "timestamp": 1793374075.0
+    },
+    {
+      "title": "2026 NFL trade deadline: One position of need and potential options for all 32 teams",
+      "url": "https://www.cbssports.com/nfl/news/2026-nfl-trade-deadline-needs-potential-options-all-32-teams/",
+      "source": "CBS NFL",
+      "published": "Fri, 30 Oct 2026 15:08:12 +0000",
+      "timestamp": 1793372892.0
+    },
+    {
+      "title": "Milwaukee Public Schools close for Brewers' championship parade",
+      "url": "https://www.mlb.com/news/milwaukee-public-schools-to-close-for-brewers-championship-parade",
+      "source": "MLB",
+      "published": "Fri, 30 Oct 2026 15:00:00 GMT",
+      "timestamp": 1793372400.0
+    },
+    {
+      "title": "Cowboys already won 2026 NFL trade deadline with Joey Porter Jr. trade",
+      "url": "https://www.cbssports.com/nfl/news/cowboys-already-won-2026-nfl-trade-deadline-joey-porter-jr-trade/",
+      "source": "CBS NFL",
+      "published": "Fri, 30 Oct 2026 14:39:11 +0000",
+      "timestamp": 1793371151.0
+    },
+    {
+      "title": "Jordan Love picks Panthers apart; Christian Watson's midgame hospital trip; top 50 MLB free agents",
+      "url": "https://www.cbssports.com/nfl/news/jordan-love-picks-panthers-apart-christian-watsons-midgame-hospital-trip-top-50-mlb-free-agents/",
+      "source": "CBS NFL",
+      "published": "Fri, 30 Oct 2026 13:00:38 +0000",
+      "timestamp": 1793365238.0
+    },
+    {
+      "title": "Jordan Love picks Panthers apart; Christian Watson's midgame hospital trip; top 50 MLB free agents",
+      "url": "https://www.cbssports.com/nfl/news/jordan-love-picks-apart-panthers-christian-watsons-midgame-hospital-trip-top-50-mlb-free-agents/",
+      "source": "CBS NFL",
+      "published": "Fri, 30 Oct 2026 12:58:55 +0000",
+      "timestamp": 1793365135.0
+    },
     {
       "title": "Top 25 MLB trade candidates for 2026-27 offseason: Paul Skenes, Jeremy Peña and more who could move",
       "url": "https://www.cbssports.com/mlb/news/top-25-mlb-trade-candidates-2026-27-offseason/",
@@ -31,13 +129,6 @@
       "timestamp": 1793328768.0
     },
     {
-      "title": "The best moment from each series during the playoffs",
-      "url": "https://www.mlb.com/news/best-postseason-moments-2026",
-      "source": "MLB",
-      "published": "Fri, 30 Oct 2026 02:43:59 GMT",
-      "timestamp": 1793328239.0
-    },
-    {
       "title": "Bichette bypassing opt-out, returning to Mets for 2027 season (source)",
       "url": "https://www.mlb.com/news/bo-bichette-player-option-mets",
       "source": "MLB",
@@ -52,25 +143,11 @@
       "timestamp": 1793315882.0
     },
     {
-      "title": "Mariners pick up Muñoz's option; Robles becomes free agent",
-      "url": "https://www.mlb.com/news/andres-munoz-s-option-picked-up-by-mariners",
-      "source": "MLB",
-      "published": "Thu, 29 Oct 2026 22:03:00 GMT",
-      "timestamp": 1793311380.0
-    },
-    {
       "title": "PSA Grading Is BACK… But There's a Problem!",
       "url": "https://insider.cards/story/psa-grading-is-back-but-theres-a-problem-2403d6/",
       "source": "Hobby",
       "published": "Thu, 29 Oct 2026 21:30:24 +0000",
       "timestamp": 1793309424.0
-    },
-    {
-      "title": "King opts out of deal with Padres to become free agent (source)",
-      "url": "https://www.mlb.com/news/michael-king-free-agent-2027",
-      "source": "MLB",
-      "published": "Thu, 29 Oct 2026 20:45:00 GMT",
-      "timestamp": 1793306700.0
     },
     {
       "title": "Topps Stadium Club Chrome® UEFA Champions League Product History",
@@ -80,25 +157,11 @@
       "timestamp": 1793303889.0
     },
     {
-      "title": "Topps celebrates Brewers' World Series win with rare card set",
-      "url": "https://insider.cards/story/topps-celebrates-brewers-world-series-win-with-rare-card-set-1a2518/",
-      "source": "Hobby",
-      "published": "Thu, 29 Oct 2026 19:37:11 +0000",
-      "timestamp": 1793302631.0
-    },
-    {
       "title": "A's trade RHP prospect to Red Sox for outfielder Eaton",
       "url": "https://www.mlb.com/news/nate-eaton-red-sox-athletics-trade",
       "source": "MLB",
       "published": "Thu, 29 Oct 2026 19:04:00 GMT",
       "timestamp": 1793300640.0
-    },
-    {
-      "title": "Revisiting Panthers' blockbuster trade with Bears to draft Bryce Young: Chicago, Caleb Williams won big",
-      "url": "https://www.cbssports.com/nfl/news/revisiting-panthers-trade-bears-to-draft-bryce-young-caleb-williams/",
-      "source": "CBS NFL",
-      "published": "Thu, 29 Oct 2026 17:47:55 +0000",
-      "timestamp": 1793296075.0
     },
     {
       "title": "2026 Topps Flagship Football Makai Lemon RC 91 Topps Throwback Black AUTO 4/10",
@@ -115,20 +178,6 @@
       "timestamp": 1793295601.0
     },
     {
-      "title": "Milwaukee Public Schools to close for Brewers' championship parade",
-      "url": "https://www.mlb.com/news/milwaukee-public-schools-to-close-for-brewers-championship-parade",
-      "source": "MLB",
-      "published": "Thu, 29 Oct 2026 17:36:28 GMT",
-      "timestamp": 1793295388.0
-    },
-    {
-      "title": "Caleb Williams plans to defy NFL: Bears QB to stick with unapproved cleat also worn by former Super Bowl MVP",
-      "url": "https://www.cbssports.com/nfl/news/caleb-williams-defy-nfl-stick-with-unapproved-caddix-cleat/",
-      "source": "CBS NFL",
-      "published": "Thu, 29 Oct 2026 17:32:00 +0000",
-      "timestamp": 1793295120.0
-    },
-    {
       "title": "Huge year for Contreras brothers ends with World Series embrace",
       "url": "https://www.mlb.com/news/contreras-brothers-finish-huge-2026-season",
       "source": "MLB",
@@ -136,46 +185,11 @@
       "timestamp": 1793291726.0
     },
     {
-      "title": "Titans trade Jeffery Simmons, join Jets and Browns in draft stockpile: History offers hope -- and a warning",
-      "url": "https://www.cbssports.com/nfl/news/nfl-draft-first-round-gamble-what-jets-browns-can-learn/",
-      "source": "CBS NFL",
-      "published": "Thu, 29 Oct 2026 15:59:41 +0000",
-      "timestamp": 1793289581.0
-    },
-    {
       "title": "Three reasons why the Brewers can repeat as World Series champions in 2027",
       "url": "https://www.cbssports.com/mlb/news/brewers-world-series-champions-repeat-2027/",
       "source": "CBS MLB",
       "published": "Thu, 29 Oct 2026 15:51:22 +0000",
       "timestamp": 1793289082.0
-    },
-    {
-      "title": "Jeffery Simmons trade grades: Bears earn high marks by going all-in, Titans start yet another rebuild",
-      "url": "https://www.cbssports.com/nfl/news/jeffery-simmons-trade-grades-bears-titans-nfl-draft/",
-      "source": "CBS NFL",
-      "published": "Thu, 29 Oct 2026 15:50:14 +0000",
-      "timestamp": 1793289014.0
-    },
-    {
-      "title": "NFL trade deadline: Four Eagles, two more Colts and two starting QBs included among top 25 candidates",
-      "url": "https://www.cbssports.com/nfl/news/2026-nfl-trade-deadline-rankings-top-25-eagles-colts/",
-      "source": "CBS NFL",
-      "published": "Thu, 29 Oct 2026 15:19:31 +0000",
-      "timestamp": 1793287171.0
-    },
-    {
-      "title": "Ranking the top 50 MLB free agents for the 2026-27 offseason, plus landing spots for every player",
-      "url": "https://www.cbssports.com/mlb/news/mlb-free-agency-2026-27-ranking-top-50-landing-spots/",
-      "source": "CBS MLB",
-      "published": "Thu, 29 Oct 2026 15:00:10 +0000",
-      "timestamp": 1793286010.0
-    },
-    {
-      "title": "Jeffery Simmons trade: Titans deal All-Pro defensive tackle to the Bears, per CBS Sports insider",
-      "url": "https://www.cbssports.com/nfl/news/titans-trade-jeffery-simmons-to-chicago-bears-grades/",
-      "source": "CBS NFL",
-      "published": "Thu, 29 Oct 2026 14:37:21 +0000",
-      "timestamp": 1793284641.0
     },
     {
       "title": "Jaylen Brown insists he never demanded Celtics trade, pushes back on 'false allegations' from Brian Scalabrine",
@@ -197,20 +211,6 @@
       "source": "CBS MLB",
       "published": "Thu, 29 Oct 2026 13:45:24 +0000",
       "timestamp": 1793281524.0
-    },
-    {
-      "title": "These Brewers World Series artifacts are heading to the Hall of Fame",
-      "url": "https://www.mlb.com/news/brewers-world-series-artifacts-heading-to-hall-of-fame",
-      "source": "MLB",
-      "published": "Thu, 29 Oct 2026 13:33:06 GMT",
-      "timestamp": 1793280786.0
-    },
-    {
-      "title": "Ranking the last 10 World Series: Where does Brewers vs. Rays 2026 showdown land in the last decade?",
-      "url": "https://www.cbssports.com/mlb/news/ranking-last-10-world-series-brewers-rays-2026/",
-      "source": "CBS MLB",
-      "published": "Thu, 29 Oct 2026 13:15:09 +0000",
-      "timestamp": 1793279709.0
     }
   ]
 }
