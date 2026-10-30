@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-10-30T01:13:30.048689+00:00",
+  "updated_at": "2026-10-30T07:10:48.487150+00:00",
   "count": 30,
   "articles": [
+    {
+      "title": "Packers' Christian Watson returns against Panthers after chest injury, hospital visit",
+      "url": "https://www.cbssports.com/nfl/news/christian-watson-injury-update-packers-wr-hospital/",
+      "source": "CBS NFL",
+      "published": "Fri, 30 Oct 2026 04:02:55 +0000",
+      "timestamp": 1793332975.0
+    },
+    {
+      "title": "The best moment from each series during the playoffs",
+      "url": "https://www.mlb.com/news/best-postseason-moments-2026",
+      "source": "MLB",
+      "published": "Fri, 30 Oct 2026 02:43:59 GMT",
+      "timestamp": 1793328239.0
+    },
     {
       "title": "Bichette bypassing opt-out, returning to Mets for 2027 season (source)",
       "url": "https://www.mlb.com/news/bo-bichette-player-option-mets",
@@ -24,6 +38,13 @@
       "timestamp": 1793311380.0
     },
     {
+      "title": "PSA Grading Is BACK… But There's a Problem!",
+      "url": "https://insider.cards/story/psa-grading-is-back-but-theres-a-problem-2403d6/",
+      "source": "Hobby",
+      "published": "Thu, 29 Oct 2026 21:30:24 +0000",
+      "timestamp": 1793309424.0
+    },
+    {
       "title": "King opts out of deal with Padres to become free agent (source)",
       "url": "https://www.mlb.com/news/michael-king-free-agent-2027",
       "source": "MLB",
@@ -43,13 +64,6 @@
       "source": "Hobby",
       "published": "Thu, 29 Oct 2026 19:37:11 +0000",
       "timestamp": 1793302631.0
-    },
-    {
-      "title": "The most clutch postseason performances",
-      "url": "https://www.mlb.com/news/most-clutch-postseason-performances",
-      "source": "MLB",
-      "published": "Thu, 29 Oct 2026 19:17:00 GMT",
-      "timestamp": 1793301420.0
     },
     {
       "title": "A's trade RHP prospect to Red Sox for outfielder Eaton",
@@ -185,13 +199,6 @@
       "timestamp": 1793278726.0
     },
     {
-      "title": "2026-27 Topps Flagship Basketball Poster Factory | Behind the Design",
-      "url": "https://insider.cards/story/2026-27-topps-flagship-basketball-poster-factory-behind-the-design-c6fdcd/",
-      "source": "Hobby",
-      "published": "Thu, 29 Oct 2026 11:45:43 +0000",
-      "timestamp": 1793274343.0
-    },
-    {
       "title": "2026 NFL trade deadline candidates: Ranking big-name players possibly on the move into tiers",
       "url": "https://www.cbssports.com/nfl/news/2026-nfl-trade-deadline-candidates-impact-tiers/",
       "source": "CBS NFL",
@@ -204,13 +211,6 @@
       "source": "MLB",
       "published": "Thu, 29 Oct 2026 07:24:00 GMT",
       "timestamp": 1793258640.0
-    },
-    {
-      "title": "One of the best postseason performances ever? Ashby just did it",
-      "url": "https://www.mlb.com/news/aaron-ashby-delivers-historic-playoff-run-to-aid-brewers-world-series",
-      "source": "MLB",
-      "published": "Thu, 29 Oct 2026 07:17:38 GMT",
-      "timestamp": 1793258258.0
     }
   ]
 }
