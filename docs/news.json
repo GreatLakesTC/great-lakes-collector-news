@@ -1,13 +1,34 @@
 {
-  "updated_at": "2026-10-30T07:10:48.487150+00:00",
+  "updated_at": "2026-10-30T13:08:07.669409+00:00",
   "count": 30,
   "articles": [
+    {
+      "title": "Top 25 MLB trade candidates for 2026-27 offseason: Paul Skenes, Jeremy Peña and more who could move",
+      "url": "https://www.cbssports.com/mlb/news/top-25-mlb-trade-candidates-2026-27-offseason/",
+      "source": "CBS MLB",
+      "published": "Fri, 30 Oct 2026 12:36:19 +0000",
+      "timestamp": 1793363779.0
+    },
+    {
+      "title": "Five bold predictions for 2026 NBA Cup: A new champion, a record for futility, a surprising early exit",
+      "url": "https://www.cbssports.com/nba/news/bold-predictions-2026-nba-cup-new-champion/",
+      "source": "CBS NBA",
+      "published": "Fri, 30 Oct 2026 12:26:05 +0000",
+      "timestamp": 1793363165.0
+    },
     {
       "title": "Packers' Christian Watson returns against Panthers after chest injury, hospital visit",
       "url": "https://www.cbssports.com/nfl/news/christian-watson-injury-update-packers-wr-hospital/",
       "source": "CBS NFL",
       "published": "Fri, 30 Oct 2026 04:02:55 +0000",
       "timestamp": 1793332975.0
+    },
+    {
+      "title": "2026 Bowman Football Sapphire Edition Review: Checklist, Chases And Box Value",
+      "url": "https://insider.cards/story/2026-bowman-football-sapphire-edition-review-checklist-chases-and-box-8d7a01/",
+      "source": "Hobby",
+      "published": "Fri, 30 Oct 2026 02:52:48 +0000",
+      "timestamp": 1793328768.0
     },
     {
       "title": "The best moment from each series during the playoffs",
@@ -78,6 +99,13 @@
       "source": "CBS NFL",
       "published": "Thu, 29 Oct 2026 17:47:55 +0000",
       "timestamp": 1793296075.0
+    },
+    {
+      "title": "2026 Topps Flagship Football Makai Lemon RC 91 Topps Throwback Black AUTO 4/10",
+      "url": "https://insider.cards/story/2026-topps-flagship-football-makai-lemon-rc-91-topps-throwback-black-1556fe/",
+      "source": "Hobby",
+      "published": "Thu, 29 Oct 2026 17:43:42 +0000",
+      "timestamp": 1793295822.0
     },
     {
       "title": "Brewers set World Series parade for Friday, two days after winning 2026 title",
@@ -157,13 +185,6 @@
       "timestamp": 1793282519.0
     },
     {
-      "title": "Topps Stadium Club Football To Return For First Time In 18 Years",
-      "url": "https://insider.cards/story/topps-stadium-club-football-to-return-for-first-time-in-18-years-46b87d/",
-      "source": "Hobby",
-      "published": "Thu, 29 Oct 2026 14:01:36 +0000",
-      "timestamp": 1793282496.0
-    },
-    {
       "title": "Five ways the NBA's injury outbreak could impact trade season: OKC has work to do, Rockets are in control",
       "url": "https://www.cbssports.com/nba/news/five-ways-nba-injury-outbreak-impact-trade-season-thunder-rockets/",
       "source": "CBS NBA",
@@ -190,27 +211,6 @@
       "source": "CBS MLB",
       "published": "Thu, 29 Oct 2026 13:15:09 +0000",
       "timestamp": 1793279709.0
-    },
-    {
-      "title": "Brewers win franchise's first World Series; marquee AFC clash headlines Week 8 NFL picks",
-      "url": "https://www.cbssports.com/mlb/news/brewers-win-franchises-first-world-series-marquee-afc-clash-headlines-week-8-nfl-picks/",
-      "source": "CBS NFL",
-      "published": "Thu, 29 Oct 2026 12:58:46 +0000",
-      "timestamp": 1793278726.0
-    },
-    {
-      "title": "2026 NFL trade deadline candidates: Ranking big-name players possibly on the move into tiers",
-      "url": "https://www.cbssports.com/nfl/news/2026-nfl-trade-deadline-candidates-impact-tiers/",
-      "source": "CBS NFL",
-      "published": "Thu, 29 Oct 2026 11:31:39 +0000",
-      "timestamp": 1793273499.0
-    },
-    {
-      "title": "After dream season, Rays' World Series wishes crash back down to earth",
-      "url": "https://www.mlb.com/news/rays-lose-2026-world-series-to-brewers",
-      "source": "MLB",
-      "published": "Thu, 29 Oct 2026 07:24:00 GMT",
-      "timestamp": 1793258640.0
     }
   ]
 }
