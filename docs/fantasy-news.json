@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T12:54:01.682508+00:00",
+  "updated_at": "2026-10-31T18:49:21.524933+00:00",
   "count": 25,
   "counts": {
     "Fantasy NFL": 15,
@@ -7,33 +7,6 @@
     "Fantasy MLB": 5
   },
   "articles": [
-    {
-      "title": "Nikola Jokic: Logs double-double in victory",
-      "url": "https://www.rotowire.com//basketball/player/nikola-jokic-3612",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-10-31T12:48:00+00:00",
-      "timestamp": 1793450880,
-      "summary": "Jokic posted 18 points (8-13 FG, 0-1 3Pt, 2-2 FT), seven rebounds, 10 assists and three steals in 37 minutes during Friday's 127-120 win over Phoenix. Visit RotoWire.com for more analysis on this..."
-    },
-    {
-      "title": "Stephen Curry: Drills eight threes in victory",
-      "url": "https://www.rotowire.com//basketball/player/stephen-curry-3014",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-10-31T12:35:00+00:00",
-      "timestamp": 1793450100,
-      "summary": "Curry recorded 31 points (11-23 FG, 8-14 3Pt, 1-1 FT), four rebounds, six assists, one block and one steal over 31 minutes during Friday's 112-95 win over the Lakers. Visit RotoWire.com for more..."
-    },
-    {
-      "title": "Luka Doncic: Explosive with 37 points",
-      "url": "https://www.rotowire.com//basketball/player/luka-doncic-4396",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-10-31T12:30:00+00:00",
-      "timestamp": 1793449800,
-      "summary": "Doncic accumulated 37 points (12-27 FG, 6-16 3Pt, 7-8 FT), seven rebounds, five assists, two blocks and one steal in 37 minutes during Friday's 112-95 loss to the Warriors. Visit RotoWire.com for..."
-    },
     {
       "title": "The Primer: Week 8 Edition (2026 Fantasy Football)",
       "url": "https://www.fantasypros.com/2026/10/the-primer-week-8-edition-2026-fantasy-football/",
@@ -125,6 +98,87 @@
       "summary": "Another weekend of NFL football has arrived! Unfortunately, the injury watch for fantasy football managers is also here, and that's certainly the case for A.J. Brown. Players who appear on the..."
     },
     {
+      "title": "Lauri Markkanen: Will play Saturday",
+      "url": "https://www.rotowire.com//basketball/player/lauri-markkanen-4119",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-10-31T11:10:00+00:00",
+      "timestamp": 1793445000,
+      "summary": "Markkanen (wrist) is available for Saturday's game against Portland. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Rudy Gobert: Nursing back spasms",
+      "url": "https://www.rotowire.com//basketball/player/rudy-gobert-3440",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-10-31T11:04:00+00:00",
+      "timestamp": 1793444640,
+      "summary": "Gobert (back) is listed as questionable for Saturday's game at San Antonio. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Robert Williams: Available to play",
+      "url": "https://www.rotowire.com//basketball/player/robert-williams-4382",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-10-31T11:03:00+00:00",
+      "timestamp": 1793444580,
+      "summary": "Williams (knee) is available for Saturday's game in Utah. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Scoot Henderson: Starting Saturday",
+      "url": "https://www.rotowire.com//basketball/player/scoot-henderson-5377",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-10-31T10:45:00+00:00",
+      "timestamp": 1793443500,
+      "summary": "Henderson will move into the starting lineup for Saturday's game in Utah, Trail Blazers' reporter Sean Highkin reports. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Reed Sheppard: Won't play Saturday",
+      "url": "https://www.rotowire.com//basketball/player/reed-sheppard-6257",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-10-31T10:33:00+00:00",
+      "timestamp": 1793442780,
+      "summary": "Sheppard (back) is out for Saturday's game against the Thunder. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "TreVeyon Henderson: Not available for Week 8",
+      "url": "https://www.rotowire.com//football/player/treveyon-henderson-18517",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-10-31T10:10:00+00:00",
+      "timestamp": 1793441400,
+      "summary": "Henderson (illness) has been downgraded from questionable to out for Sunday's game against the Dolphins, Ian Rapoport of ESPN and NFL Network reports. Visit RotoWire.com for more analysis on this..."
+    },
+    {
+      "title": "A.J. Brown: Won't play against Miami",
+      "url": "https://www.rotowire.com//football/player/aj-brown-13432",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-10-31T10:07:00+00:00",
+      "timestamp": 1793441220,
+      "summary": "Brown (knee/ankle) has been ruled out for Sunday's game against the Dolphins, Ian Rapoport of ESPN and NFL Network reports. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Kyle Monangai: Won't play against Seattle",
+      "url": "https://www.rotowire.com//football/player/kyle-monangai-18520",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-10-31T09:55:00+00:00",
+      "timestamp": 1793440500,
+      "summary": "Head coach Ben Johnson told reporters Saturday that Monangai (thumb/toe) will not play against the Seahawks on Monday, Courtney Cronin of ESPN.com reports. Visit RotoWire.com for more analysis on..."
+    },
+    {
+      "title": "Carnell Tate: Expected back after bye",
+      "url": "https://www.rotowire.com//football/player/carnell-tate-19268",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-10-31T08:10:00+00:00",
+      "timestamp": 1793434200,
+      "summary": "Tate (shoulder) will not play against the Bengals on Sunday but is expected to be back in action following the Titans' bye for Week 10 against the Jaguars on Sunday, Nov. 15, Paul Kuharsky of..."
+    },
+    {
       "title": "Jonathan Taylor: Trade talks heating up",
       "url": "https://www.rotowire.com//football/player/jonathan-taylor-14455",
       "source": "RotoWire",
@@ -132,15 +186,6 @@
       "published": "2026-10-31T05:04:00+00:00",
       "timestamp": 1793423040,
       "summary": "Taylor is being made available via trade by the Colts, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Desmond Bane: Drains six threes in win",
-      "url": "https://www.rotowire.com//basketball/player/desmond-bane-5159",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-10-31T04:57:00+00:00",
-      "timestamp": 1793422620,
-      "summary": "Bane provided 28 points (8-18 FG, 6-12 3Pt, 6-6 FT), two rebounds, six assists and one block in 39 minutes during Friday's 121-114 victory over the Raptors. Visit RotoWire.com for more analysis on..."
     },
     {
       "title": "Michael Arroyo: Undergoes elbow surgery",
@@ -170,15 +215,6 @@
       "summary": "Gray declined his side of a $30 million mutual option for 2027 on Friday and is now a free agent, Mac Cerullo of the Boston Herald reports. Visit RotoWire.com for more analysis on this update."
     },
     {
-      "title": "Jamal Murray: Erupts for 39 points in win",
-      "url": "https://www.rotowire.com//basketball/player/jamal-murray-3882",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-10-30T09:49:00+00:00",
-      "timestamp": 1793353740,
-      "summary": "Murray finished with 39 points (10-18 FG, 7-9 3Pt, 12-15 FT), eight rebounds, five assists, one steal and one block over 37 minutes in Friday's 127-120 win over Phoenix. Visit RotoWire.com for..."
-    },
-    {
       "title": "Sandy Alcantara: Club option officially picked up",
       "url": "https://www.rotowire.com//baseball/player/sandy-alcantara-14071",
       "source": "RotoWire",
@@ -186,42 +222,6 @@
       "published": "2026-10-30T07:30:00+00:00",
       "timestamp": 1793345400,
       "summary": "The Marlins exercised Alcantara's $21 million club option for 2027 on Friday. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Jadarian Price: Practices fully Friday",
-      "url": "https://www.rotowire.com//football/player/jadarian-price-19299",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-10-30T04:25:00+00:00",
-      "timestamp": 1793334300,
-      "summary": "Price (chest) was a full participant in Friday's practice, John Boyle of the Seahawks' official site reports. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Zach Charbonnet: Practices in limited capacity",
-      "url": "https://www.rotowire.com//football/player/zach-charbonnet-16897",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-10-30T04:18:00+00:00",
-      "timestamp": 1793333880,
-      "summary": "Charbonnet (knee) was a limited participant in Friday's practice, John Boyle of the Seahawks' official site reports. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Jordan Mason: Sharing backfield with Jones vs. Detroit",
-      "url": "https://www.rotowire.com//football/player/jordan-mason-16163",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-10-30T03:57:00+00:00",
-      "timestamp": 1793332620,
-      "summary": "Mason and Aaron Jones (knee) will share the backfield against the Lions on Sunday after the latter avoided an injury designation for Week 8, Craig Peters of the Vikings' official site reports...."
-    },
-    {
-      "title": "RJ Harvey: Shouldn't be out too long",
-      "url": "https://www.rotowire.com//football/player/rj-harvey-18522",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-10-30T03:38:00+00:00",
-      "timestamp": 1793331480,
-      "summary": "Harvey (knee) is ruled out for Sunday's game against the Chiefs, but his injury isn't considered severe or long term, Sam Jane of The Denver Post reports. Visit RotoWire.com for more analysis on..."
     },
     {
       "title": "Dustin May: Turns down mutual option",
