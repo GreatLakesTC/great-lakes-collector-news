@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-10-31T07:05:28.665386+00:00",
+  "updated_at": "2026-10-31T12:59:22.034417+00:00",
   "count": 30,
   "articles": [
+    {
+      "title": "Which long World Series title drought is most likely to end next?",
+      "url": "https://www.mlb.com/news/which-world-series-drought-will-end-next",
+      "source": "MLB",
+      "published": "Sat, 31 Oct 2026 12:05:00 GMT",
+      "timestamp": 1793448300.0
+    },
     {
       "title": "Pederson, Higashioka, Junis free agents after mutual options declined (sources)",
       "url": "https://www.mlb.com/news/joc-pederson-kyle-higashioka-jakob-junis-mutual-options-declined",
       "source": "MLB",
       "published": "Sat, 31 Oct 2026 03:35:04 GMT",
       "timestamp": 1793417704.0
-    },
-    {
-      "title": "Which long World Series title drought is most likely to end next?",
-      "url": "https://www.mlb.com/news/which-world-series-drought-will-end-next",
-      "source": "MLB",
-      "published": "Sat, 31 Oct 2026 02:24:38 GMT",
-      "timestamp": 1793413478.0
     },
     {
       "title": "Dustin May has been traded to or from the last 2 World Series winners. How rare is that?",
