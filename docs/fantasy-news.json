@@ -1,29 +1,146 @@
 {
-  "updated_at": "2026-10-31T01:02:48.236833+00:00",
-  "count": 24,
+  "updated_at": "2026-10-31T12:54:01.682508+00:00",
+  "count": 25,
   "counts": {
-    "Fantasy NFL": 14,
+    "Fantasy NFL": 15,
     "Fantasy NBA": 5,
     "Fantasy MLB": 5
   },
   "articles": [
     {
-      "title": "Fantasy Football Week 8 Player Grades & Start/Sit Advice (2026)",
-      "url": "https://www.fantasypros.com/2026/10/fantasy-football-week-8-player-grades-start-sit-advice-2026/",
-      "source": "FantasyPros",
-      "sport": "Fantasy NFL",
-      "published": "2026-10-30T15:47:28+00:00",
-      "timestamp": 1793375248,
-      "summary": "Welcome to Week 8, friends. As always, we're here to provide you with some fantasy football Quick Grades (or Start/Sit Grades, if you prefer) for the week. We tappedÂ our consensus projections and..."
+      "title": "Nikola Jokic: Logs double-double in victory",
+      "url": "https://www.rotowire.com//basketball/player/nikola-jokic-3612",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-10-31T12:48:00+00:00",
+      "timestamp": 1793450880,
+      "summary": "Jokic posted 18 points (8-13 FG, 0-1 3Pt, 2-2 FT), seven rebounds, 10 assists and three steals in 37 minutes during Friday's 127-120 win over Phoenix. Visit RotoWire.com for more analysis on this..."
     },
     {
-      "title": "Fantasy Football Start/Sit Advice: Safe & Risky Picks (Week 8)",
-      "url": "https://www.fantasypros.com/2026/10/fantasy-football-start-sit-advice-safe-risky-picks-week-8-2026/",
+      "title": "Stephen Curry: Drills eight threes in victory",
+      "url": "https://www.rotowire.com//basketball/player/stephen-curry-3014",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-10-31T12:35:00+00:00",
+      "timestamp": 1793450100,
+      "summary": "Curry recorded 31 points (11-23 FG, 8-14 3Pt, 1-1 FT), four rebounds, six assists, one block and one steal over 31 minutes during Friday's 112-95 win over the Lakers. Visit RotoWire.com for more..."
+    },
+    {
+      "title": "Luka Doncic: Explosive with 37 points",
+      "url": "https://www.rotowire.com//basketball/player/luka-doncic-4396",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-10-31T12:30:00+00:00",
+      "timestamp": 1793449800,
+      "summary": "Doncic accumulated 37 points (12-27 FG, 6-16 3Pt, 7-8 FT), seven rebounds, five assists, two blocks and one steal in 37 minutes during Friday's 112-95 loss to the Warriors. Visit RotoWire.com for..."
+    },
+    {
+      "title": "The Primer: Week 8 Edition (2026 Fantasy Football)",
+      "url": "https://www.fantasypros.com/2026/10/the-primer-week-8-edition-2026-fantasy-football/",
       "source": "FantasyPros",
       "sport": "Fantasy NFL",
-      "published": "2026-10-30T13:39:35+00:00",
-      "timestamp": 1793367575,
-      "summary": "Week 8 brings us a reprieve from international games, leaving us only to contend with four teams on a bye and the usual litany of injuries. Overall, though, we're building strong matchup pictures..."
+      "published": "2026-10-31T11:51:57+00:00",
+      "timestamp": 1793447517,
+      "summary": "The Primer is presented by Leaguebase. Leaguebase is the private clubhouse for the one league that actually matters: the one with a decade of rivalries and inside jokes behind it. Connect your..."
+    },
+    {
+      "title": "3 Burning Questions: Fantasy Football Lineup Advice (Week 8)",
+      "url": "https://www.fantasypros.com/2026/10/3-burning-questions-fantasy-football-lineup-advice-week-8-2026/",
+      "source": "FantasyPros",
+      "sport": "Fantasy NFL",
+      "published": "2026-10-31T11:48:08+00:00",
+      "timestamp": 1793447288,
+      "summary": "Fridays are my day to hop on Discord for an AMA, and the FantasyPros Discord users brought plenty of fantasy football questions for Week 8. To join my weekly AMA and ask questions, you need to..."
+    },
+    {
+      "title": "5 Fantasy Football Waiver Wire Stashes: Week 8 (2026)",
+      "url": "https://www.fantasypros.com/2026/10/5-fantasy-football-waiver-wire-stashes-week-8-2026/",
+      "source": "FantasyPros",
+      "sport": "Fantasy NFL",
+      "published": "2026-10-31T11:47:59+00:00",
+      "timestamp": 1793447279,
+      "summary": "As we head into Week 8, one smart strategy is to stash players before Sunday's games. This way, you can get ahead of next week's fantasy football waiver wire rush. That's where this article comes..."
+    },
+    {
+      "title": "NFL DFS GPP Picks & Lineup Advice: Week 8 (2026)",
+      "url": "https://www.fantasypros.com/2026/10/nfl-dfs-gpp-picks-lineup-advice-week-8-2026/",
+      "source": "FantasyPros",
+      "sport": "Fantasy NFL",
+      "published": "2026-10-31T11:47:55+00:00",
+      "timestamp": 1793447275,
+      "summary": "The players below are the ones I'm considering for NFL DFS GPPs this week. Salaries marked with an * indicate a significant difference in pricing on FanDuel. DFS Lineup Optimizer DFS Cheat Sheets..."
+    },
+    {
+      "title": "NFL DFS Cash Game Picks & Lineup Advice: Week 8 (2026)",
+      "url": "https://www.fantasypros.com/2026/10/nfl-dfs-cash-game-picks-lineup-advice-week-8-2026/",
+      "source": "FantasyPros",
+      "sport": "Fantasy NFL",
+      "published": "2026-10-31T11:47:51+00:00",
+      "timestamp": 1793447271,
+      "summary": "Week 8 is here, so it's time to build some NFL DFS cash game lineups. When playing cash games, target players with a strong combination of floor and ceiling. If there is a \"free square\" on the..."
+    },
+    {
+      "title": "Fantasy Football Week 8 Start/Sit Advice: Tight Ends (2026)",
+      "url": "https://www.fantasypros.com/2026/10/fantasy-football-week-8-start-sit-advice-tight-ends-2026/",
+      "source": "FantasyPros",
+      "sport": "Fantasy NFL",
+      "published": "2026-10-31T11:47:44+00:00",
+      "timestamp": 1793447264,
+      "summary": "Let's take a look at a few polarizing tight ends and what fantasy football expert Derek Brown advises. And you can find all of DBro's fantasy football start/sit lineup advice and outlook in this..."
+    },
+    {
+      "title": "Fantasy Football Week 8 Start/Sit Advice: Wide Receivers (2026)",
+      "url": "https://www.fantasypros.com/2026/10/fantasy-football-week-8-start-sit-advice-wide-receivers-2026/",
+      "source": "FantasyPros",
+      "sport": "Fantasy NFL",
+      "published": "2026-10-31T11:45:29+00:00",
+      "timestamp": 1793447129,
+      "summary": "Let's take a look at a few polarizing wide receivers and what fantasy football expert Derek Brown advises. And you can find all of DBro's fantasy football start/sit lineup advice and outlook in..."
+    },
+    {
+      "title": "Fantasy Football Week 8 Start/Sit Advice: Quarterbacks (2026)",
+      "url": "https://www.fantasypros.com/2026/10/fantasy-football-week-8-start-sit-advice-quarterbacks-2026/",
+      "source": "FantasyPros",
+      "sport": "Fantasy NFL",
+      "published": "2026-10-31T11:41:34+00:00",
+      "timestamp": 1793446894,
+      "summary": "Let's take a look at a few polarizing quarterbacks and what fantasy football expert Derek Brown advises. And you can find all of DBro's fantasy football start/sit lineup advice and outlook in this..."
+    },
+    {
+      "title": "Fantasy Football Week 8 Start/Sit Advice: Running Backs (2026)",
+      "url": "https://www.fantasypros.com/2026/10/fantasy-football-week-8-start-sit-advice-running-backs-2026/",
+      "source": "FantasyPros",
+      "sport": "Fantasy NFL",
+      "published": "2026-10-31T11:38:57+00:00",
+      "timestamp": 1793446737,
+      "summary": "Let's take a look at a few polarizing running backs and what fantasy football expert Derek Brown advises. And you can find all of DBro's fantasy football start/sit lineup advice and outlook in..."
+    },
+    {
+      "title": "Is A.J. Brown Playing Week 8? Fantasy Football Injury Update",
+      "url": "https://www.fantasypros.com/2026/10/is-a-j-brown-playing-week-8-fantasy-football-injury-update-2026/",
+      "source": "FantasyPros",
+      "sport": "Fantasy NFL",
+      "published": "2026-10-31T11:32:16+00:00",
+      "timestamp": 1793446336,
+      "summary": "Another weekend of NFL football has arrived! Unfortunately, the injury watch for fantasy football managers is also here, and that's certainly the case for A.J. Brown. Players who appear on the..."
+    },
+    {
+      "title": "Jonathan Taylor: Trade talks heating up",
+      "url": "https://www.rotowire.com//football/player/jonathan-taylor-14455",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-10-31T05:04:00+00:00",
+      "timestamp": 1793423040,
+      "summary": "Taylor is being made available via trade by the Colts, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Desmond Bane: Drains six threes in win",
+      "url": "https://www.rotowire.com//basketball/player/desmond-bane-5159",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-10-31T04:57:00+00:00",
+      "timestamp": 1793422620,
+      "summary": "Bane provided 28 points (8-18 FG, 6-12 3Pt, 6-6 FT), two rebounds, six assists and one block in 39 minutes during Friday's 121-114 victory over the Raptors. Visit RotoWire.com for more analysis on..."
     },
     {
       "title": "Michael Arroyo: Undergoes elbow surgery",
@@ -33,60 +150,6 @@
       "published": "2026-10-30T12:09:00+00:00",
       "timestamp": 1793362140,
       "summary": "Arroyo underwent right elbow surgery Wednesday to clean up cartilage and brace a chronic injury to his UCL. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Fantasy Football Rankings, Tiers & Start/Sit Advice (Week 8)",
-      "url": "https://www.fantasypros.com/2026/10/fantasy-football-rankings-tiers-start-sit-advice-week-8-2026/",
-      "source": "FantasyPros",
-      "sport": "Fantasy NFL",
-      "published": "2026-10-30T11:17:09+00:00",
-      "timestamp": 1793359029,
-      "summary": "Feel free to use these tiered half-point PPR fantasy football rankings for Week 8 as a tiebreaker for your difficult lineup decisions. Beneath the tiers, I'll offer brief thoughts on a few of the..."
-    },
-    {
-      "title": "6 Fantasy Football Waiver Wire Pickups & Injury Replacements (Week 8)",
-      "url": "https://www.fantasypros.com/2026/10/6-fantasy-football-waiver-wire-pickups-injury-replacements-week-8-2026/",
-      "source": "FantasyPros",
-      "sport": "Fantasy NFL",
-      "published": "2026-10-30T11:16:02+00:00",
-      "timestamp": 1793358962,
-      "summary": "Fantasy football can be an extremely fun game to play. It can also be highly frustrating at times. Nothing is more annoying than needing to make a last-minute waiver-wire move because someone in..."
-    },
-    {
-      "title": "3 Bold Predictions for Week 8 (2026 Fantasy Football)",
-      "url": "https://www.fantasypros.com/2026/10/3-bold-predictions-for-week-8-2026-fantasy-football/",
-      "source": "FantasyPros",
-      "sport": "Fantasy NFL",
-      "published": "2026-10-30T11:15:30+00:00",
-      "timestamp": 1793358930,
-      "summary": "The bold predictions began Week 7 with a 4-13-1 record. Thanks to Caleb Douglas showing out last week, the record climbs to 5-15-1 entering Week 8. A .300 batting average for my bold predictions..."
-    },
-    {
-      "title": "10 Fantasy Football Stats You Need to Know (Week 8)",
-      "url": "https://www.fantasypros.com/2026/10/10-fantasy-football-stats-you-need-to-know-week-8-2026/",
-      "source": "FantasyPros",
-      "sport": "Fantasy NFL",
-      "published": "2026-10-30T11:15:24+00:00",
-      "timestamp": 1793358924,
-      "summary": "FantasyPros publishes approximately 7.7 million pieces of weekly fantasy football content to help you win your league and eventually take home fantasy gold. It can be difficult to read such a vast..."
-    },
-    {
-      "title": "22 Injuries to Know for Week 8 (2026 Fantasy Football)",
-      "url": "https://www.fantasypros.com/2026/10/22-injuries-to-know-for-week-8-2026-fantasy-football/",
-      "source": "FantasyPros",
-      "sport": "Fantasy NFL",
-      "published": "2026-10-30T11:15:14+00:00",
-      "timestamp": 1793358914,
-      "summary": "Every week, fantasy matchups are won and lost based on who's available. Below are some of the biggest names on this week's injury report and what to expect. Waiver Wire Advice Weekly Fantasy..."
-    },
-    {
-      "title": "Fantasy Football IDP Start/Sit Lineup Advice: Week 8 (2026)Â",
-      "url": "https://www.fantasypros.com/2026/10/fantasy-football-idp-start-sit-lineup-advice-week-8-2026/",
-      "source": "FantasyPros",
-      "sport": "Fantasy NFL",
-      "published": "2026-10-30T11:15:04+00:00",
-      "timestamp": 1793358904,
-      "summary": "Thursday Night Football is complete, and fantasy football managers now turn their attention to the weekend's contests as we try to decide which players to start and which players to sit. For IDP..."
     },
     {
       "title": "Joe Ryan: Option declined, but under control",
@@ -107,13 +170,13 @@
       "summary": "Gray declined his side of a $30 million mutual option for 2027 on Friday and is now a free agent, Mac Cerullo of the Boston Herald reports. Visit RotoWire.com for more analysis on this update."
     },
     {
-      "title": "Fantasy Football Week 8 Expert Rankings (2026)",
-      "url": "https://www.fantasypros.com/2026/10/fantasy-football-week-8-expert-rankings-2026/",
-      "source": "FantasyPros",
-      "sport": "Fantasy NFL",
-      "published": "2026-10-30T07:32:52+00:00",
-      "timestamp": 1793345572,
-      "summary": "Set your lineup with confidence using our Week 8 fantasy football expert rankings for 2026. Whether you're weighing a difficult start/sit decision or comparing options at flex, our analysts'..."
+      "title": "Jamal Murray: Erupts for 39 points in win",
+      "url": "https://www.rotowire.com//basketball/player/jamal-murray-3882",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-10-30T09:49:00+00:00",
+      "timestamp": 1793353740,
+      "summary": "Murray finished with 39 points (10-18 FG, 7-9 3Pt, 12-15 FT), eight rebounds, five assists, one steal and one block over 37 minutes in Friday's 127-120 win over Phoenix. Visit RotoWire.com for..."
     },
     {
       "title": "Sandy Alcantara: Club option officially picked up",
@@ -143,15 +206,6 @@
       "summary": "Charbonnet (knee) was a limited participant in Friday's practice, John Boyle of the Seahawks' official site reports. Visit RotoWire.com for more analysis on this update."
     },
     {
-      "title": "Lauri Markkanen: Questionable versus Portland",
-      "url": "https://www.rotowire.com//basketball/player/lauri-markkanen-4119",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-10-30T04:14:00+00:00",
-      "timestamp": 1793333640,
-      "summary": "Markkanen (wrist) is listed as questionable for Saturday's game against Portland. Visit RotoWire.com for more analysis on this update."
-    },
-    {
       "title": "Jordan Mason: Sharing backfield with Jones vs. Detroit",
       "url": "https://www.rotowire.com//football/player/jordan-mason-16163",
       "source": "RotoWire",
@@ -161,15 +215,6 @@
       "summary": "Mason and Aaron Jones (knee) will share the backfield against the Lions on Sunday after the latter avoided an injury designation for Week 8, Craig Peters of the Vikings' official site reports...."
     },
     {
-      "title": "Alperen Sengun: Ruled out Friday",
-      "url": "https://www.rotowire.com//basketball/player/alperen-sengun-5404",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-10-30T03:39:00+00:00",
-      "timestamp": 1793331540,
-      "summary": "Sengun (back) has been ruled out for Friday's game against the Mavericks, Mike Curtis of The Dallas Morning News reports. Visit RotoWire.com for more analysis on this update."
-    },
-    {
       "title": "RJ Harvey: Shouldn't be out too long",
       "url": "https://www.rotowire.com//football/player/rj-harvey-18522",
       "source": "RotoWire",
@@ -177,42 +222,6 @@
       "published": "2026-10-30T03:38:00+00:00",
       "timestamp": 1793331480,
       "summary": "Harvey (knee) is ruled out for Sunday's game against the Chiefs, but his injury isn't considered severe or long term, Sam Jane of The Denver Post reports. Visit RotoWire.com for more analysis on..."
-    },
-    {
-      "title": "Makai Lemon: Philly's top WR for Week 8",
-      "url": "https://www.rotowire.com//football/player/makai-lemon-19231",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-10-30T03:33:00+00:00",
-      "timestamp": 1793331180,
-      "summary": "Lemon will be the Eagles' top wide receiver for a second consecutive game Sunday at Washington due to the absences of both DeVonta Smith (hamstring) and Dontayvion Wicks (ankle). Visit..."
-    },
-    {
-      "title": "Ty Jerome: Questionable versus Kings",
-      "url": "https://www.rotowire.com//basketball/player/ty-jerome-4774",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-10-30T03:30:00+00:00",
-      "timestamp": 1793331000,
-      "summary": "Jerome (back) is listed as questionable for Saturday's game against the Kings. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Chet Holmgren: Remains out for Saturday",
-      "url": "https://www.rotowire.com//basketball/player/chet-holmgren-5697",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-10-30T03:26:00+00:00",
-      "timestamp": 1793330760,
-      "summary": "Holmgren (knee) remains out for Saturday's road game against Houston, Justin Martinez of The Oklahoman reports. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Karl-Anthony Towns: Cleared to play Friday",
-      "url": "https://www.rotowire.com//basketball/player/karl-anthony-towns-3741",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-10-30T03:22:00+00:00",
-      "timestamp": 1793330520,
-      "summary": "Towns (wrist) is available for Friday's meeting with the 76ers, Fred Katz of The Athletic reports. Visit RotoWire.com for more analysis on this update."
     },
     {
       "title": "Dustin May: Turns down mutual option",
