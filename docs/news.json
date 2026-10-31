@@ -1,13 +1,41 @@
 {
-  "updated_at": "2026-10-31T01:11:53.795487+00:00",
+  "updated_at": "2026-10-31T07:05:28.665386+00:00",
   "count": 30,
   "articles": [
+    {
+      "title": "Pederson, Higashioka, Junis free agents after mutual options declined (sources)",
+      "url": "https://www.mlb.com/news/joc-pederson-kyle-higashioka-jakob-junis-mutual-options-declined",
+      "source": "MLB",
+      "published": "Sat, 31 Oct 2026 03:35:04 GMT",
+      "timestamp": 1793417704.0
+    },
+    {
+      "title": "Which long World Series title drought is most likely to end next?",
+      "url": "https://www.mlb.com/news/which-world-series-drought-will-end-next",
+      "source": "MLB",
+      "published": "Sat, 31 Oct 2026 02:24:38 GMT",
+      "timestamp": 1793413478.0
+    },
+    {
+      "title": "Dustin May has been traded to or from the last 2 World Series winners. How rare is that?",
+      "url": "https://www.mlb.com/news/dustin-may-s-journey-being-traded-to-and-from-world-series-winners",
+      "source": "MLB",
+      "published": "Sat, 31 Oct 2026 01:17:12 GMT",
+      "timestamp": 1793409432.0
+    },
     {
       "title": "NFL Week 8 final injury report: Latest on Lamar Jackson, AJ Brown, George Pickens, more",
       "url": "https://www.cbssports.com/nfl/news/nfl-week-8-injury-report-lamar-jackson-aj-brown-emeka-egbuka-more/",
       "source": "CBS NFL",
       "published": "Fri, 30 Oct 2026 22:30:10 +0000",
       "timestamp": 1793399410.0
+    },
+    {
+      "title": "Best World Series moments on Halloween 🎃",
+      "url": "https://www.mlb.com/news/halloween-world-series-mlb-playoff-games",
+      "source": "MLB",
+      "published": "Fri, 30 Oct 2026 22:03:00 GMT",
+      "timestamp": 1793397780.0
     },
     {
       "title": "Rays decline Martinez and Mullins' contract options, making them free agents",
@@ -24,18 +52,25 @@
       "timestamp": 1793395313.0
     },
     {
-      "title": "Mariners' No. 3 prospect Arroyo has right elbow surgery",
-      "url": "https://www.mlb.com/news/michael-arroyo-undergoes-right-elbow-surgery",
-      "source": "MLB",
-      "published": "Fri, 30 Oct 2026 21:02:44 GMT",
-      "timestamp": 1793394164.0
-    },
-    {
       "title": "Ja Morant injury: Trail Blazers star expected to miss at least four weeks with hamstring strain",
       "url": "https://www.cbssports.com/nba/news/ja-morant-injury-trail-blazers-star-miss-at-least-four-weeks-hamstring-strain/",
       "source": "CBS NBA",
       "published": "Fri, 30 Oct 2026 20:05:18 +0000",
       "timestamp": 1793390718.0
+    },
+    {
+      "title": "O's decline Eflin's mutual option for '27, making RHP a free agent",
+      "url": "https://www.mlb.com/news/zach-eflin-2027-mutual-option-declined-orioles",
+      "source": "MLB",
+      "published": "Fri, 30 Oct 2026 19:12:45 GMT",
+      "timestamp": 1793387565.0
+    },
+    {
+      "title": "New hitting coach looks to bring 'grind-you-down' approach to Phillies' lineup",
+      "url": "https://www.mlb.com/news/peter-fatse-phillies-hitting-coach-strategy",
+      "source": "MLB",
+      "published": "Fri, 30 Oct 2026 18:42:07 GMT",
+      "timestamp": 1793385727.0
     },
     {
       "title": "Ravens coach Jesse Minter confirms Lamar Jackson will return from ankle injury, start vs. Bills",
@@ -50,13 +85,6 @@
       "source": "CBS NBA",
       "published": "Fri, 30 Oct 2026 17:37:38 +0000",
       "timestamp": 1793381858.0
-    },
-    {
-      "title": "King opts out of deal with Padres to become free agent",
-      "url": "https://www.mlb.com/news/michael-king-free-agent-2027",
-      "source": "MLB",
-      "published": "Fri, 30 Oct 2026 17:22:00 GMT",
-      "timestamp": 1793380920.0
     },
     {
       "title": "Tigers acquire infielder Cheng in trade with Red Sox",
@@ -106,13 +134,6 @@
       "source": "CBS NFL",
       "published": "Fri, 30 Oct 2026 15:08:12 +0000",
       "timestamp": 1793372892.0
-    },
-    {
-      "title": "Milwaukee Public Schools close for Brewers' championship parade",
-      "url": "https://www.mlb.com/news/milwaukee-public-schools-to-close-for-brewers-championship-parade",
-      "source": "MLB",
-      "published": "Fri, 30 Oct 2026 15:00:00 GMT",
-      "timestamp": 1793372400.0
     },
     {
       "title": "Dylan Harper’s $2.88 Million Rookie Card Pulled Again — With a Decision Ahead",
@@ -171,13 +192,6 @@
       "timestamp": 1793332975.0
     },
     {
-      "title": "Bichette bypassing opt-out, returning to Mets for 2027 season (source)",
-      "url": "https://www.mlb.com/news/bo-bichette-player-option-mets",
-      "source": "MLB",
-      "published": "Thu, 29 Oct 2026 23:32:42 GMT",
-      "timestamp": 1793316762.0
-    },
-    {
       "title": "Jonathan Taylor says he hasn't requested trade as Colts' deadline selloff continues",
       "url": "https://www.cbssports.com/nfl/news/jonathan-taylor-nfl-trade-deadline-rumors-colts-2026/",
       "source": "CBS NFL",
@@ -185,25 +199,11 @@
       "timestamp": 1793315882.0
     },
     {
-      "title": "A's trade RHP prospect to Red Sox for outfielder Eaton",
-      "url": "https://www.mlb.com/news/nate-eaton-red-sox-athletics-trade",
-      "source": "MLB",
-      "published": "Thu, 29 Oct 2026 19:04:00 GMT",
-      "timestamp": 1793300640.0
-    },
-    {
       "title": "Brewers set World Series parade for Friday, two days after winning 2026 title",
       "url": "https://www.cbssports.com/mlb/news/brewers-world-series-parade-time-how-to-watch-route/",
       "source": "CBS MLB",
       "published": "Thu, 29 Oct 2026 17:40:01 +0000",
       "timestamp": 1793295601.0
-    },
-    {
-      "title": "Huge year for Contreras brothers ends with World Series embrace",
-      "url": "https://www.mlb.com/news/contreras-brothers-finish-huge-2026-season",
-      "source": "MLB",
-      "published": "Thu, 29 Oct 2026 16:35:26 GMT",
-      "timestamp": 1793291726.0
     },
     {
       "title": "Three reasons why the Brewers can repeat as World Series champions in 2027",
