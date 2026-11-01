@@ -1,13 +1,27 @@
 {
-  "updated_at": "2026-11-01T01:22:16.361743+00:00",
+  "updated_at": "2026-11-01T07:13:54.864460+00:00",
   "count": 30,
   "articles": [
     {
       "title": "Rasmussen ($20M club option) returns to Rays for '27 after stellar season, playoff heroics",
       "url": "https://www.mlb.com/news/rays-pick-up-drew-rasmussen-s-club-option-for-2027",
       "source": "MLB",
-      "published": "Sat, 31 Oct 2026 23:23:42 GMT",
-      "timestamp": 1793489022.0
+      "published": "Sun, 01 Nov 2026 03:58:00 GMT",
+      "timestamp": 1793505480.0
+    },
+    {
+      "title": "Pivetta becomes free agent after Padres decline '27 team option (source)",
+      "url": "https://www.mlb.com/news/nick-pivetta-2027-team-option-declined-by-padres",
+      "source": "MLB",
+      "published": "Sun, 01 Nov 2026 02:27:00 GMT",
+      "timestamp": 1793500020.0
+    },
+    {
+      "title": "How did last year's top free agents fare in 2026?",
+      "url": "https://www.mlb.com/news/how-did-top-free-agents-fare-in-2026-season",
+      "source": "MLB",
+      "published": "Sun, 01 Nov 2026 01:48:07 GMT",
+      "timestamp": 1793497687.0
     },
     {
       "title": "Orioles decline Robert's '27 team option after injury-plagued season",
@@ -101,6 +115,13 @@
       "timestamp": 1793457207.0
     },
     {
+      "title": "AFL participation 'no-brainer' for No. 11 prospect Lewis",
+      "url": "https://www.mlb.com/news/dillon-lewis-participates-in-arizona-fall-league-for-marlins",
+      "source": "MLB",
+      "published": "Sat, 31 Oct 2026 13:26:57 GMT",
+      "timestamp": 1793453217.0
+    },
+    {
       "title": "TOP 5 HOTTEST SPORTS CARDS!!🔥📈",
       "url": "https://insider.cards/story/top-5-hottest-sports-cards-eba452/",
       "source": "Hobby",
@@ -115,25 +136,11 @@
       "timestamp": 1793448300.0
     },
     {
-      "title": "Pederson, Higashioka, Junis free agents after mutual options declined (sources)",
-      "url": "https://www.mlb.com/news/joc-pederson-kyle-higashioka-jakob-junis-mutual-options-declined",
-      "source": "MLB",
-      "published": "Sat, 31 Oct 2026 03:35:04 GMT",
-      "timestamp": 1793417704.0
-    },
-    {
       "title": "Dustin May has been traded to or from the last 2 World Series winners. How rare is that?",
       "url": "https://www.mlb.com/news/dustin-may-s-journey-being-traded-to-and-from-world-series-winners",
       "source": "MLB",
       "published": "Sat, 31 Oct 2026 01:17:12 GMT",
       "timestamp": 1793409432.0
-    },
-    {
-      "title": "Best World Series moments on Halloween 🎃",
-      "url": "https://www.mlb.com/news/halloween-world-series-mlb-playoff-games",
-      "source": "MLB",
-      "published": "Fri, 30 Oct 2026 22:03:00 GMT",
-      "timestamp": 1793397780.0
     },
     {
       "title": "Rays decline Martinez and Mullins' contract options, making them free agents",
@@ -155,13 +162,6 @@
       "source": "CBS NBA",
       "published": "Fri, 30 Oct 2026 20:05:18 +0000",
       "timestamp": 1793390718.0
-    },
-    {
-      "title": "O's decline Eflin's mutual option for '27, making RHP a free agent",
-      "url": "https://www.mlb.com/news/zach-eflin-2027-mutual-option-declined-orioles",
-      "source": "MLB",
-      "published": "Fri, 30 Oct 2026 19:12:45 GMT",
-      "timestamp": 1793387565.0
     },
     {
       "title": "Ravens coach Jesse Minter confirms Lamar Jackson will return from ankle injury, start vs. Bills",
@@ -206,11 +206,11 @@
       "timestamp": 1793374612.0
     },
     {
-      "title": "The best moment from each series during the playoffs",
-      "url": "https://www.mlb.com/news/best-postseason-moments-2026",
-      "source": "MLB",
-      "published": "Fri, 30 Oct 2026 15:35:00 GMT",
-      "timestamp": 1793374500.0
+      "title": "MLB qualifying offer: Predicting who will get a QO this offseason, plus how the $23.15 million contract works",
+      "url": "https://www.cbssports.com/mlb/news/mlb-qualifying-offer-contract-predictions-2026-27-offseason/",
+      "source": "CBS MLB",
+      "published": "Fri, 30 Oct 2026 15:27:55 +0000",
+      "timestamp": 1793374075.0
     }
   ]
 }
