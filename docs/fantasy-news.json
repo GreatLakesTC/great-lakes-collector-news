@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T18:49:21.524933+00:00",
+  "updated_at": "2026-11-01T01:13:18.121691+00:00",
   "count": 25,
   "counts": {
     "Fantasy NFL": 15,
@@ -7,6 +7,15 @@
     "Fantasy MLB": 5
   },
   "articles": [
+    {
+      "title": "Colston Loveland: Cleared for Monday Night Football",
+      "url": "https://www.rotowire.com//football/player/colston-loveland-18460",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-10-31T11:57:00+00:00",
+      "timestamp": 1793447820,
+      "summary": "Loveland (neck) does not carry an injury designation into Monday's game against the Seahawks. Visit RotoWire.com for more analysis on this update."
+    },
     {
       "title": "The Primer: Week 8 Edition (2026 Fantasy Football)",
       "url": "https://www.fantasypros.com/2026/10/the-primer-week-8-edition-2026-fantasy-football/",
@@ -98,94 +107,121 @@
       "summary": "Another weekend of NFL football has arrived! Unfortunately, the injury watch for fantasy football managers is also here, and that's certainly the case for A.J. Brown. Players who appear on the..."
     },
     {
-      "title": "Lauri Markkanen: Will play Saturday",
-      "url": "https://www.rotowire.com//basketball/player/lauri-markkanen-4119",
+      "title": "Nick Pivetta: Becomes free agent",
+      "url": "https://www.rotowire.com//baseball/player/nick-pivetta-14014",
+      "source": "RotoWire",
+      "sport": "Fantasy MLB",
+      "published": "2026-10-31T05:47:00+00:00",
+      "timestamp": 1793425620,
+      "summary": "The Padres declined Pivetta's $14 million option for 2027 on Saturday, Kevin Acee of The San Diego Union-Tribune reports. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Yandy Diaz: Option vests for 2027",
+      "url": "https://www.rotowire.com//baseball/player/yandy-diaz-14205",
+      "source": "RotoWire",
+      "sport": "Fantasy MLB",
+      "published": "2026-10-31T05:30:00+00:00",
+      "timestamp": 1793424600,
+      "summary": "The Rays have formalized the completion of Diaz's $13 million vesting option for 2027, Marc Topkin of the Tampa Bay Times reports. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Ziaire Williams: Questionable for Sunday",
+      "url": "https://www.rotowire.com//basketball/player/ziaire-williams-5400",
       "source": "RotoWire",
       "sport": "Fantasy NBA",
-      "published": "2026-10-31T11:10:00+00:00",
-      "timestamp": 1793445000,
-      "summary": "Markkanen (wrist) is available for Saturday's game against Portland. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Rudy Gobert: Nursing back spasms",
-      "url": "https://www.rotowire.com//basketball/player/rudy-gobert-3440",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-10-31T11:04:00+00:00",
-      "timestamp": 1793444640,
-      "summary": "Gobert (back) is listed as questionable for Saturday's game at San Antonio. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Robert Williams: Available to play",
-      "url": "https://www.rotowire.com//basketball/player/robert-williams-4382",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-10-31T11:03:00+00:00",
-      "timestamp": 1793444580,
-      "summary": "Williams (knee) is available for Saturday's game in Utah. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Scoot Henderson: Starting Saturday",
-      "url": "https://www.rotowire.com//basketball/player/scoot-henderson-5377",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-10-31T10:45:00+00:00",
-      "timestamp": 1793443500,
-      "summary": "Henderson will move into the starting lineup for Saturday's game in Utah, Trail Blazers' reporter Sean Highkin reports. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Reed Sheppard: Won't play Saturday",
-      "url": "https://www.rotowire.com//basketball/player/reed-sheppard-6257",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-10-31T10:33:00+00:00",
-      "timestamp": 1793442780,
-      "summary": "Sheppard (back) is out for Saturday's game against the Thunder. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "TreVeyon Henderson: Not available for Week 8",
-      "url": "https://www.rotowire.com//football/player/treveyon-henderson-18517",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-10-31T10:10:00+00:00",
-      "timestamp": 1793441400,
-      "summary": "Henderson (illness) has been downgraded from questionable to out for Sunday's game against the Dolphins, Ian Rapoport of ESPN and NFL Network reports. Visit RotoWire.com for more analysis on this..."
-    },
-    {
-      "title": "A.J. Brown: Won't play against Miami",
-      "url": "https://www.rotowire.com//football/player/aj-brown-13432",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-10-31T10:07:00+00:00",
-      "timestamp": 1793441220,
-      "summary": "Brown (knee/ankle) has been ruled out for Sunday's game against the Dolphins, Ian Rapoport of ESPN and NFL Network reports. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Kyle Monangai: Won't play against Seattle",
-      "url": "https://www.rotowire.com//football/player/kyle-monangai-18520",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-10-31T09:55:00+00:00",
-      "timestamp": 1793440500,
-      "summary": "Head coach Ben Johnson told reporters Saturday that Monangai (thumb/toe) will not play against the Seahawks on Monday, Courtney Cronin of ESPN.com reports. Visit RotoWire.com for more analysis on..."
-    },
-    {
-      "title": "Carnell Tate: Expected back after bye",
-      "url": "https://www.rotowire.com//football/player/carnell-tate-19268",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-10-31T08:10:00+00:00",
-      "timestamp": 1793434200,
-      "summary": "Tate (shoulder) will not play against the Bengals on Sunday but is expected to be back in action following the Titans' bye for Week 10 against the Jaguars on Sunday, Nov. 15, Paul Kuharsky of..."
-    },
-    {
-      "title": "Jonathan Taylor: Trade talks heating up",
-      "url": "https://www.rotowire.com//football/player/jonathan-taylor-14455",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
       "published": "2026-10-31T05:04:00+00:00",
       "timestamp": 1793423040,
-      "summary": "Taylor is being made available via trade by the Colts, Adam Schefter of ESPN reports. Visit RotoWire.com for more analysis on this update."
+      "summary": "Williams (foot) is questionable for Sunday's game against the Raptors, Law Murray of The Athletic reports. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Joan Beringer: Starting Saturday",
+      "url": "https://www.rotowire.com//basketball/player/joan-beringer-6576",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-10-31T04:32:00+00:00",
+      "timestamp": 1793421120,
+      "summary": "Beringer will start Saturday against the Spurs, Jack Borman of Lockedon Wolves reports. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Ty Jerome: Ruled out Saturday",
+      "url": "https://www.rotowire.com//basketball/player/ty-jerome-4774",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-10-31T04:24:00+00:00",
+      "timestamp": 1793420640,
+      "summary": "Jerome (back) won't play in Saturday's game versus Sacramento, Chris Herrington of The Daily Memphian. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Stephon Castle: Cleared to play versus Minnesota",
+      "url": "https://www.rotowire.com//basketball/player/stephon-castle-6250",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-10-31T04:06:00+00:00",
+      "timestamp": 1793419560,
+      "summary": "Castle (illness) is listed as available for Saturday's game against Minnesota. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Drew Rasmussen: Rays exercise option",
+      "url": "https://www.rotowire.com//baseball/player/drew-rasmussen-14877",
+      "source": "RotoWire",
+      "sport": "Fantasy MLB",
+      "published": "2026-10-31T03:59:00+00:00",
+      "timestamp": 1793419140,
+      "summary": "The Rays exercised Rasmussen's $20 million club option for the 2027 season Saturday, Marc Topkin of the Tampa Bay Times reports. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Marcus Smart: Starting Saturday",
+      "url": "https://www.rotowire.com//basketball/player/marcus-smart-3575",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-10-31T03:52:00+00:00",
+      "timestamp": 1793418720,
+      "summary": "Smart will start Saturday against the Thunder, Will Guillory of The Athletic reports. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Emilio Pagan: Declines player option",
+      "url": "https://www.rotowire.com//baseball/player/emilio-pagan-14747",
+      "source": "RotoWire",
+      "sport": "Fantasy MLB",
+      "published": "2026-10-31T02:20:00+00:00",
+      "timestamp": 1793413200,
+      "summary": "Pagan declined his $10 million player option for the 2027 season Saturday, Francys Romero of BeisbolFR.com reports. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Rashid Shaheed: Ruled out for MNF",
+      "url": "https://www.rotowire.com//football/player/rashid-shaheed-16560",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-10-31T01:53:00+00:00",
+      "timestamp": 1793411580,
+      "summary": "Shaheed (knee) has been ruled out for Monday's game against the Bears, Curtis Crabtree of FOX 13 Seattle reports. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Jadarian Price: No designation for Week 8",
+      "url": "https://www.rotowire.com//football/player/jadarian-price-19299",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-10-31T01:50:00+00:00",
+      "timestamp": 1793411400,
+      "summary": "Price (chest) doesn't have a designation for Monday's game against the Bears, but he remains on injured reserve, John Boyle of the Seahawks' official site reports. Visit RotoWire.com for more..."
+    },
+    {
+      "title": "Zach Charbonnet: Will play Monday",
+      "url": "https://www.rotowire.com//football/player/zach-charbonnet-16897",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-10-31T01:49:00+00:00",
+      "timestamp": 1793411340,
+      "summary": "Charbonnet (knee) does not carry an injury designation into Monday's game against the Bears, John Boyle of the Seahawks' official site reports. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "RJ Harvey: Lands on injured reserve",
+      "url": "https://www.rotowire.com//football/player/rj-harvey-18522",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-10-31T01:19:00+00:00",
+      "timestamp": 1793409540,
+      "summary": "The Broncos placed Harvey (knee) on injured reserve Saturday, Ian Rapoport of NFL Network reports. Visit RotoWire.com for more analysis on this update."
     },
     {
       "title": "Michael Arroyo: Undergoes elbow surgery",
@@ -195,42 +231,6 @@
       "published": "2026-10-30T12:09:00+00:00",
       "timestamp": 1793362140,
       "summary": "Arroyo underwent right elbow surgery Wednesday to clean up cartilage and brace a chronic injury to his UCL. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Joe Ryan: Option declined, but under control",
-      "url": "https://www.rotowire.com//baseball/player/joe-ryan-16036",
-      "source": "RotoWire",
-      "sport": "Fantasy MLB",
-      "published": "2026-10-30T11:10:00+00:00",
-      "timestamp": 1793358600,
-      "summary": "The Twins declined Ryan's $13 million mutual option for 2027 on Friday, Dan Hayes of The Athletic reports. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Sonny Gray: Free agent after declining option",
-      "url": "https://www.rotowire.com//baseball/player/sonny-gray-12129",
-      "source": "RotoWire",
-      "sport": "Fantasy MLB",
-      "published": "2026-10-30T10:28:00+00:00",
-      "timestamp": 1793356080,
-      "summary": "Gray declined his side of a $30 million mutual option for 2027 on Friday and is now a free agent, Mac Cerullo of the Boston Herald reports. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Sandy Alcantara: Club option officially picked up",
-      "url": "https://www.rotowire.com//baseball/player/sandy-alcantara-14071",
-      "source": "RotoWire",
-      "sport": "Fantasy MLB",
-      "published": "2026-10-30T07:30:00+00:00",
-      "timestamp": 1793345400,
-      "summary": "The Marlins exercised Alcantara's $21 million club option for 2027 on Friday. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Dustin May: Turns down mutual option",
-      "url": "https://www.rotowire.com//baseball/player/dustin-may-14331",
-      "source": "RotoWire",
-      "sport": "Fantasy MLB",
-      "published": "2026-10-29T04:30:00+00:00",
-      "timestamp": 1793248200,
-      "summary": "May declined his mutual option with the Brewers on Thursday, becoming a free agent, Jon Heyman of the New York Post reports. Visit RotoWire.com for more analysis on this update."
     }
   ]
 }
