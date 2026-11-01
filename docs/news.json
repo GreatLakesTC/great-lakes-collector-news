@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T07:13:54.864460+00:00",
+  "updated_at": "2026-11-01T13:00:32.080099+00:00",
   "count": 30,
   "articles": [
     {
@@ -99,6 +99,13 @@
       "source": "CBS NFL",
       "published": "Sat, 31 Oct 2026 15:28:04 +0000",
       "timestamp": 1793460484.0
+    },
+    {
+      "title": "Rookie Report Card: Grading Every Bills Rookie's Performance After Bye Week",
+      "url": "https://insider.cards/story/rookie-report-card-grading-every-bills-rookies-performance-after-bye-d280e2/",
+      "source": "Hobby",
+      "published": "Sat, 31 Oct 2026 15:10:00 +0000",
+      "timestamp": 1793459400.0
     },
     {
       "title": "Colts actively engaged in Jonathan Taylor trade talks: Five teams reportedly interested in star running back",
@@ -204,13 +211,6 @@
       "source": "CBS MLB",
       "published": "Fri, 30 Oct 2026 15:36:52 +0000",
       "timestamp": 1793374612.0
-    },
-    {
-      "title": "MLB qualifying offer: Predicting who will get a QO this offseason, plus how the $23.15 million contract works",
-      "url": "https://www.cbssports.com/mlb/news/mlb-qualifying-offer-contract-predictions-2026-27-offseason/",
-      "source": "CBS MLB",
-      "published": "Fri, 30 Oct 2026 15:27:55 +0000",
-      "timestamp": 1793374075.0
     }
   ]
 }
