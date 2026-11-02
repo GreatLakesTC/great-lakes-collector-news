@@ -1,12 +1,30 @@
 {
-  "updated_at": "2026-11-01T18:49:24.440173+00:00",
-  "count": 24,
+  "updated_at": "2026-11-02T01:10:51.634574+00:00",
+  "count": 25,
   "counts": {
-    "Fantasy NFL": 14,
+    "Fantasy NFL": 15,
     "Fantasy NBA": 5,
     "Fantasy MLB": 5
   },
   "articles": [
+    {
+      "title": "Fantasy Football Week 9 Early Trade Targets (2026)",
+      "url": "https://www.fantasypros.com/2026/11/fantasy-football-week-9-early-trade-targets-2026/",
+      "source": "FantasyPros",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-01T22:53:13+00:00",
+      "timestamp": 1793573593,
+      "summary": "Even though Halloween just passed, I'm still considering it spooky season. This trade targets list will include some scary targets that might not cost much. They come with plenty of risk, but also..."
+    },
+    {
+      "title": "Week 9 Early Waiver Wire Claims (2026 Fantasy Football)",
+      "url": "https://www.fantasypros.com/2026/11/week-9-early-waiver-wire-claims-2026-fantasy-football/",
+      "source": "FantasyPros",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-01T22:43:39+00:00",
+      "timestamp": 1793573019,
+      "summary": "Welcome back to an early look at the Waiver Wire following Week 8's early slate of games! Every player on this list is rostered in fewer than 40% of leagues and played in Sunday's early slate or..."
+    },
     {
       "title": "Fantasy Football: Last-Minute Advice for Week 8 (2026)",
       "url": "https://www.fantasypros.com/2026/11/fantasy-football-last-minute-advice-for-week-8-2026/",
@@ -44,42 +62,6 @@
       "summary": "The Primer is presented by Leaguebase. Leaguebase is the private clubhouse for the one league that actually matters: the one with a decade of rivalries and inside jokes behind it. Connect your..."
     },
     {
-      "title": "Alex Sarr: Gets fourth-year option picked up",
-      "url": "https://www.rotowire.com//basketball/player/alex-sarr-6240",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-11-01T10:42:00+00:00",
-      "timestamp": 1793529720,
-      "summary": "The Wizards exercised the fourth-year team option on Sarr on Tuesday, Brett Siegel of ClutchPoints.com reports. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Amon-Ra St. Brown: Makes trip to locker room Sunday",
-      "url": "https://www.rotowire.com//football/player/amon-ra-st-brown-15332",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-01T10:39:00+00:00",
-      "timestamp": 1793529540,
-      "summary": "St. Brown headed to the locker room in the first quarter of Sunday's game against the Vikings due to an apparent injury, Nolan Bianchi of The Detroit News reports. Visit RotoWire.com for more..."
-    },
-    {
-      "title": "Lamar Jackson: Ruled out for rest of Sunday's game",
-      "url": "https://www.rotowire.com//football/player/lamar-jackson-12561",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-01T10:39:00+00:00",
-      "timestamp": 1793529540,
-      "summary": "Jackson (right thumb) has been ruled out for the remainder of Sunday's game against the Bills. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Drake London: Returns Sunday",
-      "url": "https://www.rotowire.com//football/player/drake-london-15868",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-01T10:31:00+00:00",
-      "timestamp": 1793529060,
-      "summary": "London (head) returned to Sunday's contest at Tampa Bay, Tori McElhaney of the Falcons' official site reports. Visit RotoWire.com for more analysis on this update."
-    },
-    {
       "title": "Is George Pickens Playing Week 8? Fantasy Football Injury Update",
       "url": "https://www.fantasypros.com/2026/11/is-george-pickens-playing-week-8-fantasy-football-injury-update-2026/",
       "source": "FantasyPros",
@@ -89,49 +71,112 @@
       "summary": "Another weekend of NFL football has arrived! Unfortunately, the injury watch for fantasy football managers is also here, and that's certainly the case for George Pickens. Players who appear on the..."
     },
     {
-      "title": "Deshaun Watson: Back in Sunday's game",
-      "url": "https://www.rotowire.com//football/player/deshaun-watson-11712",
+      "title": "Jordan Mason: Does little with eight carries",
+      "url": "https://www.rotowire.com//football/player/jordan-mason-16163",
       "source": "RotoWire",
       "sport": "Fantasy NFL",
-      "published": "2026-11-01T10:27:00+00:00",
-      "timestamp": 1793528820,
-      "summary": "Watson (undisclosed) returned to Sunday's game in Pittsburgh, Scott Petrak of the Elyria Chronicle-Telegram reports. Visit RotoWire.com for more analysis on this update."
+      "published": "2026-11-01T05:06:00+00:00",
+      "timestamp": 1793509560,
+      "summary": "Mason rushed eight times for 20 yards in the Vikings' 19-15 loss to the Lions on Sunday. Visit RotoWire.com for more analysis on this update."
     },
     {
-      "title": "Nic Claxton: Log full practice Sunday",
-      "url": "https://www.rotowire.com//basketball/player/nic-claxton-4827",
+      "title": "Dak Prescott: Records two total TDs on Sunday",
+      "url": "https://www.rotowire.com//football/player/dak-prescott-11008",
       "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-11-01T09:15:00+00:00",
-      "timestamp": 1793524500,
-      "summary": "Claxton (hamstring) was a full participant in Sunday's practice, K.C. Johnson of Chicago Sports Network. Visit RotoWire.com for more analysis on this update."
+      "sport": "Fantasy NFL",
+      "published": "2026-11-01T05:00:00+00:00",
+      "timestamp": 1793509200,
+      "summary": "Prescott was 19-for-29 passing for 195 yards, one touchdown and no interceptions while rushing seven times for 20 yards and one more TD during Sunday's 33-30 overtime defeat to the Cardinals...."
     },
     {
-      "title": "Domantas Sabonis: Fills box score in Saturday's loss",
-      "url": "https://www.rotowire.com//basketball/player/domantas-sabonis-3865",
+      "title": "Drake London: Forgettable afternoon in loss",
+      "url": "https://www.rotowire.com//football/player/drake-london-15868",
       "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-11-01T07:56:00+00:00",
-      "timestamp": 1793519760,
-      "summary": "Sabonis racked up 11 points (3-5 FG, 0-1 3Pt, 5-6 FT), 14 rebounds, eight assists and one steal in 38 minutes during Saturday's 136-105 loss to the Grizzlies. Visit RotoWire.com for more analysis..."
+      "sport": "Fantasy NFL",
+      "published": "2026-11-01T04:50:00+00:00",
+      "timestamp": 1793508600,
+      "summary": "London brought in one of six targets for eight yards in the Falcons' 16-0 loss to the Buccaneers on Sunday. Visit RotoWire.com for more analysis on this update."
     },
     {
-      "title": "Dyson Daniels: Active defensively in loss",
-      "url": "https://www.rotowire.com//basketball/player/dyson-daniels-5385",
+      "title": "Kenny Gainwell: Career-best rushing yardage total in win",
+      "url": "https://www.rotowire.com//football/player/kenny-gainwell-15222",
       "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-11-01T07:31:00+00:00",
-      "timestamp": 1793518260,
-      "summary": "Daniels provided eight points (3-6 FG, 0-2 3Pt, 2-3 FT), four rebounds, three assists and three steals in 27 minutes during Saturday's 121-99 loss to New Orleans. Visit RotoWire.com for more..."
+      "sport": "Fantasy NFL",
+      "published": "2026-11-01T04:44:00+00:00",
+      "timestamp": 1793508240,
+      "summary": "Gainwell rushed 25 times for 140 yards in the Buccaneers' 16-0 win over the Falcons on Sunday. Visit RotoWire.com for more analysis on this update."
     },
     {
-      "title": "Saddiq Bey: Strong performance off bench",
-      "url": "https://www.rotowire.com//basketball/player/saddiq-bey-5182",
+      "title": "George Pickens: Only two receptions in Week 8",
+      "url": "https://www.rotowire.com//football/player/george-pickens-15853",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-01T04:43:00+00:00",
+      "timestamp": 1793508180,
+      "summary": "Pickens tallied two catches (on four targets) for 48 yards during Sunday's 33-30 overtime loss to the Cardinals. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Ty Jerome: Available to play Monday",
+      "url": "https://www.rotowire.com//basketball/player/ty-jerome-4774",
       "source": "RotoWire",
       "sport": "Fantasy NBA",
-      "published": "2026-11-01T07:10:00+00:00",
-      "timestamp": 1793517000,
-      "summary": "Bey ended with 25 points (9-13 FG, 1-2 3Pt, 6-7 FT), six rebounds, one assist and four steals across 26 minutes during Saturday's 121-99 win over Atlanta. Visit RotoWire.com for more analysis on..."
+      "published": "2026-11-01T03:10:00+00:00",
+      "timestamp": 1793502600,
+      "summary": "Jerome (back) is not listed on the injury report ahead of Monday's game against New Orleans. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Rudy Gobert: Missing from injury report",
+      "url": "https://www.rotowire.com//basketball/player/rudy-gobert-3440",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-11-01T03:05:00+00:00",
+      "timestamp": 1793502300,
+      "summary": "Gobert (back) is not listed on the injury report for Monday's game against Milwaukee. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Teruaki Sato: Posted for MLB clubs",
+      "url": "https://www.rotowire.com//baseball/player/teruaki-sato-20706",
+      "source": "RotoWire",
+      "sport": "Fantasy MLB",
+      "published": "2026-11-01T02:19:00+00:00",
+      "timestamp": 1793499540,
+      "summary": "The Hanshin Tigers of Nippon Professional Baseball made Sato available to sign with MLB teams via the posting process Sunday, Mark Feinsand of MLB.com reports. Visit RotoWire.com for more analysis..."
+    },
+    {
+      "title": "Coby White: Not on injury report for Monday",
+      "url": "https://www.rotowire.com//basketball/player/coby-white-4801",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-11-01T02:12:00+00:00",
+      "timestamp": 1793499120,
+      "summary": "White (calf) is not listed on the injury report for Monday's game against the Pistons. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Kon Knueppel: Out against Detroit",
+      "url": "https://www.rotowire.com//basketball/player/kon-knueppel-6540",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-11-01T02:08:00+00:00",
+      "timestamp": 1793498880,
+      "summary": "Knueppel (hamstring) is listed as out for Monday's game versus the Pistons. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Kaima Taira: Posted for MLB teams",
+      "url": "https://www.rotowire.com//baseball/player/kaima-taira-19195",
+      "source": "RotoWire",
+      "sport": "Fantasy MLB",
+      "published": "2026-11-01T02:04:00+00:00",
+      "timestamp": 1793498640,
+      "summary": "The Seibu Lions of Nippon Professional Baseball made Taira available to sign with MLB teams via the posting process Sunday, Mark Feinsand of MLB.com reports. Visit RotoWire.com for more analysis..."
+    },
+    {
+      "title": "Jayson Tatum: Returns versus Orlando",
+      "url": "https://www.rotowire.com//basketball/player/jayson-tatum-4108",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-11-01T01:27:00+00:00",
+      "timestamp": 1793496420,
+      "summary": "Tatum (head) returned to Sunday's game against Orlando, Gary Washburn of The Boston Globe reports. Visit RotoWire.com for more analysis on this update."
     },
     {
       "title": "3 Burning Questions: Fantasy Football Lineup Advice (Week 8)",
@@ -161,24 +206,6 @@
       "summary": "The players below are the ones I'm considering for NFL DFS GPPs this week. Salaries marked with an * indicate a significant difference in pricing on FanDuel. DFS Lineup Optimizer DFS Cheat Sheets..."
     },
     {
-      "title": "NFL DFS Cash Game Picks & Lineup Advice: Week 8 (2026)",
-      "url": "https://www.fantasypros.com/2026/10/nfl-dfs-cash-game-picks-lineup-advice-week-8-2026/",
-      "source": "FantasyPros",
-      "sport": "Fantasy NFL",
-      "published": "2026-10-31T11:47:51+00:00",
-      "timestamp": 1793447271,
-      "summary": "Week 8 is here, so it's time to build some NFL DFS cash game lineups. When playing cash games, target players with a strong combination of floor and ceiling. If there is a \"free square\" on the..."
-    },
-    {
-      "title": "Fantasy Football Week 8 Start/Sit Advice: Tight Ends (2026)",
-      "url": "https://www.fantasypros.com/2026/10/fantasy-football-week-8-start-sit-advice-tight-ends-2026/",
-      "source": "FantasyPros",
-      "sport": "Fantasy NFL",
-      "published": "2026-10-31T11:47:44+00:00",
-      "timestamp": 1793447264,
-      "summary": "Let's take a look at a few polarizing tight ends and what fantasy football expert Derek Brown advises. And you can find all of DBro's fantasy football start/sit lineup advice and outlook in this..."
-    },
-    {
       "title": "Nick Pivetta: Becomes free agent",
       "url": "https://www.rotowire.com//baseball/player/nick-pivetta-14014",
       "source": "RotoWire",
@@ -204,24 +231,6 @@
       "published": "2026-10-31T03:59:00+00:00",
       "timestamp": 1793419140,
       "summary": "The Rays exercised Rasmussen's $20 million club option for the 2027 season Saturday, Marc Topkin of the Tampa Bay Times reports. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Emilio Pagan: Declines player option",
-      "url": "https://www.rotowire.com//baseball/player/emilio-pagan-14747",
-      "source": "RotoWire",
-      "sport": "Fantasy MLB",
-      "published": "2026-10-31T02:20:00+00:00",
-      "timestamp": 1793413200,
-      "summary": "Pagan declined his $10 million player option for the 2027 season Saturday, Francys Romero of BeisbolFR.com reports. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Michael Arroyo: Undergoes elbow surgery",
-      "url": "https://www.rotowire.com//baseball/player/michael-arroyo-17873",
-      "source": "RotoWire",
-      "sport": "Fantasy MLB",
-      "published": "2026-10-30T12:09:00+00:00",
-      "timestamp": 1793362140,
-      "summary": "Arroyo underwent right elbow surgery Wednesday to clean up cartilage and brace a chronic injury to his UCL. Visit RotoWire.com for more analysis on this update."
     }
   ]
 }
