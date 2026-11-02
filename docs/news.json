@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-11-02T07:39:08.814429+00:00",
+  "updated_at": "2026-11-02T13:22:36.609499+00:00",
   "count": 30,
   "articles": [
+    {
+      "title": "Wilson's 2027 NFL mock draft: Browns trade up for QB, five passers land in Round 1",
+      "url": "https://www.cbssports.com/nfl/draft/news/ryan-wilsons-2027-nfl-mock-draft-browns-trade-up-for-qb/",
+      "source": "CBS NFL",
+      "published": "Mon, 02 Nov 2026 12:37:06 +0000",
+      "timestamp": 1793623026.0
+    },
+    {
+      "title": "Cover 32: Why Jets have every reason to trade Breece Hall, plus Week 8 games balls, gaffes",
+      "url": "https://www.cbssports.com/nfl/news/cover-32-nfl-week-8-trade-deadline-jets/",
+      "source": "CBS NFL",
+      "published": "Mon, 02 Nov 2026 12:36:17 +0000",
+      "timestamp": 1793622977.0
+    },
     {
       "title": "Where could Bauers land in free agency after breakout year?",
       "url": "https://www.mlb.com/news/jake-bauers-2026-free-agent-profile",
@@ -17,11 +31,32 @@
       "timestamp": 1793587441.0
     },
     {
+      "title": "1964 Topps Giants Autographs Set Checklist",
+      "url": "https://insider.cards/story/1964-topps-giants-autographs-set-checklist-c81ed6/",
+      "source": "Hobby",
+      "published": "Mon, 02 Nov 2026 02:29:31 +0000",
+      "timestamp": 1793586571.0
+    },
+    {
       "title": "Potential $50M Sports Card Sale?!",
       "url": "https://insider.cards/story/potential-usd-50m-sports-card-sale-91ee87/",
       "source": "Hobby",
       "published": "Mon, 02 Nov 2026 01:56:00 +0000",
       "timestamp": 1793584560.0
+    },
+    {
+      "title": "This ONE THING is Hurting you Sports Card Sales",
+      "url": "https://insider.cards/story/this-one-thing-is-hurting-you-sports-card-sales-718842/",
+      "source": "Hobby",
+      "published": "Mon, 02 Nov 2026 01:52:00 +0000",
+      "timestamp": 1793584320.0
+    },
+    {
+      "title": "Is the Sports Card Market Bubble about to POP?!",
+      "url": "https://insider.cards/story/is-the-sports-card-market-bubble-about-to-pop-d2a9f3/",
+      "source": "Hobby",
+      "published": "Mon, 02 Nov 2026 01:49:00 +0000",
+      "timestamp": 1793584140.0
     },
     {
       "title": "Three key LHPs returning to Padres' bullpen",
@@ -59,18 +94,18 @@
       "timestamp": 1793567915.0
     },
     {
-      "title": "A 33-Point Win Marked the Debut of a $2.88 Million Rookie Card",
-      "url": "https://insider.cards/story/a-33-point-win-marked-the-debut-of-a-usd-2-88-million-rookie-card-037c59/",
-      "source": "Hobby",
-      "published": "Sun, 01 Nov 2026 20:06:33 +0000",
-      "timestamp": 1793563593.0
-    },
-    {
       "title": "2026 Topps Chrome Update Baseball Features Loaded Debut Patch Checklist",
       "url": "https://insider.cards/story/2026-topps-chrome-update-baseball-features-loaded-debut-patch-checklist-bbedad/",
       "source": "Hobby",
       "published": "Sun, 01 Nov 2026 20:03:34 +0000",
       "timestamp": 1793563414.0
+    },
+    {
+      "title": "The Best 1st Bowman & Rookie Cards of Kevin McGonigle",
+      "url": "https://insider.cards/story/the-best-1st-bowman-and-rookie-cards-of-kevin-mcgonigle-01d5e3/",
+      "source": "Hobby",
+      "published": "Sun, 01 Nov 2026 19:23:00 +0000",
+      "timestamp": 1793560980.0
     },
     {
       "title": "Deshaun Watson injury: Browns QB temporarily exits vs. Steelers after taking a big hit early",
@@ -176,41 +211,6 @@
       "source": "CBS MLB",
       "published": "Fri, 30 Oct 2026 12:58:55 +0000",
       "timestamp": 1793365135.0
-    },
-    {
-      "title": "Top 25 MLB trade candidates for 2026-27 offseason: Paul Skenes, Jeremy Peña and more who could move",
-      "url": "https://www.cbssports.com/mlb/news/top-25-mlb-trade-candidates-2026-27-offseason/",
-      "source": "CBS MLB",
-      "published": "Fri, 30 Oct 2026 12:36:19 +0000",
-      "timestamp": 1793363779.0
-    },
-    {
-      "title": "Five bold predictions for 2026 NBA Cup: A new champion, a record for futility, a surprising early exit",
-      "url": "https://www.cbssports.com/nba/news/bold-predictions-2026-nba-cup-new-champion/",
-      "source": "CBS NBA",
-      "published": "Fri, 30 Oct 2026 12:26:05 +0000",
-      "timestamp": 1793363165.0
-    },
-    {
-      "title": "Brewers set World Series parade for Friday, two days after winning 2026 title",
-      "url": "https://www.cbssports.com/mlb/news/brewers-world-series-parade-time-how-to-watch-route/",
-      "source": "CBS MLB",
-      "published": "Thu, 29 Oct 2026 17:40:01 +0000",
-      "timestamp": 1793295601.0
-    },
-    {
-      "title": "Three reasons why the Brewers can repeat as World Series champions in 2027",
-      "url": "https://www.cbssports.com/mlb/news/brewers-world-series-champions-repeat-2027/",
-      "source": "CBS MLB",
-      "published": "Thu, 29 Oct 2026 15:51:22 +0000",
-      "timestamp": 1793289082.0
-    },
-    {
-      "title": "Jaylen Brown insists he never demanded Celtics trade, pushes back on 'false allegations' from Brian Scalabrine",
-      "url": "https://www.cbssports.com/nba/news/jaylen-brown-never-demanded-celtics-trade-false-allegations-brian-scalabrine/",
-      "source": "CBS NBA",
-      "published": "Thu, 29 Oct 2026 14:01:59 +0000",
-      "timestamp": 1793282519.0
     }
   ]
 }
