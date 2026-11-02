@@ -1,7 +1,70 @@
 {
-  "updated_at": "2026-11-01T18:55:38.578199+00:00",
+  "updated_at": "2026-11-02T01:20:28.751382+00:00",
   "count": 30,
   "articles": [
+    {
+      "title": "Three key LHPs returning to Padres' bullpen",
+      "url": "https://www.mlb.com/news/yuki-matsui-wandy-peralta-kyle-hart-return-padres-2027",
+      "source": "MLB",
+      "published": "Sun, 01 Nov 2026 23:52:19 GMT",
+      "timestamp": 1793577139.0
+    },
+    {
+      "title": "Pivetta becomes free agent after Padres decline '27 team option",
+      "url": "https://www.mlb.com/news/nick-pivetta-2027-team-option-declined-by-padres",
+      "source": "MLB",
+      "published": "Sun, 01 Nov 2026 23:51:00 GMT",
+      "timestamp": 1793577060.0
+    },
+    {
+      "title": "Lions' Jack Campbell placed on backboard, carted off field after suffering serious injury",
+      "url": "https://www.cbssports.com/nfl/news/lions-jack-campbell-injury-updates-vikings/",
+      "source": "CBS NFL",
+      "published": "Sun, 01 Nov 2026 22:18:21 +0000",
+      "timestamp": 1793571501.0
+    },
+    {
+      "title": "Lamar Jackson headed for injured reserve: Ravens QB to undergo surgery after injuring thumb vs. Bills",
+      "url": "https://www.cbssports.com/nfl/news/lamar-jackson-injury-updates-ravens-bills/",
+      "source": "CBS NFL",
+      "published": "Sun, 01 Nov 2026 21:59:54 +0000",
+      "timestamp": 1793570394.0
+    },
+    {
+      "title": "NPB MVP, Triple Crown winner Sato enters MLB posting system",
+      "url": "https://www.mlb.com/news/teruaki-sato-mlb-posting-system",
+      "source": "MLB",
+      "published": "Sun, 01 Nov 2026 21:47:00 GMT",
+      "timestamp": 1793569620.0
+    },
+    {
+      "title": "Mets legend Jerry Koosman dies at 83: Pitcher helped New York win 1969 World Series",
+      "url": "https://www.cbssports.com/mlb/news/mets-legend-jerry-koosman-dies-at-83/",
+      "source": "CBS MLB",
+      "published": "Sun, 01 Nov 2026 21:18:35 +0000",
+      "timestamp": 1793567915.0
+    },
+    {
+      "title": "A 33-Point Win Marked the Debut of a $2.88 Million Rookie Card",
+      "url": "https://insider.cards/story/a-33-point-win-marked-the-debut-of-a-usd-2-88-million-rookie-card-037c59/",
+      "source": "Hobby",
+      "published": "Sun, 01 Nov 2026 20:06:33 +0000",
+      "timestamp": 1793563593.0
+    },
+    {
+      "title": "2026 Topps Chrome Update Baseball Features Loaded Debut Patch Checklist",
+      "url": "https://insider.cards/story/2026-topps-chrome-update-baseball-features-loaded-debut-patch-checklist-bbedad/",
+      "source": "Hobby",
+      "published": "Sun, 01 Nov 2026 20:03:34 +0000",
+      "timestamp": 1793563414.0
+    },
+    {
+      "title": "Deshaun Watson injury: Browns QB temporarily exits vs. Steelers after taking a big hit early",
+      "url": "https://www.cbssports.com/nfl/news/deshaun-watson-injury-browns-qb-steelers/",
+      "source": "CBS NFL",
+      "published": "Sun, 01 Nov 2026 18:23:43 +0000",
+      "timestamp": 1793557423.0
+    },
     {
       "title": "Jauan Jennings declined trade to return to 49ers after Vikings had framework set, per report",
       "url": "https://www.cbssports.com/nfl/news/vikings-jauan-jennings-declined-trade-to-49ers/",
@@ -31,20 +94,6 @@
       "timestamp": 1793551051.0
     },
     {
-      "title": "Jonathan Taylor mock trades: How Giants, Broncos, Seahawks could target Colts star RB",
-      "url": "https://www.cbssports.com/nfl/news/jonathan-taylor-trade-destinations-colts-rb/",
-      "source": "CBS NFL",
-      "published": "Sun, 01 Nov 2026 15:32:33 +0000",
-      "timestamp": 1793547153.0
-    },
-    {
-      "title": "Saquon Barkley trade rumors: Eagles send a clear message about RB's future in Philadelphia",
-      "url": "https://www.cbssports.com/nfl/news/saquon-barkley-trade-rumors-eagles/",
-      "source": "CBS NFL",
-      "published": "Sun, 01 Nov 2026 13:20:05 +0000",
-      "timestamp": 1793539205.0
-    },
-    {
       "title": "4 Iconic \"Rookie Stars\" Cards From 1963 Topps Baseball",
       "url": "https://insider.cards/story/4-iconic-rookie-stars-cards-from-1963-topps-baseball-f2c560/",
       "source": "Hobby",
@@ -57,13 +106,6 @@
       "source": "MLB",
       "published": "Sun, 01 Nov 2026 03:58:00 GMT",
       "timestamp": 1793505480.0
-    },
-    {
-      "title": "Pivetta becomes free agent after Padres decline '27 team option (source)",
-      "url": "https://www.mlb.com/news/nick-pivetta-2027-team-option-declined-by-padres",
-      "source": "MLB",
-      "published": "Sun, 01 Nov 2026 02:27:00 GMT",
-      "timestamp": 1793500020.0
     },
     {
       "title": "How did last year's top free agents fare in 2026?",
@@ -87,13 +129,6 @@
       "timestamp": 1793484714.0
     },
     {
-      "title": "NFL Week 8 final injury report: Patriots' AJ Brown ruled out, latest on Lamar Jackson, more",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-8-injury-report-lamar-jackson-aj-brown-emeka-egbuka-more/",
-      "source": "CBS NFL",
-      "published": "Sat, 31 Oct 2026 18:22:40 +0000",
-      "timestamp": 1793470960.0
-    },
-    {
       "title": "How can Thunder survive Chet Holmgren's absence? Rookie Aday Mara becomes vital as trade rumors swirl",
       "url": "https://www.cbssports.com/nba/news/chet-holmgren-injury-how-can-thunder-survive-trade-rumors/",
       "source": "CBS NBA",
@@ -115,39 +150,11 @@
       "timestamp": 1793464036.0
     },
     {
-      "title": "Top 5 highlights from a historically elite Cubs defense",
-      "url": "https://www.mlb.com/news/top-5-cubs-defense-highlights-of-2026",
-      "source": "MLB",
-      "published": "Sat, 31 Oct 2026 14:33:27 GMT",
-      "timestamp": 1793457207.0
-    },
-    {
-      "title": "AFL participation 'no-brainer' for No. 11 prospect Lewis",
-      "url": "https://www.mlb.com/news/dillon-lewis-participates-in-arizona-fall-league-for-marlins",
-      "source": "MLB",
-      "published": "Sat, 31 Oct 2026 13:26:57 GMT",
-      "timestamp": 1793453217.0
-    },
-    {
-      "title": "TOP 5 HOTTEST SPORTS CARDS!!🔥📈",
-      "url": "https://insider.cards/story/top-5-hottest-sports-cards-eba452/",
-      "source": "Hobby",
-      "published": "Sat, 31 Oct 2026 13:00:31 +0000",
-      "timestamp": 1793451631.0
-    },
-    {
       "title": "Which long World Series title drought is most likely to end next?",
       "url": "https://www.mlb.com/news/which-world-series-drought-will-end-next",
       "source": "MLB",
       "published": "Sat, 31 Oct 2026 12:05:00 GMT",
       "timestamp": 1793448300.0
-    },
-    {
-      "title": "Dustin May has been traded to or from the last 2 World Series winners. How rare is that?",
-      "url": "https://www.mlb.com/news/dustin-may-s-journey-being-traded-to-and-from-world-series-winners",
-      "source": "MLB",
-      "published": "Sat, 31 Oct 2026 01:17:12 GMT",
-      "timestamp": 1793409432.0
     },
     {
       "title": "Ja Morant injury: Trail Blazers star expected to miss at least four weeks with hamstring strain",
@@ -162,13 +169,6 @@
       "source": "CBS NBA",
       "published": "Fri, 30 Oct 2026 17:37:38 +0000",
       "timestamp": 1793381858.0
-    },
-    {
-      "title": "Tigers acquire infielder Cheng in trade with Red Sox",
-      "url": "https://www.mlb.com/news/tsung-che-cheng-traded-to-tigers-from-red-sox",
-      "source": "MLB",
-      "published": "Fri, 30 Oct 2026 16:28:53 GMT",
-      "timestamp": 1793377733.0
     },
     {
       "title": "MLB rumors: Mets' Bo Bichette makes contract decision, familiar All-Star back on trade block",
