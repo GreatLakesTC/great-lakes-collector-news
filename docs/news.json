@@ -1,20 +1,34 @@
 {
-  "updated_at": "2026-11-02T01:20:28.751382+00:00",
+  "updated_at": "2026-11-02T07:39:08.814429+00:00",
   "count": 30,
   "articles": [
+    {
+      "title": "Where could Bauers land in free agency after breakout year?",
+      "url": "https://www.mlb.com/news/jake-bauers-2026-free-agent-profile",
+      "source": "MLB",
+      "published": "Mon, 02 Nov 2026 03:00:30 GMT",
+      "timestamp": 1793588430.0
+    },
+    {
+      "title": "Who's the best free-agent starter after Skubal? Let's dive in",
+      "url": "https://www.mlb.com/news/best-2026-free-agent-starters-other-than-tarik-skubal",
+      "source": "MLB",
+      "published": "Mon, 02 Nov 2026 02:44:01 GMT",
+      "timestamp": 1793587441.0
+    },
+    {
+      "title": "Potential $50M Sports Card Sale?!",
+      "url": "https://insider.cards/story/potential-usd-50m-sports-card-sale-91ee87/",
+      "source": "Hobby",
+      "published": "Mon, 02 Nov 2026 01:56:00 +0000",
+      "timestamp": 1793584560.0
+    },
     {
       "title": "Three key LHPs returning to Padres' bullpen",
       "url": "https://www.mlb.com/news/yuki-matsui-wandy-peralta-kyle-hart-return-padres-2027",
       "source": "MLB",
       "published": "Sun, 01 Nov 2026 23:52:19 GMT",
       "timestamp": 1793577139.0
-    },
-    {
-      "title": "Pivetta becomes free agent after Padres decline '27 team option",
-      "url": "https://www.mlb.com/news/nick-pivetta-2027-team-option-declined-by-padres",
-      "source": "MLB",
-      "published": "Sun, 01 Nov 2026 23:51:00 GMT",
-      "timestamp": 1793577060.0
     },
     {
       "title": "Lions' Jack Campbell placed on backboard, carted off field after suffering serious injury",
@@ -101,34 +115,6 @@
       "timestamp": 1793534402.0
     },
     {
-      "title": "Rasmussen ($20M club option) returns to Rays for '27 after stellar season, playoff heroics",
-      "url": "https://www.mlb.com/news/rays-pick-up-drew-rasmussen-s-club-option-for-2027",
-      "source": "MLB",
-      "published": "Sun, 01 Nov 2026 03:58:00 GMT",
-      "timestamp": 1793505480.0
-    },
-    {
-      "title": "How did last year's top free agents fare in 2026?",
-      "url": "https://www.mlb.com/news/how-did-top-free-agents-fare-in-2026-season",
-      "source": "MLB",
-      "published": "Sun, 01 Nov 2026 01:48:07 GMT",
-      "timestamp": 1793497687.0
-    },
-    {
-      "title": "Orioles decline Robert's '27 team option after injury-plagued season",
-      "url": "https://www.mlb.com/news/luis-robert-jr-2027-team-option-declined-by-orioles",
-      "source": "MLB",
-      "published": "Sat, 31 Oct 2026 23:09:50 GMT",
-      "timestamp": 1793488190.0
-    },
-    {
-      "title": "Brewers, Rays face roster decisions this offseason after World Series",
-      "url": "https://www.mlb.com/news/brewers-rays-roster-decisions-this-offseason-after-world-series",
-      "source": "MLB",
-      "published": "Sat, 31 Oct 2026 22:11:54 GMT",
-      "timestamp": 1793484714.0
-    },
-    {
       "title": "How can Thunder survive Chet Holmgren's absence? Rookie Aday Mara becomes vital as trade rumors swirl",
       "url": "https://www.cbssports.com/nba/news/chet-holmgren-injury-how-can-thunder-survive-trade-rumors/",
       "source": "CBS NBA",
@@ -141,20 +127,6 @@
       "source": "CBS NBA",
       "published": "Sat, 31 Oct 2026 16:29:18 +0000",
       "timestamp": 1793464158.0
-    },
-    {
-      "title": "An inside look at how Brewers won their first World Series title",
-      "url": "https://www.mlb.com/news/brewers-world-series-win-on-this-week-in-baseball",
-      "source": "MLB",
-      "published": "Sat, 31 Oct 2026 16:27:16 GMT",
-      "timestamp": 1793464036.0
-    },
-    {
-      "title": "Which long World Series title drought is most likely to end next?",
-      "url": "https://www.mlb.com/news/which-world-series-drought-will-end-next",
-      "source": "MLB",
-      "published": "Sat, 31 Oct 2026 12:05:00 GMT",
-      "timestamp": 1793448300.0
     },
     {
       "title": "Ja Morant injury: Trail Blazers star expected to miss at least four weeks with hamstring strain",
@@ -211,6 +183,34 @@
       "source": "CBS MLB",
       "published": "Fri, 30 Oct 2026 12:36:19 +0000",
       "timestamp": 1793363779.0
+    },
+    {
+      "title": "Five bold predictions for 2026 NBA Cup: A new champion, a record for futility, a surprising early exit",
+      "url": "https://www.cbssports.com/nba/news/bold-predictions-2026-nba-cup-new-champion/",
+      "source": "CBS NBA",
+      "published": "Fri, 30 Oct 2026 12:26:05 +0000",
+      "timestamp": 1793363165.0
+    },
+    {
+      "title": "Brewers set World Series parade for Friday, two days after winning 2026 title",
+      "url": "https://www.cbssports.com/mlb/news/brewers-world-series-parade-time-how-to-watch-route/",
+      "source": "CBS MLB",
+      "published": "Thu, 29 Oct 2026 17:40:01 +0000",
+      "timestamp": 1793295601.0
+    },
+    {
+      "title": "Three reasons why the Brewers can repeat as World Series champions in 2027",
+      "url": "https://www.cbssports.com/mlb/news/brewers-world-series-champions-repeat-2027/",
+      "source": "CBS MLB",
+      "published": "Thu, 29 Oct 2026 15:51:22 +0000",
+      "timestamp": 1793289082.0
+    },
+    {
+      "title": "Jaylen Brown insists he never demanded Celtics trade, pushes back on 'false allegations' from Brian Scalabrine",
+      "url": "https://www.cbssports.com/nba/news/jaylen-brown-never-demanded-celtics-trade-false-allegations-brian-scalabrine/",
+      "source": "CBS NBA",
+      "published": "Thu, 29 Oct 2026 14:01:59 +0000",
+      "timestamp": 1793282519.0
     }
   ]
 }
