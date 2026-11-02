@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T13:13:55.177912+00:00",
+  "updated_at": "2026-11-02T19:00:03.845062+00:00",
   "count": 25,
   "counts": {
     "Fantasy NFL": 15,
@@ -7,6 +7,24 @@
     "Fantasy MLB": 5
   },
   "articles": [
+    {
+      "title": "Fantasy Football Panic Meter: Week 9 (2026)",
+      "url": "https://www.fantasypros.com/2026/11/fantasy-football-panic-meter-week-9-2026/",
+      "source": "FantasyPros",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-02T17:47:37+00:00",
+      "timestamp": 1793641657,
+      "summary": "Halloween may be over, but the horror show continued Sunday for fantasy football managers. Bijan Robinson and Drake London combined for eight points as the Falcons put up a goose egg, Zay Flowers..."
+    },
+    {
+      "title": "Fantasy Football Studs & Duds: Week 8 (2026)",
+      "url": "https://www.fantasypros.com/2026/11/fantasy-football-studs-duds-week-8-2026/",
+      "source": "FantasyPros",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-02T17:07:42+00:00",
+      "timestamp": 1793639262,
+      "summary": "When I sat down to write my article this week, I was half tempted to rename it: \"This Is Why We Can't Have Nice Things,\" as an homage to the week that was. Another week gone, another week packed..."
+    },
     {
       "title": "Fantasy Football Waiver Wire Advice: Players to Add, Stash & Drop (Week 9)",
       "url": "https://www.fantasypros.com/2026/11/fantasy-football-waiver-wire-advice-players-to-add-stash-drop-week-9-2026/",
@@ -44,148 +62,130 @@
       "summary": "The biggest disappointment of Week 8 was Lamar Jackson suffering a potentially season-ending thumb injury on his first pass attempt and landing on injured reserve (IR). However, there isn't much..."
     },
     {
-      "title": "Fantasy Football Week 9 Early Trade Targets (2026)",
-      "url": "https://www.fantasypros.com/2026/11/fantasy-football-week-9-early-trade-targets-2026/",
+      "title": "Fantasy Football Rest of Season Rankings: Week 9 (2026)",
+      "url": "https://www.fantasypros.com/2026/11/fantasy-football-rest-of-season-rankings-week-9-2026/",
       "source": "FantasyPros",
       "sport": "Fantasy NFL",
-      "published": "2026-11-01T22:53:13+00:00",
-      "timestamp": 1793573593,
-      "summary": "Even though Halloween just passed, I'm still considering it spooky season. This trade targets list will include some scary targets that might not cost much. They come with plenty of risk, but also..."
+      "published": "2026-11-02T11:28:34+00:00",
+      "timestamp": 1793618914,
+      "summary": "Each week through the NFL season, we'll look at our fantasy football rest-of-season rankings (ROS) to help you make roster decisions. Below you can find the complete fantasy football..."
     },
     {
-      "title": "Week 9 Early Waiver Wire Claims (2026 Fantasy Football)",
-      "url": "https://www.fantasypros.com/2026/11/week-9-early-waiver-wire-claims-2026-fantasy-football/",
-      "source": "FantasyPros",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-01T22:43:39+00:00",
-      "timestamp": 1793573019,
-      "summary": "Welcome back to an early look at the Waiver Wire following Week 8's early slate of games! Every player on this list is rostered in fewer than 40% of leagues and played in Sunday's early slate or..."
-    },
-    {
-      "title": "Fantasy Football: Last-Minute Advice for Week 8 (2026)",
-      "url": "https://www.fantasypros.com/2026/11/fantasy-football-last-minute-advice-for-week-8-2026/",
-      "source": "FantasyPros",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-01T12:26:07+00:00",
-      "timestamp": 1793535967,
-      "summary": "We're here for three straight hours leading up to kickoff with live coverage to get you ready for NFL Sunday and help you dominate your fantasy football league. We'll be here for all your..."
-    },
-    {
-      "title": "NFL DFS Values & Picks: Targets & Advice (Week 8)",
-      "url": "https://www.fantasypros.com/2026/11/nfl-dfs-values-picks-targets-advice-week-8-2026/",
-      "source": "FantasyPros",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-01T12:08:56+00:00",
-      "timestamp": 1793534936,
-      "summary": "Welcome, NFL DFS degenerates, to Week 8 and a whole new slate to dig through. Injuries and bye weeks all factor into how we dissect the Sunday main slate. This week has all of that, plus even more..."
-    },
-    {
-      "title": "Fantasy Football Week 8 Rankings From the Most Accurate Experts (2026)",
-      "url": "https://www.fantasypros.com/2026/11/fantasy-football-week-8-rankings-from-the-most-accurate-experts-2026/",
-      "source": "FantasyPros",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-01T12:08:19+00:00",
-      "timestamp": 1793534899,
-      "summary": "Tackle your toughest start/sit decisions with our Week 8 fantasy football rankings from the most accurate experts of 2026. Below, find updated weekly rankings from analysts recognized through the..."
-    },
-    {
-      "title": "The Primer: Week 8 Edition (2026 Fantasy Football)",
-      "url": "https://www.fantasypros.com/2026/11/the-primer-week-8-edition-2026-fantasy-football/",
-      "source": "FantasyPros",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-01T11:51:57+00:00",
-      "timestamp": 1793533917,
-      "summary": "The Primer is presented by Leaguebase. Leaguebase is the private clubhouse for the one league that actually matters: the one with a decade of rivalries and inside jokes behind it. Connect your..."
-    },
-    {
-      "title": "Tanner McKee: Fails to produce TD in Week 8 loss",
-      "url": "https://www.rotowire.com//football/player/tanner-mckee-16686",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-01T08:57:00+00:00",
-      "timestamp": 1793523420,
-      "summary": "McKee completed 23 of 34 passes for 212 yards, no touchdowns and one interception in Sunday's 27-10 loss to the Commanders. He also rushed four times for 25 yards and lost a fumble. Visit..."
-    },
-    {
-      "title": "Makai Lemon: Leads team with six catches for 57 yards",
-      "url": "https://www.rotowire.com//football/player/makai-lemon-19231",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-01T08:54:00+00:00",
-      "timestamp": 1793523240,
-      "summary": "Lemon caught six of nine targets for 57 yards in Sunday's 27-10 loss to the Commanders. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Dallas Goedert: Four catches in Week 8",
-      "url": "https://www.rotowire.com//football/player/dallas-goedert-12860",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-01T08:53:00+00:00",
-      "timestamp": 1793523180,
-      "summary": "Goedert caught all four of his targets for 30 yards and added a two-yard run in Sunday's 27-10 loss to the Commanders. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Rachaad White: Steps up late as team's top RB",
-      "url": "https://www.rotowire.com//football/player/rachaad-white-15802",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-01T08:51:00+00:00",
-      "timestamp": 1793523060,
-      "summary": "White rushed 11 times for 55 yards and a touchdown while catching two of three targets for five yards in Sunday's 27-10 win over the Eagles. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Stefon Diggs: Scores fifth TD in Week 8 win",
-      "url": "https://www.rotowire.com//football/player/stefon-diggs-10133",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-01T08:50:00+00:00",
-      "timestamp": 1793523000,
-      "summary": "Diggs caught three of six targets for 38 yards and a touchdown in Sunday's 19-10 win over the Eagles. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Scottie Barnes: Drops 29 points in Sunday's loss",
-      "url": "https://www.rotowire.com//basketball/player/scottie-barnes-5390",
+      "title": "Dejounte Murray: Downgraded to questionable",
+      "url": "https://www.rotowire.com//basketball/player/dejounte-murray-3856",
       "source": "RotoWire",
       "sport": "Fantasy NBA",
-      "published": "2026-11-01T08:41:00+00:00",
-      "timestamp": 1793522460,
-      "summary": "Barnes finished Sunday's 131-125 loss to the Lakers with 29 points (11-20 FG, 0-3 3Pt, 7-13 FT), six rebounds, five assists and two steals over 36 minutes. Visit RotoWire.com for more analysis on..."
+      "published": "2026-11-02T10:55:00+00:00",
+      "timestamp": 1793616900,
+      "summary": "Murray (personal) is now questionable for Monday against Memphis. Visit RotoWire.com for more analysis on this update."
     },
     {
-      "title": "Luka Doncic: Spectacular Sunday vs. Toronto",
-      "url": "https://www.rotowire.com//basketball/player/luka-doncic-4396",
+      "title": "Trey Murphy: Will play Monday",
+      "url": "https://www.rotowire.com//basketball/player/trey-murphy-5401",
       "source": "RotoWire",
       "sport": "Fantasy NBA",
-      "published": "2026-11-01T08:36:00+00:00",
-      "timestamp": 1793522160,
-      "summary": "Doncic posted 45 points (12-23 FG, 8-12 3Pt, 13-13 FT), 15 rebounds, six assists, five steals and one block over 35 minutes in a 131-125 win over the Raptors on Sunday. Visit RotoWire.com for more..."
+      "published": "2026-11-02T10:54:00+00:00",
+      "timestamp": 1793616840,
+      "summary": "Murphy (knee) will play Monday against the Grizzlies. Visit RotoWire.com for more analysis on this update."
     },
     {
-      "title": "Kris Dunn: Tallies seven steals vs. Golden State",
-      "url": "https://www.rotowire.com//basketball/player/kris-dunn-3854",
+      "title": "Kyrie Irving: Downgraded to doubtful",
+      "url": "https://www.rotowire.com//basketball/player/kyrie-irving-3186",
       "source": "RotoWire",
       "sport": "Fantasy NBA",
-      "published": "2026-11-01T08:03:00+00:00",
-      "timestamp": 1793520180,
-      "summary": "Dunn finished Sunday's 124-112 loss to the Warriors with 12 points (5-8 FG, 0-3 3Pt, 2-2 FT), four assists, two rebounds and seven steals over 27 minutes. Visit RotoWire.com for more analysis on..."
+      "published": "2026-11-02T10:51:00+00:00",
+      "timestamp": 1793616660,
+      "summary": "Irving (knee) is now doubtful for Monday against the Kings. Visit RotoWire.com for more analysis on this update."
     },
     {
-      "title": "Yaxel Lendeborg: Career-high 37 points in Sunday's win",
-      "url": "https://www.rotowire.com//basketball/player/yaxel-lendeborg-6562",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-11-01T08:00:00+00:00",
-      "timestamp": 1793520000,
-      "summary": "Lendeborg tallied 37 points (13-19 FG, 6-11 3Pt, 5-6 FT), six assists, four rebounds and one steal over 34 minutes in a 124-112 win over the Clippers on Sunday. Visit RotoWire.com for more..."
+      "title": "Fantasy Football Waiver Wire Rankings & Pickups (Week 9)",
+      "url": "https://www.fantasypros.com/2026/11/fantasy-football-waiver-wire-rankings-pickups-week-9-2026/",
+      "source": "FantasyPros",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-02T10:35:17+00:00",
+      "timestamp": 1793615717,
+      "summary": "Our analysts combine to provide rankings for weekly fantasy football waiver wire targets. We'll help you prioritize your bids for the week ahead. Check out our full expert consensus fantasy..."
     },
     {
-      "title": "Derrick Jones: Leaves game with knee injury",
-      "url": "https://www.rotowire.com//basketball/player/derrick-jones-4083",
+      "title": "Ivica Zubac: Remains out indefinitely",
+      "url": "https://www.rotowire.com//basketball/player/ivica-zubac-3888",
       "source": "RotoWire",
       "sport": "Fantasy NBA",
-      "published": "2026-11-01T07:47:00+00:00",
-      "timestamp": 1793519220,
-      "summary": "Jones (right knee) has been ruled out for the rest of Sunday's game against the Clippers, Ohm Youngmisuk of ESPN.com reports. Visit RotoWire.com for more analysis on this update."
+      "published": "2026-11-02T10:19:00+00:00",
+      "timestamp": 1793614740,
+      "summary": "Zubac (ankle) has been ruled out for Monday's game against the Hawks. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Andrew Nembhard: Taking night off",
+      "url": "https://www.rotowire.com//basketball/player/andrew-nembhard-5679",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-11-02T10:10:00+00:00",
+      "timestamp": 1793614200,
+      "summary": "Nembhard (cervical strain) is out for Monday's game against Atlanta. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Travis Etienne: Chance to practice in Week 9",
+      "url": "https://www.rotowire.com//football/player/travis-etienne-15385",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-02T09:21:00+00:00",
+      "timestamp": 1793611260,
+      "summary": "Head coach Kellen Moore said that Etienne (hamstring) will be evaluated Monday before the Saints make a determination whether he practices this week, Ross Jackson of WWL Louisiana reports. Visit..."
+    },
+    {
+      "title": "Top 4 Fantasy Football Waiver Wire Pickups: Defenses (Week 9)",
+      "url": "https://www.fantasypros.com/2026/11/top-4-fantasy-football-waiver-wire-pickups-defenses-week-9-2026/",
+      "source": "FantasyPros",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-02T09:17:47+00:00",
+      "timestamp": 1793611067,
+      "summary": "We will have you covered throughout the fantasy football season with our bevy of tools, including our Waiver Wire Assistant. Find the top available players and get detailed analysis on how..."
+    },
+    {
+      "title": "Top 4 Fantasy Football Waiver Wire Pickups: Kickers (Week 9)",
+      "url": "https://www.fantasypros.com/2026/11/top-4-fantasy-football-waiver-wire-pickups-kickers-week-9-2026/",
+      "source": "FantasyPros",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-02T09:17:14+00:00",
+      "timestamp": 1793611034,
+      "summary": "We will have you covered throughout the fantasy football season with our bevy of tools, including our Waiver Wire Assistant. Find the top available players and get detailed analysis on how..."
+    },
+    {
+      "title": "Jordyn Tyson: Uncertain to practice this week",
+      "url": "https://www.rotowire.com//football/player/jordyn-tyson-19233",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-02T09:14:00+00:00",
+      "timestamp": 1793610840,
+      "summary": "Saints head coach Kellen Moore said that the Saints will decide by Wednesday whether to open Tyson's (hamstring) 21-day practice window this week, Nick Underhill of NewOrleans.Footballreports...."
+    },
+    {
+      "title": "A.J. Brown: Practice participation this week TBD",
+      "url": "https://www.rotowire.com//football/player/aj-brown-13432",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-02T08:43:00+00:00",
+      "timestamp": 1793608980,
+      "summary": "When asked whether Brown (ankle/knee) might practice at some point this week, coach Mike Vrabel said Monday \"we'll see,\" Doug Kyed of the Boston Herald reports. Visit RotoWire.com for more..."
+    },
+    {
+      "title": "David Montgomery: Status uncertain for Week 9",
+      "url": "https://www.rotowire.com//football/player/david-montgomery-13556",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-02T08:30:00+00:00",
+      "timestamp": 1793608200,
+      "summary": "Texans head coach DeMeco Ryans said Monday that he has \"no significant update\" on the status of Montgomery (groin) heading into a Week 9 matchup with the Chargers, Jonathan M. Alexander of the..."
+    },
+    {
+      "title": "Michael Pittman: Begins running, but lacks timetable",
+      "url": "https://www.rotowire.com//football/player/michael-pittman-14378",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-02T07:45:00+00:00",
+      "timestamp": 1793605500,
+      "summary": "Pittman (foot) said Monday that he resumed running last week as part of a program to return, but the wideout acknowledged that he's without a clear timeline to be activated from injured reserve,..."
     },
     {
       "title": "Teruaki Sato: Posted for MLB clubs",
