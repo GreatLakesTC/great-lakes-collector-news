@@ -1,13 +1,104 @@
 {
-  "updated_at": "2026-11-02T13:22:36.609499+00:00",
+  "updated_at": "2026-11-02T19:08:29.396472+00:00",
   "count": 30,
   "articles": [
+    {
+      "title": "2026 NFL trade deadline QB rankings: Mac Jones, Kirk Cousins lead 10 best targets",
+      "url": "https://www.cbssports.com/nfl/news/2026-nfl-trade-deadline-qb-rankings-mac-jones-kirk-cousins/",
+      "source": "CBS NFL",
+      "published": "Mon, 02 Nov 2026 18:52:17 +0000",
+      "timestamp": 1793645537.0
+    },
     {
       "title": "Wilson's 2027 NFL mock draft: Browns trade up for QB, five passers land in Round 1",
       "url": "https://www.cbssports.com/nfl/draft/news/ryan-wilsons-2027-nfl-mock-draft-browns-trade-up-for-qb/",
       "source": "CBS NFL",
-      "published": "Mon, 02 Nov 2026 12:37:06 +0000",
-      "timestamp": 1793623026.0
+      "published": "Mon, 02 Nov 2026 18:38:55 +0000",
+      "timestamp": 1793644735.0
+    },
+    {
+      "title": "Should Ravens trade for QB after Lamar Jackson, Tyler Huntley injuries? Possible candidates to watch",
+      "url": "https://www.cbssports.com/nfl/news/ravens-quarterback-trade-rumors-lamar-jackson-tyson-bagent/",
+      "source": "CBS NFL",
+      "published": "Mon, 02 Nov 2026 18:35:51 +0000",
+      "timestamp": 1793644551.0
+    },
+    {
+      "title": "Is Jadarian Price playing against the Bears? Latest Seahawks RB injury update for 'Monday Night Football'",
+      "url": "https://www.cbssports.com/nfl/news/is-jadarian-price-playing-seahawks-bears-monday-night-football/",
+      "source": "CBS NFL",
+      "published": "Mon, 02 Nov 2026 18:31:15 +0000",
+      "timestamp": 1793644275.0
+    },
+    {
+      "title": "Luka Dončić explains his 'step forward' on defense after five-steal performance vs. Raptors",
+      "url": "https://www.cbssports.com/nba/news/luka-doncic-explains-step-forward-defense/",
+      "source": "CBS NBA",
+      "published": "Mon, 02 Nov 2026 16:55:19 +0000",
+      "timestamp": 1793638519.0
+    },
+    {
+      "title": "Jaguars lose standout DT DaVon Hamilton: Trade partners for Jacksonville include Cowboys, Colts",
+      "url": "https://www.cbssports.com/nfl/news/jaguars-lose-davon-hamilton-trade-deadline-options/",
+      "source": "CBS NFL",
+      "published": "Mon, 02 Nov 2026 16:17:48 +0000",
+      "timestamp": 1793636268.0
+    },
+    {
+      "title": "Trey McBride taunts Caleb Downs as Cowboys rookie's struggles reach alarming level",
+      "url": "https://www.cbssports.com/nfl/news/caleb-downs-cowboys-defense-trey-mcbride/",
+      "source": "CBS NFL",
+      "published": "Mon, 02 Nov 2026 15:53:47 +0000",
+      "timestamp": 1793634827.0
+    },
+    {
+      "title": "Tarik Skubal landing spots: Predicting new home for two-time Cy Young winner, the offseason's best free agent",
+      "url": "https://www.cbssports.com/mlb/news/tarik-skubal-landing-spots-free-agency-predictions/",
+      "source": "CBS MLB",
+      "published": "Mon, 02 Nov 2026 15:15:15 +0000",
+      "timestamp": 1793632515.0
+    },
+    {
+      "title": "2026-27 MLB free agent tracker: Tarik Skubal, Jazz Chisholm Jr., Randy Arozarena and more available players",
+      "url": "https://www.cbssports.com/mlb/news/mlb-free-agent-tracker-2026-27/",
+      "source": "CBS MLB",
+      "published": "Mon, 02 Nov 2026 14:46:11 +0000",
+      "timestamp": 1793630771.0
+    },
+    {
+      "title": "Ranking NBA injuries so far: Why Anthony Edwards' absence is a bigger blow than any single OKC injury",
+      "url": "https://www.cbssports.com/nba/news/ranking-nba-injuries-anthony-edwards-jalen-williams-cason-wallace-chet-holmgren-kawhi-leonard/",
+      "source": "CBS NBA",
+      "published": "Mon, 02 Nov 2026 14:38:29 +0000",
+      "timestamp": 1793630309.0
+    },
+    {
+      "title": "Lamar Jackson injury throws huge wrench into looming contract talks with Ravens",
+      "url": "https://www.cbssports.com/nfl/news/lamar-jackson-injury-ravens-contract-extension/",
+      "source": "CBS NFL",
+      "published": "Mon, 02 Nov 2026 14:34:30 +0000",
+      "timestamp": 1793630070.0
+    },
+    {
+      "title": "MLB Power Rankings: Brewers end 2026 season at No. 1 as World Series champions",
+      "url": "https://www.cbssports.com/mlb/news/mlb-power-rankings-final-2026-brewers-world-series/",
+      "source": "CBS MLB",
+      "published": "Mon, 02 Nov 2026 13:30:33 +0000",
+      "timestamp": 1793626233.0
+    },
+    {
+      "title": "NFL Week 9 early odds: Ravens become home underdogs to Jaguars after Lamar Jackson injury",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-9-early-odds-spreads-ravens-jaguars-lamar-jackson/",
+      "source": "CBS NFL",
+      "published": "Mon, 02 Nov 2026 13:28:24 +0000",
+      "timestamp": 1793626104.0
+    },
+    {
+      "title": "Steelers' Jaylen Warren is 'on fire': Why the breakout running back keeps getting better",
+      "url": "https://www.cbssports.com/nfl/news/steelers-jaylen-warren-breakout-running-back/",
+      "source": "CBS NFL",
+      "published": "Mon, 02 Nov 2026 13:03:24 +0000",
+      "timestamp": 1793624604.0
     },
     {
       "title": "Cover 32: Why Jets have every reason to trade Breece Hall, plus Week 8 games balls, gaffes",
@@ -66,20 +157,6 @@
       "timestamp": 1793577139.0
     },
     {
-      "title": "Lions' Jack Campbell placed on backboard, carted off field after suffering serious injury",
-      "url": "https://www.cbssports.com/nfl/news/lions-jack-campbell-injury-updates-vikings/",
-      "source": "CBS NFL",
-      "published": "Sun, 01 Nov 2026 22:18:21 +0000",
-      "timestamp": 1793571501.0
-    },
-    {
-      "title": "Lamar Jackson headed for injured reserve: Ravens QB to undergo surgery after injuring thumb vs. Bills",
-      "url": "https://www.cbssports.com/nfl/news/lamar-jackson-injury-updates-ravens-bills/",
-      "source": "CBS NFL",
-      "published": "Sun, 01 Nov 2026 21:59:54 +0000",
-      "timestamp": 1793570394.0
-    },
-    {
       "title": "NPB MVP, Triple Crown winner Sato enters MLB posting system",
       "url": "https://www.mlb.com/news/teruaki-sato-mlb-posting-system",
       "source": "MLB",
@@ -108,34 +185,6 @@
       "timestamp": 1793560980.0
     },
     {
-      "title": "Deshaun Watson injury: Browns QB temporarily exits vs. Steelers after taking a big hit early",
-      "url": "https://www.cbssports.com/nfl/news/deshaun-watson-injury-browns-qb-steelers/",
-      "source": "CBS NFL",
-      "published": "Sun, 01 Nov 2026 18:23:43 +0000",
-      "timestamp": 1793557423.0
-    },
-    {
-      "title": "Jauan Jennings declined trade to return to 49ers after Vikings had framework set, per report",
-      "url": "https://www.cbssports.com/nfl/news/vikings-jauan-jennings-declined-trade-to-49ers/",
-      "source": "CBS NFL",
-      "published": "Sun, 01 Nov 2026 17:44:29 +0000",
-      "timestamp": 1793555069.0
-    },
-    {
-      "title": "Jonathan Taylor trade rumors: Colts not actively shopping around star running back before deadline",
-      "url": "https://www.cbssports.com/nfl/news/jonathan-taylor-trade-rumors-colts-not-shopping-around/",
-      "source": "CBS NFL",
-      "published": "Sun, 01 Nov 2026 17:42:39 +0000",
-      "timestamp": 1793554959.0
-    },
-    {
-      "title": "Josh Sweat trade rumors: Cowboys among potential landing spots for Cardinals pass rusher",
-      "url": "https://www.cbssports.com/nfl/news/josh-sweat-trade-rumors-cowboys-potential-landing-spots/",
-      "source": "CBS NFL",
-      "published": "Sun, 01 Nov 2026 16:57:13 +0000",
-      "timestamp": 1793552233.0
-    },
-    {
       "title": "MLB rumors: Padres decline option on key rotation piece, Korean star to be posted",
       "url": "https://www.cbssports.com/mlb/news/mlb-rumors-padres-decline-option-korean-star-nov-1/",
       "source": "CBS MLB",
@@ -162,55 +211,6 @@
       "source": "CBS NBA",
       "published": "Sat, 31 Oct 2026 16:29:18 +0000",
       "timestamp": 1793464158.0
-    },
-    {
-      "title": "Ja Morant injury: Trail Blazers star expected to miss at least four weeks with hamstring strain",
-      "url": "https://www.cbssports.com/nba/news/ja-morant-injury-trail-blazers-star-miss-at-least-four-weeks-hamstring-strain/",
-      "source": "CBS NBA",
-      "published": "Fri, 30 Oct 2026 20:05:18 +0000",
-      "timestamp": 1793390718.0
-    },
-    {
-      "title": "NBA's 'unprecedented' early season injury crisis has players and coaches searching for answers",
-      "url": "https://www.cbssports.com/nba/news/nba-unprecedented-early-season-injury-crisis-players-coaches-answers/",
-      "source": "CBS NBA",
-      "published": "Fri, 30 Oct 2026 17:37:38 +0000",
-      "timestamp": 1793381858.0
-    },
-    {
-      "title": "MLB rumors: Mets' Bo Bichette makes contract decision, familiar All-Star back on trade block",
-      "url": "https://www.cbssports.com/mlb/news/mlb-rumors-mets-bo-bichette-oct-30/",
-      "source": "CBS MLB",
-      "published": "Fri, 30 Oct 2026 16:00:24 +0000",
-      "timestamp": 1793376024.0
-    },
-    {
-      "title": "Ranking the top 50 MLB free agents for the 2026-27 offseason, plus landing spots for every player",
-      "url": "https://www.cbssports.com/mlb/news/mlb-free-agency-2026-27-ranking-top-50-landing-spots/",
-      "source": "CBS MLB",
-      "published": "Fri, 30 Oct 2026 15:36:52 +0000",
-      "timestamp": 1793374612.0
-    },
-    {
-      "title": "MLB qualifying offer: Predicting who will get a QO this offseason, plus how the $23.15 million contract works",
-      "url": "https://www.cbssports.com/mlb/news/mlb-qualifying-offer-contract-predictions-2026-27-offseason/",
-      "source": "CBS MLB",
-      "published": "Fri, 30 Oct 2026 15:27:55 +0000",
-      "timestamp": 1793374075.0
-    },
-    {
-      "title": "Jordan Love picks Panthers apart; Christian Watson's midgame hospital trip; top 50 MLB free agents",
-      "url": "https://www.cbssports.com/nfl/news/jordan-love-picks-panthers-apart-christian-watsons-midgame-hospital-trip-top-50-mlb-free-agents/",
-      "source": "CBS MLB",
-      "published": "Fri, 30 Oct 2026 13:00:38 +0000",
-      "timestamp": 1793365238.0
-    },
-    {
-      "title": "Jordan Love picks Panthers apart; Christian Watson's midgame hospital trip; top 50 MLB free agents",
-      "url": "https://www.cbssports.com/nfl/news/jordan-love-picks-apart-panthers-christian-watsons-midgame-hospital-trip-top-50-mlb-free-agents/",
-      "source": "CBS MLB",
-      "published": "Fri, 30 Oct 2026 12:58:55 +0000",
-      "timestamp": 1793365135.0
     }
   ]
 }
