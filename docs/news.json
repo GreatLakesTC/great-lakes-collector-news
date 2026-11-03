@@ -1,13 +1,90 @@
 {
-  "updated_at": "2026-11-02T19:08:29.396472+00:00",
+  "updated_at": "2026-11-03T01:17:45.636987+00:00",
   "count": 30,
   "articles": [
+    {
+      "title": "After historic season, PCA named NL MVP finalist",
+      "url": "https://www.mlb.com/news/pete-crow-armstrong-2026-nl-mvp-finalist",
+      "source": "MLB",
+      "published": "Tue, 03 Nov 2026 01:03:31 GMT",
+      "timestamp": 1793667811.0
+    },
+    {
+      "title": "Here are the finalists for MVP, Cy Young, Rookie of the Year, more",
+      "url": "https://www.mlb.com/news/2026-bbwaa-awards-finalists",
+      "source": "MLB",
+      "published": "Tue, 03 Nov 2026 01:03:00 GMT",
+      "timestamp": 1793667780.0
+    },
+    {
+      "title": "Even a banged-up Ohtani dazzles enough to earn nod as MVP finalist",
+      "url": "https://www.mlb.com/news/shohei-ohtani-finalist-for-2026-nl-mvp-award",
+      "source": "MLB",
+      "published": "Tue, 03 Nov 2026 01:02:46 GMT",
+      "timestamp": 1793667766.0
+    },
+    {
+      "title": "Pete Crow-Armstrong, Jacob Misiorowski, more named finalists for MVP, Cy Young and Rookie of the Year awards",
+      "url": "https://www.cbssports.com/mlb/news/mvp-awards-finalists-2026-rookie-manager-reliever-mvp-cy-young/",
+      "source": "CBS MLB",
+      "published": "Tue, 03 Nov 2026 00:41:22 +0000",
+      "timestamp": 1793666482.0
+    },
+    {
+      "title": "Checking in on top prospects in winter ball",
+      "url": "https://www.mlb.com/news/top-prospects-in-winter-ball-2026",
+      "source": "MLB",
+      "published": "Tue, 03 Nov 2026 00:41:00 GMT",
+      "timestamp": 1793666460.0
+    },
+    {
+      "title": "Is Jadarian Price playing on MNF? Latest Seahawks RB injury update for game vs. Bears",
+      "url": "https://www.cbssports.com/nfl/news/is-jadarian-price-playing-seahawks-bears-monday-night-football/",
+      "source": "CBS NFL",
+      "published": "Mon, 02 Nov 2026 23:25:03 +0000",
+      "timestamp": 1793661903.0
+    },
+    {
+      "title": "O's decline Mountcastle's option; Kjerstad clears waivers, becomes free agent",
+      "url": "https://www.mlb.com/news/orioles-decline-ryan-mountcastle-option-heston-kjerstad-clears-waivers-becomes-free-agent",
+      "source": "MLB",
+      "published": "Mon, 02 Nov 2026 22:35:00 GMT",
+      "timestamp": 1793658900.0
+    },
+    {
+      "title": "Cardinals name Gardner Minshew as starter, Carson Beck No. 2: What's next for Jacoby Brissett?",
+      "url": "https://www.cbssports.com/nfl/news/cardinals-name-gardner-minshew-carson-beck-no-2-jacoby-brissett/",
+      "source": "CBS NFL",
+      "published": "Mon, 02 Nov 2026 22:27:10 +0000",
+      "timestamp": 1793658430.0
+    },
     {
       "title": "2026 NFL trade deadline QB rankings: Mac Jones, Kirk Cousins lead 10 best targets",
       "url": "https://www.cbssports.com/nfl/news/2026-nfl-trade-deadline-qb-rankings-mac-jones-kirk-cousins/",
       "source": "CBS NFL",
-      "published": "Mon, 02 Nov 2026 18:52:17 +0000",
-      "timestamp": 1793645537.0
+      "published": "Mon, 02 Nov 2026 20:41:46 +0000",
+      "timestamp": 1793652106.0
+    },
+    {
+      "title": "Jack Campbell injury updates: Lions LB remains in hospital, but 'indications are positive'",
+      "url": "https://www.cbssports.com/nfl/news/lions-jack-campbell-injury-updates-vikings/",
+      "source": "CBS NFL",
+      "published": "Mon, 02 Nov 2026 20:12:52 +0000",
+      "timestamp": 1793650372.0
+    },
+    {
+      "title": "Why Warriors rookie Yaxel Lendeborg was benched after being 'peer pressured' into chasing 40 against Clippers",
+      "url": "https://www.cbssports.com/nba/news/warriors-yaxel-lendeborg-benched-40-points-peer-pressure-clippers/",
+      "source": "CBS NBA",
+      "published": "Mon, 02 Nov 2026 20:08:15 +0000",
+      "timestamp": 1793650095.0
+    },
+    {
+      "title": "Grading every NBA lottery pick's first two weeks as impressive 2026 rookie class dazzles early",
+      "url": "https://www.cbssports.com/nba/news/grading-every-nba-lottery-picks-first-two-weeks-rookie-class/",
+      "source": "CBS NBA",
+      "published": "Mon, 02 Nov 2026 19:04:49 +0000",
+      "timestamp": 1793646289.0
     },
     {
       "title": "Wilson's 2027 NFL mock draft: Browns trade up for QB, five passers land in Round 1",
@@ -22,13 +99,6 @@
       "source": "CBS NFL",
       "published": "Mon, 02 Nov 2026 18:35:51 +0000",
       "timestamp": 1793644551.0
-    },
-    {
-      "title": "Is Jadarian Price playing against the Bears? Latest Seahawks RB injury update for 'Monday Night Football'",
-      "url": "https://www.cbssports.com/nfl/news/is-jadarian-price-playing-seahawks-bears-monday-night-football/",
-      "source": "CBS NFL",
-      "published": "Mon, 02 Nov 2026 18:31:15 +0000",
-      "timestamp": 1793644275.0
     },
     {
       "title": "Luka Dončić explains his 'step forward' on defense after five-steal performance vs. Raptors",
@@ -108,11 +178,11 @@
       "timestamp": 1793622977.0
     },
     {
-      "title": "Where could Bauers land in free agency after breakout year?",
-      "url": "https://www.mlb.com/news/jake-bauers-2026-free-agent-profile",
-      "source": "MLB",
-      "published": "Mon, 02 Nov 2026 03:00:30 GMT",
-      "timestamp": 1793588430.0
+      "title": "Cardlines Break Auctions Ending Monday: 2026 Topps Holiday MLB Megas, 2025 Panini Prospect Edition MLB Blasers, 2026 ONIT Athlete Gravity MLB Mix Boxes, 2025 Topps Chrome Update Mega Boxes",
+      "url": "https://insider.cards/story/cardlines-break-auctions-ending-wednesday-2026-topps-2-fanatics-mlb-8a44d7/",
+      "source": "Hobby",
+      "published": "Mon, 02 Nov 2026 06:31:00 +0000",
+      "timestamp": 1793601060.0
     },
     {
       "title": "Who's the best free-agent starter after Skubal? Let's dive in",
@@ -122,6 +192,13 @@
       "timestamp": 1793587441.0
     },
     {
+      "title": "1955 Bowman Autographs - Basic Set Checklist",
+      "url": "https://insider.cards/story/1955-bowman-autographs-basic-set-checklist-a97612/",
+      "source": "Hobby",
+      "published": "Mon, 02 Nov 2026 02:29:32 +0000",
+      "timestamp": 1793586572.0
+    },
+    {
       "title": "1964 Topps Giants Autographs Set Checklist",
       "url": "https://insider.cards/story/1964-topps-giants-autographs-set-checklist-c81ed6/",
       "source": "Hobby",
@@ -129,88 +206,11 @@
       "timestamp": 1793586571.0
     },
     {
-      "title": "Potential $50M Sports Card Sale?!",
-      "url": "https://insider.cards/story/potential-usd-50m-sports-card-sale-91ee87/",
-      "source": "Hobby",
-      "published": "Mon, 02 Nov 2026 01:56:00 +0000",
-      "timestamp": 1793584560.0
-    },
-    {
-      "title": "This ONE THING is Hurting you Sports Card Sales",
-      "url": "https://insider.cards/story/this-one-thing-is-hurting-you-sports-card-sales-718842/",
-      "source": "Hobby",
-      "published": "Mon, 02 Nov 2026 01:52:00 +0000",
-      "timestamp": 1793584320.0
-    },
-    {
-      "title": "Is the Sports Card Market Bubble about to POP?!",
-      "url": "https://insider.cards/story/is-the-sports-card-market-bubble-about-to-pop-d2a9f3/",
-      "source": "Hobby",
-      "published": "Mon, 02 Nov 2026 01:49:00 +0000",
-      "timestamp": 1793584140.0
-    },
-    {
-      "title": "Three key LHPs returning to Padres' bullpen",
-      "url": "https://www.mlb.com/news/yuki-matsui-wandy-peralta-kyle-hart-return-padres-2027",
-      "source": "MLB",
-      "published": "Sun, 01 Nov 2026 23:52:19 GMT",
-      "timestamp": 1793577139.0
-    },
-    {
-      "title": "NPB MVP, Triple Crown winner Sato enters MLB posting system",
-      "url": "https://www.mlb.com/news/teruaki-sato-mlb-posting-system",
-      "source": "MLB",
-      "published": "Sun, 01 Nov 2026 21:47:00 GMT",
-      "timestamp": 1793569620.0
-    },
-    {
       "title": "Mets legend Jerry Koosman dies at 83: Pitcher helped New York win 1969 World Series",
       "url": "https://www.cbssports.com/mlb/news/mets-legend-jerry-koosman-dies-at-83/",
       "source": "CBS MLB",
       "published": "Sun, 01 Nov 2026 21:18:35 +0000",
       "timestamp": 1793567915.0
-    },
-    {
-      "title": "2026 Topps Chrome Update Baseball Features Loaded Debut Patch Checklist",
-      "url": "https://insider.cards/story/2026-topps-chrome-update-baseball-features-loaded-debut-patch-checklist-bbedad/",
-      "source": "Hobby",
-      "published": "Sun, 01 Nov 2026 20:03:34 +0000",
-      "timestamp": 1793563414.0
-    },
-    {
-      "title": "The Best 1st Bowman & Rookie Cards of Kevin McGonigle",
-      "url": "https://insider.cards/story/the-best-1st-bowman-and-rookie-cards-of-kevin-mcgonigle-01d5e3/",
-      "source": "Hobby",
-      "published": "Sun, 01 Nov 2026 19:23:00 +0000",
-      "timestamp": 1793560980.0
-    },
-    {
-      "title": "MLB rumors: Padres decline option on key rotation piece, Korean star to be posted",
-      "url": "https://www.cbssports.com/mlb/news/mlb-rumors-padres-decline-option-korean-star-nov-1/",
-      "source": "CBS MLB",
-      "published": "Sun, 01 Nov 2026 16:37:31 +0000",
-      "timestamp": 1793551051.0
-    },
-    {
-      "title": "4 Iconic \"Rookie Stars\" Cards From 1963 Topps Baseball",
-      "url": "https://insider.cards/story/4-iconic-rookie-stars-cards-from-1963-topps-baseball-f2c560/",
-      "source": "Hobby",
-      "published": "Sun, 01 Nov 2026 12:00:02 +0000",
-      "timestamp": 1793534402.0
-    },
-    {
-      "title": "How can Thunder survive Chet Holmgren's absence? Rookie Aday Mara becomes vital as trade rumors swirl",
-      "url": "https://www.cbssports.com/nba/news/chet-holmgren-injury-how-can-thunder-survive-trade-rumors/",
-      "source": "CBS NBA",
-      "published": "Sat, 31 Oct 2026 16:39:54 +0000",
-      "timestamp": 1793464794.0
-    },
-    {
-      "title": "Luka Dončić teaches Yaxel Lendeborg a lesson, but Warriors bail their rookie out in comeback win over Lakers",
-      "url": "https://www.cbssports.com/nba/news/luka-doncic-yaxel-lendeborg-warriors-comeback-win-lakers/",
-      "source": "CBS NBA",
-      "published": "Sat, 31 Oct 2026 16:29:18 +0000",
-      "timestamp": 1793464158.0
     }
   ]
 }
