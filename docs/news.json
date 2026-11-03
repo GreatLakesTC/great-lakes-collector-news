@@ -1,7 +1,35 @@
 {
-  "updated_at": "2026-11-03T01:17:45.636987+00:00",
+  "updated_at": "2026-11-03T07:25:52.626791+00:00",
   "count": 30,
   "articles": [
+    {
+      "title": "Brewers pick up WS MVP Contreras' option, extend QO to NLCS MVP Bauers",
+      "url": "https://www.mlb.com/news/brewers-pick-up-william-contreras-option-extend-jake-bauers-qualifying-offer",
+      "source": "MLB",
+      "published": "Tue, 03 Nov 2026 02:53:40 GMT",
+      "timestamp": 1793674420.0
+    },
+    {
+      "title": "Brief Box Break: 2026 Topps Football Holiday Mega",
+      "url": "https://insider.cards/story/brief-box-break-2026-topps-football-holiday-mega-dc0adb/",
+      "source": "Hobby",
+      "published": "Tue, 03 Nov 2026 01:31:47 +0000",
+      "timestamp": 1793669507.0
+    },
+    {
+      "title": "Sports Card Grading Stays Strong as Overall Volume Hits 3.87 Million in October",
+      "url": "https://insider.cards/story/sports-card-grading-stays-strong-as-overall-volume-hits-3-87-million-in-c2bc59/",
+      "source": "Hobby",
+      "published": "Tue, 03 Nov 2026 01:13:57 +0000",
+      "timestamp": 1793668437.0
+    },
+    {
+      "title": "NFL reinstates James Pearce Jr. after eight-game suspension: Why EDGE returns at critical time for Falcons",
+      "url": "https://www.cbssports.com/nfl/news/nfl-reinstates-james-pearce-jr-after-eight-game-suspension-falcons/",
+      "source": "CBS NFL",
+      "published": "Tue, 03 Nov 2026 01:09:32 +0000",
+      "timestamp": 1793668172.0
+    },
     {
       "title": "After historic season, PCA named NL MVP finalist",
       "url": "https://www.mlb.com/news/pete-crow-armstrong-2026-nl-mvp-finalist",
@@ -183,34 +211,6 @@
       "source": "Hobby",
       "published": "Mon, 02 Nov 2026 06:31:00 +0000",
       "timestamp": 1793601060.0
-    },
-    {
-      "title": "Who's the best free-agent starter after Skubal? Let's dive in",
-      "url": "https://www.mlb.com/news/best-2026-free-agent-starters-other-than-tarik-skubal",
-      "source": "MLB",
-      "published": "Mon, 02 Nov 2026 02:44:01 GMT",
-      "timestamp": 1793587441.0
-    },
-    {
-      "title": "1955 Bowman Autographs - Basic Set Checklist",
-      "url": "https://insider.cards/story/1955-bowman-autographs-basic-set-checklist-a97612/",
-      "source": "Hobby",
-      "published": "Mon, 02 Nov 2026 02:29:32 +0000",
-      "timestamp": 1793586572.0
-    },
-    {
-      "title": "1964 Topps Giants Autographs Set Checklist",
-      "url": "https://insider.cards/story/1964-topps-giants-autographs-set-checklist-c81ed6/",
-      "source": "Hobby",
-      "published": "Mon, 02 Nov 2026 02:29:31 +0000",
-      "timestamp": 1793586571.0
-    },
-    {
-      "title": "Mets legend Jerry Koosman dies at 83: Pitcher helped New York win 1969 World Series",
-      "url": "https://www.cbssports.com/mlb/news/mets-legend-jerry-koosman-dies-at-83/",
-      "source": "CBS MLB",
-      "published": "Sun, 01 Nov 2026 21:18:35 +0000",
-      "timestamp": 1793567915.0
     }
   ]
 }
