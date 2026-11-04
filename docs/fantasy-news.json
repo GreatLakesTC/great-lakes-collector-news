@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T13:10:49.177903+00:00",
+  "updated_at": "2026-11-04T19:02:20.983191+00:00",
   "count": 25,
   "counts": {
     "Fantasy NFL": 15,
@@ -7,6 +7,24 @@
     "Fantasy MLB": 5
   },
   "articles": [
+    {
+      "title": "20 Fantasy Football Players to Buy Low & Sell High in Week 9",
+      "url": "https://www.fantasypros.com/2026/11/fantasy-football-players-to-buy-low-sell-high-in-week-9/",
+      "source": "FantasyPros",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-04T18:08:12+00:00",
+      "timestamp": 1793815692,
+      "summary": "Our Featured Pros have some ideas about who you can sell high and who you should be targeting for a buy-low swap. Waiver Wire Picks Weekly Fantasy Football Expert Rankings Fantasy Football..."
+    },
+    {
+      "title": "Beyond the Waiver Wire: Fantasy Football Moves to Make (Week 9)",
+      "url": "https://www.fantasypros.com/2026/11/beyond-the-waiver-wire-fantasy-football-moves-to-make-week-9-2/",
+      "source": "FantasyPros",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-04T13:16:22+00:00",
+      "timestamp": 1793798182,
+      "summary": "NFL Week 8 is complete. Fewer injuries? Ehh, not really. The A.J. Brown saga takes a turn for the worse. Jeremiyah Love injures another ankle. Lamar Jackson and Zay Flowers won't get to play..."
+    },
     {
       "title": "6 Fantasy Football Risers & Fallers: Week 9 (2026)",
       "url": "https://www.fantasypros.com/2026/11/6-fantasy-football-risers-fallers-week-9-2026/",
@@ -53,6 +71,87 @@
       "summary": "For most fantasy football managers, Week 8 was a disappointing one for kickers, as only one rostered in over 60% of Yahoo leagues finished in the top 12 at the position. Brandon Aubrey overcame..."
     },
     {
+      "title": "Jake Ferguson: Working with trainers Wednesday",
+      "url": "https://www.rotowire.com//football/player/jake-ferguson-15947",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-04T10:52:00+00:00",
+      "timestamp": 1793789520,
+      "summary": "Head coach Brian Schottenheimer said Ferguson (ankle) will work with the Cowboys' training staff during Wednesday's practice, Briana Aldridge of CBS News Texas reports. Visit RotoWire.com for more..."
+    },
+    {
+      "title": "Cam Skattebo: Not practicing Wednesday",
+      "url": "https://www.rotowire.com//football/player/cam-skattebo-18514",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-04T10:45:00+00:00",
+      "timestamp": 1793789100,
+      "summary": "Skattebo (hamstring) didn't take part in Wednesday's practice and instead was seen working with a trainer on the side, Jordan Raanan of ESPN reports. Visit RotoWire.com for more analysis on this..."
+    },
+    {
+      "title": "Trey Murphy: Downgraded to questionable",
+      "url": "https://www.rotowire.com//basketball/player/trey-murphy-5401",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-11-04T10:35:00+00:00",
+      "timestamp": 1793788500,
+      "summary": "Murphy (knees) is now questionable for Wednesday against the Jazz. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Emeka Egbuka: Doesn't practice Wednesday",
+      "url": "https://www.rotowire.com//football/player/emeka-egbuka-18549",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-04T10:29:00+00:00",
+      "timestamp": 1793788140,
+      "summary": "Head coach Todd Bowles said Egbuka (foot) didn't practice Wednesday, but the wide receiver was able to run on a side field, and the Buccaneers will see how he feels Thursday, Scott Smith of the..."
+    },
+    {
+      "title": "TreVeyon Henderson: Won't practice Wednesday",
+      "url": "https://www.rotowire.com//football/player/treveyon-henderson-18517",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-04T10:22:00+00:00",
+      "timestamp": 1793787720,
+      "summary": "Henderson (illness) won't practice Wednesday, Doug Kyed of the Boston Herald reports. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "A.J. Brown: Set to miss Wednesday's practice",
+      "url": "https://www.rotowire.com//football/player/aj-brown-13432",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-04T10:13:00+00:00",
+      "timestamp": 1793787180,
+      "summary": "Brown (ankle/knee) won't practice Wednesday, Doug Kyed of the Boston Herald reports. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Josh Hart: Out with sore ankle",
+      "url": "https://www.rotowire.com//basketball/player/josh-hart-4136",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-11-04T10:08:00+00:00",
+      "timestamp": 1793786880,
+      "summary": "Hart is out for Wednesday's game against the Bulls due to right ankle soreness. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Kon Knueppel: Cleared to play",
+      "url": "https://www.rotowire.com//basketball/player/kon-knueppel-6540",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-11-04T10:03:00+00:00",
+      "timestamp": 1793786580,
+      "summary": "Knueppel (hamstring) is available for Wednesday against the Nets. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Jayson Tatum: Confirmed out for Wednesday",
+      "url": "https://www.rotowire.com//basketball/player/jayson-tatum-4108",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-11-04T09:48:00+00:00",
+      "timestamp": 1793785680,
+      "summary": "Tatum will be rested Wednesday against the Bucks, Jack Simone of BostonSportsJournal.com reports. Visit RotoWire.com for more analysis on this update."
+    },
+    {
       "title": "Fantasy Football Panic Meter: Zay Flowers, Bryce Young, Ashton Jeanty",
       "url": "https://www.fantasypros.com/2026/11/fantasy-football-panic-meter-zay-flowers-bryce-young-ashton-jeanty-week-9-2026/",
       "source": "FantasyPros",
@@ -80,24 +179,6 @@
       "summary": "Identify opportunities to improve your roster with these 10 fantasy football players to trade away in Week 9. From Tony Pollard's touchdown surge to shrinking workloads for Jaylen Warren and..."
     },
     {
-      "title": "Fantasy Football Start/Sit: Antonio Williams, Caleb Douglas, Mike Gesicki",
-      "url": "https://www.fantasypros.com/2026/11/fantasy-football-start-sit-antonio-williams-caleb-douglas-mike-gesicki-week-9-2026/",
-      "source": "FantasyPros",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-04T08:17:46+00:00",
-      "timestamp": 1793780266,
-      "summary": "Start em or sit em? Fantasy football start or sit decisions can be excruciating. While it feels great to make the right call and cruise to fantasy glory, it hurts just as much when you have..."
-    },
-    {
-      "title": "Fantasy Football Start/Sit: Malik Willis, Mike Washington, Ryan Flournoy",
-      "url": "https://www.fantasypros.com/2026/11/fantasy-football-start-sit-malik-willis-mike-washington-ryan-flournoy-week-9-2026/",
-      "source": "FantasyPros",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-04T08:17:43+00:00",
-      "timestamp": 1793780263,
-      "summary": "Start em or sit em? Fantasy football start or sit decisions can be excruciating. While it feels great to make the right call and cruise to fantasy glory, it hurts just as much when you have..."
-    },
-    {
       "title": "Giannis Antetokounmpo: Probable for Wednesday",
       "url": "https://www.rotowire.com//basketball/player/giannis-antetokounmpo-3456",
       "source": "RotoWire",
@@ -105,87 +186,6 @@
       "published": "2026-11-03T05:06:00+00:00",
       "timestamp": 1793682360,
       "summary": "Antetokounmpo is probable to play Wednesday against the Clippers due to a sprained right wrist. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Rui Hachimura: Off injury report for Wednesday",
-      "url": "https://www.rotowire.com//basketball/player/rui-hachimura-4778",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-11-03T04:52:00+00:00",
-      "timestamp": 1793681520,
-      "summary": "Hachimura (quadriceps) is not listed on the injury report ahead of Wednesday's game against Miami. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Derrick Jones: Not listed on injury report",
-      "url": "https://www.rotowire.com//basketball/player/derrick-jones-4083",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-11-03T04:51:00+00:00",
-      "timestamp": 1793681460,
-      "summary": "Jones (knee) has been removed from the injury report ahead of Wednesday's game against the Heat, NBA writer Justin Russo reports. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Dylan Cardwell: Not listed on injury report",
-      "url": "https://www.rotowire.com//basketball/player/dylan-cardwell-6638",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-11-03T04:37:00+00:00",
-      "timestamp": 1793680620,
-      "summary": "Cardwell (calf) is not listed on the injury report for Wednesday's meeting with the Lakers. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Tyler Allgeier: Set for lead-back duties",
-      "url": "https://www.rotowire.com//football/player/tyler-allgeier-15976",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-03T04:18:00+00:00",
-      "timestamp": 1793679480,
-      "summary": "Allgeier is slated to work as Arizona's No. 1 running back for at least the next four weeks after Jeremiyah Love (ankle) was placed on injured reserve Tuesday, Darren Urban of the team's official..."
-    },
-    {
-      "title": "Kawhi Leonard: To be re-evaluated in one week",
-      "url": "https://www.rotowire.com//basketball/player/kawhi-leonard-3195",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-11-03T04:14:00+00:00",
-      "timestamp": 1793679240,
-      "summary": "Leonard has completed treatment to reduce swelling in his left knee and he will be re-evaluated in one week, Brett Siegel of ClutchPoints.com reports. Visit RotoWire.com for more analysis on this..."
-    },
-    {
-      "title": "Jakobi Meyers: Remains limited in Tuesday's practice",
-      "url": "https://www.rotowire.com//football/player/jakobi-meyers-13517",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-03T01:57:00+00:00",
-      "timestamp": 1793671020,
-      "summary": "Meyers (hamstring/ankle) was listed as a limited participant in Tuesday's practice. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Chris Rodriguez: Limited in Tuesday's practice",
-      "url": "https://www.rotowire.com//football/player/chris-rodriguez-16933",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-03T01:54:00+00:00",
-      "timestamp": 1793670840,
-      "summary": "Rodriguez (hand) was listed as a limited participant in Tuesday's practice. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Bhayshul Tuten: Sits out Tuesday's practice",
-      "url": "https://www.rotowire.com//football/player/bhayshul-tuten-18524",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-03T01:49:00+00:00",
-      "timestamp": 1793670540,
-      "summary": "The Jaguars listed Tuten (ankle/foot) as a non-participant in Tuesday's practice. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Jeremiyah Love: Hits IR, out 4-to-5 weeks",
-      "url": "https://www.rotowire.com//football/player/jeremiyah-love-19235",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-03T01:14:00+00:00",
-      "timestamp": 1793668440,
-      "summary": "Arizona placed Love (ankle) on injured reserve Tuesday, Darren Urban of the Cardinals' official site reports. Visit RotoWire.com for more analysis on this update."
     },
     {
       "title": "Randy Arozarena: Extended qualifying offer by Seattle",
