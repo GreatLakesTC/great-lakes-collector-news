@@ -1,13 +1,111 @@
 {
-  "updated_at": "2026-11-04T13:19:34.231722+00:00",
+  "updated_at": "2026-11-04T19:11:19.109693+00:00",
   "count": 30,
   "articles": [
+    {
+      "title": "Week 9 QB Power Rankings: Familiar name returns to No. 1, Cam Ward crawls out of basement",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-9-qb-power-rankings-josh-allen-cam-ward/",
+      "source": "CBS NFL",
+      "published": "Wed, 04 Nov 2026 19:04:23 +0000",
+      "timestamp": 1793819063.0
+    },
+    {
+      "title": "Lions' Jack Campbell issues statement updating condition after scary injury vs. Vikings",
+      "url": "https://www.cbssports.com/nfl/news/lions-jack-campbell-issues-statement-after-injury-vikings/",
+      "source": "CBS NFL",
+      "published": "Wed, 04 Nov 2026 18:58:43 +0000",
+      "timestamp": 1793818723.0
+    },
+    {
+      "title": "Jets' Garrett Wilson enters concussion protocol a week before 2026 NFL trade deadline",
+      "url": "https://www.cbssports.com/nfl/news/jets-garrett-wilson-enters-concussion-protocol/",
+      "source": "CBS NFL",
+      "published": "Wed, 04 Nov 2026 18:56:51 +0000",
+      "timestamp": 1793818611.0
+    },
+    {
+      "title": "Warriors reportedly aren't paying Kristaps Porziņģis as former All-Star combats health issues",
+      "url": "https://www.cbssports.com/nba/news/warriors-kristaps-porzingis-salary-health-issues/",
+      "source": "CBS NBA",
+      "published": "Wed, 04 Nov 2026 17:36:02 +0000",
+      "timestamp": 1793813762.0
+    },
     {
       "title": "An early look at the 2027 Power Rankings",
       "url": "https://www.mlb.com/news/mlb-early-offseason-power-rankings-2027",
       "source": "MLB",
-      "published": "Wed, 04 Nov 2026 03:20:56 GMT",
-      "timestamp": 1793762456.0
+      "published": "Wed, 04 Nov 2026 17:35:00 GMT",
+      "timestamp": 1793813700.0
+    },
+    {
+      "title": "Ravens trade candidates: Three quarterbacks Baltimore should consider amid injury crisis",
+      "url": "https://www.cbssports.com/nfl/news/ravens-trade-candidates-quarterback-injuries-lamar-jackson/",
+      "source": "CBS NFL",
+      "published": "Wed, 04 Nov 2026 17:21:19 +0000",
+      "timestamp": 1793812879.0
+    },
+    {
+      "title": "Jadeveon Clowney mock trades: Cowboys reunion headlines four deals Texans can make before NFL trade deadline",
+      "url": "https://www.cbssports.com/nfl/news/jadeveon-clowney-mock-trades-cowboys-texans-nfl-trade-deadline/",
+      "source": "CBS NFL",
+      "published": "Wed, 04 Nov 2026 17:05:35 +0000",
+      "timestamp": 1793811935.0
+    },
+    {
+      "title": "Former Yankees, Rangers All-Star Mark Teixeira wins U.S. House seat in Texas",
+      "url": "https://www.cbssports.com/mlb/news/mark-teixeira-texas-house-yankees-rangers/",
+      "source": "CBS MLB",
+      "published": "Wed, 04 Nov 2026 16:59:12 +0000",
+      "timestamp": 1793811552.0
+    },
+    {
+      "title": "Midseason All-Rookie Team: QB Jalon Daniels leads team filled with multiple Browns, Jets",
+      "url": "https://www.cbssports.com/nfl/news/nfl-midseason-all-rookie-team-jalon-daniels-browns-jets/",
+      "source": "CBS NFL",
+      "published": "Wed, 04 Nov 2026 14:28:48 +0000",
+      "timestamp": 1793802528.0
+    },
+    {
+      "title": "NBA Power Rankings: Warriors fly into top 10 with rejuvenated Stephen Curry, 76ers pushing for top spot",
+      "url": "https://www.cbssports.com/nba/news/nba-power-rankings-warriors-top-10-stephen-curry-nov-4/",
+      "source": "CBS NBA",
+      "published": "Wed, 04 Nov 2026 14:01:59 +0000",
+      "timestamp": 1793800919.0
+    },
+    {
+      "title": "Biggest surprises from initial CFP Rankings; Ravens starting an undrafted rookie QB on 'TNF'",
+      "url": "https://www.cbssports.com/fantasy/football/news/biggest-surprises-from-initial-cfp-rankings-ravens-starting-an-undrafted-rookie-qb-on-tnf/",
+      "source": "CBS NBA",
+      "published": "Wed, 04 Nov 2026 13:53:59 +0000",
+      "timestamp": 1793800439.0
+    },
+    {
+      "title": "Topps Stadium Club Chrome® UEFA Champions League Product History",
+      "url": "https://insider.cards/story/topps-stadium-club-chrome-uefa-champions-league-product-history-1a308a/",
+      "source": "Hobby",
+      "published": "Wed, 04 Nov 2026 13:50:05 +0000",
+      "timestamp": 1793800205.0
+    },
+    {
+      "title": "Tyler Huntley out for season: Ravens lose top backup with Lamar Jackson already out, per report",
+      "url": "https://www.cbssports.com/nfl/news/ravens-tyler-huntley-injury-update-turf-toe-out-for-season/",
+      "source": "CBS NFL",
+      "published": "Wed, 04 Nov 2026 13:49:16 +0000",
+      "timestamp": 1793800156.0
+    },
+    {
+      "title": "MLB offseason bold predictions: Tarik Skubal breaks records, World Series champ gets a deal, a FA frenzy, more",
+      "url": "https://www.cbssports.com/mlb/news/mlb-offseason-bold-predictions-tarik-skubal-william-contreras-astros-braves-yankees-cubs/",
+      "source": "CBS MLB",
+      "published": "Wed, 04 Nov 2026 13:45:54 +0000",
+      "timestamp": 1793799954.0
+    },
+    {
+      "title": "These 3 Dodgers prospects could make an impact next season",
+      "url": "https://www.mlb.com/news/josue-de-paula-jackson-ferris-mike-sirota-dodgers-prospects-to-watch",
+      "source": "MLB",
+      "published": "Wed, 04 Nov 2026 13:43:01 GMT",
+      "timestamp": 1793799781.0
     },
     {
       "title": "Team-by-team breakdown of every free agent",
@@ -73,13 +171,6 @@
       "timestamp": 1793731608.0
     },
     {
-      "title": "2025–26 Topps Stadium Club Basketball Preview: Cooper Flagg, Rookie Polaroid Autos And Box Value",
-      "url": "https://insider.cards/story/202526-topps-stadium-club-basketball-preview-cooper-flagg-rookie-d5d82c/",
-      "source": "Hobby",
-      "published": "Tue, 03 Nov 2026 18:02:49 +0000",
-      "timestamp": 1793728969.0
-    },
-    {
       "title": "Ty Jerome is on a Linsanity-esque run, but here's why his MVP-level scoring isn't that big of a surprise",
       "url": "https://www.cbssports.com/nba/news/ty-jerome-linsanity-mvp-level-scoring-surprise/",
       "source": "CBS NBA",
@@ -120,97 +211,6 @@
       "source": "MLB",
       "published": "Tue, 03 Nov 2026 15:30:00 GMT",
       "timestamp": 1793719800.0
-    },
-    {
-      "title": "Ravens add possible starting QB just two days ahead of Week 9 showdown with Jaguars",
-      "url": "https://www.cbssports.com/nfl/news/ravens-add-starting-qb-kedon-slovis-week-9/",
-      "source": "CBS NFL",
-      "published": "Tue, 03 Nov 2026 15:17:55 +0000",
-      "timestamp": 1793719075.0
-    },
-    {
-      "title": "Which free agents could help Red Sox take next step? Here are 5 potential fits",
-      "url": "https://www.mlb.com/news/free-agents-who-could-be-good-fits-with-2027-red-sox",
-      "source": "MLB",
-      "published": "Tue, 03 Nov 2026 14:57:48 GMT",
-      "timestamp": 1793717868.0
-    },
-    {
-      "title": "Tarik Skubal contract predictions: Ace's new deal could break multiple MLB records for a pitcher",
-      "url": "https://www.cbssports.com/mlb/news/tarik-skubal-contract-predictions-mlb-free-agency/",
-      "source": "CBS MLB",
-      "published": "Tue, 03 Nov 2026 13:50:38 +0000",
-      "timestamp": 1793713838.0
-    },
-    {
-      "title": "Bears crash the Super Bowl conversation by beating Seahawks; Miami up to No. 1 in CFB Power Rankings",
-      "url": "https://www.cbssports.com/nfl/news/bears-seahawks-super-bowl-nfl-mnf-miami-cfb-college-football-rankings/",
-      "source": "CBS NFL",
-      "published": "Tue, 03 Nov 2026 13:42:46 +0000",
-      "timestamp": 1793713366.0
-    },
-    {
-      "title": "Prisco's NFL Week 9 Power Rankings: Bills take over top spot, Steelers on the rise",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-9-power-rankings-bills-steelers/",
-      "source": "CBS NFL",
-      "published": "Tue, 03 Nov 2026 13:33:05 +0000",
-      "timestamp": 1793712785.0
-    },
-    {
-      "title": "Robinson Canó Jr., son of eight-time MLB All-Star, agrees to $1 million deal with Marlins, per reports",
-      "url": "https://www.cbssports.com/mlb/news/robinson-cano-jr-1-million-deal-marlins/",
-      "source": "CBS MLB",
-      "published": "Tue, 03 Nov 2026 13:12:00 +0000",
-      "timestamp": 1793711520.0
-    },
-    {
-      "title": "Khalil Mack trade proposals: Bears reunion headlines 3 deals Chargers could make before NFL deadline",
-      "url": "https://www.cbssports.com/nfl/news/khalil-mack-trade-proposals-chargers-bears-nfl-deadline/",
-      "source": "CBS NFL",
-      "published": "Tue, 03 Nov 2026 12:31:04 +0000",
-      "timestamp": 1793709064.0
-    },
-    {
-      "title": "Could Tyson Bagent save Ravens' playoff hopes? Lamar Jackson injury raises a costly trade question",
-      "url": "https://www.cbssports.com/nfl/news/could-tyson-bagent-save-ravens-playoff-hopes-lamar-jackson-injury/",
-      "source": "CBS NFL",
-      "published": "Tue, 03 Nov 2026 12:01:54 +0000",
-      "timestamp": 1793707314.0
-    },
-    {
-      "title": "Mock trades for Jaguars' Brian Thomas Jr.: Why Chiefs, Raiders could stand out as top fits",
-      "url": "https://www.cbssports.com/nfl/news/jaguars-mock-trade-brian-thomas-jr-chiefs-raiders/",
-      "source": "CBS NFL",
-      "published": "Tue, 03 Nov 2026 11:50:30 +0000",
-      "timestamp": 1793706630.0
-    },
-    {
-      "title": "NFL reinstates James Pearce Jr. after eight-game suspension: Why EDGE returns at critical time for Falcons",
-      "url": "https://www.cbssports.com/nfl/news/nfl-reinstates-james-pearce-jr-after-eight-game-suspension-falcons/",
-      "source": "CBS NFL",
-      "published": "Tue, 03 Nov 2026 01:09:32 +0000",
-      "timestamp": 1793668172.0
-    },
-    {
-      "title": "Here are the finalists for MVP, Cy Young, Rookie of the Year, more",
-      "url": "https://www.mlb.com/news/2026-bbwaa-awards-finalists",
-      "source": "MLB",
-      "published": "Tue, 03 Nov 2026 01:03:00 GMT",
-      "timestamp": 1793667780.0
-    },
-    {
-      "title": "Pete Crow-Armstrong, Jacob Misiorowski, more named finalists for MVP, Cy Young and Rookie of the Year awards",
-      "url": "https://www.cbssports.com/mlb/news/mvp-awards-finalists-2026-rookie-manager-reliever-mvp-cy-young/",
-      "source": "CBS MLB",
-      "published": "Tue, 03 Nov 2026 00:41:22 +0000",
-      "timestamp": 1793666482.0
-    },
-    {
-      "title": "Is Jadarian Price playing on MNF? Latest Seahawks RB injury update for game vs. Bears",
-      "url": "https://www.cbssports.com/nfl/news/is-jadarian-price-playing-seahawks-bears-monday-night-football/",
-      "source": "CBS NFL",
-      "published": "Mon, 02 Nov 2026 23:25:03 +0000",
-      "timestamp": 1793661903.0
     }
   ]
 }
