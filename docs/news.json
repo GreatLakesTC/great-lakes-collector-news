@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T07:29:29.558775+00:00",
+  "updated_at": "2026-11-04T13:19:34.231722+00:00",
   "count": 30,
   "articles": [
     {
@@ -29,13 +29,6 @@
       "source": "MLB",
       "published": "Wed, 04 Nov 2026 00:20:00 GMT",
       "timestamp": 1793751600.0
-    },
-    {
-      "title": "Top prospect duo of Miller-Walcott following in Harper-Trout footsteps in Arizona Fall League",
-      "url": "https://www.mlb.com/news/sebastian-walcott-and-aidan-miller-standing-out-in-the-arizona-fall-league",
-      "source": "MLB",
-      "published": "Tue, 03 Nov 2026 21:55:42 GMT",
-      "timestamp": 1793742942.0
     },
     {
       "title": "Giants sign Greg Newsome to three-year, $46 million extension, per report",
@@ -122,13 +115,6 @@
       "timestamp": 1793720172.0
     },
     {
-      "title": "Caleb Williams Rookie Card Market Heats Up as Bears QB Makes NFL Statement",
-      "url": "https://insider.cards/story/caleb-williams-rookie-card-market-heats-up-as-bears-qb-makes-nfl-e764cf/",
-      "source": "Hobby",
-      "published": "Tue, 03 Nov 2026 15:36:08 +0000",
-      "timestamp": 1793720168.0
-    },
-    {
       "title": "With Bohm now a free agent, who will play 3B for Phils?",
       "url": "https://www.mlb.com/news/phillies-future-third-base-alec-bohm-free-agency",
       "source": "MLB",
@@ -141,13 +127,6 @@
       "source": "CBS NFL",
       "published": "Tue, 03 Nov 2026 15:17:55 +0000",
       "timestamp": 1793719075.0
-    },
-    {
-      "title": "Chourio, Turang shoot hoops with Marquette basketball as World Series victory tour continues",
-      "url": "https://www.mlb.com/news/jackson-chourio-brice-turang-attend-marquette-basketball-game",
-      "source": "MLB",
-      "published": "Tue, 03 Nov 2026 14:59:13 GMT",
-      "timestamp": 1793717953.0
     },
     {
       "title": "Which free agents could help Red Sox take next step? Here are 5 potential fits",
@@ -211,6 +190,27 @@
       "source": "CBS NFL",
       "published": "Tue, 03 Nov 2026 01:09:32 +0000",
       "timestamp": 1793668172.0
+    },
+    {
+      "title": "Here are the finalists for MVP, Cy Young, Rookie of the Year, more",
+      "url": "https://www.mlb.com/news/2026-bbwaa-awards-finalists",
+      "source": "MLB",
+      "published": "Tue, 03 Nov 2026 01:03:00 GMT",
+      "timestamp": 1793667780.0
+    },
+    {
+      "title": "Pete Crow-Armstrong, Jacob Misiorowski, more named finalists for MVP, Cy Young and Rookie of the Year awards",
+      "url": "https://www.cbssports.com/mlb/news/mvp-awards-finalists-2026-rookie-manager-reliever-mvp-cy-young/",
+      "source": "CBS MLB",
+      "published": "Tue, 03 Nov 2026 00:41:22 +0000",
+      "timestamp": 1793666482.0
+    },
+    {
+      "title": "Is Jadarian Price playing on MNF? Latest Seahawks RB injury update for game vs. Bears",
+      "url": "https://www.cbssports.com/nfl/news/is-jadarian-price-playing-seahawks-bears-monday-night-football/",
+      "source": "CBS NFL",
+      "published": "Mon, 02 Nov 2026 23:25:03 +0000",
+      "timestamp": 1793661903.0
     }
   ]
 }
