@@ -1,7 +1,91 @@
 {
-  "updated_at": "2026-11-04T19:11:19.109693+00:00",
+  "updated_at": "2026-11-05T06:50:27.908674+00:00",
   "count": 30,
   "articles": [
+    {
+      "title": "How does Yanks' No. 1 prospect Kilby look? His AFL teammates, coaches are eager to share",
+      "url": "https://www.mlb.com/news/yankees-prospect-dax-kilby-impresses-in-arizona-fall-league",
+      "source": "MLB",
+      "published": "Thu, 05 Nov 2026 06:12:14 GMT",
+      "timestamp": 1793859134.0
+    },
+    {
+      "title": "NFL Week 9 injury report: Micah Parsons returns to Packers practice, Rams lose Jaylen Watson for season",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-9-injury-report-micah-parsons-jaylen-watson-rams/",
+      "source": "CBS NFL",
+      "published": "Thu, 05 Nov 2026 03:07:09 +0000",
+      "timestamp": 1793848029.0
+    },
+    {
+      "title": "How 3 stars went from prospect trade chips to MVP finalists",
+      "url": "https://www.mlb.com/news/2026-mlb-mvp-candidates-traded",
+      "source": "MLB",
+      "published": "Thu, 05 Nov 2026 03:00:33 GMT",
+      "timestamp": 1793847633.0
+    },
+    {
+      "title": "10 free agents who raised their stock in 2026",
+      "url": "https://www.mlb.com/news/mlb-free-agents-that-raised-stock-in-2026",
+      "source": "MLB",
+      "published": "Thu, 05 Nov 2026 03:00:00 GMT",
+      "timestamp": 1793847600.0
+    },
+    {
+      "title": "For Padres pitching prospect Peña, AFL excellence could put him on verge of MLB debut",
+      "url": "https://www.mlb.com/news/padres-francis-pena-excelling-in-arizona-fall-league-2026",
+      "source": "MLB",
+      "published": "Wed, 04 Nov 2026 23:24:30 GMT",
+      "timestamp": 1793834670.0
+    },
+    {
+      "title": "2026 Fall Sports Card & Memorabilia Expo",
+      "url": "https://insider.cards/story/2026-fall-sports-card-and-memorabilia-expo-8fa09c/",
+      "source": "Hobby",
+      "published": "Wed, 04 Nov 2026 22:31:12 +0000",
+      "timestamp": 1793831472.0
+    },
+    {
+      "title": "2026-27 Topps Flagship Basketball Checklist Spotlight",
+      "url": "https://insider.cards/story/2026-27-topps-flagship-basketball-checklist-spotlight-34fbbb/",
+      "source": "Hobby",
+      "published": "Wed, 04 Nov 2026 21:32:01 +0000",
+      "timestamp": 1793827921.0
+    },
+    {
+      "title": "4 big questions for Mets' rotation this offseason",
+      "url": "https://www.mlb.com/news/mets-rotation-offseason-questions-2026-2027",
+      "source": "MLB",
+      "published": "Wed, 04 Nov 2026 21:08:44 GMT",
+      "timestamp": 1793826524.0
+    },
+    {
+      "title": "Agent's Take: What's next between Lamar Jackson, Ravens after yet another injury",
+      "url": "https://www.cbssports.com/nfl/news/agents-take-whats-next-lamar-jackson-ravens-contract/",
+      "source": "CBS NFL",
+      "published": "Wed, 04 Nov 2026 20:53:47 +0000",
+      "timestamp": 1793825627.0
+    },
+    {
+      "title": "2026 NFL trade deadline tracker: Latest deals, grades as Jacoby Brissett heads to Baltimore",
+      "url": "https://www.cbssports.com/nfl/news/2026-nfl-trade-deadline-tracker-latest-deals-grades/",
+      "source": "CBS NFL",
+      "published": "Wed, 04 Nov 2026 20:49:09 +0000",
+      "timestamp": 1793825349.0
+    },
+    {
+      "title": "Jacoby Brissett trade: Ravens strike deal for Cardinals QB amid injury crisis",
+      "url": "https://www.cbssports.com/nfl/news/jacoby-brissett-trade-ravens-cardinals-lamar-jackson/",
+      "source": "CBS NFL",
+      "published": "Wed, 04 Nov 2026 20:23:16 +0000",
+      "timestamp": 1793823796.0
+    },
+    {
+      "title": "Sam Darnold out for Seahawks in Week 9 as Drew Lock gets another start vs. Cardinals",
+      "url": "https://www.cbssports.com/nfl/news/sam-darnold-out-injury-seahawks-qb-drew-lock-cardinals/",
+      "source": "CBS NFL",
+      "published": "Wed, 04 Nov 2026 19:46:41 +0000",
+      "timestamp": 1793821601.0
+    },
     {
       "title": "Week 9 QB Power Rankings: Familiar name returns to No. 1, Cam Ward crawls out of basement",
       "url": "https://www.cbssports.com/nfl/news/nfl-week-9-qb-power-rankings-josh-allen-cam-ward/",
@@ -22,6 +106,13 @@
       "source": "CBS NFL",
       "published": "Wed, 04 Nov 2026 18:56:51 +0000",
       "timestamp": 1793818611.0
+    },
+    {
+      "title": "2026 Topps Chrome® Football Checklist Spotlight",
+      "url": "https://insider.cards/story/2026-topps-chrome-football-checklist-spotlight-c89050/",
+      "source": "Hobby",
+      "published": "Wed, 04 Nov 2026 18:47:11 +0000",
+      "timestamp": 1793818031.0
     },
     {
       "title": "Warriors reportedly aren't paying Kristaps Porziņģis as former All-Star combats health issues",
@@ -101,7 +192,7 @@
       "timestamp": 1793799954.0
     },
     {
-      "title": "These 3 Dodgers prospects could make an impact next season",
+      "title": "3 Dodgers prospects who could make an impact next season",
       "url": "https://www.mlb.com/news/josue-de-paula-jackson-ferris-mike-sirota-dodgers-prospects-to-watch",
       "source": "MLB",
       "published": "Wed, 04 Nov 2026 13:43:01 GMT",
@@ -115,102 +206,11 @@
       "timestamp": 1793760875.0
     },
     {
-      "title": "Notes: Hobby Intell Launches; Antonelli's Topps NOW; Candace Parker Now a Shop Owner; Cards HQ Detroit Opening Set",
-      "url": "https://insider.cards/story/notes-hobby-intell-launches-antonellis-topps-now-candace-parker-now-a-ec3cf6/",
-      "source": "Hobby",
-      "published": "Wed, 04 Nov 2026 00:32:33 +0000",
-      "timestamp": 1793752353.0
-    },
-    {
       "title": "Ranking '26 rookies based on long-term value",
       "url": "https://www.mlb.com/news/ranking-2026-rookies-based-on-long-term-value",
       "source": "MLB",
       "published": "Wed, 04 Nov 2026 00:20:00 GMT",
       "timestamp": 1793751600.0
-    },
-    {
-      "title": "Giants sign Greg Newsome to three-year, $46 million extension, per report",
-      "url": "https://www.cbssports.com/nfl/news/giants-sign-greg-newsome-three-year-46-million-extension/",
-      "source": "CBS NFL",
-      "published": "Tue, 03 Nov 2026 21:40:41 +0000",
-      "timestamp": 1793742041.0
-    },
-    {
-      "title": "Ravens name Joe Fagnano starter for Week 9 matchup vs. Jaguars with Lamar Jackson, Tyler Huntley injured",
-      "url": "https://www.cbssports.com/nfl/news/ravens-starting-qb-joe-fagnano-jaguars-lamar-jackson-tyler-huntley-injured/",
-      "source": "CBS NFL",
-      "published": "Tue, 03 Nov 2026 21:29:18 +0000",
-      "timestamp": 1793741358.0
-    },
-    {
-      "title": "2026 midseason rookie grades: Ranking the early hits, misses and biggest surprises",
-      "url": "https://www.cbssports.com/nfl/news/2026-nfl-rookie-grades-midseason-surprises/",
-      "source": "CBS NFL",
-      "published": "Tue, 03 Nov 2026 21:15:29 +0000",
-      "timestamp": 1793740529.0
-    },
-    {
-      "title": "Rays have 'every intention' of Rasmussen leading '27 rotation",
-      "url": "https://www.mlb.com/news/erik-neander-talks-drew-rasmussen-2027-rays",
-      "source": "MLB",
-      "published": "Tue, 03 Nov 2026 19:44:58 GMT",
-      "timestamp": 1793735098.0
-    },
-    {
-      "title": "Jeremiyah Love's difficult rookie season takes another hit with trip to injured reserve",
-      "url": "https://www.cbssports.com/nfl/news/cardinals-jeremiyah-loves-injured-reserve-ankle-2026/",
-      "source": "CBS NFL",
-      "published": "Tue, 03 Nov 2026 19:26:53 +0000",
-      "timestamp": 1793734013.0
-    },
-    {
-      "title": "2026 NFL trade deadline: 12 players with no-trade clauses, including Joe Burrow, Patrick Mahomes",
-      "url": "https://www.cbssports.com/nfl/news/2026-nfl-trade-deadline-no-trade-clause-joe-burrow-patrick-mahomes/",
-      "source": "CBS NFL",
-      "published": "Tue, 03 Nov 2026 18:46:48 +0000",
-      "timestamp": 1793731608.0
-    },
-    {
-      "title": "Ty Jerome is on a Linsanity-esque run, but here's why his MVP-level scoring isn't that big of a surprise",
-      "url": "https://www.cbssports.com/nba/news/ty-jerome-linsanity-mvp-level-scoring-surprise/",
-      "source": "CBS NBA",
-      "published": "Tue, 03 Nov 2026 17:46:53 +0000",
-      "timestamp": 1793728013.0
-    },
-    {
-      "title": "2026 NFL trade deadline tracker: Latest deals, grades as Bears land Jeffery Simmons, Colts enter rebuild",
-      "url": "https://www.cbssports.com/nfl/news/2026-nfl-trade-deadline-tracker-latest-deals-grades/",
-      "source": "CBS NFL",
-      "published": "Tue, 03 Nov 2026 17:37:09 +0000",
-      "timestamp": 1793727429.0
-    },
-    {
-      "title": "Cardinals acquire left-hander Eduardo Rivera in trade with Red Sox",
-      "url": "https://www.mlb.com/news/eduardo-rivera-traded-to-cardinals-from-red-sox",
-      "source": "MLB",
-      "published": "Tue, 03 Nov 2026 17:26:11 GMT",
-      "timestamp": 1793726771.0
-    },
-    {
-      "title": "Three notable decisions from NBA's rookie-scale extension deadline: Thunder seemingly give up on lottery pick",
-      "url": "https://www.cbssports.com/nba/news/nba-rookie-scale-contract-deadline-thunder-give-up-on-lottery-pick/",
-      "source": "CBS NBA",
-      "published": "Tue, 03 Nov 2026 16:54:27 +0000",
-      "timestamp": 1793724867.0
-    },
-    {
-      "title": "Bears assert Super Bowl candidacy: After Jeffery Simmons trade and 'MNF' win, NFC runs through Chicago",
-      "url": "https://www.cbssports.com/nfl/news/bears-assert-super-bowl-candidacy-jeffery-simmons/",
-      "source": "CBS NFL",
-      "published": "Tue, 03 Nov 2026 15:36:12 +0000",
-      "timestamp": 1793720172.0
-    },
-    {
-      "title": "With Bohm now a free agent, who will play 3B for Phils?",
-      "url": "https://www.mlb.com/news/phillies-future-third-base-alec-bohm-free-agency",
-      "source": "MLB",
-      "published": "Tue, 03 Nov 2026 15:30:00 GMT",
-      "timestamp": 1793719800.0
     }
   ]
 }
