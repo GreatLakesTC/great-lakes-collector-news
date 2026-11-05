@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-04T19:02:20.983191+00:00",
-  "count": 25,
+  "updated_at": "2026-11-05T06:41:44.742892+00:00",
+  "count": 20,
   "counts": {
     "Fantasy NFL": 15,
     "Fantasy NBA": 5,
-    "Fantasy MLB": 5
+    "Fantasy MLB": 0
   },
   "articles": [
     {
@@ -71,85 +71,49 @@
       "summary": "For most fantasy football managers, Week 8 was a disappointing one for kickers, as only one rostered in over 60% of Yahoo leagues finished in the top 12 at the position. Brandon Aubrey overcame..."
     },
     {
-      "title": "Jake Ferguson: Working with trainers Wednesday",
-      "url": "https://www.rotowire.com//football/player/jake-ferguson-15947",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-04T10:52:00+00:00",
-      "timestamp": 1793789520,
-      "summary": "Head coach Brian Schottenheimer said Ferguson (ankle) will work with the Cowboys' training staff during Wednesday's practice, Briana Aldridge of CBS News Texas reports. Visit RotoWire.com for more..."
-    },
-    {
-      "title": "Cam Skattebo: Not practicing Wednesday",
-      "url": "https://www.rotowire.com//football/player/cam-skattebo-18514",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-04T10:45:00+00:00",
-      "timestamp": 1793789100,
-      "summary": "Skattebo (hamstring) didn't take part in Wednesday's practice and instead was seen working with a trainer on the side, Jordan Raanan of ESPN reports. Visit RotoWire.com for more analysis on this..."
-    },
-    {
-      "title": "Trey Murphy: Downgraded to questionable",
-      "url": "https://www.rotowire.com//basketball/player/trey-murphy-5401",
+      "title": "Devin Booker: Nets game-high 33 points in loss",
+      "url": "https://www.rotowire.com//basketball/player/devin-booker-3711",
       "source": "RotoWire",
       "sport": "Fantasy NBA",
-      "published": "2026-11-04T10:35:00+00:00",
-      "timestamp": 1793788500,
-      "summary": "Murphy (knees) is now questionable for Wednesday against the Jazz. Visit RotoWire.com for more analysis on this update."
+      "published": "2026-11-04T10:00:00+00:00",
+      "timestamp": 1793786400,
+      "summary": "Booker finished with 33 points (9-19 FG, 2-8 3Pt, 13-13 FT), one rebound, two assists and two turnovers across 34 minutes in Wednesday's 132-119 loss to the Trail Blazers. Visit RotoWire.com for..."
     },
     {
-      "title": "Emeka Egbuka: Doesn't practice Wednesday",
-      "url": "https://www.rotowire.com//football/player/emeka-egbuka-18549",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-04T10:29:00+00:00",
-      "timestamp": 1793788140,
-      "summary": "Head coach Todd Bowles said Egbuka (foot) didn't practice Wednesday, but the wide receiver was able to run on a side field, and the Buccaneers will see how he feels Thursday, Scott Smith of the..."
-    },
-    {
-      "title": "TreVeyon Henderson: Won't practice Wednesday",
-      "url": "https://www.rotowire.com//football/player/treveyon-henderson-18517",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-04T10:22:00+00:00",
-      "timestamp": 1793787720,
-      "summary": "Henderson (illness) won't practice Wednesday, Doug Kyed of the Boston Herald reports. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "A.J. Brown: Set to miss Wednesday's practice",
-      "url": "https://www.rotowire.com//football/player/aj-brown-13432",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-04T10:13:00+00:00",
-      "timestamp": 1793787180,
-      "summary": "Brown (ankle/knee) won't practice Wednesday, Doug Kyed of the Boston Herald reports. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Josh Hart: Out with sore ankle",
-      "url": "https://www.rotowire.com//basketball/player/josh-hart-4136",
+      "title": "Victor Wembanyama: Posts monster double-double in win",
+      "url": "https://www.rotowire.com//basketball/player/victor-wembanyama-5809",
       "source": "RotoWire",
       "sport": "Fantasy NBA",
-      "published": "2026-11-04T10:08:00+00:00",
-      "timestamp": 1793786880,
-      "summary": "Hart is out for Wednesday's game against the Bulls due to right ankle soreness. Visit RotoWire.com for more analysis on this update."
+      "published": "2026-11-04T09:49:00+00:00",
+      "timestamp": 1793785740,
+      "summary": "Wembanyama went off for 52 points (16-28 FG, 1-8 3Pt, 19-23 FT), 24 rebounds, two assists, two steals and eight blocks over 34 minutes in Wednesday's 112-111 win over the Mavs. Visit RotoWire.com..."
     },
     {
-      "title": "Kon Knueppel: Cleared to play",
-      "url": "https://www.rotowire.com//basketball/player/kon-knueppel-6540",
+      "title": "LaMelo Ball: Nets 20 points with four stocks in win",
+      "url": "https://www.rotowire.com//basketball/player/lamelo-ball-5151",
       "source": "RotoWire",
       "sport": "Fantasy NBA",
-      "published": "2026-11-04T10:03:00+00:00",
-      "timestamp": 1793786580,
-      "summary": "Knueppel (hamstring) is available for Wednesday against the Nets. Visit RotoWire.com for more analysis on this update."
+      "published": "2026-11-04T09:39:00+00:00",
+      "timestamp": 1793785140,
+      "summary": "Ball totaled 20 points (6-11 FG, 4-7 3Pt, 4-5 FT), two rebounds, six assists, three steals, one block and seven turnovers across 31 minutes in Wednesday's 117-107 win over the Rockets. Visit..."
     },
     {
-      "title": "Jayson Tatum: Confirmed out for Wednesday",
-      "url": "https://www.rotowire.com//basketball/player/jayson-tatum-4108",
+      "title": "Keyonte George: Erupts for 39 points with nine dimes",
+      "url": "https://www.rotowire.com//basketball/player/keyonte-george-5899",
       "source": "RotoWire",
       "sport": "Fantasy NBA",
-      "published": "2026-11-04T09:48:00+00:00",
-      "timestamp": 1793785680,
-      "summary": "Tatum will be rested Wednesday against the Bucks, Jack Simone of BostonSportsJournal.com reports. Visit RotoWire.com for more analysis on this update."
+      "published": "2026-11-04T09:33:00+00:00",
+      "timestamp": 1793784780,
+      "summary": "George registered 39 points (14-26 FG, 2-9 3Pt, 9-13 FT), two rebounds, nine assists, four steals and one block over 44 minutes in Wednesday's 120-113 overtime loss to the Pelicans. Visit..."
+    },
+    {
+      "title": "Vit Krejci: Suffers leg fracture",
+      "url": "https://www.rotowire.com//basketball/player/vit-krejci-5233",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-11-04T09:17:00+00:00",
+      "timestamp": 1793783820,
+      "summary": "Head coach Micah Nori said that Krejci suffered a left leg fracture during Wednesday's 132-119 win over the Suns, Brett Siegel of ClutchPoints.com reports. Visit RotoWire.com for more analysis on..."
     },
     {
       "title": "Fantasy Football Panic Meter: Zay Flowers, Bryce Young, Ashton Jeanty",
@@ -179,58 +143,49 @@
       "summary": "Identify opportunities to improve your roster with these 10 fantasy football players to trade away in Week 9. From Tony Pollard's touchdown surge to shrinking workloads for Jaylen Warren and..."
     },
     {
-      "title": "Giannis Antetokounmpo: Probable for Wednesday",
-      "url": "https://www.rotowire.com//basketball/player/giannis-antetokounmpo-3456",
+      "title": "Michael Wilson: Stays limited Wednesday",
+      "url": "https://www.rotowire.com//football/player/michael-wilson-16957",
       "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-11-03T05:06:00+00:00",
-      "timestamp": 1793682360,
-      "summary": "Antetokounmpo is probable to play Wednesday against the Clippers due to a sprained right wrist. Visit RotoWire.com for more analysis on this update."
+      "sport": "Fantasy NFL",
+      "published": "2026-11-04T06:25:00+00:00",
+      "timestamp": 1793773500,
+      "summary": "Wilson (rest/ribs) practiced in a limited capacity Wednesday, Theo Mackie of The Arizona Republic reports. Visit RotoWire.com for more analysis on this update."
     },
     {
-      "title": "Randy Arozarena: Extended qualifying offer by Seattle",
-      "url": "https://www.rotowire.com//baseball/player/randy-arozarena-14452",
+      "title": "Drew Lock: Listed as limited Wednesday",
+      "url": "https://www.rotowire.com//football/player/drew-lock-13736",
       "source": "RotoWire",
-      "sport": "Fantasy MLB",
-      "published": "2026-11-02T05:23:00+00:00",
-      "timestamp": 1793596980,
-      "summary": "The Mariners extended Arozarena a one-year, $23.15 million qualifying offer Monday, Ryan Divish of The Seattle Times reports. Visit RotoWire.com for more analysis on this update."
+      "sport": "Fantasy NFL",
+      "published": "2026-11-04T06:22:00+00:00",
+      "timestamp": 1793773320,
+      "summary": "Lock (right elbow) was limited at Wednesday's walkthrough, John Boyle of the Seahawks' official site reports. Visit RotoWire.com for more analysis on this update."
     },
     {
-      "title": "Ryan Jeffers: Gets $23.15M qualifying offer",
-      "url": "https://www.rotowire.com//baseball/player/ryan-jeffers-15504",
+      "title": "Kenny Gainwell: Limited Wednesday",
+      "url": "https://www.rotowire.com//football/player/kenny-gainwell-15222",
       "source": "RotoWire",
-      "sport": "Fantasy MLB",
-      "published": "2026-11-02T05:18:00+00:00",
-      "timestamp": 1793596680,
-      "summary": "The Twins extended Jeffers a one-year, $23.15 million qualifying offer Monday, Dan Hayes of The Athletic reports. Visit RotoWire.com for more analysis on this update."
+      "sport": "Fantasy NFL",
+      "published": "2026-11-04T06:15:00+00:00",
+      "timestamp": 1793772900,
+      "summary": "Gainwell (hip) was listed as limited on Wednesday's injury report. Visit RotoWire.com for more analysis on this update."
     },
     {
-      "title": "Trevor Rogers: Gets qualifying offer from Baltimore",
-      "url": "https://www.rotowire.com//baseball/player/trevor-rogers-14790",
+      "title": "Kyle Monangai: Misses Wednesday's walkthrough",
+      "url": "https://www.rotowire.com//football/player/kyle-monangai-18520",
       "source": "RotoWire",
-      "sport": "Fantasy MLB",
-      "published": "2026-11-02T05:04:00+00:00",
-      "timestamp": 1793595840,
-      "summary": "The Orioles extended Rogers a one-year, $23.15 million qualifying offer Monday. Visit RotoWire.com for more analysis on this update."
+      "sport": "Fantasy NFL",
+      "published": "2026-11-04T06:02:00+00:00",
+      "timestamp": 1793772120,
+      "summary": "Monangai (thumb/toe) didn't participate in Wednesday's walkthrough. Visit RotoWire.com for more analysis on this update."
     },
     {
-      "title": "David Bednar: Extended $23.15M qualifying offer",
-      "url": "https://www.rotowire.com//baseball/player/david-bednar-15902",
+      "title": "Matthew Stafford: Practices fully Wednesday",
+      "url": "https://www.rotowire.com//football/player/matthew-stafford-5971",
       "source": "RotoWire",
-      "sport": "Fantasy MLB",
-      "published": "2026-11-02T04:59:00+00:00",
-      "timestamp": 1793595540,
-      "summary": "The Yankees extended Bednar a one-year, $23.15 million qualifying offer Monday. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Kenley Jansen: Club option declined by Detroit",
-      "url": "https://www.rotowire.com//baseball/player/kenley-jansen-11289",
-      "source": "RotoWire",
-      "sport": "Fantasy MLB",
-      "published": "2026-11-02T03:54:00+00:00",
-      "timestamp": 1793591640,
-      "summary": "The Tigers declined Jansen's $12 million club option for the 2027 season Monday. Visit RotoWire.com for more analysis on this update."
+      "sport": "Fantasy NFL",
+      "published": "2026-11-04T04:36:00+00:00",
+      "timestamp": 1793766960,
+      "summary": "Stafford (right elbow) was a full participant in Wednesday's practice, Sarah Barshop of ESPN reports. Visit RotoWire.com for more analysis on this update."
     }
   ]
 }
