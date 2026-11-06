@@ -1,7 +1,70 @@
 {
-  "updated_at": "2026-11-06T06:50:02.620670+00:00",
+  "updated_at": "2026-11-06T19:26:02.331101+00:00",
   "count": 30,
   "articles": [
+    {
+      "title": "Nats, outfielder Young agree to four-year contract extension (source)",
+      "url": "https://www.mlb.com/news/jacob-young-contract-extension-nationals",
+      "source": "MLB",
+      "published": "Fri, 06 Nov 2026 17:15:00 GMT",
+      "timestamp": 1793985300.0
+    },
+    {
+      "title": "How good can the Phillies' rotation be in '27? Or ... what could go wrong?",
+      "url": "https://www.mlb.com/news/evaluating-the-phillies-starting-rotation-for-2027-season",
+      "source": "MLB",
+      "published": "Fri, 06 Nov 2026 17:07:33 GMT",
+      "timestamp": 1793984853.0
+    },
+    {
+      "title": "Jacoby Brissett trade grades: Cardinals earn high mark, Ravens stay afloat in mutually beneficial trade",
+      "url": "https://www.cbssports.com/nfl/news/jacoby-brissett-trade-grades-cardinals-ravens-trade-deadline/",
+      "source": "CBS NFL",
+      "published": "Fri, 06 Nov 2026 16:30:50 +0000",
+      "timestamp": 1793982650.0
+    },
+    {
+      "title": "Frustrated Derrick Henry responds to trade rumors following Ravens brutal 'TNF' loss to Jaguars",
+      "url": "https://www.cbssports.com/nfl/news/ravens-derrick-henry-trade-rumor-thoughts-nfl-trade-deadline/",
+      "source": "CBS NFL",
+      "published": "Fri, 06 Nov 2026 16:14:11 +0000",
+      "timestamp": 1793981651.0
+    },
+    {
+      "title": "Could Holliday be an O's trade candidate this winter?",
+      "url": "https://www.mlb.com/news/jackson-holliday-offseason-trade-candidate-orioles",
+      "source": "MLB",
+      "published": "Fri, 06 Nov 2026 15:54:06 GMT",
+      "timestamp": 1793980446.0
+    },
+    {
+      "title": "NFL Trade Deadline: 4 mock trades that would make Steelers a true Super Bowl contender",
+      "url": "https://www.cbssports.com/nfl/news/nfl-trade-deadline-4-trade-options-steelers-super-bowl-contender/",
+      "source": "CBS NFL",
+      "published": "Fri, 06 Nov 2026 15:30:47 +0000",
+      "timestamp": 1793979047.0
+    },
+    {
+      "title": "Where can the Yankees improve the lineup?",
+      "url": "https://www.mlb.com/news/ways-yankees-can-improve-their-offense",
+      "source": "MLB",
+      "published": "Fri, 06 Nov 2026 14:24:44 GMT",
+      "timestamp": 1793975084.0
+    },
+    {
+      "title": "2026 NFL trade deadline: One realistic, one pipe dream trade scenario for every playoff contender",
+      "url": "https://www.cbssports.com/nfl/news/2026-nfl-trade-deadline-realistic-dream-trade-scenario-playoff-contenders/",
+      "source": "CBS NFL",
+      "published": "Fri, 06 Nov 2026 11:00:59 +0000",
+      "timestamp": 1793962859.0
+    },
+    {
+      "title": "Topps Legends – FC Internazionale Milano",
+      "url": "https://insider.cards/story/topps-legends-fc-internazionale-milano-8adb47/",
+      "source": "Hobby",
+      "published": "Fri, 06 Nov 2026 08:43:19 +0000",
+      "timestamp": 1793954599.0
+    },
     {
       "title": "This offseason's best free-agent starters, ranked",
       "url": "https://www.mlb.com/news/free-agent-starting-pitcher-power-rankings-for-2026-2027",
@@ -17,11 +80,11 @@
       "timestamp": 1793919134.0
     },
     {
-      "title": "Vikings make QB change: Carson Wentz to start vs. Bills as Kyler Murray deals with injury",
-      "url": "https://www.cbssports.com/nfl/news/vikings-qb-change-carson-wentz-start-vs-bills-kyler-murry-injury/",
-      "source": "CBS NFL",
-      "published": "Thu, 05 Nov 2026 19:16:04 +0000",
-      "timestamp": 1793906164.0
+      "title": "2026-27 Topps Flagship Basketball Top Rookie Cards to Collect",
+      "url": "https://insider.cards/story/topps-flagship-basketball-releases-today-with-a-new-rookie-chase-2ece08/",
+      "source": "Hobby",
+      "published": "Thu, 05 Nov 2026 19:06:06 +0000",
+      "timestamp": 1793905566.0
     },
     {
       "title": "How 3 stars went from prospect trade chips to MVP finalists",
@@ -45,46 +108,11 @@
       "timestamp": 1793895609.0
     },
     {
-      "title": "Panini Select Basketball: Every Pack Opens a New Door",
-      "url": "https://insider.cards/story/panini-select-basketball-every-pack-opens-a-new-door-56b579/",
-      "source": "Hobby",
-      "published": "Thu, 05 Nov 2026 15:56:28 +0000",
-      "timestamp": 1793894188.0
-    },
-    {
-      "title": "2026 midseason rookie grades: Ranking the early hits, misses and biggest surprises",
-      "url": "https://www.cbssports.com/nfl/news/2026-nfl-rookie-grades-midseason-surprises/",
-      "source": "CBS NFL",
-      "published": "Thu, 05 Nov 2026 15:41:26 +0000",
-      "timestamp": 1793893286.0
-    },
-    {
-      "title": "Why Vikings coach Kevin O'Connell should be on hot seat despite NFL-best 6-1 record",
-      "url": "https://www.cbssports.com/nfl/news/why-vikings-coach-kevin-oconnell-should-be-on-hot-seat/",
-      "source": "CBS NFL",
-      "published": "Thu, 05 Nov 2026 15:34:37 +0000",
-      "timestamp": 1793892877.0
-    },
-    {
-      "title": "Why Ravens should trade Derrick Henry: Don't let Baltimore's QB woes drag down 'King Henry'",
-      "url": "https://www.cbssports.com/nfl/news/nfl-trade-deadline-why-ravens-should-trade-derrick-henry/",
-      "source": "CBS NFL",
-      "published": "Thu, 05 Nov 2026 14:13:33 +0000",
-      "timestamp": 1793888013.0
-    },
-    {
       "title": "Miami loses Malachi Toney to high ankle sprain; Week 9 NFL picks and latest NBA Power Rankings",
       "url": "https://www.cbssports.com/college-football/news/miami-loses-malachi-toney-to-high-ankle-sprain-week-9-nfl-picks-and-latest-nba-power-rankings/",
       "source": "CBS NBA",
       "published": "Thu, 05 Nov 2026 13:56:03 +0000",
       "timestamp": 1793886963.0
-    },
-    {
-      "title": "2026-27 Topps Flagship Basketball Top Rookie Cards to Collect",
-      "url": "https://insider.cards/story/topps-flagship-basketball-releases-today-with-a-new-rookie-chase-2ece08/",
-      "source": "Hobby",
-      "published": "Thu, 05 Nov 2026 13:47:38 +0000",
-      "timestamp": 1793886458.0
     },
     {
       "title": "Should the NBA shorten games to 40 minutes? Pros and cons of move as league battles early season injury crisis",
@@ -94,74 +122,11 @@
       "timestamp": 1793886390.0
     },
     {
-      "title": "You Might Be Sitting on a Fortune if You Have Old Sports Cards in the Attic",
-      "url": "https://insider.cards/story/you-might-be-sitting-on-a-fortune-if-you-have-old-sports-cards-in-the-1116c3/",
-      "source": "Hobby",
-      "published": "Thu, 05 Nov 2026 13:15:00 +0000",
-      "timestamp": 1793884500.0
-    },
-    {
-      "title": "Week 9 Super Bowl stock report: Jeffery Simmons trade legitimizes Bears, QB injuries tank Ravens",
-      "url": "https://www.cbssports.com/nfl/news/super-bowl-stock-report-week-9-jeffery-simmons-bears-ravens/",
-      "source": "CBS NFL",
-      "published": "Thu, 05 Nov 2026 13:09:21 +0000",
-      "timestamp": 1793884161.0
-    },
-    {
-      "title": "NFL Week 9 injury report: Micah Parsons returns to Packers practice, Rams lose Jaylen Watson for season",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-9-injury-report-micah-parsons-jaylen-watson-rams/",
-      "source": "CBS NFL",
-      "published": "Thu, 05 Nov 2026 03:07:09 +0000",
-      "timestamp": 1793848029.0
-    },
-    {
-      "title": "10 free agents who raised their stock in 2026",
-      "url": "https://www.mlb.com/news/mlb-free-agents-that-raised-stock-in-2026",
-      "source": "MLB",
-      "published": "Thu, 05 Nov 2026 03:00:00 GMT",
-      "timestamp": 1793847600.0
-    },
-    {
       "title": "2026-27 Topps Flagship Basketball Checklist Spotlight",
       "url": "https://insider.cards/story/2026-27-topps-flagship-basketball-checklist-spotlight-34fbbb/",
       "source": "Hobby",
       "published": "Wed, 04 Nov 2026 21:39:52 +0000",
       "timestamp": 1793828392.0
-    },
-    {
-      "title": "4 big questions for Mets' rotation this offseason",
-      "url": "https://www.mlb.com/news/mets-rotation-offseason-questions-2026-2027",
-      "source": "MLB",
-      "published": "Wed, 04 Nov 2026 21:08:44 GMT",
-      "timestamp": 1793826524.0
-    },
-    {
-      "title": "Agent's Take: What's next between Lamar Jackson, Ravens after yet another injury",
-      "url": "https://www.cbssports.com/nfl/news/agents-take-whats-next-lamar-jackson-ravens-contract/",
-      "source": "CBS NFL",
-      "published": "Wed, 04 Nov 2026 20:53:47 +0000",
-      "timestamp": 1793825627.0
-    },
-    {
-      "title": "2026 NFL trade deadline tracker: Latest deals, grades as Jacoby Brissett heads to Baltimore",
-      "url": "https://www.cbssports.com/nfl/news/2026-nfl-trade-deadline-tracker-latest-deals-grades/",
-      "source": "CBS NFL",
-      "published": "Wed, 04 Nov 2026 20:49:09 +0000",
-      "timestamp": 1793825349.0
-    },
-    {
-      "title": "Jacoby Brissett trade: Ravens strike deal for Cardinals QB amid injury crisis",
-      "url": "https://www.cbssports.com/nfl/news/jacoby-brissett-trade-ravens-cardinals-lamar-jackson/",
-      "source": "CBS NFL",
-      "published": "Wed, 04 Nov 2026 20:23:16 +0000",
-      "timestamp": 1793823796.0
-    },
-    {
-      "title": "Sam Darnold out for Seahawks in Week 9 as Drew Lock gets another start vs. Cardinals",
-      "url": "https://www.cbssports.com/nfl/news/sam-darnold-out-injury-seahawks-qb-drew-lock-cardinals/",
-      "source": "CBS NFL",
-      "published": "Wed, 04 Nov 2026 19:46:41 +0000",
-      "timestamp": 1793821601.0
     },
     {
       "title": "Warriors reportedly aren't paying Kristaps Porziņģis as former All-Star combats health issues",
@@ -211,6 +176,41 @@
       "source": "CBS NBA",
       "published": "Tue, 03 Nov 2026 16:54:27 +0000",
       "timestamp": 1793724867.0
+    },
+    {
+      "title": "Tarik Skubal contract predictions: Ace's new deal could break multiple MLB records for a pitcher",
+      "url": "https://www.cbssports.com/mlb/news/tarik-skubal-contract-predictions-mlb-free-agency/",
+      "source": "CBS MLB",
+      "published": "Tue, 03 Nov 2026 13:50:38 +0000",
+      "timestamp": 1793713838.0
+    },
+    {
+      "title": "Robinson Canó Jr., son of eight-time MLB All-Star, agrees to $1 million deal with Marlins, per reports",
+      "url": "https://www.cbssports.com/mlb/news/robinson-cano-jr-1-million-deal-marlins/",
+      "source": "CBS MLB",
+      "published": "Tue, 03 Nov 2026 13:12:00 +0000",
+      "timestamp": 1793711520.0
+    },
+    {
+      "title": "Pete Crow-Armstrong, Jacob Misiorowski, more named finalists for MVP, Cy Young and Rookie of the Year awards",
+      "url": "https://www.cbssports.com/mlb/news/mvp-awards-finalists-2026-rookie-manager-reliever-mvp-cy-young/",
+      "source": "CBS MLB",
+      "published": "Tue, 03 Nov 2026 00:41:22 +0000",
+      "timestamp": 1793666482.0
+    },
+    {
+      "title": "Why Warriors rookie Yaxel Lendeborg was benched after being 'peer pressured' into chasing 40 against Clippers",
+      "url": "https://www.cbssports.com/nba/news/warriors-yaxel-lendeborg-benched-40-points-peer-pressure-clippers/",
+      "source": "CBS NBA",
+      "published": "Mon, 02 Nov 2026 20:08:15 +0000",
+      "timestamp": 1793650095.0
+    },
+    {
+      "title": "An In-Depth Review Of 2026 Topps Cosmic Chrome Baseball",
+      "url": "https://insider.cards/story/2026-topps-cosmic-chrome-baseball-10-best-cards-to-chase-57a766/",
+      "source": "Hobby",
+      "published": "Mon, 02 Nov 2026 19:12:35 +0000",
+      "timestamp": 1793646755.0
     }
   ]
 }
