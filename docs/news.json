@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-11-05T19:58:33.004400+00:00",
+  "updated_at": "2026-11-06T06:50:02.620670+00:00",
   "count": 30,
   "articles": [
+    {
+      "title": "This offseason's best free-agent starters, ranked",
+      "url": "https://www.mlb.com/news/free-agent-starting-pitcher-power-rankings-for-2026-2027",
+      "source": "MLB",
+      "published": "Fri, 06 Nov 2026 05:00:00 GMT",
+      "timestamp": 1793941200.0
+    },
+    {
+      "title": "Cowboys stars reject George Pickens trade talk ahead of NFL deadline",
+      "url": "https://www.cbssports.com/nfl/news/george-pickens-trade-rumors-cowboys-nfl-deadline/",
+      "source": "CBS NFL",
+      "published": "Thu, 05 Nov 2026 22:52:14 +0000",
+      "timestamp": 1793919134.0
+    },
     {
       "title": "Vikings make QB change: Carson Wentz to start vs. Bills as Kyler Murray deals with injury",
       "url": "https://www.cbssports.com/nfl/news/vikings-qb-change-carson-wentz-start-vs-bills-kyler-murry-injury/",
@@ -34,8 +48,8 @@
       "title": "Panini Select Basketball: Every Pack Opens a New Door",
       "url": "https://insider.cards/story/panini-select-basketball-every-pack-opens-a-new-door-56b579/",
       "source": "Hobby",
-      "published": "Thu, 05 Nov 2026 15:51:41 +0000",
-      "timestamp": 1793893901.0
+      "published": "Thu, 05 Nov 2026 15:56:28 +0000",
+      "timestamp": 1793894188.0
     },
     {
       "title": "2026 midseason rookie grades: Ranking the early hits, misses and biggest surprises",
@@ -66,6 +80,13 @@
       "timestamp": 1793886963.0
     },
     {
+      "title": "2026-27 Topps Flagship Basketball Top Rookie Cards to Collect",
+      "url": "https://insider.cards/story/topps-flagship-basketball-releases-today-with-a-new-rookie-chase-2ece08/",
+      "source": "Hobby",
+      "published": "Thu, 05 Nov 2026 13:47:38 +0000",
+      "timestamp": 1793886458.0
+    },
+    {
       "title": "Should the NBA shorten games to 40 minutes? Pros and cons of move as league battles early season injury crisis",
       "url": "https://www.cbssports.com/nba/news/should-nba-shorten-games-to-40-minutes-pros-cons-injury-crisis/",
       "source": "CBS NBA",
@@ -85,13 +106,6 @@
       "source": "CBS NFL",
       "published": "Thu, 05 Nov 2026 13:09:21 +0000",
       "timestamp": 1793884161.0
-    },
-    {
-      "title": "In March 2025, a Caitlin Clark rookie card sold for $366,000; a different signed Clark card brought a record $660,000 that July",
-      "url": "https://insider.cards/story/in-march-2025-a-caitlin-clark-rookie-card-sold-for-usd-366-000-a-7bf62d/",
-      "source": "Hobby",
-      "published": "Thu, 05 Nov 2026 11:50:53 +0000",
-      "timestamp": 1793879453.0
     },
     {
       "title": "NFL Week 9 injury report: Micah Parsons returns to Packers practice, Rams lose Jaylen Watson for season",
@@ -150,46 +164,11 @@
       "timestamp": 1793821601.0
     },
     {
-      "title": "Lions' Jack Campbell issues statement updating condition after scary injury vs. Vikings",
-      "url": "https://www.cbssports.com/nfl/news/lions-jack-campbell-issues-statement-after-injury-vikings/",
-      "source": "CBS NFL",
-      "published": "Wed, 04 Nov 2026 18:58:43 +0000",
-      "timestamp": 1793818723.0
-    },
-    {
-      "title": "Jets' Garrett Wilson enters concussion protocol a week before 2026 NFL trade deadline",
-      "url": "https://www.cbssports.com/nfl/news/jets-garrett-wilson-enters-concussion-protocol/",
-      "source": "CBS NFL",
-      "published": "Wed, 04 Nov 2026 18:56:51 +0000",
-      "timestamp": 1793818611.0
-    },
-    {
       "title": "Warriors reportedly aren't paying Kristaps Porziņģis as former All-Star combats health issues",
       "url": "https://www.cbssports.com/nba/news/warriors-kristaps-porzingis-salary-health-issues/",
       "source": "CBS NBA",
       "published": "Wed, 04 Nov 2026 17:36:02 +0000",
       "timestamp": 1793813762.0
-    },
-    {
-      "title": "An early look at the 2027 Power Rankings",
-      "url": "https://www.mlb.com/news/mlb-early-offseason-power-rankings-2027",
-      "source": "MLB",
-      "published": "Wed, 04 Nov 2026 17:35:00 GMT",
-      "timestamp": 1793813700.0
-    },
-    {
-      "title": "Ravens trade candidates: Three quarterbacks Baltimore should consider amid injury crisis",
-      "url": "https://www.cbssports.com/nfl/news/ravens-trade-candidates-quarterback-injuries-lamar-jackson/",
-      "source": "CBS NFL",
-      "published": "Wed, 04 Nov 2026 17:21:19 +0000",
-      "timestamp": 1793812879.0
-    },
-    {
-      "title": "Jadeveon Clowney mock trades: Cowboys reunion headlines four deals Texans can make before NFL trade deadline",
-      "url": "https://www.cbssports.com/nfl/news/jadeveon-clowney-mock-trades-cowboys-texans-nfl-trade-deadline/",
-      "source": "CBS NFL",
-      "published": "Wed, 04 Nov 2026 17:05:35 +0000",
-      "timestamp": 1793811935.0
     },
     {
       "title": "Former Yankees, Rangers All-Star Mark Teixeira wins U.S. House seat in Texas",
@@ -211,6 +190,27 @@
       "source": "CBS NBA",
       "published": "Wed, 04 Nov 2026 13:53:59 +0000",
       "timestamp": 1793800439.0
+    },
+    {
+      "title": "MLB offseason bold predictions: Tarik Skubal breaks records, World Series champ gets a deal, a FA frenzy, more",
+      "url": "https://www.cbssports.com/mlb/news/mlb-offseason-bold-predictions-tarik-skubal-william-contreras-astros-braves-yankees-cubs/",
+      "source": "CBS MLB",
+      "published": "Wed, 04 Nov 2026 13:45:54 +0000",
+      "timestamp": 1793799954.0
+    },
+    {
+      "title": "Ty Jerome is on a Linsanity-esque run, but here's why his MVP-level scoring isn't that big of a surprise",
+      "url": "https://www.cbssports.com/nba/news/ty-jerome-linsanity-mvp-level-scoring-surprise/",
+      "source": "CBS NBA",
+      "published": "Tue, 03 Nov 2026 17:46:53 +0000",
+      "timestamp": 1793728013.0
+    },
+    {
+      "title": "Three notable decisions from NBA's rookie-scale extension deadline: Thunder seemingly give up on lottery pick",
+      "url": "https://www.cbssports.com/nba/news/nba-rookie-scale-contract-deadline-thunder-give-up-on-lottery-pick/",
+      "source": "CBS NBA",
+      "published": "Tue, 03 Nov 2026 16:54:27 +0000",
+      "timestamp": 1793724867.0
     }
   ]
 }
