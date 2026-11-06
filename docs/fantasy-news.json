@@ -1,12 +1,183 @@
 {
-  "updated_at": "2026-11-06T06:38:52.554667+00:00",
-  "count": 20,
+  "updated_at": "2026-11-06T19:22:10.917369+00:00",
+  "count": 21,
   "counts": {
     "Fantasy NFL": 15,
     "Fantasy NBA": 5,
-    "Fantasy MLB": 0
+    "Fantasy MLB": 1
   },
   "articles": [
+    {
+      "title": "Fantasy Football Week 9 Player Grades & Start/Sit Advice (2026)",
+      "url": "https://www.fantasypros.com/2026/11/fantasy-football-week-9-player-grades-start-sit-advice-2026/",
+      "source": "FantasyPros",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-06T16:54:53+00:00",
+      "timestamp": 1793984093,
+      "summary": "Welcome to Week 9, friends. As always, we're here to provide you with some fantasy football Quick Grades (or Start/Sit Grades, if you prefer) for the week. We tappedÂ our consensus projections and..."
+    },
+    {
+      "title": "6 Fantasy Football WR/CB Matchups to Know: Week 9 (2026)",
+      "url": "https://www.fantasypros.com/2026/11/6-fantasy-football-wr-cb-matchups-to-know-week-9-2026/",
+      "source": "FantasyPros",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-06T16:16:11+00:00",
+      "timestamp": 1793981771,
+      "summary": "We are now into the second half of the fantasy football regular season. Some fantasy managers will be sitting comfortably at the top of their leagues. Others will be wondering how they can get..."
+    },
+    {
+      "title": "NFL DFS GPP Picks & Lineup Advice: Week 9 (2026)",
+      "url": "https://www.fantasypros.com/2026/11/nfl-dfs-gpp-picks-lineup-advice-week-9-2026/",
+      "source": "FantasyPros",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-06T16:16:07+00:00",
+      "timestamp": 1793981767,
+      "summary": "The players below are the ones I'm considering for NFL DFS GPPs this week. Salaries marked with an * indicate a significant difference in pricing on FanDuel. DFS Lineup Optimizer DFS Cheat Sheets..."
+    },
+    {
+      "title": "The 10 Most Intriguing Fantasy Football Players of Week 9 (2026)",
+      "url": "https://www.fantasypros.com/2026/11/the-10-most-intriguing-fantasy-football-players-of-week-9-2026/",
+      "source": "FantasyPros",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-06T15:07:33+00:00",
+      "timestamp": 1793977653,
+      "summary": "It is the week of the backup quarterback. Six NFL teams will have different starting quarterbacks in Week 9 than they had in Week 8. Some of those QB changes are injury-related. Some are voluntary..."
+    },
+    {
+      "title": "Fantasy Football Rankings, Tiers & Start/Sit Advice (Week 9)",
+      "url": "https://www.fantasypros.com/2026/11/fantasy-football-rankings-tiers-start-sit-advice-week-9-2026/",
+      "source": "FantasyPros",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-06T12:16:55+00:00",
+      "timestamp": 1793967415,
+      "summary": "Here are my fantasy football rankings, tiers and outlook for notable players for this week. Feel free to use these tiered half-point PPR rankings as a tiebreaker for your difficult lineup..."
+    },
+    {
+      "title": "10 Fantasy Football Stats You Need to Know (Week 9)",
+      "url": "https://www.fantasypros.com/2026/11/10-fantasy-football-stats-you-need-to-know-week-9-2026/",
+      "source": "FantasyPros",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-06T12:03:19+00:00",
+      "timestamp": 1793966599,
+      "summary": "FantasyPros publishes approximately 7.7 million pieces of weekly fantasy football content to help you win your league and eventually take home fantasy gold. It can be difficult to read such a vast..."
+    },
+    {
+      "title": "20 Injuries to Know for Week 9 (2026 Fantasy Football)",
+      "url": "https://www.fantasypros.com/2026/11/20-injuries-to-know-for-week-9-2026-fantasy-football/",
+      "source": "FantasyPros",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-06T12:03:10+00:00",
+      "timestamp": 1793966590,
+      "summary": "Every week, fantasy football matchups are won and lost based on who's available. Below are some of the bigger names on this week's injury report, along with what to expect. Waiver Wire Advice..."
+    },
+    {
+      "title": "Fantasy Football IDP Start/Sit Lineup Advice: Week 9 (2026)Â",
+      "url": "https://www.fantasypros.com/2026/11/fantasy-football-idp-start-sit-lineup-advice-week-9-2026/",
+      "source": "FantasyPros",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-06T12:03:01+00:00",
+      "timestamp": 1793966581,
+      "summary": "Thursday Night Football is complete, and fantasy football managers now turn their attention to the weekend's contests as we try to decide which players to start and which players to sit. For IDP..."
+    },
+    {
+      "title": "Rhamondre Stevenson: Set for expanded workload again in Week 9",
+      "url": "https://www.rotowire.com//football/player/rhamondre-stevenson-15372",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-06T11:10:00+00:00",
+      "timestamp": 1793963400,
+      "summary": "With TreVeyon Henderson (illness) ruled out for Week 9, Stevenson is set to handle an expanded workload Sunday against the Packers, Mark Daniels of MassLive.com reports. Visit RotoWire.com for..."
+    },
+    {
+      "title": "Kyrie Irving: Added to injury report",
+      "url": "https://www.rotowire.com//basketball/player/kyrie-irving-3186",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-11-06T11:06:00+00:00",
+      "timestamp": 1793963160,
+      "summary": "Irving (illness) is probable for Friday's game against Utah. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Cam Skattebo: Has chance to play Sunday",
+      "url": "https://www.rotowire.com//football/player/cam-skattebo-18514",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-06T10:31:00+00:00",
+      "timestamp": 1793961060,
+      "summary": "Head coach John Harbaugh said Skattebo (hamstring) didn't practice Friday, but the Giants are \"keeping the door open\" for the running back to play Sunday at Philadelphia, Ryan Dunleavy of the New..."
+    },
+    {
+      "title": "TreVeyon Henderson: Won't play Sunday against Green Bay",
+      "url": "https://www.rotowire.com//football/player/treveyon-henderson-18517",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-06T10:30:00+00:00",
+      "timestamp": 1793961000,
+      "summary": "Henderson (illness) won't play Sunday against the Packers, Evan Lazar of the Patriots' official site reports. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Deshaun Watson: Listed as questionable, won't start",
+      "url": "https://www.rotowire.com//football/player/deshaun-watson-11712",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-06T10:28:00+00:00",
+      "timestamp": 1793960880,
+      "summary": "Watson (concussion) is listed as questionable for Sunday's game against the Saints, but Shedeur Sanders will start even if Watson is active Kelsey Russo of the Browns' official site reports. Visit..."
+    },
+    {
+      "title": "Harold Fannin: Will play Sunday",
+      "url": "https://www.rotowire.com//football/player/harold-fannin-18472",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-06T10:28:00+00:00",
+      "timestamp": 1793960880,
+      "summary": "Fannin (groin) will play Sunday against the Saints, Daniel Oyefusi of ESPN.com reports. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Nic Claxton: Closing in on season debut",
+      "url": "https://www.rotowire.com//basketball/player/nic-claxton-4827",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-11-06T10:22:00+00:00",
+      "timestamp": 1793960520,
+      "summary": "Head coach Tiago Splittler said Friday that Claxton (hamstring) is expected to make his season debut Sunday against the 76ers, per Joel Lorenzi of The Athletic. Visit RotoWire.com for more..."
+    },
+    {
+      "title": "Jusuf Nurkic: Re-evaluated in two weeks",
+      "url": "https://www.rotowire.com//basketball/player/jusuf-nurkic-3580",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-11-06T10:21:00+00:00",
+      "timestamp": 1793960460,
+      "summary": "Nurkic (toe) has begun participating in on-court activities as he continues recovering from a right foot injury sustained during an Oct. 4 preseason game against Denver. He will be re-evaluated in..."
+    },
+    {
+      "title": "Trey Murphy: Available Friday",
+      "url": "https://www.rotowire.com//basketball/player/trey-murphy-5401",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-11-06T10:03:00+00:00",
+      "timestamp": 1793959380,
+      "summary": "Murphy (knees) is available for Friday's game against the Timberwolves. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Immanuel Quickley: Downgraded to questionable",
+      "url": "https://www.rotowire.com//basketball/player/immanuel-quickley-5201",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-11-06T10:00:00+00:00",
+      "timestamp": 1793959200,
+      "summary": "Quickley (hamstring) is questionable for Friday against the Bucks. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Jacob Young: Inks contract extension with Nats",
+      "url": "https://www.rotowire.com//baseball/player/jacob-young-18764",
+      "source": "RotoWire",
+      "sport": "Fantasy MLB",
+      "published": "2026-11-06T07:32:00+00:00",
+      "timestamp": 1793950320,
+      "summary": "The Nationals and Young avoided arbitration by agreeing to a four-year, $23 million contract extension Friday, Robert Murray of FanSided.com reports. The deal includes an $8 million club option..."
+    },
     {
       "title": "Fantasy Football Start/Sit Lineup Advice: Tight Ends (Week 9)",
       "url": "https://www.fantasypros.com/2026/11/fantasy-football-start-sit-lineup-advice-tight-ends-week-9-2026/",
@@ -24,168 +195,6 @@
       "published": "2026-11-05T18:42:12+00:00",
       "timestamp": 1793904132,
       "summary": "Start em or sit em? Fantasy football start or sit decisions can be excruciating. While it feels great to make the right call and cruise to fantasy glory, it hurts just as much when you have..."
-    },
-    {
-      "title": "Fantasy Football Start/Sit Lineup Advice: Running Backs (Week 9)",
-      "url": "https://www.fantasypros.com/2026/11/fantasy-football-start-sit-lineup-advice-running-backs-week-9-2026/",
-      "source": "FantasyPros",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-05T18:39:56+00:00",
-      "timestamp": 1793903996,
-      "summary": "Start em or sit em? Fantasy football start or sit decisions can be excruciating. While it feels great to make the right call and cruise to fantasy glory, it hurts just as much when you have..."
-    },
-    {
-      "title": "Fantasy Football Start/Sit Lineup Advice: Quarterbacks (Week 9)",
-      "url": "https://www.fantasypros.com/2026/11/fantasy-football-start-sit-lineup-advice-quarterbacks-week-9-2026/",
-      "source": "FantasyPros",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-05T18:37:16+00:00",
-      "timestamp": 1793903836,
-      "summary": "Start em or sit em? Fantasy football start or sit decisions can be excruciating. While it feels great to make the right call and cruise to fantasy glory, it hurts just as much when you have..."
-    },
-    {
-      "title": "Fantasy Football Week 9 Start/Sit Advice: 18 Sleepers & Duds (2026)",
-      "url": "https://www.fantasypros.com/2026/11/fantasy-football-week-9-start-sit-advice-18-sleepers-duds-2026/",
-      "source": "FantasyPros",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-05T17:36:27+00:00",
-      "timestamp": 1793900187,
-      "summary": "Our Featured Pros have identified the fantasy football players they feel will outscore their projections and the ones most likely to disappoint fantasy managers this week. Here are your sleepers..."
-    },
-    {
-      "title": "The Primer: Week 9 Edition (2026 Fantasy Football)",
-      "url": "https://www.fantasypros.com/2026/11/the-primer-week-9-edition-2026-fantasy-football/",
-      "source": "FantasyPros",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-05T14:32:00+00:00",
-      "timestamp": 1793889120,
-      "summary": "The Primer is presented by Leaguebase. Leaguebase is the private clubhouse for the one league that actually matters: the one with a decade of rivalries and inside jokes behind it. Connect your..."
-    },
-    {
-      "title": "6 Fantasy Football Smash Starts: Week 9 (2026)",
-      "url": "https://www.fantasypros.com/2026/11/6-fantasy-football-smash-starts-week-9-2026/",
-      "source": "FantasyPros",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-05T12:09:14+00:00",
-      "timestamp": 1793880554,
-      "summary": "Welcome to Week 9 of the fantasy football season. Today, we dive into six smash starts for Week 9 fantasy football lineups. First, let me explain how I differentiate a smash-start player from a..."
-    },
-    {
-      "title": "6 Fantasy Football Lineup Landmines: Start/Sit Advice (Week 9)",
-      "url": "https://www.fantasypros.com/2026/11/6-fantasy-football-lineup-landmines-start-sit-advice-week-9-2026/",
-      "source": "FantasyPros",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-05T12:09:08+00:00",
-      "timestamp": 1793880548,
-      "summary": "Arguably, the most frustrating thing in fantasy football is seeing someone in your starting lineup struggle that week. Therefore, the logic behind this article is simple: identify fantasy football..."
-    },
-    {
-      "title": "Fantasy Football Start/Sit Advice: Safe & Risky Picks (Week 9)",
-      "url": "https://www.fantasypros.com/2026/11/fantasy-football-start-sit-advice-safe-risky-picks-week-9-2026/",
-      "source": "FantasyPros",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-05T12:09:01+00:00",
-      "timestamp": 1793880541,
-      "summary": "We're halfway through the fantasy football season, and wins have never mattered more. Even if you've been struggling and started with a lot of losses, now is the perfect time to spoil your league..."
-    },
-    {
-      "title": "4 Fantasy Football Players Trending Up & Down: Week 9 (2026)",
-      "url": "https://www.fantasypros.com/2026/11/4-fantasy-football-players-trending-up-down-week-9-2026/",
-      "source": "FantasyPros",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-05T12:08:52+00:00",
-      "timestamp": 1793880532,
-      "summary": "Each week during the 2026 fantasy football season, I highlight a few players whose stock is trending up or down based on injuries, usage and performance. Some may be worth buying, while others may..."
-    },
-    {
-      "title": "Giannis Antetokounmpo: Extends double-double streak to six games",
-      "url": "https://www.rotowire.com//basketball/player/giannis-antetokounmpo-3456",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-11-05T09:50:00+00:00",
-      "timestamp": 1793872200,
-      "summary": "Antetokounmpo tallied 20 points (7-13 FG, 1-5 3Pt, 5-7 FT), 14 rebounds and four assists across 31 minutes during Thursday's 120-100 loss to the Warriors. Visit RotoWire.com for more analysis on..."
-    },
-    {
-      "title": "Stephen Curry: Strikes for 29 points",
-      "url": "https://www.rotowire.com//basketball/player/stephen-curry-3014",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-11-05T09:46:00+00:00",
-      "timestamp": 1793871960,
-      "summary": "Curry tallied 29 points (9-19 FG, 6-12 3Pt, 5-5 FT), one rebound, four assists and one steal in 28 minutes during Thursday's 120-100 win over Miami. Visit RotoWire.com for more analysis on this..."
-    },
-    {
-      "title": "Justice Hill: Season-high rushing yardage total",
-      "url": "https://www.rotowire.com//football/player/justice-hill-13427",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-05T09:39:00+00:00",
-      "timestamp": 1793871540,
-      "summary": "Hill rushed nine times for 85 yards and a touchdown and brought in all three targets for seven yards in the Ravens' 33-10 loss to the Jaguars on Thursday night. Visit RotoWire.com for more..."
-    },
-    {
-      "title": "Franz Wagner: Dishes out 15 assists",
-      "url": "https://www.rotowire.com//basketball/player/franz-wagner-5370",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-11-05T09:36:00+00:00",
-      "timestamp": 1793871360,
-      "summary": "Wagner collected 15 points (7-13 FG, 0-1 3Pt, 1-4 FT), eight rebounds, 15 assists and four steals in 38 minutes during Thursday's 117-104 win over Orlando. Visit RotoWire.com for more analysis on..."
-    },
-    {
-      "title": "Mark Andrews: Two catches in Week 9 loss",
-      "url": "https://www.rotowire.com//football/player/mark-andrews-12559",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-05T09:29:00+00:00",
-      "timestamp": 1793870940,
-      "summary": "Andrews secured both targets for 19 yards in the Ravens' 33-10 loss to the Jaguars on Thursday night. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Joe Fagnano: Modest numbers in starting role",
-      "url": "https://www.rotowire.com//football/player/joe-fagnano-19428",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-05T09:24:00+00:00",
-      "timestamp": 1793870640,
-      "summary": "Fagnano completed 10 of 18 passes for 60 yards with no touchdowns and two interceptions while adding three rushes for 13 yards in the Ravens' 33-10 loss to the Jaguars on Thursday night. Visit..."
-    },
-    {
-      "title": "Jakobi Meyers: Paces pass catchers in win",
-      "url": "https://www.rotowire.com//football/player/jakobi-meyers-13517",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-05T09:14:00+00:00",
-      "timestamp": 1793870040,
-      "summary": "Meyers brought in four of six targets for 65 yards in the Jaguars' 33-10 win over the Ravens on Thursday night. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Trevor Lawrence: Solid numbers in comfortable win",
-      "url": "https://www.rotowire.com//football/player/trevor-lawrence-15357",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-05T09:09:00+00:00",
-      "timestamp": 1793869740,
-      "summary": "Lawrence completed 16 of 26 passes for 242 yards with a touchdown and no interceptions while rushing once for minus-1 yard in the Jaguars' 33-16 win over the Ravens on Thursday night. Visit..."
-    },
-    {
-      "title": "Devin Booker: Drops game-high 30 points in win",
-      "url": "https://www.rotowire.com//basketball/player/devin-booker-3711",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-11-05T08:38:00+00:00",
-      "timestamp": 1793867880,
-      "summary": "Booker posted 30 points (11-22 FG, 4-8 3Pt, 4-4 FT), one rebound, eight assists and three steals in 34 minutes during Thursday's 117-104 win over the Magic. Visit RotoWire.com for more analysis on..."
-    },
-    {
-      "title": "Wendell Carter: Rolls to double-double in loss",
-      "url": "https://www.rotowire.com//basketball/player/wendell-carter-4407",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-11-05T08:30:00+00:00",
-      "timestamp": 1793867400,
-      "summary": "Carter finished with 27 points (10-12 FG, 2-2 3Pt, 5-6 FT), 13 rebounds, two assists and one steal in 34 minutes during Thursday's 117-104 loss to Phoenix. Visit RotoWire.com for more analysis on..."
     }
   ]
 }
