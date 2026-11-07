@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T17:44:21.761647+00:00",
+  "updated_at": "2026-11-07T21:47:00.839479+00:00",
   "count": 21,
   "counts": {
     "Fantasy NFL": 14,
@@ -7,6 +7,15 @@
     "Fantasy MLB": 2
   },
   "articles": [
+    {
+      "title": "Tyrese Haliburton: Still without timetable to return",
+      "url": "https://www.rotowire.com//basketball/player/tyrese-haliburton-5114",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-11-07T12:46:00+00:00",
+      "timestamp": 1794055560,
+      "summary": "Haliburton (hamstring) is progressing well but does not have a timetable to return, Dustin Dopirak of The Indianapolis Star reports. Visit RotoWire.com for more analysis on this update."
+    },
     {
       "title": "Fantasy Football Playoffs Look-Ahead Stash & Priority Hold (2026)",
       "url": "https://www.fantasypros.com/2026/11/fantasy-football-playoffs-look-ahead-stash-priority-hold-2026/",
@@ -32,7 +41,7 @@
       "sport": "Fantasy NFL",
       "published": "2026-11-07T12:11:41+00:00",
       "timestamp": 1794053501,
-      "summary": "Fantasy football can be an extremely fun game to play. It can also be highly frustrating at times. Nothing is more annoying than needing to make a last-minute waiver wire move because someone in..."
+      "summary": "Fantasy football can be an extremely fun game to play. It can also be highly frustrating at times. Nothing is more annoying than needing to make a last-minute waiver-wire move because someone in..."
     },
     {
       "title": "3 Bold Predictions for Week 9 (2026 Fantasy Football)",
@@ -62,40 +71,85 @@
       "summary": "Week 9 is here, so it's time to build some NFL DFS cash game lineups. When playing cash games, target players with a strong combination of floor and ceiling. If there is a \"free square\" on the..."
     },
     {
-      "title": "Lamar Jackson: Multiple factors at play in possible return",
-      "url": "https://www.rotowire.com//football/player/lamar-jackson-12561",
+      "title": "Desmond Bane: Ruled out Saturday",
+      "url": "https://www.rotowire.com//basketball/player/desmond-bane-5159",
       "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-07T09:29:00+00:00",
-      "timestamp": 1794043740,
-      "summary": "Jackson's odds to play again this season depend on his recovery from a right thumb injury, and also whether or not new QB Jacoby Brissett can keep the Ravens in the playoff picture long enough to..."
+      "sport": "Fantasy NBA",
+      "published": "2026-11-07T11:37:00+00:00",
+      "timestamp": 1794051420,
+      "summary": "Bane (illness) has been ruled out for Saturday's game against the Warriors. Visit RotoWire.com for more analysis on this update."
     },
     {
-      "title": "Kyler Murray: Dealing with Grade 2 strain",
+      "title": "Kyler Murray: Out for Monday's game",
       "url": "https://www.rotowire.com//football/player/kyler-murray-13613",
       "source": "RotoWire",
       "sport": "Fantasy NFL",
-      "published": "2026-11-07T06:40:00+00:00",
-      "timestamp": 1794033600,
-      "summary": "Murray (hamstring) is recovering from a Grade 2 strain \"that will keep him out for Monday's game and potentially beyond,\" Tom Pelissero of Netflix reports. Visit RotoWire.com for more analysis on..."
+      "published": "2026-11-07T11:24:00+00:00",
+      "timestamp": 1794050640,
+      "summary": "Head coach Kevin O'Connell said Saturday that Murray (hamstring) has been ruled out for Monday's game versus the Bills. Visit RotoWire.com for more analysis on this update."
     },
     {
-      "title": "Victor Wembanyama: Dominates with double-double",
-      "url": "https://www.rotowire.com//basketball/player/victor-wembanyama-5809",
+      "title": "DJ Moore: In clear for Week 9",
+      "url": "https://www.rotowire.com//football/player/dj-moore-12477",
       "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-11-07T04:09:00+00:00",
-      "timestamp": 1794024540,
-      "summary": "Wembanyama finished Friday's 124-109 victory over Sacramento with 30 points (10-18 FG, 4-6 3Pt, 6-9 FT), 14 rebounds, two assists and two blocks across 26 minutes. Visit RotoWire.com for more..."
+      "sport": "Fantasy NFL",
+      "published": "2026-11-07T11:17:00+00:00",
+      "timestamp": 1794050220,
+      "summary": "Moore (shoulder) doesn't have a designation for Monday's contest at Minnesota. Visit RotoWire.com for more analysis on this update."
     },
     {
-      "title": "Luka Doncic: Explodes for 53 points",
-      "url": "https://www.rotowire.com//basketball/player/luka-doncic-4396",
+      "title": "Anthony Davis: Questionable to play Saturday",
+      "url": "https://www.rotowire.com//basketball/player/anthony-davis-3297",
       "source": "RotoWire",
       "sport": "Fantasy NBA",
-      "published": "2026-11-07T03:46:00+00:00",
-      "timestamp": 1794023160,
-      "summary": "Doncic produced 53 points (17-33 FG, 5-15 3Pt, 14-18 FT), five rebounds, five assists and one steal over 38 minutes during Friday's 124-118 win over Portland. Visit RotoWire.com for more analysis..."
+      "published": "2026-11-07T11:13:00+00:00",
+      "timestamp": 1794049980,
+      "summary": "Davis (ankle) is questionable for Saturday's game against the Thunder. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Deshaun Watson: Clears concussion protocol, still questionable",
+      "url": "https://www.rotowire.com//football/player/deshaun-watson-11712",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-07T10:13:00+00:00",
+      "timestamp": 1794046380,
+      "summary": "Watson (concussion) cleared the concussion protocol Saturday but remains questionable for Sunday's game at New Orleans. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Jalen Johnson: Expected to play Saturday",
+      "url": "https://www.rotowire.com//basketball/player/jalen-johnson-5329",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-11-07T10:11:00+00:00",
+      "timestamp": 1794046260,
+      "summary": "Johnson (ankle) is probable for Saturday's game against Brooklyn. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Pat Bryant: Activated from IR",
+      "url": "https://www.rotowire.com//football/player/pat-bryant-18562",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-07T01:35:00+00:00",
+      "timestamp": 1794015300,
+      "summary": "Bryant (ankle) was activated from injured reserve Saturday, but he remains questionable for Sunday's game in Carolina, Zac Stevens of TheDNVR.com reports. Visit RotoWire.com for more analysis on..."
+    },
+    {
+      "title": "Nic Claxton: Downgraded to questionable",
+      "url": "https://www.rotowire.com//basketball/player/nic-claxton-4827",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-11-07T01:26:00+00:00",
+      "timestamp": 1794014760,
+      "summary": "Claxton (hamstring) has been downgraded to questionable for Sunday's game against the 76ers. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Jordyn Tyson: Activated from injured reserve",
+      "url": "https://www.rotowire.com//football/player/jordyn-tyson-19233",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-07T01:10:00+00:00",
+      "timestamp": 1794013800,
+      "summary": "Tyson (hamstring) was activated from injured reserve Saturday, but he remains questionable for Sunday's game against the Browns. Visit RotoWire.com for more analysis on this update."
     },
     {
       "title": "Fantasy Football Week 9 Player Grades & Start/Sit Advice (2026)",
@@ -125,33 +179,6 @@
       "summary": "The players below are the ones I'm considering for NFL DFS GPPs this week. Salaries marked with an * indicate a significant difference in pricing on FanDuel. DFS Lineup Optimizer DFS Cheat Sheets..."
     },
     {
-      "title": "Brandon Miller: Will be re-evaluated over weekend",
-      "url": "https://www.rotowire.com//basketball/player/brandon-miller-5896",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-11-06T08:28:00+00:00",
-      "timestamp": 1793953680,
-      "summary": "Head coach Charles Lee said Miller (groin) will be re-evaluated over the weekend, and they expect to have more information by Monday, Steve Reed of The Associated Press reports. Visit RotoWire.com..."
-    },
-    {
-      "title": "Brayden Burries: Double-doubles with six dimes",
-      "url": "https://www.rotowire.com//basketball/player/brayden-burries-6967",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-11-06T08:12:00+00:00",
-      "timestamp": 1793952720,
-      "summary": "Burries produced 21 points (8-14 FG, 1-5 3Pt, 4-6 FT), 11 rebounds, six assists and one block over 38 minutes in Friday's 121-107 loss to the Raptors. Visit RotoWire.com for more analysis on this..."
-    },
-    {
-      "title": "Jamal Shead: Hands out 16 assists in win",
-      "url": "https://www.rotowire.com//basketball/player/jamal-shead-6296",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-11-06T08:02:00+00:00",
-      "timestamp": 1793952120,
-      "summary": "Shead delivered 10 points (4-10 FG, 1-5 3Pt, 1-2 FT), three rebounds, 16 assists and two steals in Friday's 121-107 win over the Bucks. Visit RotoWire.com for more analysis on this update."
-    },
-    {
       "title": "Jacob Young: Inks contract extension with Nats",
       "url": "https://www.rotowire.com//baseball/player/jacob-young-18764",
       "source": "RotoWire",
@@ -168,33 +195,6 @@
       "published": "2026-11-06T02:51:00+00:00",
       "timestamp": 1793933460,
       "summary": "Carroll underwent surgery Thursday to remove loose bodies in his right elbow, Nick Piecoro of The Arizona Republic reports. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Terrance Ferguson: Suffers hamstring injury, out again",
-      "url": "https://www.rotowire.com//football/player/terrance-ferguson-18497",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-06T02:30:00+00:00",
-      "timestamp": 1793932200,
-      "summary": "Ferguson (ankle) was expected to return for Sunday's game against Washington, but he's been ruled out after injuring his hamstring during Friday's practice, Cameron DaSilva of USA Today reports...."
-    },
-    {
-      "title": "Drew Lock: Set for Week 9 start",
-      "url": "https://www.rotowire.com//football/player/drew-lock-13736",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-06T02:26:00+00:00",
-      "timestamp": 1793931960,
-      "summary": "Lock (right elbow) doesn't have a designation for Sunday's contest against the Cardinals, John Boyle of the Seahawks' official site reports. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Michael Wilson: No designation for Week 9",
-      "url": "https://www.rotowire.com//football/player/michael-wilson-16957",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-06T02:19:00+00:00",
-      "timestamp": 1793931540,
-      "summary": "Wilson (rest/ribs) doesn't have a designation for Sunday's contest in Seattle, Josh Weinfuss of ESPN.com reports. Visit RotoWire.com for more analysis on this update."
     }
   ]
 }
