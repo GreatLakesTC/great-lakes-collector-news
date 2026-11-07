@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-11-07T06:00:03.219158+00:00",
+  "updated_at": "2026-11-07T13:04:51.693702+00:00",
   "count": 30,
   "articles": [
+    {
+      "title": "The Ultimate Guide To The 2027 Panini PDC Top Flight Sticker Collection: Release Date, Checklist And Review",
+      "url": "https://insider.cards/story/the-ultimate-guide-to-the-2027-panini-pdc-top-flight-sticker-collection-2aa51c/",
+      "source": "Hobby",
+      "published": "Sat, 07 Nov 2026 05:44:02 +0000",
+      "timestamp": 1794030242.0
+    },
     {
       "title": "NFL Week 9 injury report: Mike Evans ruled out, Seahawks' Quenton Nelson 'week-to-week' after knee procedure",
       "url": "https://www.cbssports.com/nfl/news/nfl-week-9-injury-report-seahawks-quenton-nelson-out-knee-procedure/",
@@ -204,13 +211,6 @@
       "source": "CBS NBA",
       "published": "Wed, 04 Nov 2026 13:53:59 +0000",
       "timestamp": 1793800439.0
-    },
-    {
-      "title": "MLB offseason bold predictions: Tarik Skubal breaks records, World Series champ gets a deal, a FA frenzy, more",
-      "url": "https://www.cbssports.com/mlb/news/mlb-offseason-bold-predictions-tarik-skubal-william-contreras-astros-braves-yankees-cubs/",
-      "source": "CBS MLB",
-      "published": "Wed, 04 Nov 2026 13:45:54 +0000",
-      "timestamp": 1793799954.0
     }
   ]
 }
