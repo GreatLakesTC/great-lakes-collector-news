@@ -1,16 +1,65 @@
 {
-  "updated_at": "2026-11-08T13:28:03.692188+00:00",
+  "updated_at": "2026-11-08T22:07:55.949945+00:00",
   "count": 30,
   "articles": [
     {
-      "title": "Blue Jays' prospect Aaron Parker wins Arizona Fall League Home Run Derby",
+      "title": "10 NFL trades that need to happen: Derrick Henry to Patriots, Budda Baker to Bills among options",
+      "url": "https://www.cbssports.com/nfl/news/10-nfl-trades-deadline-derrick-henry-patriots-budda-baker-bills/",
+      "source": "CBS NFL",
+      "published": "Sun, 08 Nov 2026 21:46:48 +0000",
+      "timestamp": 1794174408.0
+    },
+    {
+      "title": "Giants' J.J. McCarthy returns against Eagles after hip injury sent QB to locker room",
+      "url": "https://www.cbssports.com/nfl/news/giants-j-j-mccarthy-hip-injury-update-vs-eagles/",
+      "source": "CBS NFL",
+      "published": "Sun, 08 Nov 2026 20:41:40 +0000",
+      "timestamp": 1794170500.0
+    },
+    {
+      "title": "Chiefs looking to trade for wide receiver, GM Brett Veach tells NFL on CBS' Tracy Wolfson",
+      "url": "https://www.cbssports.com/nfl/news/chiefs-looking-to-trade-for-wide-receiver-nfl-trade-deadline/",
+      "source": "CBS NFL",
+      "published": "Sun, 08 Nov 2026 20:08:16 +0000",
+      "timestamp": 1794168496.0
+    },
+    {
+      "title": "Thunder trade grades: OKC swipes promising young wing Nique Clifford from the rebuilding Kings",
+      "url": "https://www.cbssports.com/nba/news/thunder-trade-grades-nique-clifford-kings/",
+      "source": "CBS NBA",
+      "published": "Sun, 08 Nov 2026 19:33:51 +0000",
+      "timestamp": 1794166431.0
+    },
+    {
+      "title": "Kirk Cousins trade rumors: Raiders have received no calls, reportedly want to keep QB",
+      "url": "https://www.cbssports.com/nfl/news/kirk-cousins-rumors-raiders-nfl-trade-deadline-2026/",
+      "source": "CBS NFL",
+      "published": "Sun, 08 Nov 2026 18:20:18 +0000",
+      "timestamp": 1794162018.0
+    },
+    {
+      "title": "Odell Beckham Jr. set to make Vikings debut after signing to 53-man roster, per report",
+      "url": "https://www.cbssports.com/nfl/news/vikings-signing-odell-beckham-jr-giants/",
+      "source": "CBS NFL",
+      "published": "Sun, 08 Nov 2026 17:21:33 +0000",
+      "timestamp": 1794158493.0
+    },
+    {
+      "title": "Cavaliers coach Kenny Atkinson explains infamous 'analytically' quote during playoffs loss to Knicks",
+      "url": "https://www.cbssports.com/nba/news/cavaliers-kenny-atkinson-analytically-won-knicks-playoffs/",
+      "source": "CBS NBA",
+      "published": "Sun, 08 Nov 2026 14:25:47 +0000",
+      "timestamp": 1794147947.0
+    },
+    {
+      "title": "Blue Jays prospect Aaron Parker wins Arizona Fall League Home Run Derby",
       "url": "https://www.mlb.com/news/2026-arizona-fall-league-home-run-derby",
       "source": "MLB",
       "published": "Sun, 08 Nov 2026 03:55:00 GMT",
       "timestamp": 1794110100.0
     },
     {
-      "title": "He's never been an All-Star, but here's why he might be the best non-Skubal free agent",
+      "title": "He's never been an All-Star, but he might be the best hitter in the free-agent class",
       "url": "https://www.mlb.com/news/seiya-suzuki-free-agent-profile",
       "source": "MLB",
       "published": "Sun, 08 Nov 2026 02:09:26 GMT",
@@ -38,48 +87,6 @@
       "timestamp": 1794076260.0
     },
     {
-      "title": "Rams' Quentin Lake apologizes to Justin Herbert for 'deli meat' remarks, Chargers not moving QB via trade",
-      "url": "https://www.cbssports.com/nfl/news/rams-quentin-lake-apologizes-justin-herbert-deli-meat-remarks-chargers/",
-      "source": "CBS NFL",
-      "published": "Sat, 07 Nov 2026 17:20:13 +0000",
-      "timestamp": 1794072013.0
-    },
-    {
-      "title": "NFL trade deadline rumors: Could Giants' John Harbaugh reunite with former running back?",
-      "url": "https://www.cbssports.com/nfl/news/nfl-trade-deadline-rumors-giants-john-harbaugh-reunite-former-running-back/",
-      "source": "CBS NFL",
-      "published": "Sat, 07 Nov 2026 17:14:07 +0000",
-      "timestamp": 1794071647.0
-    },
-    {
-      "title": "Chargers not interested in Khalil Mack trade, will retain top offensive players despite 0-7 record, per report",
-      "url": "https://www.cbssports.com/nfl/news/trade-deadline-chargers-to-retain-khalil-mack-top-offensive-players-despite-0-7-record/",
-      "source": "CBS NFL",
-      "published": "Sat, 07 Nov 2026 16:35:19 +0000",
-      "timestamp": 1794069319.0
-    },
-    {
-      "title": "2026 NFL trade deadline candidates: Ranking big-name players into tiers",
-      "url": "https://www.cbssports.com/nfl/news/2026-nfl-trade-deadline-candidates-impact-tiers/",
-      "source": "CBS NFL",
-      "published": "Sat, 07 Nov 2026 16:24:31 +0000",
-      "timestamp": 1794068671.0
-    },
-    {
-      "title": "NFL trade deadline: Four Eagles, two more Colts and a starting QB included among top candidates",
-      "url": "https://www.cbssports.com/nfl/news/2026-nfl-trade-deadline-rankings-top-25-eagles-colts/",
-      "source": "CBS NFL",
-      "published": "Sat, 07 Nov 2026 16:22:22 +0000",
-      "timestamp": 1794068542.0
-    },
-    {
-      "title": "Cowboys should consider trading George Pickens: 5 logical destinations at NFL trade deadline",
-      "url": "https://www.cbssports.com/nfl/news/cowboys-nfl-trade-deadline-george-pickens-destinations/",
-      "source": "CBS NFL",
-      "published": "Sat, 07 Nov 2026 16:21:04 +0000",
-      "timestamp": 1794068464.0
-    },
-    {
       "title": "Five under-the-radar MLB free agents who could make a big impact next season",
       "url": "https://www.cbssports.com/mlb/news/mlb-free-agency-2026-27-under-the-radar-players/",
       "source": "CBS MLB",
@@ -87,18 +94,11 @@
       "timestamp": 1794066551.0
     },
     {
-      "title": "Frustrated Derrick Henry responds to trade rumors, Ravens not expected to deal him, per report",
-      "url": "https://www.cbssports.com/nfl/news/ravens-derrick-henry-trade-rumor-thoughts-nfl-trade-deadline/",
-      "source": "CBS NFL",
-      "published": "Sat, 07 Nov 2026 15:48:14 +0000",
-      "timestamp": 1794066494.0
-    },
-    {
-      "title": "NFL trade deadline rumors: Colts' Daniel Jones could get dealt and there's only one team that makes sense",
-      "url": "https://www.cbssports.com/nfl/news/nfl-trade-deadline-rumors-colts-daniel-jones-vikings/",
-      "source": "CBS NFL",
-      "published": "Sat, 07 Nov 2026 14:18:37 +0000",
-      "timestamp": 1794061117.0
+      "title": "TOP 5 HOTTEST SPORTS CARDS!!🔥📈",
+      "url": "https://insider.cards/story/top-5-hottest-sports-cards-a5b132/",
+      "source": "Hobby",
+      "published": "Sat, 07 Nov 2026 15:00:17 +0000",
+      "timestamp": 1794063617.0
     },
     {
       "title": "5 questions for the World Series champion Brewers this offseason",
@@ -108,39 +108,11 @@
       "timestamp": 1794059470.0
     },
     {
-      "title": "The Ultimate Guide To The 2027 Panini PDC Top Flight Sticker Collection: Release Date, Checklist And Review",
-      "url": "https://insider.cards/story/the-ultimate-guide-to-the-2027-panini-pdc-top-flight-sticker-collection-2aa51c/",
-      "source": "Hobby",
-      "published": "Sat, 07 Nov 2026 05:44:02 +0000",
-      "timestamp": 1794030242.0
-    },
-    {
       "title": "What’s next for Schmitt after breakout season?",
       "url": "https://www.mlb.com/news/casey-schmitt-s-2027-outlook-for-giants",
       "source": "MLB",
       "published": "Sat, 07 Nov 2026 02:44:00 GMT",
       "timestamp": 1794019440.0
-    },
-    {
-      "title": "NFL Week 9 injury report: Mike Evans ruled out, Seahawks' Quenton Nelson 'week-to-week' after knee procedure",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-9-injury-report-seahawks-quenton-nelson-out-knee-procedure/",
-      "source": "CBS NFL",
-      "published": "Sat, 07 Nov 2026 01:23:45 +0000",
-      "timestamp": 1794014625.0
-    },
-    {
-      "title": "Browns name starting QB for Week 9 game vs. Saints: Shedeur Sanders gets nod over Deshaun Watson",
-      "url": "https://www.cbssports.com/nfl/news/browns-name-starting-qb-week-9-saints-shedeur-sanders-deshaun-watson/",
-      "source": "CBS NFL",
-      "published": "Sat, 07 Nov 2026 00:45:44 +0000",
-      "timestamp": 1794012344.0
-    },
-    {
-      "title": "Brandon Aiyuk returns to 49ers offices to seek NFL reinstatement as $13 million problem looms",
-      "url": "https://www.cbssports.com/nfl/news/brandon-aiyuk-returns-49ers-offices-13-million-problem-looms/",
-      "source": "CBS NFL",
-      "published": "Sat, 07 Nov 2026 00:39:41 +0000",
-      "timestamp": 1794011981.0
     },
     {
       "title": "What's next for Ewing after strong rookie season?",
@@ -185,13 +157,6 @@
       "timestamp": 1793941200.0
     },
     {
-      "title": "2026-27 Topps Flagship Basketball Top Rookie Cards to Collect",
-      "url": "https://insider.cards/story/topps-flagship-basketball-releases-today-with-a-new-rookie-chase-2ece08/",
-      "source": "Hobby",
-      "published": "Thu, 05 Nov 2026 19:06:06 +0000",
-      "timestamp": 1793905566.0
-    },
-    {
       "title": "Darius Acuff Jr. isn't a perfect rookie, but he may be just what the Kings need right now",
       "url": "https://www.cbssports.com/nba/news/darius-acuff-jr-kings-perfect-rookie-offense/",
       "source": "CBS NBA",
@@ -211,6 +176,41 @@
       "source": "CBS NBA",
       "published": "Thu, 05 Nov 2026 13:46:30 +0000",
       "timestamp": 1793886390.0
+    },
+    {
+      "title": "2026-27 Topps Flagship Basketball Checklist Spotlight",
+      "url": "https://insider.cards/story/2026-27-topps-flagship-basketball-checklist-spotlight-34fbbb/",
+      "source": "Hobby",
+      "published": "Wed, 04 Nov 2026 21:39:52 +0000",
+      "timestamp": 1793828392.0
+    },
+    {
+      "title": "Warriors reportedly aren't paying Kristaps Porziņģis as former All-Star combats health issues",
+      "url": "https://www.cbssports.com/nba/news/warriors-kristaps-porzingis-salary-health-issues/",
+      "source": "CBS NBA",
+      "published": "Wed, 04 Nov 2026 17:36:02 +0000",
+      "timestamp": 1793813762.0
+    },
+    {
+      "title": "Former Yankees, Rangers All-Star Mark Teixeira wins U.S. House seat in Texas",
+      "url": "https://www.cbssports.com/mlb/news/mark-teixeira-texas-house-yankees-rangers/",
+      "source": "CBS MLB",
+      "published": "Wed, 04 Nov 2026 16:59:12 +0000",
+      "timestamp": 1793811552.0
+    },
+    {
+      "title": "NBA Power Rankings: Warriors fly into top 10 with rejuvenated Stephen Curry, 76ers pushing for top spot",
+      "url": "https://www.cbssports.com/nba/news/nba-power-rankings-warriors-top-10-stephen-curry-nov-4/",
+      "source": "CBS NBA",
+      "published": "Wed, 04 Nov 2026 14:01:59 +0000",
+      "timestamp": 1793800919.0
+    },
+    {
+      "title": "Biggest surprises from initial CFP Rankings; Ravens starting an undrafted rookie QB on 'TNF'",
+      "url": "https://www.cbssports.com/fantasy/football/news/biggest-surprises-from-initial-cfp-rankings-ravens-starting-an-undrafted-rookie-qb-on-tnf/",
+      "source": "CBS NBA",
+      "published": "Wed, 04 Nov 2026 13:53:59 +0000",
+      "timestamp": 1793800439.0
     }
   ]
 }
