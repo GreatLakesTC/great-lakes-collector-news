@@ -1,16 +1,163 @@
 {
-  "updated_at": "2026-11-09T06:34:27.733704+00:00",
+  "updated_at": "2026-11-09T22:23:33.141948+00:00",
   "count": 30,
   "articles": [
     {
-      "title": "NL prospects rally to win AFL Fall Stars Game",
-      "url": "https://www.mlb.com/news/arizona-fall-league-fall-stars-game-2026-watch-live",
+      "title": "With Bednar a free agent, who will be Yankees' closer in 2027?",
+      "url": "https://www.mlb.com/news/who-will-be-yankees-closer-in-2027",
       "source": "MLB",
-      "published": "Mon, 09 Nov 2026 04:32:00 GMT",
-      "timestamp": 1794198720.0
+      "published": "Mon, 09 Nov 2026 21:58:09 GMT",
+      "timestamp": 1794261489.0
     },
     {
-      "title": "The case for each Rookie of the Year finalist",
+      "title": "Jaguars-Falcons trade grades: Jacksonville acquires All-Pro safety Jessie Bates III to bolster defense",
+      "url": "https://www.cbssports.com/nfl/news/jessie-bates-trade-jaguars-falcons-nfl-deadline-2026/",
+      "source": "CBS NFL",
+      "published": "Mon, 09 Nov 2026 20:39:31 +0000",
+      "timestamp": 1794256771.0
+    },
+    {
+      "title": "Relearning 2B in Fall League can only benefit this Dodgers outfield prospect",
+      "url": "https://www.mlb.com/news/charles-davalan-second-base-arizona-fall-league",
+      "source": "MLB",
+      "published": "Mon, 09 Nov 2026 20:00:00 GMT",
+      "timestamp": 1794254400.0
+    },
+    {
+      "title": "Miami Heat to host 2028 NBA All-Star Weekend, first time since 1990, per report",
+      "url": "https://www.cbssports.com/nba/news/nba-all-star-weekend-2028-miami-heat/",
+      "source": "CBS NBA",
+      "published": "Mon, 09 Nov 2026 19:43:15 +0000",
+      "timestamp": 1794253395.0
+    },
+    {
+      "title": "2026 NFL trade deadline tracker: Latest deals, grades as Andre Cisco heads to Detroit",
+      "url": "https://www.cbssports.com/nfl/news/2026-nfl-trade-deadline-tracker-latest-deals-grades/",
+      "source": "CBS NFL",
+      "published": "Mon, 09 Nov 2026 19:32:44 +0000",
+      "timestamp": 1794252764.0
+    },
+    {
+      "title": "Lions-Jets trade grades: Detroit bolsters secondary with Andre Cisco, Jets acquire a late-round pick",
+      "url": "https://www.cbssports.com/nfl/news/lions-jets-trade-grades-detroit-andre-cisco-jets-acquire-late-round-pick/",
+      "source": "CBS NFL",
+      "published": "Mon, 09 Nov 2026 19:11:22 +0000",
+      "timestamp": 1794251482.0
+    },
+    {
+      "title": "Jaguars agree to trade for Saints DT Davon Godchaux in second defensive trade of the day, per report",
+      "url": "https://www.cbssports.com/nfl/news/jaguars-trade-acquire-saints-dt-davon-godchaux-second-defensive-move-report/",
+      "source": "CBS NFL",
+      "published": "Mon, 09 Nov 2026 19:09:56 +0000",
+      "timestamp": 1794251396.0
+    },
+    {
+      "title": "Seahawks plan to start Drew Lock in Week 10 despite oblique injury, Sam Darnold to miss another game",
+      "url": "https://www.cbssports.com/nfl/news/seahawks-plan-to-start-drew-lock-in-week-10-despite-oblique-injury-sam-darnold-to-miss-another-game/",
+      "source": "CBS NFL",
+      "published": "Mon, 09 Nov 2026 18:30:04 +0000",
+      "timestamp": 1794249004.0
+    },
+    {
+      "title": "Cam Skattebo injury update: Giants RB 'full go' for Thursday night vs. Commanders",
+      "url": "https://www.cbssports.com/nfl/news/cam-skattebo-injury-update-giants-rb-thursday-night-commanders/",
+      "source": "CBS NFL",
+      "published": "Mon, 09 Nov 2026 17:38:15 +0000",
+      "timestamp": 1794245895.0
+    },
+    {
+      "title": "JJ McCarthy injury: Giants QB is on track to face Commanders on 'Thursday Night Football'",
+      "url": "https://www.cbssports.com/nfl/news/jj-mccarthy-injury-giants-qb-on-track-commanders-thursday-night-football/",
+      "source": "CBS NFL",
+      "published": "Mon, 09 Nov 2026 17:25:59 +0000",
+      "timestamp": 1794245159.0
+    },
+    {
+      "title": "THE ROLLING STONES ROCK THEIR WAY ONTO PANINI BLOCKCHAIN",
+      "url": "https://insider.cards/story/the-rolling-stones-rock-their-way-onto-panini-blockchain-c2cf80/",
+      "source": "Hobby",
+      "published": "Mon, 09 Nov 2026 17:24:41 +0000",
+      "timestamp": 1794245081.0
+    },
+    {
+      "title": "Bills-Vikings picks for Monday night, plus NFL Week 9 losers and Jaguars make trade for Pro Bowl safety",
+      "url": "https://www.cbssports.com/nfl/news/bills-vikings-picks-monday-night-nfl-week-9-losers-jaguars-trade-jessie-bates/",
+      "source": "CBS NFL",
+      "published": "Mon, 09 Nov 2026 17:08:36 +0000",
+      "timestamp": 1794244116.0
+    },
+    {
+      "title": "2026 Topps Royalty Tennis Collector Guide: Discover the Top Autos and Relics",
+      "url": "https://insider.cards/story/2026-topps-royalty-tennis-collector-guide-discover-the-top-autos-and-3be463/",
+      "source": "Hobby",
+      "published": "Mon, 09 Nov 2026 16:44:59 +0000",
+      "timestamp": 1794242699.0
+    },
+    {
+      "title": "NBA's biggest winners and losers of the week: Luka's Lakers look amazing, are Hornets regretting LaMelo trade?",
+      "url": "https://www.cbssports.com/nba/news/nba-biggest-winners-and-losers-week-luka-doncic-lakers-lamelo-ball-nov-9/",
+      "source": "CBS NBA",
+      "published": "Mon, 09 Nov 2026 15:26:16 +0000",
+      "timestamp": 1794237976.0
+    },
+    {
+      "title": "Jessie Bates III in line to join exclusive club after trade from Falcons to Jaguars",
+      "url": "https://www.cbssports.com/nfl/news/jessie-bates-iii-join-exclusive-club-after-trade-falcons-jaguars/",
+      "source": "CBS NFL",
+      "published": "Mon, 09 Nov 2026 14:53:53 +0000",
+      "timestamp": 1794236033.0
+    },
+    {
+      "title": "Topps Flagship Bundesliga 2026/27 Collector Guide",
+      "url": "https://insider.cards/story/topps-flagship-bundesliga-2026-27-collector-guide-f3c492/",
+      "source": "Hobby",
+      "published": "Mon, 09 Nov 2026 14:07:15 +0000",
+      "timestamp": 1794233235.0
+    },
+    {
+      "title": "Which Topps Flagship Bundesliga 2026/27 Box Is Best for You?",
+      "url": "https://insider.cards/story/which-topps-flagship-bundesliga-2026-27-box-is-best-for-you-aef986/",
+      "source": "Hobby",
+      "published": "Mon, 09 Nov 2026 14:07:15 +0000",
+      "timestamp": 1794233235.0
+    },
+    {
+      "title": "Cover 32: What every team should do at NFL trade deadline, plus game balls and gaffes from Week 9",
+      "url": "https://www.cbssports.com/nfl/news/nfl-trade-deadline-cover-32-week-9-2026/",
+      "source": "CBS NFL",
+      "published": "Mon, 09 Nov 2026 13:36:43 +0000",
+      "timestamp": 1794231403.0
+    },
+    {
+      "title": "NFL Week 10 early odds: Trade deadline could shake up lines for Chiefs, Colts and more",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-10-early-odds-trade-deadline-chiefs-cowboys-colts/",
+      "source": "CBS NFL",
+      "published": "Mon, 09 Nov 2026 12:09:03 +0000",
+      "timestamp": 1794226143.0
+    },
+    {
+      "title": "2026 NFL trade deadline: Who's buying, who's selling, plus biggest names, led by Jonathan Taylor",
+      "url": "https://www.cbssports.com/nfl/news/2026-nfl-trade-deadline-whos-buying-whos-selling/",
+      "source": "CBS NFL",
+      "published": "Mon, 09 Nov 2026 11:00:56 +0000",
+      "timestamp": 1794222056.0
+    },
+    {
+      "title": "Here's how every prospect fared in the AFL Fall Stars Game",
+      "url": "https://www.mlb.com/news/2026-arizona-fall-league-fall-stars-game",
+      "source": "MLB",
+      "published": "Mon, 09 Nov 2026 06:59:00 GMT",
+      "timestamp": 1794207540.0
+    },
+    {
+      "title": "Topps Stadium Club Football Returns After 18 Years",
+      "url": "https://insider.cards/story/topps-stadium-club-football-returns-after-18-years-84ca79/",
+      "source": "Hobby",
+      "published": "Mon, 09 Nov 2026 06:51:46 +0000",
+      "timestamp": 1794207106.0
+    },
+    {
+      "title": "The case for each Rookie of the Year finalist (7 p.m. ET, MLB Network and MLB+)",
       "url": "https://www.mlb.com/news/case-for-each-2026-mlb-rookie-of-the-year-award-finalist",
       "source": "MLB",
       "published": "Mon, 09 Nov 2026 02:34:08 GMT",
@@ -22,13 +169,6 @@
       "source": "CBS NFL",
       "published": "Mon, 09 Nov 2026 02:10:50 +0000",
       "timestamp": 1794190250.0
-    },
-    {
-      "title": "Josh Jacobs breaks finger during Packers' win over Patriots, could Green Bay trade for a RB?",
-      "url": "https://www.cbssports.com/nfl/news/josh-jacobs-breaks-finger-packers-win-over-patriots-trade-deadline/",
-      "source": "CBS NFL",
-      "published": "Mon, 09 Nov 2026 01:48:30 +0000",
-      "timestamp": 1794188910.0
     },
     {
       "title": "Patrick Mahomes injury update: MRI reveals no significant damage to Chiefs QB's elbow",
@@ -52,13 +192,6 @@
       "timestamp": 1794185798.0
     },
     {
-      "title": "Jonathan Taylor says goodbye to Indianapolis as trade deadline nears: 'Just know it was a pleasure'",
-      "url": "https://www.cbssports.com/nfl/news/colts-jonathan-taylor-says-goodbye-indianapolis-nfl-trade-deadline/",
-      "source": "CBS NFL",
-      "published": "Mon, 09 Nov 2026 00:36:55 +0000",
-      "timestamp": 1794184615.0
-    },
-    {
       "title": "Could the Yankees’ rotation be even better in 2027?",
       "url": "https://www.mlb.com/news/yankees-2027-rotation-outlook",
       "source": "MLB",
@@ -73,144 +206,11 @@
       "timestamp": 1794181359.0
     },
     {
-      "title": "NFL trade deadline 2026: Ranking 20 players who could have the biggest impact if dealt",
-      "url": "https://www.cbssports.com/nfl/news/nfl-trade-deadline-2026-ranking-20-impact-players/",
-      "source": "CBS NFL",
-      "published": "Sun, 08 Nov 2026 23:05:11 +0000",
-      "timestamp": 1794179111.0
-    },
-    {
-      "title": "Puka Nacua injury: Rams WR to undergo MRI after suffering knee injury on final snap, per report",
-      "url": "https://www.cbssports.com/nfl/news/puka-nacua-injury-rams-wr-undergo-mri-knee-injury-on-final-snap/",
-      "source": "CBS NFL",
-      "published": "Sun, 08 Nov 2026 23:04:34 +0000",
-      "timestamp": 1794179074.0
-    },
-    {
-      "title": "Tom Brady Signs 1-of-1 Exclusive Topps Card Live On Air During Packers vs. Patriots",
-      "url": "https://insider.cards/story/tom-brady-signs-1-of-1-exclusive-topps-card-live-on-air-during-packers-9a61bf/",
-      "source": "Hobby",
-      "published": "Sun, 08 Nov 2026 22:50:21 +0000",
-      "timestamp": 1794178221.0
-    },
-    {
-      "title": "10 NFL trades that need to happen: Derrick Henry to Patriots, Budda Baker to Bills among options",
-      "url": "https://www.cbssports.com/nfl/news/10-nfl-trades-deadline-derrick-henry-patriots-budda-baker-bills/",
-      "source": "CBS NFL",
-      "published": "Sun, 08 Nov 2026 21:46:48 +0000",
-      "timestamp": 1794174408.0
-    },
-    {
-      "title": "Topps Stadium Club Football Returns After 18 Years",
-      "url": "https://insider.cards/story/topps-stadium-club-football-returns-after-18-years-84ca79/",
-      "source": "Hobby",
-      "published": "Sun, 08 Nov 2026 20:47:56 +0000",
-      "timestamp": 1794170876.0
-    },
-    {
-      "title": "Are Your Old Sports Magazines Worth Thousands? Why Sports Card Collectors Are Taking Notice",
-      "url": "https://insider.cards/story/are-your-old-sports-magazines-worth-thousands-why-sports-card-bcba5f/",
-      "source": "Hobby",
-      "published": "Sun, 08 Nov 2026 20:47:49 +0000",
-      "timestamp": 1794170869.0
-    },
-    {
-      "title": "Giants' J.J. McCarthy returns against Eagles after hip injury sent QB to locker room",
-      "url": "https://www.cbssports.com/nfl/news/giants-j-j-mccarthy-hip-injury-update-vs-eagles/",
-      "source": "CBS NFL",
-      "published": "Sun, 08 Nov 2026 20:41:40 +0000",
-      "timestamp": 1794170500.0
-    },
-    {
-      "title": "Chiefs looking to trade for wide receiver, GM Brett Veach tells NFL on CBS' Tracy Wolfson",
-      "url": "https://www.cbssports.com/nfl/news/chiefs-looking-to-trade-for-wide-receiver-nfl-trade-deadline/",
-      "source": "CBS NFL",
-      "published": "Sun, 08 Nov 2026 20:08:16 +0000",
-      "timestamp": 1794168496.0
-    },
-    {
-      "title": "Three Rookie Cards and a Minor League Catcher: Collecting the Newest 2027 Hall of Fame Candidates",
-      "url": "https://insider.cards/story/three-rookie-cards-and-a-minor-league-catcher-collecting-the-newest-b01a96/",
-      "source": "Hobby",
-      "published": "Sun, 08 Nov 2026 19:34:09 +0000",
-      "timestamp": 1794166449.0
-    },
-    {
       "title": "Thunder trade grades: OKC swipes promising young wing Nique Clifford from the rebuilding Kings",
       "url": "https://www.cbssports.com/nba/news/thunder-trade-grades-nique-clifford-kings/",
       "source": "CBS NBA",
       "published": "Sun, 08 Nov 2026 19:33:51 +0000",
       "timestamp": 1794166431.0
-    },
-    {
-      "title": "Kirk Cousins trade rumors: Raiders have received no calls, reportedly want to keep QB",
-      "url": "https://www.cbssports.com/nfl/news/kirk-cousins-rumors-raiders-nfl-trade-deadline-2026/",
-      "source": "CBS NFL",
-      "published": "Sun, 08 Nov 2026 18:20:18 +0000",
-      "timestamp": 1794162018.0
-    },
-    {
-      "title": "Cavaliers coach Kenny Atkinson explains infamous 'analytically' quote during playoffs loss to Knicks",
-      "url": "https://www.cbssports.com/nba/news/cavaliers-kenny-atkinson-analytically-won-knicks-playoffs/",
-      "source": "CBS NBA",
-      "published": "Sun, 08 Nov 2026 14:25:47 +0000",
-      "timestamp": 1794147947.0
-    },
-    {
-      "title": "Blue Jays prospect Aaron Parker wins Arizona Fall League Home Run Derby",
-      "url": "https://www.mlb.com/news/2026-arizona-fall-league-home-run-derby",
-      "source": "MLB",
-      "published": "Sun, 08 Nov 2026 03:55:00 GMT",
-      "timestamp": 1794110100.0
-    },
-    {
-      "title": "He's never been an All-Star, but he might be the best hitter in the free-agent class",
-      "url": "https://www.mlb.com/news/seiya-suzuki-free-agent-profile",
-      "source": "MLB",
-      "published": "Sun, 08 Nov 2026 02:09:26 GMT",
-      "timestamp": 1794103766.0
-    },
-    {
-      "title": "Breaking down the best free agent at every position",
-      "url": "https://www.mlb.com/news/best-free-agent-at-every-position-for-2026-27-mlb-offseason",
-      "source": "MLB",
-      "published": "Sun, 08 Nov 2026 02:08:58 GMT",
-      "timestamp": 1794103738.0
-    },
-    {
-      "title": "Revisiting PCA's best games from a season for the record books",
-      "url": "https://www.mlb.com/news/pete-crow-armstrong-s-best-games-of-2026",
-      "source": "MLB",
-      "published": "Sun, 08 Nov 2026 02:02:38 GMT",
-      "timestamp": 1794103358.0
-    },
-    {
-      "title": "Five under-the-radar MLB free agents who could make a big impact next season",
-      "url": "https://www.cbssports.com/mlb/news/mlb-free-agency-2026-27-under-the-radar-players/",
-      "source": "CBS MLB",
-      "published": "Sat, 07 Nov 2026 15:49:11 +0000",
-      "timestamp": 1794066551.0
-    },
-    {
-      "title": "TOP 5 HOTTEST SPORTS CARDS!!🔥📈",
-      "url": "https://insider.cards/story/top-5-hottest-sports-cards-a5b132/",
-      "source": "Hobby",
-      "published": "Sat, 07 Nov 2026 15:00:17 +0000",
-      "timestamp": 1794063617.0
-    },
-    {
-      "title": "5 questions for the World Series champion Brewers this offseason",
-      "url": "https://www.mlb.com/news/brewers-2026-27-offseason-questions",
-      "source": "MLB",
-      "published": "Sat, 07 Nov 2026 13:51:10 GMT",
-      "timestamp": 1794059470.0
-    },
-    {
-      "title": "Darius Acuff Jr. isn't a perfect rookie, but he may be just what the Kings need right now",
-      "url": "https://www.cbssports.com/nba/news/darius-acuff-jr-kings-perfect-rookie-offense/",
-      "source": "CBS NBA",
-      "published": "Thu, 05 Nov 2026 16:56:20 +0000",
-      "timestamp": 1793897780.0
     }
   ]
 }
