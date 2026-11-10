@@ -1,13 +1,174 @@
 {
-  "updated_at": "2026-11-09T22:23:33.141948+00:00",
+  "updated_at": "2026-11-10T07:21:08.523803+00:00",
   "count": 30,
   "articles": [
+    {
+      "title": "Stewart wins NL Rookie of the Year after historic 32-homer output",
+      "url": "https://www.mlb.com/news/sal-stewart-2026-nl-rookie-of-the-year",
+      "source": "MLB",
+      "published": "Tue, 10 Nov 2026 02:46:00 GMT",
+      "timestamp": 1794278760.0
+    },
+    {
+      "title": "Rookie royalty! McGonigle brings ROY honors back to Detroit",
+      "url": "https://www.mlb.com/news/kevin-mcgonigle-wins-2026-al-rookie-of-the-year",
+      "source": "MLB",
+      "published": "Tue, 10 Nov 2026 02:44:00 GMT",
+      "timestamp": 1794278640.0
+    },
+    {
+      "title": "Here are the finalists for MVP, Cy Young, Rookie of the Year, more",
+      "url": "https://www.mlb.com/news/2026-bbwaa-awards-finalists",
+      "source": "MLB",
+      "published": "Tue, 10 Nov 2026 02:32:00 GMT",
+      "timestamp": 1794277920.0
+    },
+    {
+      "title": "Tigers' all-around star and Reds' throwback slugger named Rookies of the Year",
+      "url": "https://www.mlb.com/news/2026-mlb-rookie-of-the-year-award-winners",
+      "source": "MLB",
+      "published": "Tue, 10 Nov 2026 02:07:00 GMT",
+      "timestamp": 1794276420.0
+    },
+    {
+      "title": "Messick finishes 2nd behind McGonigle in AL Rookie of the Year Award voting",
+      "url": "https://www.mlb.com/news/parker-messick-second-al-rookie-of-the-year-award-2026",
+      "source": "MLB",
+      "published": "Tue, 10 Nov 2026 01:46:00 GMT",
+      "timestamp": 1794275160.0
+    },
+    {
+      "title": "Benge finishes 2nd in NL Rookie of the Year voting",
+      "url": "https://www.mlb.com/news/carson-benge-second-in-national-league-rookie-of-the-year",
+      "source": "MLB",
+      "published": "Tue, 10 Nov 2026 01:46:00 GMT",
+      "timestamp": 1794275160.0
+    },
+    {
+      "title": "Predicting 2027 MLB Rookie of the Year candidates: Josue De Paula, Kade Anderson, Jesús Made and more",
+      "url": "https://www.cbssports.com/mlb/news/2027-mlb-rookie-of-the-year-candidates-josue-de-paula-kade-anderson-jesus-made/",
+      "source": "CBS MLB",
+      "published": "Tue, 10 Nov 2026 01:31:37 +0000",
+      "timestamp": 1794274297.0
+    },
+    {
+      "title": "'27 Rookie of the Year candidates -- one from each team",
+      "url": "https://www.mlb.com/news/each-team-2027-rookie-of-the-year-candidate",
+      "source": "MLB",
+      "published": "Tue, 10 Nov 2026 01:15:00 GMT",
+      "timestamp": 1794273300.0
+    },
+    {
+      "title": "2026 MLB Rookie of the Year: Tigers' Kevin McGonigle, Reds' Sal Stewart win BBWAA awards",
+      "url": "https://www.cbssports.com/mlb/news/2026-mlb-rookie-of-the-year/",
+      "source": "CBS MLB",
+      "published": "Tue, 10 Nov 2026 01:12:46 +0000",
+      "timestamp": 1794273166.0
+    },
+    {
+      "title": "Ranking every Rookie of the Year winner",
+      "url": "https://www.mlb.com/news/all-time-mlb-rookie-of-the-year-rankings-c300201298",
+      "source": "MLB",
+      "published": "Tue, 10 Nov 2026 01:09:00 GMT",
+      "timestamp": 1794272940.0
+    },
+    {
+      "title": "Tolle finishes in 3rd place for AL Rookie of the Year Award",
+      "url": "https://www.mlb.com/news/payton-tolle-finishes-third-in-al-rookie-of-the-year-voting",
+      "source": "MLB",
+      "published": "Tue, 10 Nov 2026 01:04:38 GMT",
+      "timestamp": 1794272678.0
+    },
+    {
+      "title": "Does 2026 boast an all-time great rookie class?",
+      "url": "https://www.mlb.com/news/best-rookie-classes-in-mlb-since-1947-c295885062",
+      "source": "MLB",
+      "published": "Tue, 10 Nov 2026 01:00:00 GMT",
+      "timestamp": 1794272400.0
+    },
+    {
+      "title": "Here are the Rookie of the Year vote totals",
+      "url": "https://www.mlb.com/news/2026-mlb-rookie-of-the-year-voting-totals",
+      "source": "MLB",
+      "published": "Tue, 10 Nov 2026 00:55:00 GMT",
+      "timestamp": 1794272100.0
+    },
+    {
+      "title": "Cardinals' Gardner Minshew feared to have suffered a torn UCL, could be out for season, per report",
+      "url": "https://www.cbssports.com/nfl/news/cardinals-gardner-minshew-feared-torn-ucl-could-out-for-season-report/",
+      "source": "CBS NFL",
+      "published": "Tue, 10 Nov 2026 00:22:28 +0000",
+      "timestamp": 1794270148.0
+    },
+    {
+      "title": "Tarik Skubal contract predictions: Ace's new deal could break multiple MLB records for a pitcher",
+      "url": "https://www.cbssports.com/mlb/news/tarik-skubal-contract-predictions-mlb-free-agency/",
+      "source": "CBS MLB",
+      "published": "Mon, 09 Nov 2026 23:49:03 +0000",
+      "timestamp": 1794268143.0
+    },
+    {
+      "title": "Jordan Davis trade grades: Eagles kickstart rebuild, Jaguars push for 2026 AFC and Super Bowl titles",
+      "url": "https://www.cbssports.com/nfl/news/jordan-davis-trade-grades-eagles-jaguars/",
+      "source": "CBS NFL",
+      "published": "Mon, 09 Nov 2026 23:26:41 +0000",
+      "timestamp": 1794266801.0
+    },
+    {
+      "title": "Cardinals Michael Wilson out for the year with neck fracture, how it impacts fantasy football",
+      "url": "https://www.cbssports.com/nfl/news/cardinals-michael-wilson-out-for-the-year-neck-fracture-fantasy-football/",
+      "source": "CBS NFL",
+      "published": "Mon, 09 Nov 2026 23:01:57 +0000",
+      "timestamp": 1794265317.0
+    },
+    {
+      "title": "2027 NFL Draft order, team needs: Full first-round picks for all 32 teams after Jags-Eagles trade",
+      "url": "https://www.cbssports.com/nfl/news/2027-nfl-draft-order-team-needs/",
+      "source": "CBS NFL",
+      "published": "Mon, 09 Nov 2026 22:58:02 +0000",
+      "timestamp": 1794265082.0
+    },
+    {
+      "title": "Rams All-Pro Puka Nacua likely to go on injured reserve with knee, toe injuries",
+      "url": "https://www.cbssports.com/nfl/news/rams-all-pro-puka-nacua-likely-to-go-on-injured-reserve/",
+      "source": "CBS NFL",
+      "published": "Mon, 09 Nov 2026 22:45:37 +0000",
+      "timestamp": 1794264337.0
+    },
+    {
+      "title": "Why NFL trade deadline evolved from afterthought to hectic: In-season transaction boom is league's new normal",
+      "url": "https://www.cbssports.com/nfl/news/why-nfl-trade-deadline-evolved-from-afterthought-to-hectic-new-normal/",
+      "source": "CBS NFL",
+      "published": "Mon, 09 Nov 2026 22:31:25 +0000",
+      "timestamp": 1794263485.0
+    },
+    {
+      "title": "2026 NFL trade deadline tracker: Latest deals, grades as Jordan Davis heads to Jacksonville",
+      "url": "https://www.cbssports.com/nfl/news/2026-nfl-trade-deadline-tracker-latest-deals-grades/",
+      "source": "CBS NFL",
+      "published": "Mon, 09 Nov 2026 22:28:55 +0000",
+      "timestamp": 1794263335.0
+    },
+    {
+      "title": "Jordan Davis traded: Jaguars going all in, acquire former first-round pick from Eagles",
+      "url": "https://www.cbssports.com/nfl/news/jordan-davis-traded-jaguars-acquire-former-first-round-pick-from-eagles/",
+      "source": "CBS NFL",
+      "published": "Mon, 09 Nov 2026 22:25:52 +0000",
+      "timestamp": 1794263152.0
+    },
     {
       "title": "With Bednar a free agent, who will be Yankees' closer in 2027?",
       "url": "https://www.mlb.com/news/who-will-be-yankees-closer-in-2027",
       "source": "MLB",
       "published": "Mon, 09 Nov 2026 21:58:09 GMT",
       "timestamp": 1794261489.0
+    },
+    {
+      "title": "Fanatics Credit Card Will Offer Early Access to Select Topps Releases",
+      "url": "https://insider.cards/story/fanatics-credit-card-will-offer-early-access-to-select-topps-releases-2bd399/",
+      "source": "Hobby",
+      "published": "Mon, 09 Nov 2026 21:24:44 +0000",
+      "timestamp": 1794259484.0
     },
     {
       "title": "Jaguars-Falcons trade grades: Jacksonville acquires All-Pro safety Jessie Bates III to bolster defense",
@@ -31,13 +192,6 @@
       "timestamp": 1794253395.0
     },
     {
-      "title": "2026 NFL trade deadline tracker: Latest deals, grades as Andre Cisco heads to Detroit",
-      "url": "https://www.cbssports.com/nfl/news/2026-nfl-trade-deadline-tracker-latest-deals-grades/",
-      "source": "CBS NFL",
-      "published": "Mon, 09 Nov 2026 19:32:44 +0000",
-      "timestamp": 1794252764.0
-    },
-    {
       "title": "Lions-Jets trade grades: Detroit bolsters secondary with Andre Cisco, Jets acquire a late-round pick",
       "url": "https://www.cbssports.com/nfl/news/lions-jets-trade-grades-detroit-andre-cisco-jets-acquire-late-round-pick/",
       "source": "CBS NFL",
@@ -57,160 +211,6 @@
       "source": "CBS NFL",
       "published": "Mon, 09 Nov 2026 18:30:04 +0000",
       "timestamp": 1794249004.0
-    },
-    {
-      "title": "Cam Skattebo injury update: Giants RB 'full go' for Thursday night vs. Commanders",
-      "url": "https://www.cbssports.com/nfl/news/cam-skattebo-injury-update-giants-rb-thursday-night-commanders/",
-      "source": "CBS NFL",
-      "published": "Mon, 09 Nov 2026 17:38:15 +0000",
-      "timestamp": 1794245895.0
-    },
-    {
-      "title": "JJ McCarthy injury: Giants QB is on track to face Commanders on 'Thursday Night Football'",
-      "url": "https://www.cbssports.com/nfl/news/jj-mccarthy-injury-giants-qb-on-track-commanders-thursday-night-football/",
-      "source": "CBS NFL",
-      "published": "Mon, 09 Nov 2026 17:25:59 +0000",
-      "timestamp": 1794245159.0
-    },
-    {
-      "title": "THE ROLLING STONES ROCK THEIR WAY ONTO PANINI BLOCKCHAIN",
-      "url": "https://insider.cards/story/the-rolling-stones-rock-their-way-onto-panini-blockchain-c2cf80/",
-      "source": "Hobby",
-      "published": "Mon, 09 Nov 2026 17:24:41 +0000",
-      "timestamp": 1794245081.0
-    },
-    {
-      "title": "Bills-Vikings picks for Monday night, plus NFL Week 9 losers and Jaguars make trade for Pro Bowl safety",
-      "url": "https://www.cbssports.com/nfl/news/bills-vikings-picks-monday-night-nfl-week-9-losers-jaguars-trade-jessie-bates/",
-      "source": "CBS NFL",
-      "published": "Mon, 09 Nov 2026 17:08:36 +0000",
-      "timestamp": 1794244116.0
-    },
-    {
-      "title": "2026 Topps Royalty Tennis Collector Guide: Discover the Top Autos and Relics",
-      "url": "https://insider.cards/story/2026-topps-royalty-tennis-collector-guide-discover-the-top-autos-and-3be463/",
-      "source": "Hobby",
-      "published": "Mon, 09 Nov 2026 16:44:59 +0000",
-      "timestamp": 1794242699.0
-    },
-    {
-      "title": "NBA's biggest winners and losers of the week: Luka's Lakers look amazing, are Hornets regretting LaMelo trade?",
-      "url": "https://www.cbssports.com/nba/news/nba-biggest-winners-and-losers-week-luka-doncic-lakers-lamelo-ball-nov-9/",
-      "source": "CBS NBA",
-      "published": "Mon, 09 Nov 2026 15:26:16 +0000",
-      "timestamp": 1794237976.0
-    },
-    {
-      "title": "Jessie Bates III in line to join exclusive club after trade from Falcons to Jaguars",
-      "url": "https://www.cbssports.com/nfl/news/jessie-bates-iii-join-exclusive-club-after-trade-falcons-jaguars/",
-      "source": "CBS NFL",
-      "published": "Mon, 09 Nov 2026 14:53:53 +0000",
-      "timestamp": 1794236033.0
-    },
-    {
-      "title": "Topps Flagship Bundesliga 2026/27 Collector Guide",
-      "url": "https://insider.cards/story/topps-flagship-bundesliga-2026-27-collector-guide-f3c492/",
-      "source": "Hobby",
-      "published": "Mon, 09 Nov 2026 14:07:15 +0000",
-      "timestamp": 1794233235.0
-    },
-    {
-      "title": "Which Topps Flagship Bundesliga 2026/27 Box Is Best for You?",
-      "url": "https://insider.cards/story/which-topps-flagship-bundesliga-2026-27-box-is-best-for-you-aef986/",
-      "source": "Hobby",
-      "published": "Mon, 09 Nov 2026 14:07:15 +0000",
-      "timestamp": 1794233235.0
-    },
-    {
-      "title": "Cover 32: What every team should do at NFL trade deadline, plus game balls and gaffes from Week 9",
-      "url": "https://www.cbssports.com/nfl/news/nfl-trade-deadline-cover-32-week-9-2026/",
-      "source": "CBS NFL",
-      "published": "Mon, 09 Nov 2026 13:36:43 +0000",
-      "timestamp": 1794231403.0
-    },
-    {
-      "title": "NFL Week 10 early odds: Trade deadline could shake up lines for Chiefs, Colts and more",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-10-early-odds-trade-deadline-chiefs-cowboys-colts/",
-      "source": "CBS NFL",
-      "published": "Mon, 09 Nov 2026 12:09:03 +0000",
-      "timestamp": 1794226143.0
-    },
-    {
-      "title": "2026 NFL trade deadline: Who's buying, who's selling, plus biggest names, led by Jonathan Taylor",
-      "url": "https://www.cbssports.com/nfl/news/2026-nfl-trade-deadline-whos-buying-whos-selling/",
-      "source": "CBS NFL",
-      "published": "Mon, 09 Nov 2026 11:00:56 +0000",
-      "timestamp": 1794222056.0
-    },
-    {
-      "title": "Here's how every prospect fared in the AFL Fall Stars Game",
-      "url": "https://www.mlb.com/news/2026-arizona-fall-league-fall-stars-game",
-      "source": "MLB",
-      "published": "Mon, 09 Nov 2026 06:59:00 GMT",
-      "timestamp": 1794207540.0
-    },
-    {
-      "title": "Topps Stadium Club Football Returns After 18 Years",
-      "url": "https://insider.cards/story/topps-stadium-club-football-returns-after-18-years-84ca79/",
-      "source": "Hobby",
-      "published": "Mon, 09 Nov 2026 06:51:46 +0000",
-      "timestamp": 1794207106.0
-    },
-    {
-      "title": "The case for each Rookie of the Year finalist (7 p.m. ET, MLB Network and MLB+)",
-      "url": "https://www.mlb.com/news/case-for-each-2026-mlb-rookie-of-the-year-award-finalist",
-      "source": "MLB",
-      "published": "Mon, 09 Nov 2026 02:34:08 GMT",
-      "timestamp": 1794191648.0
-    },
-    {
-      "title": "Drew Lock suffers oblique injury, Week 10 status up in the air: Seahawks could have to start Jalen Milroe",
-      "url": "https://www.cbssports.com/nfl/news/drew-lock-suffers-oblique-injury-week-10-status-seahawks-could-start-jalen-milroe/",
-      "source": "CBS NFL",
-      "published": "Mon, 09 Nov 2026 02:10:50 +0000",
-      "timestamp": 1794190250.0
-    },
-    {
-      "title": "Patrick Mahomes injury update: MRI reveals no significant damage to Chiefs QB's elbow",
-      "url": "https://www.cbssports.com/nfl/news/patrick-mahomes-injury-update-mri-chiefs-qb-elbow/",
-      "source": "CBS NFL",
-      "published": "Mon, 09 Nov 2026 01:35:13 +0000",
-      "timestamp": 1794188113.0
-    },
-    {
-      "title": "Daniel Jones trade rumors: Colts tell QB he will not be dealt before NFL deadline, per report",
-      "url": "https://www.cbssports.com/nfl/news/daniel-jones-trade-rumors-colts-nfl-deadline/",
-      "source": "CBS NFL",
-      "published": "Mon, 09 Nov 2026 01:22:46 +0000",
-      "timestamp": 1794187366.0
-    },
-    {
-      "title": "NFL Week 9 overreactions: Joe Burrow or Jordan Love for MVP? Shedeur Sanders deserves to remain starter?",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-9-overreactions-joe-burrow-mvp-shedeur-sanders-deserves-to-remain-starter/",
-      "source": "CBS NFL",
-      "published": "Mon, 09 Nov 2026 00:56:38 +0000",
-      "timestamp": 1794185798.0
-    },
-    {
-      "title": "Could the Yankees’ rotation be even better in 2027?",
-      "url": "https://www.mlb.com/news/yankees-2027-rotation-outlook",
-      "source": "MLB",
-      "published": "Sun, 08 Nov 2026 23:47:04 GMT",
-      "timestamp": 1794181624.0
-    },
-    {
-      "title": "The future is now for World Series champion Brewers",
-      "url": "https://www.mlb.com/news/future-of-brewers-young-core-after-2026-world-series-title",
-      "source": "MLB",
-      "published": "Sun, 08 Nov 2026 23:42:39 GMT",
-      "timestamp": 1794181359.0
-    },
-    {
-      "title": "Thunder trade grades: OKC swipes promising young wing Nique Clifford from the rebuilding Kings",
-      "url": "https://www.cbssports.com/nba/news/thunder-trade-grades-nique-clifford-kings/",
-      "source": "CBS NBA",
-      "published": "Sun, 08 Nov 2026 19:33:51 +0000",
-      "timestamp": 1794166431.0
     }
   ]
 }
