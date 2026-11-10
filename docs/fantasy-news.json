@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-09T22:18:44.399699+00:00",
-  "count": 20,
+  "updated_at": "2026-11-10T07:13:44.824100+00:00",
+  "count": 22,
   "counts": {
     "Fantasy NFL": 15,
     "Fantasy NBA": 5,
-    "Fantasy MLB": 0
+    "Fantasy MLB": 2
   },
   "articles": [
     {
@@ -24,24 +24,6 @@
       "published": "2026-11-09T15:47:44+00:00",
       "timestamp": 1794239264,
       "summary": "Our analysts combine to provide rankings for weekly fantasy football waiver wire targets. We'll help you prioritize your bids for the week ahead. Check out our full expert consensus fantasy..."
-    },
-    {
-      "title": "Trey Murphy: Out Monday",
-      "url": "https://www.rotowire.com//basketball/player/trey-murphy-5401",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-11-09T12:50:00+00:00",
-      "timestamp": 1794228600,
-      "summary": "Murphy (knees) has been ruled out for Monday's game against Golden State. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "David Montgomery: Could return to practice soon",
-      "url": "https://www.rotowire.com//football/player/david-montgomery-13556",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-09T12:46:00+00:00",
-      "timestamp": 1794228360,
-      "summary": "Coach DeMeco Ryans said Monday he's hopeful that Montgomery (groin) could resume practicing this week, or next week, Aaron Wilson of KPRC 2 Houston reports. Visit RotoWire.com for more analysis on..."
     },
     {
       "title": "Fantasy Football Waiver Wire Advice: Players to Add, Stash & Drop (Week 10)",
@@ -80,76 +62,112 @@
       "summary": "Week 9 brought a brief sense of calm as new physical casualties slowed down significantly across the slate. Fantasy football managers and NFL teams got a much-needed reprieve, with new injuries..."
     },
     {
-      "title": "Cameron Johnson: Upgraded to probable",
-      "url": "https://www.rotowire.com//basketball/player/cameron-johnson-4916",
+      "title": "Brandin Podziemski: Drills five treys in victory",
+      "url": "https://www.rotowire.com//basketball/player/brandin-podziemski-5889",
       "source": "RotoWire",
       "sport": "Fantasy NBA",
-      "published": "2026-11-09T11:23:00+00:00",
-      "timestamp": 1794223380,
-      "summary": "Johnson (ankle) has been upgraded to probable for Monday against Houston. Visit RotoWire.com for more analysis on this update."
+      "published": "2026-11-09T09:38:00+00:00",
+      "timestamp": 1794217080,
+      "summary": "Podziemski totaled 25 points (10-19 FG, 5-11 3Pt), two rebounds, four assists, one steal and one block in 26 minutes during Monday's 138-87 win over the Pelicans. Visit RotoWire.com for more..."
     },
     {
-      "title": "Aaron Gordon: Likely to play",
-      "url": "https://www.rotowire.com//basketball/player/aaron-gordon-3577",
+      "title": "Jordan Mason: Garners 42 scrimmage yards in loss",
+      "url": "https://www.rotowire.com//football/player/jordan-mason-16163",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-09T09:18:00+00:00",
+      "timestamp": 1794215880,
+      "summary": "Mason rushed six times for 35 yards and brought in two of three targets for seven yards in the Vikings' 23-6 loss to the Bills on Monday night. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Carson Wentz: Forgettable performance in spot start",
+      "url": "https://www.rotowire.com//football/player/carson-wentz-10856",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-09T09:12:00+00:00",
+      "timestamp": 1794215520,
+      "summary": "Wentz completed eight of 25 passes for 81 yards with no touchdowns and two interceptions and rushed once for no gain in the Vikings' 23-6 loss to the Bills on Monday night. He also lost a fumble...."
+    },
+    {
+      "title": "Dalton Kincaid: Three-catch effort in win",
+      "url": "https://www.rotowire.com//football/player/dalton-kincaid-16697",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-09T09:05:00+00:00",
+      "timestamp": 1794215100,
+      "summary": "Kincaid secured all three targets for 28 yards in the Bills' 23-6 win over the Vikings on Monday night. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "DJ Moore: Three catches in tough matchup",
+      "url": "https://www.rotowire.com//football/player/dj-moore-12477",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-09T09:00:00+00:00",
+      "timestamp": 1794214800,
+      "summary": "Moore secured three of five targets for 25 yards and rushed once for 11 yards in the Bills' 23-6 win over the Vikings on Monday night. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Justin Jefferson: Highly inefficient sans Murray",
+      "url": "https://www.rotowire.com//football/player/justin-jefferson-14509",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-09T08:53:00+00:00",
+      "timestamp": 1794214380,
+      "summary": "Jefferson brought in three of 11 targets for 58 yards in the Vikings' 23-6 loss to the Bills on Monday night. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Devin Booker: Produces 32 points in loss",
+      "url": "https://www.rotowire.com//basketball/player/devin-booker-3711",
       "source": "RotoWire",
       "sport": "Fantasy NBA",
-      "published": "2026-11-09T11:22:00+00:00",
-      "timestamp": 1794223320,
-      "summary": "Gordon (left calf injury management) has been upgraded to probable for Monday's game against Houston. Visit RotoWire.com for more analysis on this update."
+      "published": "2026-11-09T08:31:00+00:00",
+      "timestamp": 1794213060,
+      "summary": "Booker tallied 32 points (10-17 FG, 3-5 3Pt, 9-10 FT), two rebounds, four assists, one steal and one block in 29 minutes during Monday's 122-96 loss to San Antonio. Visit RotoWire.com for more..."
     },
     {
-      "title": "Josh Hart: Iffy for Tuesday",
-      "url": "https://www.rotowire.com//basketball/player/josh-hart-4136",
+      "title": "Victor Wembanyama: Racks up nine blocks",
+      "url": "https://www.rotowire.com//basketball/player/victor-wembanyama-5809",
       "source": "RotoWire",
       "sport": "Fantasy NBA",
-      "published": "2026-11-09T02:04:00+00:00",
-      "timestamp": 1794189840,
-      "summary": "Hart is questionable for Tuesday's game against the Bucks due to right ankle soreness. Visit RotoWire.com for more analysis on this update."
+      "published": "2026-11-09T08:26:00+00:00",
+      "timestamp": 1794212760,
+      "summary": "Wembanyama produced 40 points (15-19 FG, 2-3 3Pt, 8-10 FT), 11 rebounds, three assists and nine blocks in 25 minutes during Monday's 122-96 win over the Suns. Visit RotoWire.com for more analysis..."
     },
     {
-      "title": "Jake Ferguson: In line to miss multiple weeks, per coach",
-      "url": "https://www.rotowire.com//football/player/jake-ferguson-15947",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-09T02:03:00+00:00",
-      "timestamp": 1794189780,
-      "summary": "According to coach Brian Schottenheimer, Ferguson (knee) is in line to miss multiple weeks, Patrik Walker of the Cowboys' official site reports. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Gardner Minshew: Set to undergo testing on arm/elbow",
-      "url": "https://www.rotowire.com//football/player/gardner-minshew-13741",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-09T01:53:00+00:00",
-      "timestamp": 1794189180,
-      "summary": "Minshew is slated undergo testing on his right elbow/arm in the wake of Sunday's loss to the Seahawks, according to Darren Urban of the Cardinals' official site. Visit RotoWire.com for more..."
-    },
-    {
-      "title": "Zion Williamson: Sitting out Monday",
-      "url": "https://www.rotowire.com//basketball/player/zion-williamson-4777",
+      "title": "Kevin Durant: Near triple-double in win",
+      "url": "https://www.rotowire.com//basketball/player/kevin-durant-2811",
       "source": "RotoWire",
       "sport": "Fantasy NBA",
-      "published": "2026-11-09T01:50:00+00:00",
-      "timestamp": 1794189000,
-      "summary": "Williamson (rest) is out for Monday's game against the Warriors. Visit RotoWire.com for more analysis on this update."
+      "published": "2026-11-09T08:02:00+00:00",
+      "timestamp": 1794211320,
+      "summary": "Durant posted 23 points (6-15 FG, 1-3 3Pt, 10-10 FT), 12 rebounds, eight assists and one block in 36 minutes during Monday's 110-100 win over Denver. Visit RotoWire.com for more analysis on this..."
     },
     {
-      "title": "Michael Wilson: Out for season with neck injury",
-      "url": "https://www.rotowire.com//football/player/michael-wilson-16957",
+      "title": "Jamal Murray: Drops 38 points in defeat",
+      "url": "https://www.rotowire.com//basketball/player/jamal-murray-3882",
       "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-09T01:39:00+00:00",
-      "timestamp": 1794188340,
-      "summary": "Coach Mike LaFleur revealed Monday that Wilson is out for the season due to a fracture in his neck, Josh Weinfuss of ESPN.com reports. Visit RotoWire.com for more analysis on this update."
+      "sport": "Fantasy NBA",
+      "published": "2026-11-09T07:58:00+00:00",
+      "timestamp": 1794211080,
+      "summary": "Murray amassed 38 points (14-23 FG, 5-8 3Pt, 5-5 FT), two rebounds, two assists, two blocks and one steal across 39 minutes in Monday's 110-100 loss to the Rockets. Visit RotoWire.com for more..."
     },
     {
-      "title": "Josh Jacobs: Finger surgery on tap, IR a possibility",
-      "url": "https://www.rotowire.com//football/player/josh-jacobs-13582",
+      "title": "Sal Stewart: Brings home NL ROY honors",
+      "url": "https://www.rotowire.com//baseball/player/sal-stewart-17992",
       "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-09T01:22:00+00:00",
-      "timestamp": 1794187320,
-      "summary": "When asked if IR is a possibility for Jacobs (finger), coach Matt LaFleur said Monday, \"I think everything is a possibility,\" Matt Schneidman of The Athletic reports. Visit RotoWire.com for more..."
+      "sport": "Fantasy MLB",
+      "published": "2026-11-09T05:10:00+00:00",
+      "timestamp": 1794201000,
+      "summary": "Stewart was named the 2026 National League Jackie Robinson Rookie of the Year on Monday. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Kevin McGonigle: Earns AL ROY honors",
+      "url": "https://www.rotowire.com//baseball/player/kevin-mcgonigle-18895",
+      "source": "RotoWire",
+      "sport": "Fantasy MLB",
+      "published": "2026-11-09T04:59:00+00:00",
+      "timestamp": 1794200340,
+      "summary": "McGonigle was named the 2026 American League Jackie Robinson Rookie of the Year on Monday. Visit RotoWire.com for more analysis on this update."
     },
     {
       "title": "Fantasy Football Week 10 Early Trade Targets (2026)",
