@@ -1,209 +1,227 @@
 {
-  "updated_at": "2026-11-10T07:13:44.824100+00:00",
-  "count": 22,
+  "updated_at": "2026-11-10T19:41:37.577090+00:00",
+  "count": 24,
   "counts": {
     "Fantasy NFL": 15,
     "Fantasy NBA": 5,
-    "Fantasy MLB": 2
+    "Fantasy MLB": 4
   },
   "articles": [
     {
-      "title": "Fantasy Football Panic Meter: Week 10 (2026)",
-      "url": "https://www.fantasypros.com/2026/11/fantasy-football-panic-meter-week-10-2026/",
+      "title": "Let's Stream Defenses: Week 10 (2026 Fantasy Football)",
+      "url": "https://www.fantasypros.com/2026/11/lets-stream-defenses-week-10-2026-fantasy-football/",
       "source": "FantasyPros",
       "sport": "Fantasy NFL",
-      "published": "2026-11-09T15:47:47+00:00",
-      "timestamp": 1794239267,
-      "summary": "Welcome to the fantasy football panic meter. If you're new here, this is where we decide who deserves patience, who deserves concern, and who should have you reaching for the big red button. Each..."
+      "published": "2026-11-10T18:24:59+00:00",
+      "timestamp": 1794335099,
+      "summary": "Today is a very special day - the NFL trade deadline, at 4PM Eastern. Some teams have already been making moves in recent days - the Colts are having a fire sale, and the Jags are going all in..."
     },
     {
-      "title": "Fantasy Football Waiver Wire Rankings & Pickups: Week 10 (2026)",
-      "url": "https://www.fantasypros.com/2026/11/fantasy-football-waiver-wire-rankings-pickups-week-10-2026/",
+      "title": "Fantasy Football Trade Advice: Players to Buy, Sell or Hold (Week 10)",
+      "url": "https://www.fantasypros.com/2026/11/fantasy-football-trade-advice-players-to-buy-sell-or-hold-week-10-2026/",
       "source": "FantasyPros",
       "sport": "Fantasy NFL",
-      "published": "2026-11-09T15:47:44+00:00",
-      "timestamp": 1794239264,
-      "summary": "Our analysts combine to provide rankings for weekly fantasy football waiver wire targets. We'll help you prioritize your bids for the week ahead. Check out our full expert consensus fantasy..."
+      "published": "2026-11-10T17:46:09+00:00",
+      "timestamp": 1794332769,
+      "summary": "Welcome back to this week's fantasy football trade advice. In this weekly series, I dive into my top buys, sells and holds from a redraft perspective, based on my rest-of-season rankings versus..."
+    },
+    {
+      "title": "Fantasy Football TE Streamers & Waiver Wire Targets (Week 10)",
+      "url": "https://www.fantasypros.com/2026/11/fantasy-football-te-streamers-waiver-wire-targets-week-10-2026/",
+      "source": "FantasyPros",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-10T16:01:04+00:00",
+      "timestamp": 1794326464,
+      "summary": "Nine weeks into the 2026 NFL season, tight end remains one of fantasy football's most unpredictable positions. Just when you think you've found a reliable starter, bad quarterback play or a bad..."
+    },
+    {
+      "title": "Fantasy Football IDP Waiver Wire Pickups: Week 10 (2026)",
+      "url": "https://www.fantasypros.com/2026/11/fantasy-football-idp-waiver-wire-pickups-week-10-2026/",
+      "source": "FantasyPros",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-10T14:17:45+00:00",
+      "timestamp": 1794320265,
+      "summary": "Week 9 is now in the books. There are numerous fantasy football storylines to track, but perhaps the most significant is the overlooked IDP players who showed out in Week 9. There were a lot of..."
+    },
+    {
+      "title": "Fantasy Football Trade Value Chart: Week 10 (2026)",
+      "url": "https://www.fantasypros.com/2026/11/fantasy-football-trade-value-chart-week-10-2026/",
+      "source": "FantasyPros",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-10T13:57:17+00:00",
+      "timestamp": 1794319037,
+      "summary": "Our analysts have combined their rankings to formulate trade values for all fantasy football redraft players. Use these values as you navigate the fantasy football trade waters in your league. You..."
     },
     {
       "title": "Fantasy Football Waiver Wire Advice: Players to Add, Stash & Drop (Week 10)",
       "url": "https://www.fantasypros.com/2026/11/fantasy-football-waiver-wire-advice-players-to-add-stash-drop-week-10-2026/",
       "source": "FantasyPros",
       "sport": "Fantasy NFL",
-      "published": "2026-11-09T12:05:34+00:00",
-      "timestamp": 1794225934,
+      "published": "2026-11-10T12:58:34+00:00",
+      "timestamp": 1794315514,
       "summary": "There were so many shabby fantasy football performances in Week 9 that some managers might be tempted to replace half their team on waivers. This is also a four-team bye week, so a lot of you are..."
     },
     {
-      "title": "Top 5 Fantasy Football Takeaways: Surprises & Disappointments",
-      "url": "https://www.fantasypros.com/2026/11/top-5-fantasy-football-takeaways-surprises-disappointments-week-9-2026/",
+      "title": "Fantasy Football QB Streamers & Waiver Wire Targets (Week 10)",
+      "url": "https://www.fantasypros.com/2026/11/fantasy-football-qb-streamers-waiver-wire-targets-week-10-2026/",
       "source": "FantasyPros",
       "sport": "Fantasy NFL",
-      "published": "2026-11-09T12:05:25+00:00",
-      "timestamp": 1794225925,
-      "summary": "NFL Week 9 began with a lopsided Thursday Night Football contest, but the week's surprises and disappointments started Sunday morning with a disappointing showing from a player drafted as a..."
+      "published": "2026-11-10T12:56:54+00:00",
+      "timestamp": 1794315414,
+      "summary": "Week 9 of the 2026 NFL season is in the books. Hopefully, your fantasy team earned a victory. However, the only easy win came last week. So, let's look at the top streaming quarterback options for..."
     },
     {
-      "title": "Fantasy Football Heat Index: Buy or Sell Surprise Performances",
-      "url": "https://www.fantasypros.com/2026/11/fantasy-football-heat-index-buy-or-sell-surprise-performances-week-9-2026/",
+      "title": "Fantasy Football Running Back Handcuff Rankings: Week 10 (2026)",
+      "url": "https://www.fantasypros.com/2026/11/fantasy-football-running-back-handcuff-rankings-week-10-2026/",
       "source": "FantasyPros",
       "sport": "Fantasy NFL",
-      "published": "2026-11-09T12:05:17+00:00",
-      "timestamp": 1794225917,
-      "summary": "Every Monday of the NFL regular season, we look at weekend breakout performances and analyze their potential for sustained fantasy football success. We will rank these performances from 1-5 based..."
+      "published": "2026-11-10T12:56:45+00:00",
+      "timestamp": 1794315405,
+      "summary": "I'll continue dissecting team scenarios for our weekly fantasy football running back handcuff rankings. We have a few situations to monitor because of injuries in Green Bay, a new lead back in..."
     },
     {
-      "title": "Fantasy Football Injury Report & Updates: Week 10 (2026)",
-      "url": "https://www.fantasypros.com/2026/11/fantasy-football-injury-report-updates-week-10-2026/",
+      "title": "Fantasy Football Rankings: Week 10 (2026)",
+      "url": "https://www.fantasypros.com/2026/11/fantasy-football-rankings-week-10-2026/",
       "source": "FantasyPros",
       "sport": "Fantasy NFL",
-      "published": "2026-11-09T12:05:09+00:00",
-      "timestamp": 1794225909,
-      "summary": "Week 9 brought a brief sense of calm as new physical casualties slowed down significantly across the slate. Fantasy football managers and NFL teams got a much-needed reprieve, with new injuries..."
+      "published": "2026-11-10T12:56:40+00:00",
+      "timestamp": 1794315400,
+      "summary": "Here are our fantasy football rankings from our analysts. You can find our expert consensus fantasy football rankings for the week here. And you can also sync your fantasy football league for free..."
     },
     {
-      "title": "Brandin Podziemski: Drills five treys in victory",
-      "url": "https://www.rotowire.com//basketball/player/brandin-podziemski-5889",
+      "title": "Fantasy Football Studs & Duds: Week 9 (2026)",
+      "url": "https://www.fantasypros.com/2026/11/fantasy-football-studs-duds-week-9-2026/",
+      "source": "FantasyPros",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-10T12:55:38+00:00",
+      "timestamp": 1794315338,
+      "summary": "The most common sentiment I've seen on social media on Sundays is overwhelming frustration with players' lack of consistency in fantasy football this season. More than I can remember, players..."
+    },
+    {
+      "title": "Zion Williamson: Absent from injury report",
+      "url": "https://www.rotowire.com//basketball/player/zion-williamson-4777",
       "source": "RotoWire",
       "sport": "Fantasy NBA",
-      "published": "2026-11-09T09:38:00+00:00",
-      "timestamp": 1794217080,
-      "summary": "Podziemski totaled 25 points (10-19 FG, 5-11 3Pt), two rebounds, four assists, one steal and one block in 26 minutes during Monday's 138-87 win over the Pelicans. Visit RotoWire.com for more..."
+      "published": "2026-11-10T11:25:00+00:00",
+      "timestamp": 1794309900,
+      "summary": "Williamson (rest) is off the injury report for Wednesday's game against the Nets. Visit RotoWire.com for more analysis on this update."
     },
     {
-      "title": "Jordan Mason: Garners 42 scrimmage yards in loss",
-      "url": "https://www.rotowire.com//football/player/jordan-mason-16163",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-09T09:18:00+00:00",
-      "timestamp": 1794215880,
-      "summary": "Mason rushed six times for 35 yards and brought in two of three targets for seven yards in the Vikings' 23-6 loss to the Bills on Monday night. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Carson Wentz: Forgettable performance in spot start",
-      "url": "https://www.rotowire.com//football/player/carson-wentz-10856",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-09T09:12:00+00:00",
-      "timestamp": 1794215520,
-      "summary": "Wentz completed eight of 25 passes for 81 yards with no touchdowns and two interceptions and rushed once for no gain in the Vikings' 23-6 loss to the Bills on Monday night. He also lost a fumble...."
-    },
-    {
-      "title": "Dalton Kincaid: Three-catch effort in win",
-      "url": "https://www.rotowire.com//football/player/dalton-kincaid-16697",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-09T09:05:00+00:00",
-      "timestamp": 1794215100,
-      "summary": "Kincaid secured all three targets for 28 yards in the Bills' 23-6 win over the Vikings on Monday night. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "DJ Moore: Three catches in tough matchup",
-      "url": "https://www.rotowire.com//football/player/dj-moore-12477",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-09T09:00:00+00:00",
-      "timestamp": 1794214800,
-      "summary": "Moore secured three of five targets for 25 yards and rushed once for 11 yards in the Bills' 23-6 win over the Vikings on Monday night. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Justin Jefferson: Highly inefficient sans Murray",
-      "url": "https://www.rotowire.com//football/player/justin-jefferson-14509",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-09T08:53:00+00:00",
-      "timestamp": 1794214380,
-      "summary": "Jefferson brought in three of 11 targets for 58 yards in the Vikings' 23-6 loss to the Bills on Monday night. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Devin Booker: Produces 32 points in loss",
-      "url": "https://www.rotowire.com//basketball/player/devin-booker-3711",
+      "title": "Trey Murphy: Expected to play Wednesday",
+      "url": "https://www.rotowire.com//basketball/player/trey-murphy-5401",
       "source": "RotoWire",
       "sport": "Fantasy NBA",
-      "published": "2026-11-09T08:31:00+00:00",
-      "timestamp": 1794213060,
-      "summary": "Booker tallied 32 points (10-17 FG, 3-5 3Pt, 9-10 FT), two rebounds, four assists, one steal and one block in 29 minutes during Monday's 122-96 loss to San Antonio. Visit RotoWire.com for more..."
+      "published": "2026-11-10T11:22:00+00:00",
+      "timestamp": 1794309720,
+      "summary": "Murphy (knee) is probable for Wednesday's game against the Nets. Visit RotoWire.com for more analysis on this update."
     },
     {
-      "title": "Victor Wembanyama: Racks up nine blocks",
-      "url": "https://www.rotowire.com//basketball/player/victor-wembanyama-5809",
+      "title": "Josh Hart: Downgraded to doubtful",
+      "url": "https://www.rotowire.com//basketball/player/josh-hart-4136",
       "source": "RotoWire",
       "sport": "Fantasy NBA",
-      "published": "2026-11-09T08:26:00+00:00",
-      "timestamp": 1794212760,
-      "summary": "Wembanyama produced 40 points (15-19 FG, 2-3 3Pt, 8-10 FT), 11 rebounds, three assists and nine blocks in 25 minutes during Monday's 122-96 win over the Suns. Visit RotoWire.com for more analysis..."
+      "published": "2026-11-10T11:20:00+00:00",
+      "timestamp": 1794309600,
+      "summary": "Hart is doubtful for Tuesday's game against the Bucks due to an illness. Visit RotoWire.com for more analysis on this update."
     },
     {
-      "title": "Kevin Durant: Near triple-double in win",
-      "url": "https://www.rotowire.com//basketball/player/kevin-durant-2811",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-11-09T08:02:00+00:00",
-      "timestamp": 1794211320,
-      "summary": "Durant posted 23 points (6-15 FG, 1-3 3Pt, 10-10 FT), 12 rebounds, eight assists and one block in 36 minutes during Monday's 110-100 win over Denver. Visit RotoWire.com for more analysis on this..."
-    },
-    {
-      "title": "Jamal Murray: Drops 38 points in defeat",
-      "url": "https://www.rotowire.com//basketball/player/jamal-murray-3882",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-11-09T07:58:00+00:00",
-      "timestamp": 1794211080,
-      "summary": "Murray amassed 38 points (14-23 FG, 5-8 3Pt, 5-5 FT), two rebounds, two assists, two blocks and one steal across 39 minutes in Monday's 110-100 loss to the Rockets. Visit RotoWire.com for more..."
-    },
-    {
-      "title": "Sal Stewart: Brings home NL ROY honors",
-      "url": "https://www.rotowire.com//baseball/player/sal-stewart-17992",
+      "title": "Ben Brown: Undergoes neck surgery",
+      "url": "https://www.rotowire.com//baseball/player/ben-brown-18206",
       "source": "RotoWire",
       "sport": "Fantasy MLB",
-      "published": "2026-11-09T05:10:00+00:00",
-      "timestamp": 1794201000,
-      "summary": "Stewart was named the 2026 National League Jackie Robinson Rookie of the Year on Monday. Visit RotoWire.com for more analysis on this update."
+      "published": "2026-11-10T11:09:00+00:00",
+      "timestamp": 1794308940,
+      "summary": "Brown underwent cervical spine surgery Monday, Jesse Rogers of ESPN.com reports. Visit RotoWire.com for more analysis on this update."
     },
     {
-      "title": "Kevin McGonigle: Earns AL ROY honors",
-      "url": "https://www.rotowire.com//baseball/player/kevin-mcgonigle-18895",
+      "title": "Keenan Allen: Shipped to San Francisco",
+      "url": "https://www.rotowire.com//football/player/keenan-allen-8627",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-10T10:43:00+00:00",
+      "timestamp": 1794307380,
+      "summary": "The 49ers acquired Allen from the Colts on Tuesday in exchange for a 2027 sixth-round pick, Tom Pelissero of Netflix reports. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "J.J. McCarthy: Taking part in practice Tuesday",
+      "url": "https://www.rotowire.com//football/player/jj-mccarthy-17689",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-10T10:39:00+00:00",
+      "timestamp": 1794307140,
+      "summary": "McCarthy (hip) was spotted on the field for the media-access portion of Tuesday's practice, Art Stapleton of The Bergen Record reports. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Cam Skattebo: Practicing again Tuesday",
+      "url": "https://www.rotowire.com//football/player/cam-skattebo-18514",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-10T10:35:00+00:00",
+      "timestamp": 1794306900,
+      "summary": "Skattebo (hamstring) was spotted on the field for the media-access portion of Tuesday's practice, Art Stapleton of The Bergen Record reports. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Lauri Markkanen: Ruled out with wrist sprain",
+      "url": "https://www.rotowire.com//basketball/player/lauri-markkanen-4119",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-11-10T10:30:00+00:00",
+      "timestamp": 1794306600,
+      "summary": "Markkanen is out for Tuesday's game versus the Heat with a right wrist sprain. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Kawhi Leonard: Remains out for at least one more week",
+      "url": "https://www.rotowire.com//basketball/player/kawhi-leonard-3195",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-11-10T09:34:00+00:00",
+      "timestamp": 1794303240,
+      "summary": "Leonard (knee) is continuing the reconditioning process, and another update will be provided in one week, Blake Murphy of Sportsnet.ca reports. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Roman Anthony: Range-of-motion exercises soon",
+      "url": "https://www.rotowire.com//baseball/player/roman-anthony-17973",
       "source": "RotoWire",
       "sport": "Fantasy MLB",
-      "published": "2026-11-09T04:59:00+00:00",
-      "timestamp": 1794200340,
-      "summary": "McGonigle was named the 2026 American League Jackie Robinson Rookie of the Year on Monday. Visit RotoWire.com for more analysis on this update."
+      "published": "2026-11-10T09:12:00+00:00",
+      "timestamp": 1794301920,
+      "summary": "Anthony (finger) will be re-evaluated in a couple weeks, at which point he's likely to begin a range-of-motion and strengthening program, Jen McCaffrey of The Athletic reports. Visit RotoWire.com..."
     },
     {
-      "title": "Fantasy Football Week 10 Early Trade Targets (2026)",
-      "url": "https://www.fantasypros.com/2026/11/fantasy-football-week-10-early-trade-targets-2026/",
-      "source": "FantasyPros",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-08T22:35:06+00:00",
-      "timestamp": 1794177306,
-      "summary": "We are about 60% of the way through the fantasy season, and our focus should start to shift based on your record. For some of you, it might be time to accept the inevitable and enjoy doing your..."
+      "title": "Trevor Story: Not locked into starting job",
+      "url": "https://www.rotowire.com//baseball/player/trevor-story-12184",
+      "source": "RotoWire",
+      "sport": "Fantasy MLB",
+      "published": "2026-11-10T08:51:00+00:00",
+      "timestamp": 1794300660,
+      "summary": "Red Sox chief baseball officer Craig Breslow on Monday was noncommital when asked whether Story was the team's starting shortstop in 2027, Jen McCaffrey of The Athletic reports. Visit RotoWire.com..."
     },
     {
-      "title": "Week 10 Early Waiver Wire Additions (2026 Fantasy Football)",
-      "url": "https://www.fantasypros.com/2026/11/week-10-early-waiver-wire-additions-2026-fantasy-football/",
-      "source": "FantasyPros",
+      "title": "Kaleb Johnson: Could lead backfield again Week 10",
+      "url": "https://www.rotowire.com//football/player/kaleb-johnson-18515",
+      "source": "RotoWire",
       "sport": "Fantasy NFL",
-      "published": "2026-11-08T22:27:07+00:00",
-      "timestamp": 1794176827,
-      "summary": "Welcome back to the early waiver wire review! As always, we take an early look at which players might be worth prioritizing on waivers this week. However, we do it early. That means every player..."
+      "published": "2026-11-10T08:24:00+00:00",
+      "timestamp": 1794299040,
+      "summary": "Johnson could serve as the Packers' lead option on the ground in Sunday's game against the Vikings with Josh Jacobs (finger) expected to miss multiple weeks and with the status of MarShawn Lloyd..."
     },
     {
-      "title": "Fantasy Football Week 9 Player Grades & Start/Sit Advice (2026)",
-      "url": "https://www.fantasypros.com/2026/11/fantasy-football-week-9-player-grades-start-sit-advice-2026/",
-      "source": "FantasyPros",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-08T13:54:53+00:00",
-      "timestamp": 1794146093,
-      "summary": "Welcome to Week 9, friends. As always, we're here to provide you with some fantasy football Quick Grades (or Start/Sit Grades, if you prefer) for the week. We tappedÂ our consensus projections and..."
+      "title": "Grant Taylor: Moving into rotation in 2027",
+      "url": "https://www.rotowire.com//baseball/player/grant-taylor-18988",
+      "source": "RotoWire",
+      "sport": "Fantasy MLB",
+      "published": "2026-11-10T08:15:00+00:00",
+      "timestamp": 1794298500,
+      "summary": "White Sox general manager Chris Getz said Tuesday on MLB Network Radio on SiriusXM that Taylor will move into the rotation next season. Visit RotoWire.com for more analysis on this update."
     },
     {
-      "title": "Fantasy Football: Last-Minute Advice for Week 9 (2026)",
-      "url": "https://www.fantasypros.com/2026/11/fantasy-football-last-minute-advice-for-week-9-2026/",
-      "source": "FantasyPros",
+      "title": "Mike Evans: Not trending toward Week 10 return",
+      "url": "https://www.rotowire.com//football/player/mike-evans-9253",
+      "source": "RotoWire",
       "sport": "Fantasy NFL",
-      "published": "2026-11-08T12:03:41+00:00",
-      "timestamp": 1794139421,
-      "summary": "We're here for three straight hours leading up to kickoff with live coverage to get you ready for NFL Sunday and help you dominate your fantasy football league. We'll be here for all your..."
+      "published": "2026-11-10T08:10:00+00:00",
+      "timestamp": 1794298200,
+      "summary": "Evans (Achilles) isn't expected to be ready to play Sunday at Dallas, though the 49ers will continue to evaluate his status throughout the week, Brooke Evans of the team's official site reports...."
     }
   ]
 }
