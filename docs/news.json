@@ -1,20 +1,97 @@
 {
-  "updated_at": "2026-11-11T19:37:52.329614+00:00",
+  "updated_at": "2026-11-12T07:14:12.149139+00:00",
   "count": 30,
   "articles": [
+    {
+      "title": "Stephen Curry injury: 'Concern high' as Warriors superstar has MRI on abdomen",
+      "url": "https://www.cbssports.com/nba/news/stephen-curry-injury-warriors-abdominal/",
+      "source": "CBS NBA",
+      "published": "Thu, 12 Nov 2026 06:47:41 +0000",
+      "timestamp": 1794466061.0
+    },
+    {
+      "title": "Here's the case for each MVP Award finalist (MLB Network, 7 p.m. ET)",
+      "url": "https://www.mlb.com/news/the-case-for-each-2026-mlb-mvp-finalist",
+      "source": "MLB",
+      "published": "Thu, 12 Nov 2026 05:00:35 GMT",
+      "timestamp": 1794459635.0
+    },
+    {
+      "title": "Hot Stove rumors: Seager, Skubal, OF trade candidates, Yanks, Cubs",
+      "url": "https://www.mlb.com/news/mlb-rumors-and-2026-27-free-agent-news-november-11",
+      "source": "MLB",
+      "published": "Thu, 12 Nov 2026 04:39:00 GMT",
+      "timestamp": 1794458340.0
+    },
+    {
+      "title": "World Series star Contreras the very definition of first Flow Mayor Award",
+      "url": "https://www.mlb.com/news/william-contreras-wins-inaugural-flow-mayor-award",
+      "source": "MLB",
+      "published": "Thu, 12 Nov 2026 04:14:34 GMT",
+      "timestamp": 1794456874.0
+    },
+    {
+      "title": "Miz adds NL Cy Young Award to World Series title",
+      "url": "https://www.mlb.com/news/jacob-misiorowski-wins-2026-national-league-cy-young-award",
+      "source": "MLB",
+      "published": "Thu, 12 Nov 2026 02:01:00 GMT",
+      "timestamp": 1794448860.0
+    },
+    {
+      "title": "NFL Week 10 injury report: Mike Evans still not practicing, Puka Nacua facing multi-week absence",
+      "url": "https://www.cbssports.com/nfl/news/2026-nfl-week-10-injury-report-mike-evans-puka-nacua/",
+      "source": "CBS NFL",
+      "published": "Thu, 12 Nov 2026 01:08:15 +0000",
+      "timestamp": 1794445695.0
+    },
+    {
+      "title": "Bengals nearly made a costly trade-deadline blunder, and Zac Taylor had to explain it",
+      "url": "https://www.cbssports.com/nfl/news/bengals-nfl-trade-deadline-arnold-ebiketie-zac-taylor/",
+      "source": "CBS NFL",
+      "published": "Thu, 12 Nov 2026 00:08:56 +0000",
+      "timestamp": 1794442136.0
+    },
+    {
+      "title": "Renner's post-deadline 2027 NFL mock draft: How the trade deadline affected the first three rounds",
+      "url": "https://www.cbssports.com/nfl/draft/news/renners-2027-nfl-three-round-mock-draft-trade-deadline-first-three-rounds-eagles-jets-titans/",
+      "source": "CBS NFL",
+      "published": "Wed, 11 Nov 2026 22:57:15 +0000",
+      "timestamp": 1794437835.0
+    },
+    {
+      "title": "Cardinals name Carson Beck starting QB: Rookie faces Aaron Donald, Myles Garrett in NFL debut",
+      "url": "https://www.cbssports.com/nfl/news/cardinals-starting-qb-carson-beck-2026/",
+      "source": "CBS NFL",
+      "published": "Wed, 11 Nov 2026 21:42:20 +0000",
+      "timestamp": 1794433340.0
+    },
+    {
+      "title": "Why Packers' Jordan Love is the 2026 midseason MVP: Green Bay QB dominating with no help",
+      "url": "https://www.cbssports.com/nfl/news/why-packers-jordan-love-is-2026-midseason-mvp/",
+      "source": "CBS NFL",
+      "published": "Wed, 11 Nov 2026 21:16:19 +0000",
+      "timestamp": 1794431779.0
+    },
+    {
+      "title": "Agent's Take: Three NFL trade deadline deals teams will regret not making",
+      "url": "https://www.cbssports.com/nfl/news/agents-take-2026-nfl-trade-deadline-deals-teams-regret-not-making-jonathan-taylor-tony-pollard-brian-thomas/",
+      "source": "CBS NFL",
+      "published": "Wed, 11 Nov 2026 21:11:25 +0000",
+      "timestamp": 1794431485.0
+    },
+    {
+      "title": "Not All Junk Wax Cards Are Cheap: Ranking the Best Baseball Rookie Cards of the 1980s",
+      "url": "https://insider.cards/story/not-all-junk-wax-cards-are-cheap-ranking-the-best-baseball-rookie-cards-911703/",
+      "source": "Hobby",
+      "published": "Wed, 11 Nov 2026 20:25:00 +0000",
+      "timestamp": 1794428700.0
+    },
     {
       "title": "2026 NFL trade deadline grades for every team: Four teams earn an A, Rams and Chargers among disappointments",
       "url": "https://www.cbssports.com/nfl/news/2026-nfl-trade-deadline-grades-every-team/",
       "source": "CBS NFL",
       "published": "Wed, 11 Nov 2026 19:24:36 +0000",
       "timestamp": 1794425076.0
-    },
-    {
-      "title": "Hot Stove rumors: Seager, Skubal, OF trade candidates, Yanks, Cubs",
-      "url": "https://www.mlb.com/news/mlb-rumors-and-2026-27-free-agent-news-november-11",
-      "source": "MLB",
-      "published": "Wed, 11 Nov 2026 19:17:00 GMT",
-      "timestamp": 1794424620.0
     },
     {
       "title": "NFL trade deadline: Jonathan Taylor leads candidates for offseason moves after staying put",
@@ -24,11 +101,11 @@
       "timestamp": 1794422964.0
     },
     {
-      "title": "Renner's post-deadline 2027 NFL mock draft: How the trade deadline affected the first three rounds",
-      "url": "https://www.cbssports.com/nfl/draft/news/renners-2027-nfl-three-round-mock-draft-trade-deadline-first-three-rounds-eagles-jets-titans/",
-      "source": "CBS NFL",
-      "published": "Wed, 11 Nov 2026 18:37:58 +0000",
-      "timestamp": 1794422278.0
+      "title": "Tis the Season: 2026 Panini Mangaverse Football Ornament Boxes",
+      "url": "https://insider.cards/story/tis-the-season-2026-panini-mangaverse-football-ornament-boxes-36d1b7/",
+      "source": "Hobby",
+      "published": "Wed, 11 Nov 2026 18:40:43 +0000",
+      "timestamp": 1794422443.0
     },
     {
       "title": "When Is a Sports Card Worth Grading? A Break-Even Calculator for Collectors",
@@ -45,18 +122,18 @@
       "timestamp": 1794420979.0
     },
     {
+      "title": "2026 Topps Midnight Football Instant Packs: What to Know",
+      "url": "https://insider.cards/story/2026-topps-midnight-football-collector-guide-rookies-autos-and-more-db56c2/",
+      "source": "Hobby",
+      "published": "Wed, 11 Nov 2026 18:09:42 +0000",
+      "timestamp": 1794420582.0
+    },
+    {
       "title": "Kirk Cousins traded to Vikings: Raiders gave QB option to stay or leave franchise, per report",
       "url": "https://www.cbssports.com/nfl/news/kirk-cousins-traded-vikings-raiders-gave-option-stay-leave-franchise-per-report/",
       "source": "CBS NFL",
       "published": "Wed, 11 Nov 2026 16:21:15 +0000",
       "timestamp": 1794414075.0
-    },
-    {
-      "title": "Why Packers' Jordan Love is the 2026 midseason MVP: Green Bay QB dominating with no help",
-      "url": "https://www.cbssports.com/nfl/news/why-packers-jordan-love-is-2026-midseason-mvp/",
-      "source": "CBS NFL",
-      "published": "Wed, 11 Nov 2026 16:10:34 +0000",
-      "timestamp": 1794413434.0
     },
     {
       "title": "Giants attempted to trade for Falcons star RB Bijan Robinson at trade deadline, per report",
@@ -101,34 +178,6 @@
       "timestamp": 1794378957.0
     },
     {
-      "title": "Here's what execs are saying about intriguing free agent Teruaki Sato",
-      "url": "https://www.mlb.com/news/teruaki-sato-market-2026-mlb-offseason",
-      "source": "MLB",
-      "published": "Wed, 11 Nov 2026 03:06:05 GMT",
-      "timestamp": 1794366365.0
-    },
-    {
-      "title": "'Put it in bold': Anthopoulos shuts down Acuña trade rumors",
-      "url": "https://www.mlb.com/news/alex-anthopoulos-says-braves-won-trade-ronald-acuna-jr",
-      "source": "MLB",
-      "published": "Wed, 11 Nov 2026 02:45:49 GMT",
-      "timestamp": 1794365149.0
-    },
-    {
-      "title": "Murphy wins record 3rd straight Manager of the Year Award … from his hospital bed",
-      "url": "https://www.mlb.com/news/pat-murphy-wins-third-straight-nl-manager-of-the-year-award",
-      "source": "MLB",
-      "published": "Wed, 11 Nov 2026 02:20:00 GMT",
-      "timestamp": 1794363600.0
-    },
-    {
-      "title": "Of Dice and Men: A Pictorial Review of Ultra Rare 1963 Topps Baseball Test Set",
-      "url": "https://insider.cards/story/of-dice-and-men-a-pictorial-review-of-ultra-rare-1963-topps-baseball-9a6ce3/",
-      "source": "Hobby",
-      "published": "Wed, 11 Nov 2026 01:33:57 +0000",
-      "timestamp": 1794360837.0
-    },
-    {
       "title": "NFL trade deadline: Ranking all 18 in-season deals as Kirk Cousins, Jeffery Simmons reshape Super Bowl race",
       "url": "https://www.cbssports.com/nfl/news/nfl-trade-deadline-ranking-all-18-deals-kirk-cousins-jeffery-simmons/",
       "source": "CBS NFL",
@@ -162,55 +211,6 @@
       "source": "CBS NFL",
       "published": "Tue, 10 Nov 2026 22:32:51 +0000",
       "timestamp": 1794349971.0
-    },
-    {
-      "title": "Chiefs agree to acquire WR Josh Downs in trade with Colts, per report",
-      "url": "https://www.cbssports.com/nfl/news/chiefs-agree-to-acquire-wr-josh-downs-in-trade-with-colts-per-report/",
-      "source": "CBS NFL",
-      "published": "Tue, 10 Nov 2026 21:56:20 +0000",
-      "timestamp": 1794347780.0
-    },
-    {
-      "title": "Josh Downs trade grades: Chiefs, Patrick Mahomes get help, Colts get value for disgruntled WR",
-      "url": "https://www.cbssports.com/nfl/news/josh-downs-trade-grades-chiefs-colts/",
-      "source": "CBS NFL",
-      "published": "Tue, 10 Nov 2026 21:53:51 +0000",
-      "timestamp": 1794347631.0
-    },
-    {
-      "title": "Kirk Cousins trade grades: Vikings hope to salvage offense; Raiders get 'A,' turn to Fernando Mendoza",
-      "url": "https://www.cbssports.com/nfl/news/kirk-cousins-trade-grades-vikings-raiders-fernando-mendoza/",
-      "source": "CBS NFL",
-      "published": "Tue, 10 Nov 2026 20:56:33 +0000",
-      "timestamp": 1794344193.0
-    },
-    {
-      "title": "Vikings trade for Kirk Cousins: Minnesota turns to familiar face to salvage its season, Raiders begin new era",
-      "url": "https://www.cbssports.com/nfl/news/kirk-cousins-trade-vikings-raiders-rumors/",
-      "source": "CBS NFL",
-      "published": "Tue, 10 Nov 2026 19:58:32 +0000",
-      "timestamp": 1794340712.0
-    },
-    {
-      "title": "Keenan Allen trade grades: 49ers acquire WR help from Colts for Day 3 pick, per report",
-      "url": "https://www.cbssports.com/nfl/news/keenan-allen-trade-grades-49ers-colts/",
-      "source": "CBS NFL",
-      "published": "Tue, 10 Nov 2026 19:50:21 +0000",
-      "timestamp": 1794340221.0
-    },
-    {
-      "title": "Amani Hooker trade: Bills gets secondary help from Titans for second-round pick, per report",
-      "url": "https://www.cbssports.com/nfl/news/amani-hooker-trade-grades-bills-titans/",
-      "source": "CBS NFL",
-      "published": "Tue, 10 Nov 2026 19:45:12 +0000",
-      "timestamp": 1794339912.0
-    },
-    {
-      "title": "Cover 32: What every team should do at 2026 NFL trade deadline, plus game balls and gaffes from Week 9",
-      "url": "https://www.cbssports.com/nfl/news/nfl-trade-deadline-cover-32-week-9-2026/",
-      "source": "CBS NFL",
-      "published": "Tue, 10 Nov 2026 19:05:41 +0000",
-      "timestamp": 1794337541.0
     }
   ]
 }
