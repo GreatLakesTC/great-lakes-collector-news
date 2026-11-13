@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T19:52:33.220175+00:00",
+  "updated_at": "2026-11-13T06:40:45.623951+00:00",
   "count": 25,
   "counts": {
     "Fantasy NFL": 15,
@@ -7,6 +7,15 @@
     "Fantasy MLB": 5
   },
   "articles": [
+    {
+      "title": "The 10 Most Intriguing Fantasy Players of Week 10",
+      "url": "https://www.fantasypros.com/2026/11/the-10-most-intriguing-fantasy-players-of-week-10/",
+      "source": "FantasyPros",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-13T05:40:45+00:00",
+      "timestamp": 1794548445,
+      "summary": "Pity poor Carson Beck. The Cardinals' third-round rookie quarterback is making his first NFL start on Sunday. Already threadbare at wide receiver, Arizona lost its No. 1 wideout, Michael Wilson,..."
+    },
     {
       "title": "The Primer: Week 10 Edition (2026 Fantasy Football)",
       "url": "https://www.fantasypros.com/2026/11/the-primer-week-10-edition-2026-fantasy-football/",
@@ -86,88 +95,16 @@
       "sport": "Fantasy NFL",
       "published": "2026-11-12T12:24:10+00:00",
       "timestamp": 1794486250,
-      "summary": "Welcome to Week 10 of the fantasy football season. Today, we dive into six smash starts for Week 10 fantasy football lineups. However, first, let me explain how I differentiate a smash start..."
+      "summary": "Welcome to Week 10 of the fantasy football season. Today, we dive into six smash starts for Week 10. First, let me explain how I differentiate a smash-start player from a must-start player in..."
     },
     {
-      "title": "Fantasy Football Start/Sit Advice: Safe & Risky Picks (Week 10)",
-      "url": "https://www.fantasypros.com/2026/11/fantasy-football-start-sit-advice-safe-risky-picks-week-10-2026/",
-      "source": "FantasyPros",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-12T12:24:05+00:00",
-      "timestamp": 1794486245,
-      "summary": "Week 9 brought the usual injuries, spike weeks and disappointments that define fantasy football, and you know what? We'll all happily sign up for another, with Week 10 fast approaching. Each week,..."
-    },
-    {
-      "title": "George Pickens: Practicing again Thursday",
-      "url": "https://www.rotowire.com//football/player/george-pickens-15853",
+      "title": "Evan Phillips: Gets $35 million deal from Atlanta",
+      "url": "https://www.rotowire.com//baseball/player/evan-phillips-15548",
       "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-12T11:21:00+00:00",
-      "timestamp": 1794482460,
-      "summary": "Pickens (hamstring) was in uniform and taking part in individual drills during Thursday's practice, Nick Harris of the Fort Worth Star-Telegram reports. Visit RotoWire.com for more analysis on..."
-    },
-    {
-      "title": "Moussa Diabate: Upgraded to available",
-      "url": "https://www.rotowire.com//basketball/player/moussa-diabate-5708",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-11-12T10:55:00+00:00",
-      "timestamp": 1794480900,
-      "summary": "Diabate (quadriceps) is listed as available for Thursday's game against the Suns. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Omar Cooper: Practicing Thursday",
-      "url": "https://www.rotowire.com//football/player/omar-cooper-19314",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-12T10:53:00+00:00",
-      "timestamp": 1794480780,
-      "summary": "Cooper (ankle) is participating in Thursday's practice, Antwan V. Staley of the New York Daily News reports. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Pelle Larsson: Dealing with illness",
-      "url": "https://www.rotowire.com//basketball/player/pelle-larsson-6013",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-11-12T10:35:00+00:00",
-      "timestamp": 1794479700,
-      "summary": "Larsson sat out Thursday's practice due to an illness, per Ira Winderman of the South Florida Sun Sentinel. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Garrett Wilson: Practicing again Thursday",
-      "url": "https://www.rotowire.com//football/player/garrett-wilson-15829",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-12T10:17:00+00:00",
-      "timestamp": 1794478620,
-      "summary": "Wilson (concussion) was present at Thursday's practice, Antwan Staley of the New York Daily News reports. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Denzel Boston: Not at practice Thursday",
-      "url": "https://www.rotowire.com//football/player/denzel-boston-19298",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-12T10:15:00+00:00",
-      "timestamp": 1794478500,
-      "summary": "Boston (toe) wasn't present for Thursday's practice, Daniel Oyefusi of ESPN reports. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "LeBron James: Sitting out Thursday",
-      "url": "https://www.rotowire.com//basketball/player/lebron-james-2344",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-11-12T10:08:00+00:00",
-      "timestamp": 1794478080,
-      "summary": "James (back) is out for Thursday's game against Toronto. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Scottie Barnes: Ruled out Thursday",
-      "url": "https://www.rotowire.com//basketball/player/scottie-barnes-5390",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-11-12T10:06:00+00:00",
-      "timestamp": 1794477960,
-      "summary": "Barnes (groin) is out for Thursday's game against Philadelphia. Visit RotoWire.com for more analysis on this update."
+      "sport": "Fantasy MLB",
+      "published": "2026-11-12T12:15:00+00:00",
+      "timestamp": 1794485700,
+      "summary": "Atlanta signed Phillips to a three-year, $35 million contract Thursday. Visit RotoWire.com for more analysis on this update."
     },
     {
       "title": "Brandon Marsh: Recovering from hand surgery",
@@ -179,40 +116,112 @@
       "summary": "Marsh underwent surgery after the season on his left hand, just above the wrist, Matt Gelb of The Athletic reports. Visit RotoWire.com for more analysis on this update."
     },
     {
-      "title": "Woody Marks: Not spotted at Thursday's practice",
-      "url": "https://www.rotowire.com//football/player/woody-marks-18449",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-12T09:33:00+00:00",
-      "timestamp": 1794475980,
-      "summary": "Marks (knee) wasn't spotted during the portion of Thursday's practice session open to reporters, Aaron Wilson of KPRC 2 Houston reports. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Stephen Curry: Diagnosed with abdominal tear",
-      "url": "https://www.rotowire.com//basketball/player/stephen-curry-3014",
+      "title": "Joel Embiid: Scores 20 points in win",
+      "url": "https://www.rotowire.com//basketball/player/joel-embiid-3572",
       "source": "RotoWire",
       "sport": "Fantasy NBA",
-      "published": "2026-11-12T09:03:00+00:00",
-      "timestamp": 1794474180,
-      "summary": "Curry has been diagnosed with an oblique abdominal tear and will be re-evaluated in two weeks, Shams Charania of ESPN reports. Visit RotoWire.com for more analysis on this update."
+      "published": "2026-11-12T09:29:00+00:00",
+      "timestamp": 1794475740,
+      "summary": "Embiid closed with 20 points (7-17 FG, 0-3 3Pt, 6-7 FT), four rebounds, three assists, one block and one steal in 28 minutes during Thursday's 123-112 win over Toronto. Visit RotoWire.com for more..."
     },
     {
-      "title": "Trevor Larnach: Scheduled for wrist scope Friday",
-      "url": "https://www.rotowire.com//baseball/player/trevor-larnach-15417",
+      "title": "Rachaad White: Leads backfield in win",
+      "url": "https://www.rotowire.com//football/player/rachaad-white-15802",
       "source": "RotoWire",
-      "sport": "Fantasy MLB",
-      "published": "2026-11-11T09:40:00+00:00",
-      "timestamp": 1794390000,
-      "summary": "Larnach will undergo arthroscopic surgery on his left wrist Friday, Dan Hayes of The Athletic reports. Visit RotoWire.com for more analysis on this update."
+      "sport": "Fantasy NFL",
+      "published": "2026-11-12T09:18:00+00:00",
+      "timestamp": 1794475080,
+      "summary": "White rushed 11 times for 47 yards and brought in one of two targets for five yards in the Commanders' 24-21 win over the Giants on Thursday. Visit RotoWire.com for more analysis on this update."
     },
     {
-      "title": "Aaron Judge: Good news from follow-up exam",
-      "url": "https://www.rotowire.com//baseball/player/aaron-judge-12959",
+      "title": "VJ Edgecombe: Logs near triple-double in win",
+      "url": "https://www.rotowire.com//basketball/player/vj-edgecombe-6550",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-11-12T09:17:00+00:00",
+      "timestamp": 1794475020,
+      "summary": "Edgecombe finished with 15 points (7-12 FG, 1-4 3Pt), eight rebounds, eight assists, one block and three steals in 36 minutes during Thursday's 123-112 victory over the Raptors. Visit RotoWire.com..."
+    },
+    {
+      "title": "J.J. McCarthy: Impressive numbers in loss",
+      "url": "https://www.rotowire.com//football/player/jj-mccarthy-17689",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-12T09:12:00+00:00",
+      "timestamp": 1794474720,
+      "summary": "McCarthy completed 23 of 36 passes for 293 yards with a touchdown and an interception while adding six rushes for 34 yards in the Giants' 24-21 loss to the Commanders on Thursday. Visit..."
+    },
+    {
+      "title": "Stefon Diggs: Records game-winning TD in victory",
+      "url": "https://www.rotowire.com//football/player/stefon-diggs-10133",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-12T09:01:00+00:00",
+      "timestamp": 1794474060,
+      "summary": "Diggs secured six of 10 targets for 83 yards and a touchdown in the Commanders' 24-21 win over the Giants on Thursday. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Jayden Daniels: Overcomes turnovers in win",
+      "url": "https://www.rotowire.com//football/player/jayden-daniels-17692",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-12T08:57:00+00:00",
+      "timestamp": 1794473820,
+      "summary": "Daniels completed 23 of 33 passes for 249 yards with three touchdowns and two interceptions and rushed 11 times for 28 yards in the Commanders' 24-21 win over the Giants on Thursday. Visit..."
+    },
+    {
+      "title": "Jamison Battle: Stays hot from long range",
+      "url": "https://www.rotowire.com//basketball/player/jamison-battle-6323",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-11-12T08:55:00+00:00",
+      "timestamp": 1794473700,
+      "summary": "Battle posted 13 points (5-9 FG, 3-6 3Pt), one rebound, one assist, one block and one steal across 25 minutes during Thursday's 123-112 loss to the 76ers. Visit RotoWire.com for more analysis on..."
+    },
+    {
+      "title": "Malik Nabers: Middling production in Week 10 loss",
+      "url": "https://www.rotowire.com//football/player/malik-nabers-17704",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-12T08:48:00+00:00",
+      "timestamp": 1794473280,
+      "summary": "Nabers secured five of seven targets for 44 yards and lost a fumble in the Giants' 24-21 loss to the Commanders on Thursday. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Devin Booker: Drops game-high 30 points in win",
+      "url": "https://www.rotowire.com//basketball/player/devin-booker-3711",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-11-12T08:47:00+00:00",
+      "timestamp": 1794473220,
+      "summary": "Booker compiled 30 points (12-20 FG, 4-8 3Pt, 2-2 FT), one rebound, seven assists, three steals and one block across 35 minutes during Thursday's 101-96 victory over the Suns. Visit RotoWire.com..."
+    },
+    {
+      "title": "Coby White: Paces scoring attack",
+      "url": "https://www.rotowire.com//basketball/player/coby-white-4801",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-11-12T08:39:00+00:00",
+      "timestamp": 1794472740,
+      "summary": "White registered 21 points (8-16 FG, 2-7 3Pt, 3-3 FT), three rebounds and three assists in 20 minutes during Thursday's 101-96 loss to Phoenix. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Pete Crow-Armstrong: Named NL MVP",
+      "url": "https://www.rotowire.com//baseball/player/pete-crow-armstrong-16684",
       "source": "RotoWire",
       "sport": "Fantasy MLB",
-      "published": "2026-11-11T06:22:00+00:00",
-      "timestamp": 1794378120,
-      "summary": "Yankees general manager Brian Cashman said Tuesday that Judge is \"currently in a good place\" after a follow-up exam with Dr. Gregory Pearl to review the healing of his right rib fracture, Bryan..."
+      "published": "2026-11-12T05:01:00+00:00",
+      "timestamp": 1794459660,
+      "summary": "Crow-Armstrong was unanimously named the 2026 National League Most Valuable Player on Thursday. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Yordan Alvarez: Named AL MVP",
+      "url": "https://www.rotowire.com//baseball/player/yordan-alvarez-14407",
+      "source": "RotoWire",
+      "sport": "Fantasy MLB",
+      "published": "2026-11-12T04:45:00+00:00",
+      "timestamp": 1794458700,
+      "summary": "Alvarez was unanimously named the 2026 American League Most Valuable Player on Thursday. Visit RotoWire.com for more analysis on this update."
     },
     {
       "title": "Jacob Misiorowski: Wins NL Cy Young Award",
@@ -222,15 +231,6 @@
       "published": "2026-11-11T05:06:00+00:00",
       "timestamp": 1794373560,
       "summary": "Misiorowski was named the unanimous winner of the 2026 National League Cy Young Award on Wednesday. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Cam Schlittler: Wins AL Cy Young Award",
-      "url": "https://www.rotowire.com//baseball/player/cam-schlittler-19844",
-      "source": "RotoWire",
-      "sport": "Fantasy MLB",
-      "published": "2026-11-11T04:34:00+00:00",
-      "timestamp": 1794371640,
-      "summary": "Schlittler was named the unanimous winner of the 2026 American League Cy Young Award on Wednesday. Visit RotoWire.com for more analysis on this update."
     }
   ]
 }
