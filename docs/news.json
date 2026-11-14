@@ -1,20 +1,62 @@
 {
-  "updated_at": "2026-11-14T06:26:30.314717+00:00",
+  "updated_at": "2026-11-14T18:05:28.191324+00:00",
   "count": 30,
   "articles": [
     {
-      "title": "Top prospects set to face off for Fall League championship",
+      "title": "MLB rumors: Blue Jays targeting Ketel Marte, Giants rejecting trade calls for ace Logan Webb",
+      "url": "https://www.cbssports.com/mlb/news/mlb-rumors-free-agency-giants-logan-webb-kaima-taira-braves-tigers-cardinals-blue-jays/",
+      "source": "CBS MLB",
+      "published": "Sat, 14 Nov 2026 17:57:50 +0000",
+      "timestamp": 1794679070.0
+    },
+    {
+      "title": "Top first-time candidates to win MVP, Cy Young in 2027",
+      "url": "https://www.mlb.com/news/mlb-candidates-to-win-first-mvp-cy-young-2027",
+      "source": "MLB",
+      "published": "Sat, 14 Nov 2026 17:15:00 GMT",
+      "timestamp": 1794676500.0
+    },
+    {
+      "title": "NFL Week 10 injury report: Chiefs' Kenneth Walker III ruled out, Patriots' A.J. Brown questionable",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-10-injury-report-chiefs-kenneth-walker-aj-brown/",
+      "source": "CBS NFL",
+      "published": "Sat, 14 Nov 2026 16:33:07 +0000",
+      "timestamp": 1794673987.0
+    },
+    {
+      "title": "Topps celebrates Lewis Hamilton’s 400th F1 start with limited NOW card",
+      "url": "https://insider.cards/story/topps-celebrates-lewis-hamiltons-400th-f1-start-with-limited-now-card-a26395/",
+      "source": "Hobby",
+      "published": "Sat, 14 Nov 2026 16:24:23 +0000",
+      "timestamp": 1794673463.0
+    },
+    {
+      "title": "Is four-time World Series champ Bochy a HOF slam dunk?",
+      "url": "https://www.mlb.com/news/bruce-bochy-baseball-hall-of-fame-case",
+      "source": "MLB",
+      "published": "Sat, 14 Nov 2026 16:11:11 GMT",
+      "timestamp": 1794672671.0
+    },
+    {
+      "title": "There's no 'off' in offseason during hectic week for World Series champs",
+      "url": "https://www.mlb.com/news/brewers-keeping-busy-in-offseason-after-2026-world-series-win",
+      "source": "MLB",
+      "published": "Sat, 14 Nov 2026 15:39:36 GMT",
+      "timestamp": 1794670776.0
+    },
+    {
+      "title": "Watch top prospects face off for Fall League championship (Live at 8 p.m. ET)",
       "url": "https://www.mlb.com/news/2026-arizona-fall-league-championship-game",
       "source": "MLB",
       "published": "Sat, 14 Nov 2026 06:14:07 GMT",
       "timestamp": 1794636847.0
     },
     {
-      "title": "Top first-time candidates to win MVP, Cy Young in 2027",
-      "url": "https://www.mlb.com/news/mlb-candidates-to-win-first-mvp-cy-young-2027",
-      "source": "MLB",
-      "published": "Sat, 14 Nov 2026 03:00:09 GMT",
-      "timestamp": 1794625209.0
+      "title": "2026 Topps Stadium Club Football Preview: Photography, Rookie Chases And What We Know So Far",
+      "url": "https://insider.cards/story/2026-topps-stadium-club-football-preview-photography-rookie-chases-and-f3cf22/",
+      "source": "Hobby",
+      "published": "Sat, 14 Nov 2026 05:20:30 +0000",
+      "timestamp": 1794633630.0
     },
     {
       "title": "How Gunnar could become an MVP candidate once again",
@@ -22,13 +64,6 @@
       "source": "MLB",
       "published": "Sat, 14 Nov 2026 03:00:09 GMT",
       "timestamp": 1794625209.0
-    },
-    {
-      "title": "NFL Week 10 injury report: Chiefs' Kenneth Walker has new groin injury, Patriots' A.J. Brown questionable",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-10-injury-report-chiefs-kenneth-walker-aj-brown/",
-      "source": "CBS NFL",
-      "published": "Sat, 14 Nov 2026 01:35:38 +0000",
-      "timestamp": 1794620138.0
     },
     {
       "title": "Vikings officially announce Kirk Cousins will start vs. Packers following trade deadline",
@@ -57,13 +92,6 @@
       "source": "CBS NFL",
       "published": "Fri, 13 Nov 2026 19:26:03 +0000",
       "timestamp": 1794597963.0
-    },
-    {
-      "title": "Panini Weekly Redemption Card Updates: November 2-13, 2026",
-      "url": "https://insider.cards/story/panini-weekly-redemption-card-updates-november-2-13-2026-f5dad5/",
-      "source": "Hobby",
-      "published": "Fri, 13 Nov 2026 19:07:02 +0000",
-      "timestamp": 1794596822.0
     },
     {
       "title": "Postseason breakout star Bauers agrees to 4-year deal with Red Sox (source)",
@@ -157,25 +185,11 @@
       "timestamp": 1794552000.0
     },
     {
-      "title": "Unanimous MVP winners add to historic Awards Week",
-      "url": "https://www.mlb.com/news/facts-stats-from-yordan-alvarez-pete-crow-armstrong-mvp-wins",
-      "source": "MLB",
-      "published": "Fri, 13 Nov 2026 03:36:50 GMT",
-      "timestamp": 1794541010.0
-    },
-    {
-      "title": "With 40-40 season, PCA left no doubt in winning NL MVP",
-      "url": "https://www.mlb.com/news/pete-crow-armstrong-wins-2026-nl-mvp",
-      "source": "MLB",
-      "published": "Fri, 13 Nov 2026 02:57:00 GMT",
-      "timestamp": 1794538620.0
-    },
-    {
-      "title": "Yordan caps awards season sweep with AL MVP",
-      "url": "https://www.mlb.com/news/yordan-alvarez-wins-2026-al-mvp-award",
-      "source": "MLB",
-      "published": "Fri, 13 Nov 2026 02:46:00 GMT",
-      "timestamp": 1794537960.0
+      "title": "Best Sports Card Rip Apps 2026 | Legal Card Ripping App Reviews",
+      "url": "https://insider.cards/story/best-sports-card-rip-apps-2026-reviews-of-every-legal-card-rip-app-056d94/",
+      "source": "Hobby",
+      "published": "Fri, 13 Nov 2026 04:22:48 +0000",
+      "timestamp": 1794543768.0
     },
     {
       "title": "Cardinals name Carson Beck starting QB: Rookie faces Aaron Donald, Myles Garrett in NFL debut",
@@ -197,20 +211,6 @@
       "source": "CBS MLB",
       "published": "Fri, 13 Nov 2026 01:08:42 +0000",
       "timestamp": 1794532122.0
-    },
-    {
-      "title": "Now with an MVP, Pete Crow-Armstrong is on the path for an all-time great career. Where could he stack up?",
-      "url": "https://www.cbssports.com/mlb/news/pete-crow-armstrong-mvp-2026-historical-comparisons/",
-      "source": "CBS MLB",
-      "published": "Fri, 13 Nov 2026 01:05:34 +0000",
-      "timestamp": 1794531934.0
-    },
-    {
-      "title": "Astros slugger Yordan Alvarez named unanimous American League MVP after nearly winning 2026 Triple Crown",
-      "url": "https://www.cbssports.com/mlb/news/mlb-2026-american-league-mvp-yordan-alvarez-astros/",
-      "source": "CBS MLB",
-      "published": "Fri, 13 Nov 2026 00:55:09 +0000",
-      "timestamp": 1794531309.0
     }
   ]
 }
