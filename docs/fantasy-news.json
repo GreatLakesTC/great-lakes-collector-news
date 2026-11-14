@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-14T17:58:19.045408+00:00",
-  "count": 24,
+  "updated_at": "2026-11-14T22:20:52.665780+00:00",
+  "count": 23,
   "counts": {
     "Fantasy NFL": 15,
     "Fantasy NBA": 5,
-    "Fantasy MLB": 4
+    "Fantasy MLB": 3
   },
   "articles": [
     {
@@ -26,6 +26,15 @@
       "summary": "Fantasy football can be an extremely fun game to play. It can also be highly frustrating at times. Nothing is more annoying than needing to make a last-minute waiver-wire move because someone in..."
     },
     {
+      "title": "Kyler Murray: Targeting Week 12 return",
+      "url": "https://www.rotowire.com//football/player/kyler-murray-13613",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-14T11:54:00+00:00",
+      "timestamp": 1794657240,
+      "summary": "The Vikings are targeting Week 12 against the Falcons on Sunday, Nov. 29, for a return for Murray (hamstring), Tom Pelissero of Netflix reports. Visit RotoWire.com for more analysis on this update."
+    },
+    {
       "title": "The Primer: Week 10 Edition (2026 Fantasy Football)",
       "url": "https://www.fantasypros.com/2026/11/the-primer-week-10-edition-2026-fantasy-football/",
       "source": "FantasyPros",
@@ -35,94 +44,85 @@
       "summary": "The Primer is presented by Leaguebase. Leaguebase is the private clubhouse for the one league that actually matters: the one with a decade of rivalries and inside jokes behind it. Connect your..."
     },
     {
-      "title": "Norman Powell: Questionable to face Minnesota",
-      "url": "https://www.rotowire.com//basketball/player/norman-powell-3726",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-11-14T09:57:00+00:00",
-      "timestamp": 1794650220,
-      "summary": "Powell (back) is listed as questionable for Saturday's game against Minnesota. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Trey Murphy: Ruled out Saturday",
-      "url": "https://www.rotowire.com//basketball/player/trey-murphy-5401",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-11-14T09:53:00+00:00",
-      "timestamp": 1794649980,
-      "summary": "Murphy (knees) has been ruled out for Saturday's game against the Nuggets. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Pat Freiermuth: Under the weather, iffy for Week 10",
-      "url": "https://www.rotowire.com//football/player/pat-freiermuth-15267",
+      "title": "Woody Marks: Will once again serve as RB1",
+      "url": "https://www.rotowire.com//football/player/woody-marks-18449",
       "source": "RotoWire",
       "sport": "Fantasy NFL",
-      "published": "2026-11-14T09:39:00+00:00",
-      "timestamp": 1794649140,
-      "summary": "Freiermuth (illness) was added to Saturday's injury report and is listed as questionable for Sunday's game against Cincinnati. Visit RotoWire.com for more analysis on this update."
+      "published": "2026-11-14T10:27:00+00:00",
+      "timestamp": 1794652020,
+      "summary": "Marks will be the Texans' lead back against the Browns on Sunday after David Montgomery (groin) was ruled out for that contest. Visit RotoWire.com for more analysis on this update."
     },
     {
-      "title": "Scottie Barnes: Questionable for Sunday",
-      "url": "https://www.rotowire.com//basketball/player/scottie-barnes-5390",
+      "title": "Paul George: Fades injury report",
+      "url": "https://www.rotowire.com//basketball/player/paul-george-3114",
       "source": "RotoWire",
       "sport": "Fantasy NBA",
-      "published": "2026-11-14T09:34:00+00:00",
-      "timestamp": 1794648840,
-      "summary": "Barnes (groin) is listed as questionable for Sunday's game against the Knicks, Michael Grange of Sportsnet.ca reports. Visit RotoWire.com for more analysis on this update."
+      "published": "2026-11-14T02:11:00+00:00",
+      "timestamp": 1794622260,
+      "summary": "George (illness) isn't listed on the injury report for Sunday's game against Dallas, Jack Simone of BostonSportsJournal.com reports. Visit RotoWire.com for more analysis on this update."
     },
     {
-      "title": "Mikel Brown: Upgraded to probable",
-      "url": "https://www.rotowire.com//basketball/player/mikel-brown-6929",
+      "title": "LeBron James: Off injury report",
+      "url": "https://www.rotowire.com//basketball/player/lebron-james-2344",
       "source": "RotoWire",
       "sport": "Fantasy NBA",
-      "published": "2026-11-14T09:20:00+00:00",
-      "timestamp": 1794648000,
-      "summary": "Brown (illness) has been upgraded to probable for Saturday's game at Memphis. Visit RotoWire.com for more analysis on this update."
+      "published": "2026-11-14T02:09:00+00:00",
+      "timestamp": 1794622140,
+      "summary": "James (back) isn't listed on the injury report for Sunday's game against the Pacers. Visit RotoWire.com for more analysis on this update."
     },
     {
-      "title": "Garrett Wilson: Slated to return Sunday",
-      "url": "https://www.rotowire.com//football/player/garrett-wilson-15829",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-14T09:18:00+00:00",
-      "timestamp": 1794647880,
-      "summary": "Wilson (concussion) is expected to be cleared to play against the Bills on Sunday, Matt Zenitz of CBS Sports reports. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Omar Cooper: Expected to play Sunday",
-      "url": "https://www.rotowire.com//football/player/omar-cooper-19314",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-14T09:16:00+00:00",
-      "timestamp": 1794647760,
-      "summary": "Cooper (ankle), who is listed as questionable for Sunday's game against the Bills, is expected to be available, Matt Zenitz of CBS Sports reports. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Emmett Johnson: Will be Kansas City's RB1 vs. Atlanta",
-      "url": "https://www.rotowire.com//football/player/emmett-johnson-19240",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-14T08:38:00+00:00",
-      "timestamp": 1794645480,
-      "summary": "Johnson will be the Chiefs' top running back for Week 10 after Kenneth Walker (groin) was ruled out for Sunday's game against the Falcons, Adam Schefter of ESPN reports. Visit RotoWire.com for..."
-    },
-    {
-      "title": "Kenneth Walker: Won't play against Atlanta",
-      "url": "https://www.rotowire.com//football/player/kenneth-walker-15909",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-14T08:33:00+00:00",
-      "timestamp": 1794645180,
-      "summary": "Walker (groin) has been ruled out for Sunday's game against the Falcons, Jordan Schultz of Fox Sports reports. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Shai Gilgeous-Alexander: Powers team in narrow loss",
-      "url": "https://www.rotowire.com//basketball/player/shai-gilgeous-alexander-4387",
+      "title": "Joel Embiid: Won't play Sunday",
+      "url": "https://www.rotowire.com//basketball/player/joel-embiid-3572",
       "source": "RotoWire",
       "sport": "Fantasy NBA",
-      "published": "2026-11-14T03:41:00+00:00",
-      "timestamp": 1794627660,
-      "summary": "Gilgeous-Alexander finished Friday's 113-112 loss to the Clippers with 40 points (15-26 FG, 2-4 3Pt, 8-11 FT), four rebounds, five assists and one steal in 38 minutes. Visit RotoWire.com for more..."
+      "published": "2026-11-14T02:06:00+00:00",
+      "timestamp": 1794621960,
+      "summary": "Embiid (right foot injury management) has been ruled out for Sunday's game against the Pacers. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Fred VanVleet: Ruled out for Sunday",
+      "url": "https://www.rotowire.com//basketball/player/fred-vanvleet-3935",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-11-14T01:52:00+00:00",
+      "timestamp": 1794621120,
+      "summary": "VanVleet (right knee injury management) has been ruled out for Sunday's game against the Wizards. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Ladd McConkey: Questionable for Monday Night Football",
+      "url": "https://www.rotowire.com//football/player/ladd-mcconkey-17724",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-14T01:30:00+00:00",
+      "timestamp": 1794619800,
+      "summary": "McConkey (back) is listed as questionable for Monday night's game against the Ravens, Noah Furtado of The Athletic reports. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Alex Sarr: Questionable for Sunday",
+      "url": "https://www.rotowire.com//basketball/player/alex-sarr-6240",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-11-14T01:25:00+00:00",
+      "timestamp": 1794619500,
+      "summary": "Sarr (illness) is listed as questionable for Sunday's game against Houston. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "TreVeyon Henderson: Placed on IR",
+      "url": "https://www.rotowire.com//football/player/treveyon-henderson-18517",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-14T01:14:00+00:00",
+      "timestamp": 1794618840,
+      "summary": "Henderson (illness) was placed on injured reserve Saturday, Mike Reiss of ESPN.com reports. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Travis Etienne: Activated from injured reserve",
+      "url": "https://www.rotowire.com//football/player/travis-etienne-15385",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-14T01:11:00+00:00",
+      "timestamp": 1794618660,
+      "summary": "The Saints activated Etienne (hamstring) from injured reserve Saturday, but he remains questionable for Sunday's game against the Panthers, Nick Underhill of NewOrleans.Football reports. Visit..."
     },
     {
       "title": "Fantasy Football Week 10 Player Grades & Start/Sit Advice (2026)",
@@ -195,15 +195,6 @@
       "published": "2026-11-13T05:40:45+00:00",
       "timestamp": 1794548445,
       "summary": "Pity poor Carson Beck. The Cardinals' third-round rookie quarterback is making his first NFL start on Sunday. Already threadbare at wide receiver, Arizona lost its No. 1 wideout, Michael Wilson,..."
-    },
-    {
-      "title": "Evan Phillips: Gets $35 million deal from Atlanta",
-      "url": "https://www.rotowire.com//baseball/player/evan-phillips-15548",
-      "source": "RotoWire",
-      "sport": "Fantasy MLB",
-      "published": "2026-11-12T12:15:00+00:00",
-      "timestamp": 1794485700,
-      "summary": "Atlanta signed Phillips to a three-year, $35 million contract Thursday. Visit RotoWire.com for more analysis on this update."
     },
     {
       "title": "Pete Crow-Armstrong: Named NL MVP",
