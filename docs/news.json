@@ -1,7 +1,35 @@
 {
-  "updated_at": "2026-11-14T18:05:28.191324+00:00",
+  "updated_at": "2026-11-14T22:26:32.064655+00:00",
   "count": 30,
   "articles": [
+    {
+      "title": "Watch top prospects face off for Fall League championship (Live at 8 p.m. ET)",
+      "url": "https://www.mlb.com/news/2026-arizona-fall-league-championship-game",
+      "source": "MLB",
+      "published": "Sat, 14 Nov 2026 21:58:00 GMT",
+      "timestamp": 1794693480.0
+    },
+    {
+      "title": "Championship hangover? Josh Hart 'not in a good headspace' as he, other Knicks struggle amid uneven start",
+      "url": "https://www.cbssports.com/nba/news/knicks-struggles-josh-hart-championship-hangover/",
+      "source": "CBS NBA",
+      "published": "Sat, 14 Nov 2026 20:20:07 +0000",
+      "timestamp": 1794687607.0
+    },
+    {
+      "title": "Topps Made a Card for Lewis Hamilton’s 400th F1 Start. Only One Other Driver Has Done It",
+      "url": "https://insider.cards/story/topps-made-a-card-for-lewis-hamiltons-400th-f1-start-only-one-other-bcd08c/",
+      "source": "Hobby",
+      "published": "Sat, 14 Nov 2026 18:15:00 +0000",
+      "timestamp": 1794680100.0
+    },
+    {
+      "title": "Guards prized prospect caps first year as dad with Fall League MVP honors",
+      "url": "https://www.mlb.com/news/guardians-welbyn-francisca-2026-arizona-fall-league-mvp",
+      "source": "MLB",
+      "published": "Sat, 14 Nov 2026 18:01:49 GMT",
+      "timestamp": 1794679309.0
+    },
     {
       "title": "MLB rumors: Blue Jays targeting Ketel Marte, Giants rejecting trade calls for ace Logan Webb",
       "url": "https://www.cbssports.com/mlb/news/mlb-rumors-free-agency-giants-logan-webb-kaima-taira-braves-tigers-cardinals-blue-jays/",
@@ -43,13 +71,6 @@
       "source": "MLB",
       "published": "Sat, 14 Nov 2026 15:39:36 GMT",
       "timestamp": 1794670776.0
-    },
-    {
-      "title": "Watch top prospects face off for Fall League championship (Live at 8 p.m. ET)",
-      "url": "https://www.mlb.com/news/2026-arizona-fall-league-championship-game",
-      "source": "MLB",
-      "published": "Sat, 14 Nov 2026 06:14:07 GMT",
-      "timestamp": 1794636847.0
     },
     {
       "title": "2026 Topps Stadium Club Football Preview: Photography, Rookie Chases And What We Know So Far",
@@ -190,27 +211,6 @@
       "source": "Hobby",
       "published": "Fri, 13 Nov 2026 04:22:48 +0000",
       "timestamp": 1794543768.0
-    },
-    {
-      "title": "Cardinals name Carson Beck starting QB: Rookie faces Aaron Donald, Myles Garrett in NFL debut",
-      "url": "https://www.cbssports.com/nfl/news/cardinals-starting-qb-carson-beck-2026/",
-      "source": "CBS NFL",
-      "published": "Fri, 13 Nov 2026 02:09:28 +0000",
-      "timestamp": 1794535768.0
-    },
-    {
-      "title": "First-time MVP winners (both unanimous!) usher in new era of superstars",
-      "url": "https://www.mlb.com/news/2026-mlb-mvp-award-winners",
-      "source": "MLB",
-      "published": "Fri, 13 Nov 2026 01:15:00 GMT",
-      "timestamp": 1794532500.0
-    },
-    {
-      "title": "Cubs superstar Pete Crow-Armstrong wins National League MVP unanimously, beating Shohei Ohtani",
-      "url": "https://www.cbssports.com/mlb/news/mlb-2026-national-league-mvp-pete-crow-armstrong-cubs/",
-      "source": "CBS MLB",
-      "published": "Fri, 13 Nov 2026 01:08:42 +0000",
-      "timestamp": 1794532122.0
     }
   ]
 }
