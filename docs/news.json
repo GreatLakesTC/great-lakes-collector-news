@@ -1,7 +1,70 @@
 {
-  "updated_at": "2026-11-13T19:44:06.981955+00:00",
+  "updated_at": "2026-11-14T06:26:30.314717+00:00",
   "count": 30,
   "articles": [
+    {
+      "title": "Top prospects set to face off for Fall League championship",
+      "url": "https://www.mlb.com/news/2026-arizona-fall-league-championship-game",
+      "source": "MLB",
+      "published": "Sat, 14 Nov 2026 06:14:07 GMT",
+      "timestamp": 1794636847.0
+    },
+    {
+      "title": "Top first-time candidates to win MVP, Cy Young in 2027",
+      "url": "https://www.mlb.com/news/mlb-candidates-to-win-first-mvp-cy-young-2027",
+      "source": "MLB",
+      "published": "Sat, 14 Nov 2026 03:00:09 GMT",
+      "timestamp": 1794625209.0
+    },
+    {
+      "title": "How Gunnar could become an MVP candidate once again",
+      "url": "https://www.mlb.com/news/gunnar-henderson-outlook-for-orioles-in-2027",
+      "source": "MLB",
+      "published": "Sat, 14 Nov 2026 03:00:09 GMT",
+      "timestamp": 1794625209.0
+    },
+    {
+      "title": "NFL Week 10 injury report: Chiefs' Kenneth Walker has new groin injury, Patriots' A.J. Brown questionable",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-10-injury-report-chiefs-kenneth-walker-aj-brown/",
+      "source": "CBS NFL",
+      "published": "Sat, 14 Nov 2026 01:35:38 +0000",
+      "timestamp": 1794620138.0
+    },
+    {
+      "title": "Vikings officially announce Kirk Cousins will start vs. Packers following trade deadline",
+      "url": "https://www.cbssports.com/nfl/news/vikings-officially-announce-kirk-cousins-start-vs-packers-lambeau-field-sunday/",
+      "source": "CBS NFL",
+      "published": "Sat, 14 Nov 2026 01:33:03 +0000",
+      "timestamp": 1794619983.0
+    },
+    {
+      "title": "Dejounte Murray landing spots: Three possible destinations after Pelicans guard requests trade",
+      "url": "https://www.cbssports.com/nba/news/dejounte-murray-landing-spots-pelicans-guard-requests-trade/",
+      "source": "CBS NBA",
+      "published": "Fri, 13 Nov 2026 22:39:42 +0000",
+      "timestamp": 1794609582.0
+    },
+    {
+      "title": "Pelicans' Dejounte Murray requests trade after venting about franchise in deleted social media posts",
+      "url": "https://www.cbssports.com/nba/news/pelicans-dejounte-murraysocial-media-now-deleted-posts-trade/",
+      "source": "CBS NBA",
+      "published": "Fri, 13 Nov 2026 22:38:10 +0000",
+      "timestamp": 1794609490.0
+    },
+    {
+      "title": "Cowboys' Joey Porter Jr. breaks silence on chatter that absence is contract related",
+      "url": "https://www.cbssports.com/nfl/news/cowboys-joey-porter-jr-breaks-silence-on-chatter-that-absence-is-contract-related/",
+      "source": "CBS NFL",
+      "published": "Fri, 13 Nov 2026 19:26:03 +0000",
+      "timestamp": 1794597963.0
+    },
+    {
+      "title": "Panini Weekly Redemption Card Updates: November 2-13, 2026",
+      "url": "https://insider.cards/story/panini-weekly-redemption-card-updates-november-2-13-2026-f5dad5/",
+      "source": "Hobby",
+      "published": "Fri, 13 Nov 2026 19:07:02 +0000",
+      "timestamp": 1794596822.0
+    },
     {
       "title": "Postseason breakout star Bauers agrees to 4-year deal with Red Sox (source)",
       "url": "https://www.mlb.com/news/jake-bauers-4-year-contract-with-red-sox",
@@ -24,13 +87,6 @@
       "timestamp": 1794593821.0
     },
     {
-      "title": "Pelicans' Dejounte Murray vents on social media and his now-deleted posts could accelerate a trade",
-      "url": "https://www.cbssports.com/nba/news/pelicans-dejounte-murraysocial-media-now-deleted-posts-trade/",
-      "source": "CBS NBA",
-      "published": "Fri, 13 Nov 2026 18:08:48 +0000",
-      "timestamp": 1794593328.0
-    },
-    {
       "title": "2026-27 MLB free agent tracker: Tarik Skubal, Jazz Chisholm Jr., Randy Arozarena and more available players",
       "url": "https://www.cbssports.com/mlb/news/mlb-free-agent-tracker-2026-27/",
       "source": "CBS MLB",
@@ -43,13 +99,6 @@
       "source": "CBS NFL",
       "published": "Fri, 13 Nov 2026 17:30:52 +0000",
       "timestamp": 1794591052.0
-    },
-    {
-      "title": "Takeaways from GM Meetings: Skubal pursuit, rotation needs and more",
-      "url": "https://www.mlb.com/news/padres-takeaways-from-general-managers-meetings",
-      "source": "MLB",
-      "published": "Fri, 13 Nov 2026 17:26:43 GMT",
-      "timestamp": 1794590803.0
     },
     {
       "title": "NBA Rookie of the Year race: Three players at top, but don't count out AJ Dybantsa, Darryn Peterson just yet",
@@ -108,13 +157,6 @@
       "timestamp": 1794552000.0
     },
     {
-      "title": "The Best Rookie And 1st Bowman Cards Of 2026 AL MVP Yordan Alvarez",
-      "url": "https://insider.cards/story/the-best-rookie-and-1st-bowman-cards-of-2026-al-mvp-yordan-alvarez-9c27d2/",
-      "source": "Hobby",
-      "published": "Fri, 13 Nov 2026 05:49:00 +0000",
-      "timestamp": 1794548940.0
-    },
-    {
       "title": "Unanimous MVP winners add to historic Awards Week",
       "url": "https://www.mlb.com/news/facts-stats-from-yordan-alvarez-pete-crow-armstrong-mvp-wins",
       "source": "MLB",
@@ -164,53 +206,11 @@
       "timestamp": 1794531934.0
     },
     {
-      "title": "Most Valuable MVP: Ranking every winner",
-      "url": "https://www.mlb.com/news/greatest-mvp-seasons-in-mlb-history-c300194658",
-      "source": "MLB",
-      "published": "Fri, 13 Nov 2026 01:05:00 GMT",
-      "timestamp": 1794531900.0
-    },
-    {
-      "title": "Here are the MVP Award vote totals",
-      "url": "https://www.mlb.com/news/2026-mlb-mvp-award-voting-results",
-      "source": "MLB",
-      "published": "Fri, 13 Nov 2026 00:58:00 GMT",
-      "timestamp": 1794531480.0
-    },
-    {
       "title": "Astros slugger Yordan Alvarez named unanimous American League MVP after nearly winning 2026 Triple Crown",
       "url": "https://www.cbssports.com/mlb/news/mlb-2026-american-league-mvp-yordan-alvarez-astros/",
       "source": "CBS MLB",
       "published": "Fri, 13 Nov 2026 00:55:09 +0000",
       "timestamp": 1794531309.0
-    },
-    {
-      "title": "Chargers' Jim Harbaugh implores NFL to investigate 'loophole' that nixed Daiyan Henley trade",
-      "url": "https://www.cbssports.com/nfl/news/chargers-jim-harbaugh-implores-nfl-investigate-loophole-daiyan-henley-trade/",
-      "source": "CBS NFL",
-      "published": "Thu, 12 Nov 2026 21:34:59 +0000",
-      "timestamp": 1794519299.0
-    },
-    {
-      "title": "Stephen Curry injury: Warriors star to miss at least two weeks with oblique tear amid Golden State's hot start",
-      "url": "https://www.cbssports.com/nba/news/stephen-curry-injury-warriors-abdominal/",
-      "source": "CBS NBA",
-      "published": "Thu, 12 Nov 2026 17:26:09 +0000",
-      "timestamp": 1794504369.0
-    },
-    {
-      "title": "NFL nightmare: How a six-win NFC East team could end up making the playoffs if Commanders beat the Giants",
-      "url": "https://www.cbssports.com/nfl/news/how-a-six-win-nfc-east-team-could-end-up-making-the-playoffs-commanders-giants/",
-      "source": "CBS NFL",
-      "published": "Thu, 12 Nov 2026 17:20:02 +0000",
-      "timestamp": 1794504002.0
-    },
-    {
-      "title": "Pick Six: What to know about the NFL after the trade deadline, ahead of Week 10",
-      "url": "https://www.cbssports.com/nfl/news/pick-six-what-to-know-about-nfl-trade-deadline-week-10/",
-      "source": "CBS NFL",
-      "published": "Thu, 12 Nov 2026 17:11:18 +0000",
-      "timestamp": 1794503478.0
     }
   ]
 }
