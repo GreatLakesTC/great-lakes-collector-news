@@ -1,12 +1,120 @@
 {
-  "updated_at": "2026-11-15T06:24:13.891228+00:00",
-  "count": 21,
+  "updated_at": "2026-11-15T18:48:54.219521+00:00",
+  "count": 19,
   "counts": {
-    "Fantasy NFL": 15,
+    "Fantasy NFL": 14,
     "Fantasy NBA": 5,
-    "Fantasy MLB": 1
+    "Fantasy MLB": 0
   },
   "articles": [
+    {
+      "title": "Fantasy Football Week 10 Player Grades & Start/Sit Advice (2026)",
+      "url": "https://www.fantasypros.com/2026/11/fantasy-football-week-10-player-grades-start-sit-advice-2026/",
+      "source": "FantasyPros",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-15T13:06:32+00:00",
+      "timestamp": 1794747992,
+      "summary": "The top fantasy football starts for Week 10 include Josh Allen at QB; Jahmyr Gibbs, Christian McCaffrey, and James Cook III at RB; Jaxon Smith-Njigba and Ja'Marr Chase at WR; George Kittle at..."
+    },
+    {
+      "title": "Fantasy Football: Last-Minute Advice for Week 10 (2026)",
+      "url": "https://www.fantasypros.com/2026/11/fantasy-football-last-minute-advice-for-week-10-2026/",
+      "source": "FantasyPros",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-15T11:42:48+00:00",
+      "timestamp": 1794742968,
+      "summary": "We're here for three straight hours leading up to kickoff with live coverage to get you ready for NFL Sunday and help you dominate your fantasy football league. We'll be here for all your..."
+    },
+    {
+      "title": "Fantasy Football Week 10 Rankings From the Most Accurate Experts (2026)",
+      "url": "https://www.fantasypros.com/2026/11/fantasy-football-week-10-rankings-from-the-most-accurate-experts-2026/",
+      "source": "FantasyPros",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-15T11:42:45+00:00",
+      "timestamp": 1794742965,
+      "summary": "Do you have difficult fantasy football start/sit lineup decisions to be made? A great way to get ready for the week is to use our FREE Who Should I Start tool! Beyond that, you can check out our..."
+    },
+    {
+      "title": "Rhamondre Stevenson: Struggles in Week 10 loss",
+      "url": "https://www.rotowire.com//football/player/rhamondre-stevenson-15372",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-15T10:38:00+00:00",
+      "timestamp": 1794739080,
+      "summary": "Stevenson carried the ball six times for four yards and caught his only target for one yard in Sunday's 35-10 loss to the Lions in Munich. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Tommy DeVito: Forced into action in Munich",
+      "url": "https://www.rotowire.com//football/player/tommy-devito-16797",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-15T10:32:00+00:00",
+      "timestamp": 1794738720,
+      "summary": "DeVito completed 12 of 24 passes for 81 yards and one touchdown with one interception in Sunday's 35-10 loss to the Lions in Munich. He added 19 yards on four carries. Visit RotoWire.com for more..."
+    },
+    {
+      "title": "Travis Kelce: Questionable to return Sunday",
+      "url": "https://www.rotowire.com//football/player/travis-kelce-8783",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-15T10:28:00+00:00",
+      "timestamp": 1794738480,
+      "summary": "Kelce (ankle) is questionable to return to Sunday's game against the Falcons, Sam McDowell of The Kansas City Star reports. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "De'Aaron Fox: Now listed as questionable",
+      "url": "https://www.rotowire.com//basketball/player/deaaron-fox-4116",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-11-15T10:28:00+00:00",
+      "timestamp": 1794738480,
+      "summary": "Fox (hip) is listed as questionable for Sunday's game against Utah. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Max Christie: Doubtful to play Sunday",
+      "url": "https://www.rotowire.com//basketball/player/max-christie-5723",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-11-15T10:18:00+00:00",
+      "timestamp": 1794737880,
+      "summary": "Christie (ankle) is doubtful to play Sunday's game against the Celtics. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Kyrie Irving: Questionable for Sunday",
+      "url": "https://www.rotowire.com//basketball/player/kyrie-irving-3186",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-11-15T10:14:00+00:00",
+      "timestamp": 1794737640,
+      "summary": "Irving (knee) is questionable to play in Sunday's game against the Celtics. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Daniel Gafford: Probable for Sunday",
+      "url": "https://www.rotowire.com//basketball/player/daniel-gafford-4824",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-11-15T10:09:00+00:00",
+      "timestamp": 1794737340,
+      "summary": "Gafford (shoulder) is probable to play in Sunday's game against the Celtics. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Mike Evans: May return in Week 11",
+      "url": "https://www.rotowire.com//football/player/mike-evans-9253",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-15T10:02:00+00:00",
+      "timestamp": 1794736920,
+      "summary": "Evans (Achilles) has a chance to return to action next Sunday against the Vikings, Mike Garafolo of NFL Network reports. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Dean Wade: Reverting back to bench Sunday",
+      "url": "https://www.rotowire.com//basketball/player/dean-wade-4893",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-11-15T09:39:00+00:00",
+      "timestamp": 1794735540,
+      "summary": "Wade is not listed in the starting lineup for Sunday's game against the Pacers. Visit RotoWire.com for more analysis on this update."
+    },
     {
       "title": "5 Fantasy Football Waiver Wire Stashes: Week 10 (2026)",
       "url": "https://www.fantasypros.com/2026/11/5-fantasy-football-waiver-wire-stashes-week-10-2026/",
@@ -26,15 +134,6 @@
       "summary": "Fantasy football can be an extremely fun game to play. It can also be highly frustrating at times. Nothing is more annoying than needing to make a last-minute waiver-wire move because someone in..."
     },
     {
-      "title": "Kyler Murray: Targeting Week 12 return",
-      "url": "https://www.rotowire.com//football/player/kyler-murray-13613",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-14T11:54:00+00:00",
-      "timestamp": 1794657240,
-      "summary": "The Vikings are targeting Week 12 against the Falcons on Sunday, Nov. 29, for a return for Murray (hamstring), Tom Pelissero of Netflix reports. Visit RotoWire.com for more analysis on this update."
-    },
-    {
       "title": "The Primer: Week 10 Edition (2026 Fantasy Football)",
       "url": "https://www.fantasypros.com/2026/11/the-primer-week-10-edition-2026-fantasy-football/",
       "source": "FantasyPros",
@@ -42,96 +141,6 @@
       "published": "2026-11-14T11:37:46+00:00",
       "timestamp": 1794656266,
       "summary": "The Primer is presented by Leaguebase. Leaguebase is the private clubhouse for the one league that actually matters: the one with a decade of rivalries and inside jokes behind it. Connect your..."
-    },
-    {
-      "title": "Woody Marks: Will once again serve as RB1",
-      "url": "https://www.rotowire.com//football/player/woody-marks-18449",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-14T10:27:00+00:00",
-      "timestamp": 1794652020,
-      "summary": "Marks will be the Texans' lead back against the Browns on Sunday after David Montgomery (groin) was ruled out for that contest. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Bam Adebayo: Loaded stat line Saturday",
-      "url": "https://www.rotowire.com//basketball/player/bam-adebayo-4153",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-11-14T08:55:00+00:00",
-      "timestamp": 1794646500,
-      "summary": "Adebayo recorded 20 points (5-8 FG, 1-2 3Pt, 9-13 FT), five rebounds, four assists, three steals and two blocks across 36 minutes in Saturday's 137-117 win over the Pistons. Visit RotoWire.com for..."
-    },
-    {
-      "title": "Klay Thompson: Drains six triples Saturday",
-      "url": "https://www.rotowire.com//basketball/player/klay-thompson-3197",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-11-14T08:52:00+00:00",
-      "timestamp": 1794646320,
-      "summary": "Thompson registered 26 points (10-17 FG, 6-11 3Pt), a rebound, four assists and a block across 20 minutes in Saturday's 137-117 win over the Pistons. Visit RotoWire.com for more analysis on this..."
-    },
-    {
-      "title": "Giannis Antetokounmpo: Records 34-point double-double",
-      "url": "https://www.rotowire.com//basketball/player/giannis-antetokounmpo-3456",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-11-14T08:49:00+00:00",
-      "timestamp": 1794646140,
-      "summary": "Antetokounmpo delivered 34 points (13-17 FG, 1-2 3Pt, 7-9 FT), 14 rebounds, eight assists, a steal and three blocks across 31 minutes in Saturday's 137-117 win over the Pistons. Visit RotoWire.com..."
-    },
-    {
-      "title": "Ausar Thompson: Strong multi-category showing",
-      "url": "https://www.rotowire.com//basketball/player/ausar-thompson-5932",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-11-14T08:48:00+00:00",
-      "timestamp": 1794646080,
-      "summary": "Thompson tallied 10 points (5-8 FG), eight rebounds, five assists, two steals and two blocks over 18 minutes in Saturday's 137-117 defeat to the Heat. Visit RotoWire.com for more analysis on this..."
-    },
-    {
-      "title": "Cade Cunningham: Scores 33 points Saturday",
-      "url": "https://www.rotowire.com//basketball/player/cade-cunningham-5336",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-11-14T08:41:00+00:00",
-      "timestamp": 1794645660,
-      "summary": "Cunningham finished with 33 points (8-20 FG, 3-8 3Pt, 14-14 FT), five rebounds, eight assists, a steal and a block across 36 minutes in Saturday's 137-117 loss to the Heat. Visit RotoWire.com for..."
-    },
-    {
-      "title": "Ladd McConkey: Questionable for Monday Night Football",
-      "url": "https://www.rotowire.com//football/player/ladd-mcconkey-17724",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-14T01:30:00+00:00",
-      "timestamp": 1794619800,
-      "summary": "McConkey (back) is listed as questionable for Monday night's game against the Ravens, Noah Furtado of The Athletic reports. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "TreVeyon Henderson: Placed on IR",
-      "url": "https://www.rotowire.com//football/player/treveyon-henderson-18517",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-14T01:14:00+00:00",
-      "timestamp": 1794618840,
-      "summary": "Henderson (illness) was placed on injured reserve Saturday, Mike Reiss of ESPN.com reports. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Travis Etienne: Activated from injured reserve",
-      "url": "https://www.rotowire.com//football/player/travis-etienne-15385",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-14T01:11:00+00:00",
-      "timestamp": 1794618660,
-      "summary": "The Saints activated Etienne (hamstring) from injured reserve Saturday, but he remains questionable for Sunday's game against the Panthers, Nick Underhill of NewOrleans.Football reports. Visit..."
-    },
-    {
-      "title": "Fantasy Football Week 10 Player Grades & Start/Sit Advice (2026)",
-      "url": "https://www.fantasypros.com/2026/11/fantasy-football-week-10-player-grades-start-sit-advice-2026/",
-      "source": "FantasyPros",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-13T15:58:32+00:00",
-      "timestamp": 1794585512,
-      "summary": "The top fantasy football starts for Week 10 are Josh Allen at QB, Jahmyr Gibbs, Kenneth Walker III, and Christian McCaffrey at RB, Jaxon Smith-Njigba and Ja'Marr Chase at WR, George Kittle at TE,..."
     },
     {
       "title": "Fantasy Football Rankings, Tiers & Start/Sit Advice (Week 10)",
@@ -168,33 +177,6 @@
       "published": "2026-11-13T12:17:50+00:00",
       "timestamp": 1794572270,
       "summary": "Every week, fantasy football matchups are won and lost based on who's available. Below are some of the bigger names on this week's injury report, along with what to expect. Waiver Wire Advice..."
-    },
-    {
-      "title": "Jake Bauers: Inks four-year deal with Boston",
-      "url": "https://www.rotowire.com//baseball/player/jake-bauers-13094",
-      "source": "RotoWire",
-      "sport": "Fantasy MLB",
-      "published": "2026-11-13T10:02:00+00:00",
-      "timestamp": 1794564120,
-      "summary": "The Red Sox signed Bauers to a four-year, $58 million contract Friday, Jeff Passan of ESPN.com reports. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Fantasy Football Week 10 Rankings (2026)",
-      "url": "https://www.fantasypros.com/2026/11/fantasy-football-week-10-rankings-2026/",
-      "source": "FantasyPros",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-13T08:01:29+00:00",
-      "timestamp": 1794556889,
-      "summary": "Make your toughest start/sit decisions with help from our Week 10 fantasy football rankings for 2026. Whether you're filling a bye-week opening, replacing an injured player or comparing flex..."
-    },
-    {
-      "title": "The 10 Most Intriguing Fantasy Football Players of Week 10",
-      "url": "https://www.fantasypros.com/2026/11/the-10-most-intriguing-fantasy-players-of-week-10/",
-      "source": "FantasyPros",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-13T05:40:45+00:00",
-      "timestamp": 1794548445,
-      "summary": "Pity poor Carson Beck. The Cardinals' third-round rookie quarterback is making his first NFL start on Sunday. Already threadbare at wide receiver, Arizona lost its No. 1 wideout, Michael Wilson,..."
     }
   ]
 }
