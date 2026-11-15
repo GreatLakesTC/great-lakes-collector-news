@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-14T22:20:52.665780+00:00",
-  "count": 23,
+  "updated_at": "2026-11-15T06:24:13.891228+00:00",
+  "count": 21,
   "counts": {
     "Fantasy NFL": 15,
     "Fantasy NBA": 5,
-    "Fantasy MLB": 3
+    "Fantasy MLB": 1
   },
   "articles": [
     {
@@ -53,40 +53,49 @@
       "summary": "Marks will be the Texans' lead back against the Browns on Sunday after David Montgomery (groin) was ruled out for that contest. Visit RotoWire.com for more analysis on this update."
     },
     {
-      "title": "Paul George: Fades injury report",
-      "url": "https://www.rotowire.com//basketball/player/paul-george-3114",
+      "title": "Bam Adebayo: Loaded stat line Saturday",
+      "url": "https://www.rotowire.com//basketball/player/bam-adebayo-4153",
       "source": "RotoWire",
       "sport": "Fantasy NBA",
-      "published": "2026-11-14T02:11:00+00:00",
-      "timestamp": 1794622260,
-      "summary": "George (illness) isn't listed on the injury report for Sunday's game against Dallas, Jack Simone of BostonSportsJournal.com reports. Visit RotoWire.com for more analysis on this update."
+      "published": "2026-11-14T08:55:00+00:00",
+      "timestamp": 1794646500,
+      "summary": "Adebayo recorded 20 points (5-8 FG, 1-2 3Pt, 9-13 FT), five rebounds, four assists, three steals and two blocks across 36 minutes in Saturday's 137-117 win over the Pistons. Visit RotoWire.com for..."
     },
     {
-      "title": "LeBron James: Off injury report",
-      "url": "https://www.rotowire.com//basketball/player/lebron-james-2344",
+      "title": "Klay Thompson: Drains six triples Saturday",
+      "url": "https://www.rotowire.com//basketball/player/klay-thompson-3197",
       "source": "RotoWire",
       "sport": "Fantasy NBA",
-      "published": "2026-11-14T02:09:00+00:00",
-      "timestamp": 1794622140,
-      "summary": "James (back) isn't listed on the injury report for Sunday's game against the Pacers. Visit RotoWire.com for more analysis on this update."
+      "published": "2026-11-14T08:52:00+00:00",
+      "timestamp": 1794646320,
+      "summary": "Thompson registered 26 points (10-17 FG, 6-11 3Pt), a rebound, four assists and a block across 20 minutes in Saturday's 137-117 win over the Pistons. Visit RotoWire.com for more analysis on this..."
     },
     {
-      "title": "Joel Embiid: Won't play Sunday",
-      "url": "https://www.rotowire.com//basketball/player/joel-embiid-3572",
+      "title": "Giannis Antetokounmpo: Records 34-point double-double",
+      "url": "https://www.rotowire.com//basketball/player/giannis-antetokounmpo-3456",
       "source": "RotoWire",
       "sport": "Fantasy NBA",
-      "published": "2026-11-14T02:06:00+00:00",
-      "timestamp": 1794621960,
-      "summary": "Embiid (right foot injury management) has been ruled out for Sunday's game against the Pacers. Visit RotoWire.com for more analysis on this update."
+      "published": "2026-11-14T08:49:00+00:00",
+      "timestamp": 1794646140,
+      "summary": "Antetokounmpo delivered 34 points (13-17 FG, 1-2 3Pt, 7-9 FT), 14 rebounds, eight assists, a steal and three blocks across 31 minutes in Saturday's 137-117 win over the Pistons. Visit RotoWire.com..."
     },
     {
-      "title": "Fred VanVleet: Ruled out for Sunday",
-      "url": "https://www.rotowire.com//basketball/player/fred-vanvleet-3935",
+      "title": "Ausar Thompson: Strong multi-category showing",
+      "url": "https://www.rotowire.com//basketball/player/ausar-thompson-5932",
       "source": "RotoWire",
       "sport": "Fantasy NBA",
-      "published": "2026-11-14T01:52:00+00:00",
-      "timestamp": 1794621120,
-      "summary": "VanVleet (right knee injury management) has been ruled out for Sunday's game against the Wizards. Visit RotoWire.com for more analysis on this update."
+      "published": "2026-11-14T08:48:00+00:00",
+      "timestamp": 1794646080,
+      "summary": "Thompson tallied 10 points (5-8 FG), eight rebounds, five assists, two steals and two blocks over 18 minutes in Saturday's 137-117 defeat to the Heat. Visit RotoWire.com for more analysis on this..."
+    },
+    {
+      "title": "Cade Cunningham: Scores 33 points Saturday",
+      "url": "https://www.rotowire.com//basketball/player/cade-cunningham-5336",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-11-14T08:41:00+00:00",
+      "timestamp": 1794645660,
+      "summary": "Cunningham finished with 33 points (8-20 FG, 3-8 3Pt, 14-14 FT), five rebounds, eight assists, a steal and a block across 36 minutes in Saturday's 137-117 loss to the Heat. Visit RotoWire.com for..."
     },
     {
       "title": "Ladd McConkey: Questionable for Monday Night Football",
@@ -96,15 +105,6 @@
       "published": "2026-11-14T01:30:00+00:00",
       "timestamp": 1794619800,
       "summary": "McConkey (back) is listed as questionable for Monday night's game against the Ravens, Noah Furtado of The Athletic reports. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Alex Sarr: Questionable for Sunday",
-      "url": "https://www.rotowire.com//basketball/player/alex-sarr-6240",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-11-14T01:25:00+00:00",
-      "timestamp": 1794619500,
-      "summary": "Sarr (illness) is listed as questionable for Sunday's game against Houston. Visit RotoWire.com for more analysis on this update."
     },
     {
       "title": "TreVeyon Henderson: Placed on IR",
@@ -195,24 +195,6 @@
       "published": "2026-11-13T05:40:45+00:00",
       "timestamp": 1794548445,
       "summary": "Pity poor Carson Beck. The Cardinals' third-round rookie quarterback is making his first NFL start on Sunday. Already threadbare at wide receiver, Arizona lost its No. 1 wideout, Michael Wilson,..."
-    },
-    {
-      "title": "Pete Crow-Armstrong: Named NL MVP",
-      "url": "https://www.rotowire.com//baseball/player/pete-crow-armstrong-16684",
-      "source": "RotoWire",
-      "sport": "Fantasy MLB",
-      "published": "2026-11-12T05:01:00+00:00",
-      "timestamp": 1794459660,
-      "summary": "Crow-Armstrong was unanimously named the 2026 National League Most Valuable Player on Thursday. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Yordan Alvarez: Named AL MVP",
-      "url": "https://www.rotowire.com//baseball/player/yordan-alvarez-14407",
-      "source": "RotoWire",
-      "sport": "Fantasy MLB",
-      "published": "2026-11-12T04:45:00+00:00",
-      "timestamp": 1794458700,
-      "summary": "Alvarez was unanimously named the 2026 American League Most Valuable Player on Thursday. Visit RotoWire.com for more analysis on this update."
     }
   ]
 }
