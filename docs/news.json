@@ -1,13 +1,139 @@
 {
-  "updated_at": "2026-11-16T06:32:35.622892+00:00",
+  "updated_at": "2026-11-16T22:05:31.570981+00:00",
   "count": 30,
   "articles": [
+    {
+      "title": "Ravens vs. Chargers prediction: Can L.A. get its first win on 'MNF' against the injury-plagued Ravens?",
+      "url": "https://www.cbssports.com/nfl/news/ravens-vs-chargers-how-to-watch-spread-odds-preview-prediction/",
+      "source": "CBS NFL",
+      "published": "Mon, 16 Nov 2026 20:33:27 +0000",
+      "timestamp": 1794861207.0
+    },
+    {
+      "title": "Young, Nationals finalize 4-year extension",
+      "url": "https://www.mlb.com/news/jacob-young-contract-extension-nationals",
+      "source": "MLB",
+      "published": "Mon, 16 Nov 2026 19:45:00 GMT",
+      "timestamp": 1794858300.0
+    },
+    {
+      "title": "MLB rumors: Orioles narrow down search in hunt for starting pitchers; reliever market heating up",
+      "url": "https://www.cbssports.com/mlb/news/mlb-rumors-orioles-starting-pitchers-aj-minter-ryan-walker/",
+      "source": "CBS MLB",
+      "published": "Mon, 16 Nov 2026 19:18:29 +0000",
+      "timestamp": 1794856709.0
+    },
+    {
+      "title": "Sean Payton disputes Jim Harbaugh's 'loophole' claim after Broncos-Chargers trade falls apart",
+      "url": "https://www.cbssports.com/nfl/news/broncos-chargers-trade-sean-payton-jim-harbaugh-loophole/",
+      "source": "CBS NFL",
+      "published": "Mon, 16 Nov 2026 19:05:42 +0000",
+      "timestamp": 1794855942.0
+    },
+    {
+      "title": "Joe Burrow isn't just chasing MVP, he's chasing the greatest passing season ever",
+      "url": "https://www.cbssports.com/nfl/news/joe-burrow-stats-mvp-bengals-qb-2026/",
+      "source": "CBS NFL",
+      "published": "Mon, 16 Nov 2026 18:59:20 +0000",
+      "timestamp": 1794855560.0
+    },
+    {
+      "title": "Drake Maye injury the latest for Patriots amid snakebitten 2026 Super Bowl hangover",
+      "url": "https://www.cbssports.com/nfl/news/drake-maye-injury-latest-patriots-snakebitten-2026-super-bowl-hangover/",
+      "source": "CBS NFL",
+      "published": "Mon, 16 Nov 2026 17:55:34 +0000",
+      "timestamp": 1794851734.0
+    },
+    {
+      "title": "2027 Baseball Hall of Fame ballot released: 8 things to know, including newcomers, trends and a prediction",
+      "url": "https://www.cbssports.com/mlb/news/2027-baseball-hall-of-fame-ballot-released-buster-posey-jon-lester-alex-rodriguez-prediction/",
+      "source": "CBS MLB",
+      "published": "Mon, 16 Nov 2026 17:22:18 +0000",
+      "timestamp": 1794849738.0
+    },
+    {
+      "title": "Raiders' Brock Bowers suffers ankle injury, misses majority of Fernando Mendoza's first career start",
+      "url": "https://www.cbssports.com/nfl/news/brock-bowers-injury-raiders-fernando-mendoza-debut/",
+      "source": "CBS NFL",
+      "published": "Mon, 16 Nov 2026 16:58:20 +0000",
+      "timestamp": 1794848300.0
+    },
     {
       "title": "Here is 1 trade candidate for all 30 teams",
       "url": "https://www.mlb.com/news/trade-candidates-for-every-team-2026-27-offseason",
       "source": "MLB",
-      "published": "Mon, 16 Nov 2026 02:14:25 GMT",
-      "timestamp": 1794795265.0
+      "published": "Mon, 16 Nov 2026 16:15:00 GMT",
+      "timestamp": 1794845700.0
+    },
+    {
+      "title": "10 most interesting MLB non-tender decisions, including a Red Sox staple and a former Rookie of the Year",
+      "url": "https://www.cbssports.com/mlb/news/mlb-non-tender-deadline-candidates-jarren-duran-ronel-blanco-luis-gil-ernie-clement/",
+      "source": "CBS MLB",
+      "published": "Mon, 16 Nov 2026 15:39:00 +0000",
+      "timestamp": 1794843540.0
+    },
+    {
+      "title": "Joe Burrow strengthens MVP case with four more TDs; college football rankings projections",
+      "url": "https://www.cbssports.com/nfl/news/joe-burrow-strengthens-mvp-case-with-four-more-tds-college-football-rankings-projections/",
+      "source": "CBS NFL",
+      "published": "Mon, 16 Nov 2026 14:08:38 +0000",
+      "timestamp": 1794838118.0
+    },
+    {
+      "title": "Best Sports Card Rip Apps 2026 | Legal Card Ripping App Reviews",
+      "url": "https://insider.cards/story/best-sports-card-rip-apps-2026-legal-card-ripping-app-reviews-ed568a/",
+      "source": "Hobby",
+      "published": "Mon, 16 Nov 2026 14:08:00 +0000",
+      "timestamp": 1794838080.0
+    },
+    {
+      "title": "NBA's biggest winners and losers of the week: Celtics win Jaylen Brown trade (for now), Trae Young looks done",
+      "url": "https://www.cbssports.com/nba/news/nba-biggest-winners-and-losers-week-celtics-jaylen-brown-76ers-spurs-trae-young-stephen-curry-nov-16/",
+      "source": "CBS NBA",
+      "published": "Mon, 16 Nov 2026 14:00:51 +0000",
+      "timestamp": 1794837651.0
+    },
+    {
+      "title": "Drake Maye injury update: Patriots reportedly fear QB fractured ankle, could miss rest of season",
+      "url": "https://www.cbssports.com/nfl/news/drake-maye-injury-update-patriots-qb-ankle-out-for-season/",
+      "source": "CBS NFL",
+      "published": "Mon, 16 Nov 2026 13:37:58 +0000",
+      "timestamp": 1794836278.0
+    },
+    {
+      "title": "NFL Week 11 early odds: Bills, Chiefs favored by 16.5 points; Bengals line jumps after blowout",
+      "url": "https://www.cbssports.com/nfl/news/2026-nfl-week-11-early-odds-bills-chiefs-bengals/",
+      "source": "CBS NFL",
+      "published": "Mon, 16 Nov 2026 12:49:02 +0000",
+      "timestamp": 1794833342.0
+    },
+    {
+      "title": "Steelers' receiver problem proves they made a massive NFL trade deadline mistake",
+      "url": "https://www.cbssports.com/nfl/news/steelers-bengals-blowout-nfl-trade-deadline-aaron-rodgers/",
+      "source": "CBS NFL",
+      "published": "Mon, 16 Nov 2026 12:18:36 +0000",
+      "timestamp": 1794831516.0
+    },
+    {
+      "title": "Aidan Hutchinson injury: Lions star joins bizarre list of NFL players hurt while celebrating",
+      "url": "https://www.cbssports.com/nfl/news/aidan-hutchinson-injury-lions-nfl-celebrations/",
+      "source": "CBS NFL",
+      "published": "Mon, 16 Nov 2026 12:03:49 +0000",
+      "timestamp": 1794830629.0
+    },
+    {
+      "title": "Bengals' blowout win over Steelers makes NFL history with 1,100th 'scorigami'",
+      "url": "https://www.cbssports.com/nfl/news/bengals-steelers-sunday-night-football-2026-scorigami/",
+      "source": "CBS NFL",
+      "published": "Mon, 16 Nov 2026 12:01:40 +0000",
+      "timestamp": 1794830500.0
+    },
+    {
+      "title": "Topps and Bob Ross Team Up for New Basketball Card Release",
+      "url": "https://insider.cards/story/topps-and-bob-ross-team-up-for-new-basketball-card-release-e07920/",
+      "source": "Hobby",
+      "published": "Mon, 16 Nov 2026 02:03:00 +0000",
+      "timestamp": 1794794580.0
     },
     {
       "title": "Brewers add reliever Ryan Walker in trade with Giants",
@@ -17,13 +143,6 @@
       "timestamp": 1794793320.0
     },
     {
-      "title": "NFL Week 10 overreactions: Patriots to miss playoffs? Texans' DeMeco Ryans on the hot seat?",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-10-overreactions-patriots-lions-demeco-ryans-texans/",
-      "source": "CBS NFL",
-      "published": "Mon, 16 Nov 2026 01:14:59 +0000",
-      "timestamp": 1794791699.0
-    },
-    {
       "title": "NFL Week 10 winners and losers: Texans crumble against Browns, Kirk Cousins trade pays dividends for Vikings",
       "url": "https://www.cbssports.com/nfl/news/nfl-week-10-winners-and-losers-texans-crumble-against-browns-kirk-cousins-trade-pays-dividends-for-vikings/",
       "source": "CBS NFL",
@@ -31,60 +150,11 @@
       "timestamp": 1794791009.0
     },
     {
-      "title": "Raiders' Brock Bowers suffers ankle injury, misses majority of Fernando Mendoza's first career start",
-      "url": "https://www.cbssports.com/nfl/news/brock-bowers-injury-raiders-fernando-mendoza-debut/",
-      "source": "CBS NFL",
-      "published": "Mon, 16 Nov 2026 00:36:03 +0000",
-      "timestamp": 1794789363.0
-    },
-    {
-      "title": "Chiefs trade deadline move for Josh Downs unlocks MVP Patrick Mahomes of old",
-      "url": "https://www.cbssports.com/nfl/news/chiefs-trade-deadline-move-josh-downs-unlocks-mvp-patrick-mahomes/",
-      "source": "CBS NFL",
-      "published": "Sun, 15 Nov 2026 23:10:59 +0000",
-      "timestamp": 1794784259.0
-    },
-    {
-      "title": "LOOK: Fernando Mendoza scores first NFL TD on opening drive vs. Seahawks",
-      "url": "https://www.cbssports.com/nfl/news/why-raiders-fans-planning-stay-seated-fernando-mendoza-first-td/",
-      "source": "CBS NFL",
-      "published": "Sun, 15 Nov 2026 21:46:59 +0000",
-      "timestamp": 1794779219.0
-    },
-    {
       "title": "2026-27 MLB free agent tracker: Tarik Skubal, Jazz Chisholm Jr., Randy Arozarena and more available players",
       "url": "https://www.cbssports.com/mlb/news/mlb-free-agent-tracker-2026-27/",
       "source": "CBS MLB",
       "published": "Sun, 15 Nov 2026 21:27:37 +0000",
       "timestamp": 1794778057.0
-    },
-    {
-      "title": "Lions' Aidan Hutchinson feared to have possible season-ending injury after sack celebration, per report",
-      "url": "https://www.cbssports.com/nfl/news/lions-aidan-hutchinson-injury-update-patriots-germany/",
-      "source": "CBS NFL",
-      "published": "Sun, 15 Nov 2026 21:12:07 +0000",
-      "timestamp": 1794777127.0
-    },
-    {
-      "title": "Jets' Geno Smith ruled out with ankle injury: Rookie QB Cade Klubnik makes NFL debut",
-      "url": "https://www.cbssports.com/nfl/news/bills-geno-smith-injury-updates-bills-cade-klubnik/",
-      "source": "CBS NFL",
-      "published": "Sun, 15 Nov 2026 20:51:57 +0000",
-      "timestamp": 1794775917.0
-    },
-    {
-      "title": "Lewis Hamilton’s 400th Start Gets A $11.99 Topps Card",
-      "url": "https://insider.cards/story/lewis-hamiltons-400th-start-gets-a-usd-11-99-topps-card-0e9453/",
-      "source": "Hobby",
-      "published": "Sun, 15 Nov 2026 20:13:51 +0000",
-      "timestamp": 1794773631.0
-    },
-    {
-      "title": "Drake Maye, Aidan Hutchinson injured on same play: Injury updates for Patriots QB, Lions DE",
-      "url": "https://www.cbssports.com/nfl/news/drake-maye-aidan-hutchinson-injured-patriots-lions-stars-questionable/",
-      "source": "CBS NFL",
-      "published": "Sun, 15 Nov 2026 20:00:09 +0000",
-      "timestamp": 1794772809.0
     },
     {
       "title": "Hot Stove rumors: Padres, Marte, young bats in trade talks, Dodgers",
@@ -106,20 +176,6 @@
       "source": "MLB",
       "published": "Sun, 15 Nov 2026 13:58:46 GMT",
       "timestamp": 1794751126.0
-    },
-    {
-      "title": "Peoria Javelinas steamroll way to record eighth Arizona Fall League championship",
-      "url": "https://www.mlb.com/news/2026-arizona-fall-league-championship-game",
-      "source": "MLB",
-      "published": "Sun, 15 Nov 2026 05:16:00 GMT",
-      "timestamp": 1794719760.0
-    },
-    {
-      "title": "Trading prospects can pay off -- or backfire. Just look at these names …",
-      "url": "https://www.mlb.com/news/how-teams-should-approach-trading-prospects-after-2026-mvp-winners",
-      "source": "MLB",
-      "published": "Sun, 15 Nov 2026 03:22:10 GMT",
-      "timestamp": 1794712930.0
     },
     {
       "title": "Championship hangover? Josh Hart 'not in a good headspace' as he, other Knicks struggle amid uneven start",
@@ -155,62 +211,6 @@
       "source": "CBS MLB",
       "published": "Fri, 13 Nov 2026 18:17:01 +0000",
       "timestamp": 1794593821.0
-    },
-    {
-      "title": "NBA Rookie of the Year race: Three players at top, but don't count out AJ Dybantsa, Darryn Peterson just yet",
-      "url": "https://www.cbssports.com/nba/news/nba-rookie-of-the-year-race-yaxel-lendeborg-cameron-boozer-darryn-peterson-aj-dybantsa/",
-      "source": "CBS NBA",
-      "published": "Fri, 13 Nov 2026 17:09:34 +0000",
-      "timestamp": 1794589774.0
-    },
-    {
-      "title": "Could Tarik Skubal take a short-term, high-AAV contract? Breaking down pros and cons",
-      "url": "https://www.cbssports.com/mlb/news/tarik-skubal-short-term-high-aav-contract-pros-cons/",
-      "source": "CBS MLB",
-      "published": "Fri, 13 Nov 2026 17:01:52 +0000",
-      "timestamp": 1794589312.0
-    },
-    {
-      "title": "MLB rumors: Rangers in mix for Sato, Dodgers seek infield help, Korean slugger could join free agent class",
-      "url": "https://www.cbssports.com/mlb/news/mlb-rumors-rangers-teruaki-sato-dodgers-padres/",
-      "source": "CBS MLB",
-      "published": "Fri, 13 Nov 2026 16:05:55 +0000",
-      "timestamp": 1794585955.0
-    },
-    {
-      "title": "Best Sports Card Rip Apps 2026 | Legal Card Ripping App Reviews",
-      "url": "https://insider.cards/story/best-sports-card-rip-apps-2026-reviews-of-every-legal-card-rip-app-056d94/",
-      "source": "Hobby",
-      "published": "Fri, 13 Nov 2026 04:22:48 +0000",
-      "timestamp": 1794543768.0
-    },
-    {
-      "title": "Cubs superstar Pete Crow-Armstrong wins National League MVP unanimously, beating Shohei Ohtani",
-      "url": "https://www.cbssports.com/mlb/news/mlb-2026-national-league-mvp-pete-crow-armstrong-cubs/",
-      "source": "CBS MLB",
-      "published": "Fri, 13 Nov 2026 01:08:42 +0000",
-      "timestamp": 1794532122.0
-    },
-    {
-      "title": "Now with an MVP, Pete Crow-Armstrong is on the path for an all-time great career. Where could he stack up?",
-      "url": "https://www.cbssports.com/mlb/news/pete-crow-armstrong-mvp-2026-historical-comparisons/",
-      "source": "CBS MLB",
-      "published": "Fri, 13 Nov 2026 01:05:34 +0000",
-      "timestamp": 1794531934.0
-    },
-    {
-      "title": "Astros slugger Yordan Alvarez named unanimous American League MVP after nearly winning 2026 Triple Crown",
-      "url": "https://www.cbssports.com/mlb/news/mlb-2026-american-league-mvp-yordan-alvarez-astros/",
-      "source": "CBS MLB",
-      "published": "Fri, 13 Nov 2026 00:55:09 +0000",
-      "timestamp": 1794531309.0
-    },
-    {
-      "title": "Stephen Curry injury: Warriors star to miss at least two weeks with oblique tear amid Golden State's hot start",
-      "url": "https://www.cbssports.com/nba/news/stephen-curry-injury-warriors-abdominal/",
-      "source": "CBS NBA",
-      "published": "Thu, 12 Nov 2026 17:26:09 +0000",
-      "timestamp": 1794504369.0
     }
   ]
 }
