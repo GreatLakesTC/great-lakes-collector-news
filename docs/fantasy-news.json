@@ -1,12 +1,21 @@
 {
-  "updated_at": "2026-11-15T18:48:54.219521+00:00",
-  "count": 19,
+  "updated_at": "2026-11-16T06:22:54.042604+00:00",
+  "count": 21,
   "counts": {
-    "Fantasy NFL": 14,
+    "Fantasy NFL": 15,
     "Fantasy NBA": 5,
-    "Fantasy MLB": 0
+    "Fantasy MLB": 1
   },
   "articles": [
+    {
+      "title": "Week 11 Early Waiver Wire Additions (2026 Fantasy Football)",
+      "url": "https://www.fantasypros.com/2026/11/week-11-early-waiver-wire-additions-2026-fantasy-football/",
+      "source": "FantasyPros",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-15T21:58:50+00:00",
+      "timestamp": 1794779930,
+      "summary": "The best fantasy football waiver wire pickups for Week 11 are Malachi Fields, Xavier Hutchinson, and Mack Hollins at wide receiver, along with Kaleb Johnson and Seth McGowan at running back. Each..."
+    },
     {
       "title": "Fantasy Football Week 10 Player Grades & Start/Sit Advice (2026)",
       "url": "https://www.fantasypros.com/2026/11/fantasy-football-week-10-player-grades-start-sit-advice-2026/",
@@ -35,85 +44,103 @@
       "summary": "Do you have difficult fantasy football start/sit lineup decisions to be made? A great way to get ready for the week is to use our FREE Who Should I Start tool! Beyond that, you can check out our..."
     },
     {
-      "title": "Rhamondre Stevenson: Struggles in Week 10 loss",
-      "url": "https://www.rotowire.com//football/player/rhamondre-stevenson-15372",
+      "title": "DK Metcalf: Gets into end zone in loss",
+      "url": "https://www.rotowire.com//football/player/dk-metcalf-13424",
       "source": "RotoWire",
       "sport": "Fantasy NFL",
-      "published": "2026-11-15T10:38:00+00:00",
-      "timestamp": 1794739080,
-      "summary": "Stevenson carried the ball six times for four yards and caught his only target for one yard in Sunday's 35-10 loss to the Lions in Munich. Visit RotoWire.com for more analysis on this update."
+      "published": "2026-11-15T09:19:00+00:00",
+      "timestamp": 1794734340,
+      "summary": "Metcalf brought in two of six targets for 54 yards and a touchdown and added a two-point conversion catch in the Steelers' 38-18 loss to the Bengals on Sunday night. Visit RotoWire.com for more..."
     },
     {
-      "title": "Tommy DeVito: Forced into action in Munich",
-      "url": "https://www.rotowire.com//football/player/tommy-devito-16797",
+      "title": "Jaylen Warren: Stymied by Bengals in loss",
+      "url": "https://www.rotowire.com//football/player/jaylen-warren-15984",
       "source": "RotoWire",
       "sport": "Fantasy NFL",
-      "published": "2026-11-15T10:32:00+00:00",
-      "timestamp": 1794738720,
-      "summary": "DeVito completed 12 of 24 passes for 81 yards and one touchdown with one interception in Sunday's 35-10 loss to the Lions in Munich. He added 19 yards on four carries. Visit RotoWire.com for more..."
+      "published": "2026-11-15T09:15:00+00:00",
+      "timestamp": 1794734100,
+      "summary": "Warren rushed seven times for 15 yards and brought in five of six targets for 26 yards in the Steelers' 38-18 loss to the Bengals on Sunday night. He committed a fumble recovered by Pittsburgh...."
     },
     {
-      "title": "Travis Kelce: Questionable to return Sunday",
-      "url": "https://www.rotowire.com//football/player/travis-kelce-8783",
+      "title": "Tee Higgins: Five catches in Week 10 win",
+      "url": "https://www.rotowire.com//football/player/tee-higgins-14506",
       "source": "RotoWire",
       "sport": "Fantasy NFL",
-      "published": "2026-11-15T10:28:00+00:00",
-      "timestamp": 1794738480,
-      "summary": "Kelce (ankle) is questionable to return to Sunday's game against the Falcons, Sam McDowell of The Kansas City Star reports. Visit RotoWire.com for more analysis on this update."
+      "published": "2026-11-15T08:55:00+00:00",
+      "timestamp": 1794732900,
+      "summary": "Higgins brought in five of six targets for 66 yards in the Bengals' 38-18 win over the Steelers on Sunday night. Visit RotoWire.com for more analysis on this update."
     },
     {
-      "title": "De'Aaron Fox: Now listed as questionable",
-      "url": "https://www.rotowire.com//basketball/player/deaaron-fox-4116",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-11-15T10:28:00+00:00",
-      "timestamp": 1794738480,
-      "summary": "Fox (hip) is listed as questionable for Sunday's game against Utah. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Max Christie: Doubtful to play Sunday",
-      "url": "https://www.rotowire.com//basketball/player/max-christie-5723",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-11-15T10:18:00+00:00",
-      "timestamp": 1794737880,
-      "summary": "Christie (ankle) is doubtful to play Sunday's game against the Celtics. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Kyrie Irving: Questionable for Sunday",
-      "url": "https://www.rotowire.com//basketball/player/kyrie-irving-3186",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-11-15T10:14:00+00:00",
-      "timestamp": 1794737640,
-      "summary": "Irving (knee) is questionable to play in Sunday's game against the Celtics. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Daniel Gafford: Probable for Sunday",
-      "url": "https://www.rotowire.com//basketball/player/daniel-gafford-4824",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-11-15T10:09:00+00:00",
-      "timestamp": 1794737340,
-      "summary": "Gafford (shoulder) is probable to play in Sunday's game against the Celtics. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Mike Evans: May return in Week 11",
-      "url": "https://www.rotowire.com//football/player/mike-evans-9253",
+      "title": "Chase Brown: Garners 18 touches in win",
+      "url": "https://www.rotowire.com//football/player/chase-brown-16934",
       "source": "RotoWire",
       "sport": "Fantasy NFL",
-      "published": "2026-11-15T10:02:00+00:00",
-      "timestamp": 1794736920,
-      "summary": "Evans (Achilles) has a chance to return to action next Sunday against the Vikings, Mike Garafolo of NFL Network reports. Visit RotoWire.com for more analysis on this update."
+      "published": "2026-11-15T08:52:00+00:00",
+      "timestamp": 1794732720,
+      "summary": "Brown rushed 10 times for 44 yards and brought in eight of nine targets for 39 yards in the Bengals' 38-18 win over the Steelers on Sunday night. Visit RotoWire.com for more analysis on this update."
     },
     {
-      "title": "Dean Wade: Reverting back to bench Sunday",
-      "url": "https://www.rotowire.com//basketball/player/dean-wade-4893",
+      "title": "Shai Gilgeous-Alexander: Drops 37 in win",
+      "url": "https://www.rotowire.com//basketball/player/shai-gilgeous-alexander-4387",
       "source": "RotoWire",
       "sport": "Fantasy NBA",
-      "published": "2026-11-15T09:39:00+00:00",
-      "timestamp": 1794735540,
-      "summary": "Wade is not listed in the starting lineup for Sunday's game against the Pacers. Visit RotoWire.com for more analysis on this update."
+      "published": "2026-11-15T08:52:00+00:00",
+      "timestamp": 1794732720,
+      "summary": "Gilgeous-Alexander logged 37 points (13-20 FG, 4-5 3Pt, 7-7 FT), two rebounds and two assists in 29 minutes during Sunday's 125-103 win over the Kings. Visit RotoWire.com for more analysis on this..."
+    },
+    {
+      "title": "Rico Dowdle: Only seven touches in Week 10",
+      "url": "https://www.rotowire.com//football/player/rico-dowdle-14657",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-15T08:49:00+00:00",
+      "timestamp": 1794732540,
+      "summary": "Dowdle rushed five times for 26 yards and caught both of his targets for eight yards during Sunday's 38-18 defeat at Cincinnati. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Zaccharie Risacher: Leads team in scoring",
+      "url": "https://www.rotowire.com//basketball/player/zaccharie-risacher-6249",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-11-15T08:37:00+00:00",
+      "timestamp": 1794731820,
+      "summary": "Risacher recorded 18 points (8-9 FG, 1-2 3Pt, 1-2 FT) and five rebounds in 26 minutes during Sunday's 131-94 loss to the Celtics. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Karl-Anthony Towns: Grabs 17 boards in win",
+      "url": "https://www.rotowire.com//basketball/player/karl-anthony-towns-3741",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-11-15T08:28:00+00:00",
+      "timestamp": 1794731280,
+      "summary": "Towns recorded 28 points (10-21 FG, 3-8 3Pt, 5-7 FT), 17 rebounds, three assists and a steal in 42 minutes during Sunday's 112-108 win over the Raptors. Visit RotoWire.com for more analysis on..."
+    },
+    {
+      "title": "Ketel Marte: Orioles interested",
+      "url": "https://www.rotowire.com//baseball/player/ketel-marte-13183",
+      "source": "RotoWire",
+      "sport": "Fantasy MLB",
+      "published": "2026-11-15T06:00:00+00:00",
+      "timestamp": 1794722400,
+      "summary": "The Orioles have been engaged in trade talks with the Diamondbacks about Marte, though no trade appears imminent, Jake Rill of MLB.com reports. Marte is coming off of a down season, hitting..."
+    },
+    {
+      "title": "Jayson Tatum: Pours in game-high 32 points",
+      "url": "https://www.rotowire.com//basketball/player/jayson-tatum-4108",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-11-15T05:35:00+00:00",
+      "timestamp": 1794720900,
+      "summary": "Tatum posted 32 points (11-18 FG, 5-8 3Pt, 5-6 FT), six rebounds and six assists in 30 minutes during Sunday's 131-94 win over Dallas. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "De'Andre Hunter: Downgraded to out",
+      "url": "https://www.rotowire.com//basketball/player/deandre-hunter-4776",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-11-15T05:18:00+00:00",
+      "timestamp": 1794719880,
+      "summary": "Hunter (hip) is out for Sunday's game against the Thunder. Visit RotoWire.com for more analysis on this update."
     },
     {
       "title": "5 Fantasy Football Waiver Wire Stashes: Week 10 (2026)",
@@ -168,15 +195,6 @@
       "published": "2026-11-13T12:17:52+00:00",
       "timestamp": 1794572272,
       "summary": "My fantasy football bold predictions hit a snag last week, with three more whiffs that dropped my season record to 6-20-1. That won't cut it. Fortunately, it's another great week for bold..."
-    },
-    {
-      "title": "23 Injuries to Know for Week 10 (2026 Fantasy Football)",
-      "url": "https://www.fantasypros.com/2026/11/23-injuries-to-know-for-week-10-2026-fantasy-football/",
-      "source": "FantasyPros",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-13T12:17:50+00:00",
-      "timestamp": 1794572270,
-      "summary": "Every week, fantasy football matchups are won and lost based on who's available. Below are some of the bigger names on this week's injury report, along with what to expect. Waiver Wire Advice..."
     }
   ]
 }
