@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-16T21:58:51.059681+00:00",
-  "count": 22,
+  "updated_at": "2026-11-17T07:51:35.123618+00:00",
+  "count": 23,
   "counts": {
     "Fantasy NFL": 15,
     "Fantasy NBA": 5,
-    "Fantasy MLB": 2
+    "Fantasy MLB": 3
   },
   "articles": [
     {
@@ -44,33 +44,6 @@
       "summary": "Our analysts combine to provide rankings for weekly fantasy football waiver wire targets. We'll help you prioritize your bids for the week ahead. Check out our full expert consensus fantasy..."
     },
     {
-      "title": "Michael Pittman: Could be back for Week 11 action",
-      "url": "https://www.rotowire.com//football/player/michael-pittman-14378",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-16T12:40:00+00:00",
-      "timestamp": 1794832800,
-      "summary": "Could Mike McCarthy said Monday that the Steelers are 'hopeful' they can get Pittman -- who last played in Week 4 -- back from his foot injury this week, Nick Farabaugh of PennLive.com reports...."
-    },
-    {
-      "title": "Luther Burden: Back at practice Monday",
-      "url": "https://www.rotowire.com//football/player/luther-burden-18548",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-16T12:25:00+00:00",
-      "timestamp": 1794831900,
-      "summary": "Burden (concussion) was spotted participating in the Bears' unofficial practice session Monday, AllCHGO.com reports. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Jacory Croskey-Merritt: Trending in right direction, per coach",
-      "url": "https://www.rotowire.com//football/player/jacory-croskey-merritt-18811",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-16T12:18:00+00:00",
-      "timestamp": 1794831480,
-      "summary": "Coach Dan Quinn said Monday that while the 21-day practice window for Croskey-Merritt (groin) hasn't been opened yet, he notes that the running back is \"trending in the right direction,\" Nicki..."
-    },
-    {
       "title": "Top 5 Fantasy Football Takeaways: Surprises & Disappointments",
       "url": "https://www.fantasypros.com/2026/11/top-5-fantasy-football-takeaways-surprises-disappointments-week-10-2026/",
       "source": "FantasyPros",
@@ -80,58 +53,94 @@
       "summary": "Another week is nearly in the books, with only Monday Night Football left before we turn the page to Week 11. Week 10 featured a mix of pleasant fantasy football surprises and disappointments. The..."
     },
     {
-      "title": "Kyle Monangai: Eyeing return in Week 11",
-      "url": "https://www.rotowire.com//football/player/kyle-monangai-18520",
+      "title": "Brandin Podziemski: Scores 15 points in defeat",
+      "url": "https://www.rotowire.com//basketball/player/brandin-podziemski-5889",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-11-16T10:33:00+00:00",
+      "timestamp": 1794825180,
+      "summary": "Podziemski recorded 15 points (3-8 FG, 3-7 3Pt, 6-7 FT), six rebounds, three assists, a steal and two blocks across 30 minutes in Monday's 115-94 loss to the Pelicans. Visit RotoWire.com for more..."
+    },
+    {
+      "title": "Saddiq Bey: Drains five threes in victory",
+      "url": "https://www.rotowire.com//basketball/player/saddiq-bey-5182",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-11-16T10:27:00+00:00",
+      "timestamp": 1794824820,
+      "summary": "Bey finished with 23 points (8-15 FG, 5-8 3Pt, 2-2 FT), six rebounds, three assists, a steal and a block across 33 minutes in Monday's 115-94 win over Golden State. Visit RotoWire.com for more..."
+    },
+    {
+      "title": "Derik Queen: Posts double-double off bench",
+      "url": "https://www.rotowire.com//basketball/player/derik-queen-6541",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-11-16T10:22:00+00:00",
+      "timestamp": 1794824520,
+      "summary": "Queen delivered 17 points (6-9 FG, 4-5 3Pt, 1-2 FT), 10 rebounds and a block across 20 minutes in Monday's 115-94 win over the Warriors. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Zion Williamson: Contributes 16 points in win Monday",
+      "url": "https://www.rotowire.com//basketball/player/zion-williamson-4777",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-11-16T10:18:00+00:00",
+      "timestamp": 1794824280,
+      "summary": "Williamson registered 16 points (6-13 FG, 4-5 FT), six rebounds, two assists and two steals across 25 minutes in Monday's 115-94 win over the Warriors. Visit RotoWire.com for more analysis on this..."
+    },
+    {
+      "title": "Dillon Brooks: Drains three triples in win",
+      "url": "https://www.rotowire.com//basketball/player/dillon-brooks-4125",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-11-16T10:16:00+00:00",
+      "timestamp": 1794824160,
+      "summary": "Brooks posted 15 points (6-17 FG, 3-6 3Pt, 0-1 FT), four rebounds and four assists across 27 minutes in Monday's 117-105 win over the Nuggets. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Tre' Harris: Career-best yardage total in win",
+      "url": "https://www.rotowire.com//football/player/tre-harris-18478",
       "source": "RotoWire",
       "sport": "Fantasy NFL",
-      "published": "2026-11-16T11:58:00+00:00",
-      "timestamp": 1794830280,
-      "summary": "Monangai (toe/thumb) was spotted working out during Monday's unofficial practice and is eyeing a return to action Sunday against the Saints, Chris Emma of 104-3 The Score Chicago reports. Visit..."
+      "published": "2026-11-16T09:54:00+00:00",
+      "timestamp": 1794822840,
+      "summary": "Harris secured all five targets for 86 yards in the Chargers' 23-20 win over the Ravens on Monday night. Visit RotoWire.com for more analysis on this update."
     },
     {
-      "title": "Tobias Harris: Likely out through November",
-      "url": "https://www.rotowire.com//basketball/player/tobias-harris-3211",
+      "title": "Mark Andrews: Season-best effort in Brissett's debut",
+      "url": "https://www.rotowire.com//football/player/mark-andrews-12559",
       "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-11-16T11:26:00+00:00",
-      "timestamp": 1794828360,
-      "summary": "Harris (calf) is likely to be sidelined until early December, per Jeff Garcia of KENS 5 San Antonio. Visit RotoWire.com for more analysis on this update."
+      "sport": "Fantasy NFL",
+      "published": "2026-11-16T09:48:00+00:00",
+      "timestamp": 1794822480,
+      "summary": "Andrews brought in all eight targets for 82 yards in the Ravens' 23-20 loss to the Chargers on Monday night. Visit RotoWire.com for more analysis on this update."
     },
     {
-      "title": "Fred VanVleet: Removed from injury report",
-      "url": "https://www.rotowire.com//basketball/player/fred-vanvleet-3935",
+      "title": "Justin Herbert: Efficient in first win of season",
+      "url": "https://www.rotowire.com//football/player/justin-herbert-14446",
       "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-11-16T10:15:00+00:00",
-      "timestamp": 1794824100,
-      "summary": "VanVleet (knee) is off the injury report for Monday's game against Miami. Visit RotoWire.com for more analysis on this update."
+      "sport": "Fantasy NFL",
+      "published": "2026-11-16T09:44:00+00:00",
+      "timestamp": 1794822240,
+      "summary": "Herbert completed 12 of 18 passes for 129 yards with no touchdowns or interceptions and rushed seven times for 51 yards and a touchdown in the Chargers' 23-20 win over the Ravens on Monday night...."
     },
     {
-      "title": "Amen Thompson: Questionable to play Monday",
-      "url": "https://www.rotowire.com//basketball/player/amen-thompson-5931",
+      "title": "Zay Flowers: Solid night marred by key fumble",
+      "url": "https://www.rotowire.com//football/player/zay-flowers-16919",
       "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-11-16T10:13:00+00:00",
-      "timestamp": 1794823980,
-      "summary": "Thompson (knee) is listed as questionable for Monday's game against the Heat. Visit RotoWire.com for more analysis on this update."
+      "sport": "Fantasy NFL",
+      "published": "2026-11-16T09:21:00+00:00",
+      "timestamp": 1794820860,
+      "summary": "Flowers brought in six of seven targets for 74 yards and lost a fumble in the Ravens' 23-20 loss to the Chargers on Monday night. Visit RotoWire.com for more analysis on this update."
     },
     {
-      "title": "Joel Embiid: Questionable Monday",
-      "url": "https://www.rotowire.com//basketball/player/joel-embiid-3572",
+      "title": "Jacoby Brissett: Impressive in team debut",
+      "url": "https://www.rotowire.com//football/player/jacoby-brissett-10919",
       "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-11-16T10:09:00+00:00",
-      "timestamp": 1794823740,
-      "summary": "Embiid (foot) is questionable for Monday's game against the Nets. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "LeBron James: Won't play Monday",
-      "url": "https://www.rotowire.com//basketball/player/lebron-james-2344",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-11-16T10:07:00+00:00",
-      "timestamp": 1794823620,
-      "summary": "James (back) has been ruled out for Monday's game against the Nets. Visit RotoWire.com for more analysis on this update."
+      "sport": "Fantasy NFL",
+      "published": "2026-11-16T09:15:00+00:00",
+      "timestamp": 1794820500,
+      "summary": "Brissett completed 33 of 49 passes for 340 yards with no touchdowns and one interception and added two rushes for two yards in the Ravens' 23-20 loss to the Chargers on Monday night. Visit..."
     },
     {
       "title": "Jordan Lawlar: Recovering from UCL surgery",
@@ -143,13 +152,13 @@
       "summary": "Lawlar recent underwent surgery to repair the UCL in his right elbow, Steve Gilbert of MLB.com reports. Visit RotoWire.com for more analysis on this update."
     },
     {
-      "title": "Brock Bowers: Labeled day-to-day by coach",
-      "url": "https://www.rotowire.com//football/player/brock-bowers-17693",
+      "title": "Randy Arozarena: Rejects qualifying offer",
+      "url": "https://www.rotowire.com//baseball/player/randy-arozarena-14452",
       "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-16T01:00:00+00:00",
-      "timestamp": 1794790800,
-      "summary": "Raiders head coach Klint Kubiak confirmed Monday that Bowers (ankle) is considered day-to-day after exiting Sunday's 21-13 loss to the Seahawks, Sam Warren of The Athletic reports. \"It's not as..."
+      "sport": "Fantasy MLB",
+      "published": "2026-11-16T02:41:00+00:00",
+      "timestamp": 1794796860,
+      "summary": "Arozarena rejected the Mariners' one-year, $23.15 million qualifying offer Monday, Francys Romero of BeisbolFR.com reports. Visit RotoWire.com for more analysis on this update."
     },
     {
       "title": "Week 11 Early Waiver Wire Additions (2026 Fantasy Football)",
