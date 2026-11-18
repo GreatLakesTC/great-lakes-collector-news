@@ -1,20 +1,111 @@
 {
-  "updated_at": "2026-11-17T20:57:06.595625+00:00",
+  "updated_at": "2026-11-18T07:31:11.174651+00:00",
   "count": 30,
   "articles": [
     {
-      "title": "Prospects on the 40-man bubble -- 1 from each team",
-      "url": "https://www.mlb.com/news/prospects-on-40-man-roster-bubble-2026",
+      "title": "Vladdy gets traded -- in Dominican Winter League",
+      "url": "https://www.mlb.com/news/vladimir-guerrero-jr-dominican-winter-league-trade",
       "source": "MLB",
-      "published": "Tue, 17 Nov 2026 20:24:00 GMT",
-      "timestamp": 1794947040.0
+      "published": "Wed, 18 Nov 2026 02:52:08 GMT",
+      "timestamp": 1794970328.0
     },
     {
-      "title": "Red Sox sign breakout postseason star Bauers to 4-year deal",
-      "url": "https://www.mlb.com/news/jake-bauers-4-year-contract-with-red-sox",
+      "title": "These ranked prospects got 40-man roster spots",
+      "url": "https://www.mlb.com/news/rule-5-draft-prospects-protected-on-40-man-roster-2026",
       "source": "MLB",
-      "published": "Tue, 17 Nov 2026 20:23:00 GMT",
-      "timestamp": 1794946980.0
+      "published": "Wed, 18 Nov 2026 02:15:00 GMT",
+      "timestamp": 1794968100.0
+    },
+    {
+      "title": "Jazz vs. Clippers NBA picks Tuesday: Injury-ravaged Utah could tie third-longest losing skid in team history",
+      "url": "https://www.cbssports.com/betting/news/jazz-vs-clippers-nba-picks-tuesday-injury-ravaged-utah-could-tie-third-longest-losing-skid-in-team-history/",
+      "source": "CBS NBA",
+      "published": "Wed, 18 Nov 2026 02:01:01 +0000",
+      "timestamp": 1794967261.0
+    },
+    {
+      "title": "Mets add SS Rojas (No. 1 prospect) to 40-man roster",
+      "url": "https://www.mlb.com/news/jefferson-rojas-added-to-mets-40-man-roster",
+      "source": "MLB",
+      "published": "Tue, 17 Nov 2026 23:56:12 GMT",
+      "timestamp": 1794959772.0
+    },
+    {
+      "title": "Bednar returning to Yankees after accepting qualifying offer",
+      "url": "https://www.mlb.com/news/david-bednar-accepts-yankees-qualifying-offer",
+      "source": "MLB",
+      "published": "Tue, 17 Nov 2026 22:54:00 GMT",
+      "timestamp": 1794956040.0
+    },
+    {
+      "title": "NBA MVP Rankings: Luka Dončić, Victor Wembanyama in a two-horse race; Stephen Curry's absence speaks volumes",
+      "url": "https://www.cbssports.com/nba/news/nba-mvp-rankings-luka-doncic-victor-wembanyama-stephen-curry/",
+      "source": "CBS NBA",
+      "published": "Tue, 17 Nov 2026 22:27:59 +0000",
+      "timestamp": 1794954479.0
+    },
+    {
+      "title": "Braylon Mullins - 2026-27 Panini Instant NIL College",
+      "url": "https://insider.cards/story/braylon-mullins-2026-27-panini-instant-nil-college-63e904/",
+      "source": "Hobby",
+      "published": "Tue, 17 Nov 2026 22:27:24 +0000",
+      "timestamp": 1794954444.0
+    },
+    {
+      "title": "2026-27 MLB free agent tracker: Tarik Skubal, Jazz Chisholm Jr., Randy Arozarena and more available players",
+      "url": "https://www.cbssports.com/mlb/news/mlb-free-agent-tracker-2026-27/",
+      "source": "CBS MLB",
+      "published": "Tue, 17 Nov 2026 21:11:31 +0000",
+      "timestamp": 1794949891.0
+    },
+    {
+      "title": "2026 Topps Chrome Football MVP Buyback Program",
+      "url": "https://insider.cards/story/2026-topps-chrome-football-mvp-buyback-program-b448ae/",
+      "source": "Hobby",
+      "published": "Tue, 17 Nov 2026 20:57:42 +0000",
+      "timestamp": 1794949062.0
+    },
+    {
+      "title": "CJ Carr - 2026 Panini Instant NIL College Football #10-CJC",
+      "url": "https://insider.cards/story/cj-carr-2026-panini-instant-nil-college-football-10-cjc-6bd7b0/",
+      "source": "Hobby",
+      "published": "Tue, 17 Nov 2026 20:37:24 +0000",
+      "timestamp": 1794947844.0
+    },
+    {
+      "title": "Jordan Faison - 2026 Panini Instant NIL College Football",
+      "url": "https://insider.cards/story/jordan-faison-2026-panini-instant-nil-college-football-c374ce/",
+      "source": "Hobby",
+      "published": "Tue, 17 Nov 2026 20:37:23 +0000",
+      "timestamp": 1794947843.0
+    },
+    {
+      "title": "Jeremiah Smith - 2026 Panini Instant NIL College Football",
+      "url": "https://insider.cards/story/jeremiah-smith-2026-panini-instant-nil-college-football-1b8e45/",
+      "source": "Hobby",
+      "published": "Tue, 17 Nov 2026 20:37:23 +0000",
+      "timestamp": 1794947843.0
+    },
+    {
+      "title": "Micah Gilbert - 2026 Panini Instant NIL College Football",
+      "url": "https://insider.cards/story/micah-gilbert-2026-panini-instant-nil-college-football-89732d/",
+      "source": "Hobby",
+      "published": "Tue, 17 Nov 2026 20:37:23 +0000",
+      "timestamp": 1794947843.0
+    },
+    {
+      "title": "Inside the Madden 99 Club Insert in 2026 Topps Chrome Football",
+      "url": "https://insider.cards/story/inside-the-madden-99-club-insert-in-2026-topps-chrome-football-a919cc/",
+      "source": "Hobby",
+      "published": "Tue, 17 Nov 2026 20:23:38 +0000",
+      "timestamp": 1794947018.0
+    },
+    {
+      "title": "Topps Five Star Basketball | Product History",
+      "url": "https://insider.cards/story/topps-five-star-basketball-product-history-dbba49/",
+      "source": "Hobby",
+      "published": "Tue, 17 Nov 2026 20:11:35 +0000",
+      "timestamp": 1794946295.0
     },
     {
       "title": "Red Sox add AFL standout Huggins in trade with A's",
@@ -24,11 +115,25 @@
       "timestamp": 1794945060.0
     },
     {
+      "title": "Best Sports Card Rip Apps 2026 | Legal Card Ripping App Reviews",
+      "url": "https://insider.cards/story/best-sports-card-rip-apps-2026-reviews-of-every-legal-card-rip-app-056d94/",
+      "source": "Hobby",
+      "published": "Tue, 17 Nov 2026 19:43:00 +0000",
+      "timestamp": 1794944580.0
+    },
+    {
       "title": "Jake Bauers signs four-year, $58 million deal with Red Sox after helping lead Brewers to World Series",
       "url": "https://www.cbssports.com/mlb/news/jake-bauers-contract-red-sox-brewers-mlb-free-agency/",
       "source": "CBS MLB",
       "published": "Tue, 17 Nov 2026 19:18:54 +0000",
       "timestamp": 1794943134.0
+    },
+    {
+      "title": "2026 Topps Chrome Football Product History",
+      "url": "https://insider.cards/story/2026-topps-chrome-football-product-history-81d354/",
+      "source": "Hobby",
+      "published": "Tue, 17 Nov 2026 18:57:41 +0000",
+      "timestamp": 1794941861.0
     },
     {
       "title": "5 intriguing under-the-radar free agents",
@@ -45,13 +150,6 @@
       "timestamp": 1794937475.0
     },
     {
-      "title": "2026-27 MLB free agent tracker: Tarik Skubal, Jazz Chisholm Jr., Randy Arozarena and more available players",
-      "url": "https://www.cbssports.com/mlb/news/mlb-free-agent-tracker-2026-27/",
-      "source": "CBS MLB",
-      "published": "Tue, 17 Nov 2026 16:32:34 +0000",
-      "timestamp": 1794933154.0
-    },
-    {
       "title": "White Sox add Dustin May on three-year, $52.5 million contract after Cinderella 2026 season, per report",
       "url": "https://www.cbssports.com/mlb/news/white-sox-dustin-may-free-agency-contract-rotation/",
       "source": "CBS MLB",
@@ -59,25 +157,11 @@
       "timestamp": 1794933044.0
     },
     {
-      "title": "Collector Completes Every Topps Rookie Cup Card Since 1960",
-      "url": "https://insider.cards/story/collector-completes-every-topps-rookie-cup-card-since-1960-d3aeb6/",
-      "source": "Hobby",
-      "published": "Tue, 17 Nov 2026 15:52:39 +0000",
-      "timestamp": 1794930759.0
-    },
-    {
       "title": "Believeland? Why the 6-4 Browns are on track to make the NFL playoffs despite troubling numbers",
       "url": "https://www.cbssports.com/nfl/news/cleveland-browns-nfl-playoffs-2026-deshaun-watson/",
       "source": "CBS NFL",
       "published": "Tue, 17 Nov 2026 15:43:37 +0000",
       "timestamp": 1794930217.0
-    },
-    {
-      "title": "Jazz vs. Clippers Tuesday NBA picks: Injury-ravaged Utah set to tie third-longest losing skid in team history",
-      "url": "https://www.cbssports.com/betting/news/jazz-vs-clippers-tuesday-nba-picks-injury-ravaged-utah-set-to-tie-third-longest-losing-skid-in-team-history/",
-      "source": "CBS NBA",
-      "published": "Tue, 17 Nov 2026 15:42:12 +0000",
-      "timestamp": 1794930132.0
     },
     {
       "title": "NBA Rookie Rankings: Yaxel Lendeborg debuts at No. 1, Darryn Peterson making up ground in tight race",
@@ -92,20 +176,6 @@
       "source": "CBS NFL",
       "published": "Tue, 17 Nov 2026 15:04:43 +0000",
       "timestamp": 1794927883.0
-    },
-    {
-      "title": "The A's need rotation help. Could one of these 5 arms deliver?",
-      "url": "https://www.mlb.com/news/athletics-free-agent-starting-pitcher-targets-2027",
-      "source": "MLB",
-      "published": "Tue, 17 Nov 2026 14:57:00 GMT",
-      "timestamp": 1794927420.0
-    },
-    {
-      "title": "Top prospect Hernandez dazzled in pro debut; where does he go from here?",
-      "url": "https://www.mlb.com/news/seth-hernandez-working-on-strength-conditioning-in-offseason",
-      "source": "MLB",
-      "published": "Tue, 17 Nov 2026 14:31:30 GMT",
-      "timestamp": 1794925890.0
     },
     {
       "title": "Six lessons learned from Week 10: Brock Purdy belongs in MVP race, John Harbaugh makes more poor decisions",
@@ -141,76 +211,6 @@
       "source": "CBS NFL",
       "published": "Tue, 17 Nov 2026 02:21:00 +0000",
       "timestamp": 1794882060.0
-    },
-    {
-      "title": "Ravens vs. Chargers prediction: Can L.A. get its first win on 'MNF' against the injury-plagued Ravens?",
-      "url": "https://www.cbssports.com/nfl/news/ravens-vs-chargers-how-to-watch-spread-odds-preview-prediction/",
-      "source": "CBS NFL",
-      "published": "Tue, 17 Nov 2026 00:28:13 +0000",
-      "timestamp": 1794875293.0
-    },
-    {
-      "title": "MLB rumors: Orioles narrow down search in hunt for starting pitchers; reliever market heating up",
-      "url": "https://www.cbssports.com/mlb/news/mlb-rumors-orioles-starting-pitchers-aj-minter-ryan-walker/",
-      "source": "CBS MLB",
-      "published": "Mon, 16 Nov 2026 19:18:29 +0000",
-      "timestamp": 1794856709.0
-    },
-    {
-      "title": "Sean Payton disputes Jim Harbaugh's 'loophole' claim after Broncos-Chargers trade falls apart",
-      "url": "https://www.cbssports.com/nfl/news/broncos-chargers-trade-sean-payton-jim-harbaugh-loophole/",
-      "source": "CBS NFL",
-      "published": "Mon, 16 Nov 2026 19:05:42 +0000",
-      "timestamp": 1794855942.0
-    },
-    {
-      "title": "Drake Maye injury the latest for Patriots amid snakebitten 2026 Super Bowl hangover",
-      "url": "https://www.cbssports.com/nfl/news/drake-maye-injury-latest-patriots-snakebitten-2026-super-bowl-hangover/",
-      "source": "CBS NFL",
-      "published": "Mon, 16 Nov 2026 17:55:34 +0000",
-      "timestamp": 1794851734.0
-    },
-    {
-      "title": "2027 Baseball Hall of Fame ballot released: 8 things to know, including newcomers, trends and a prediction",
-      "url": "https://www.cbssports.com/mlb/news/2027-baseball-hall-of-fame-ballot-released-buster-posey-jon-lester-alex-rodriguez-prediction/",
-      "source": "CBS MLB",
-      "published": "Mon, 16 Nov 2026 17:22:18 +0000",
-      "timestamp": 1794849738.0
-    },
-    {
-      "title": "Here is 1 trade candidate for all 30 teams",
-      "url": "https://www.mlb.com/news/trade-candidates-for-every-team-2026-27-offseason",
-      "source": "MLB",
-      "published": "Mon, 16 Nov 2026 16:15:00 GMT",
-      "timestamp": 1794845700.0
-    },
-    {
-      "title": "10 most interesting MLB non-tender decisions, including a Red Sox staple and a former Rookie of the Year",
-      "url": "https://www.cbssports.com/mlb/news/mlb-non-tender-deadline-candidates-jarren-duran-ronel-blanco-luis-gil-ernie-clement/",
-      "source": "CBS MLB",
-      "published": "Mon, 16 Nov 2026 15:39:00 +0000",
-      "timestamp": 1794843540.0
-    },
-    {
-      "title": "Joe Burrow strengthens MVP case with four more TDs; college football rankings projections",
-      "url": "https://www.cbssports.com/nfl/news/joe-burrow-strengthens-mvp-case-with-four-more-tds-college-football-rankings-projections/",
-      "source": "CBS NFL",
-      "published": "Mon, 16 Nov 2026 14:08:38 +0000",
-      "timestamp": 1794838118.0
-    },
-    {
-      "title": "NBA's biggest winners and losers of the week: Celtics win Jaylen Brown trade (for now), Trae Young looks done",
-      "url": "https://www.cbssports.com/nba/news/nba-biggest-winners-and-losers-week-celtics-jaylen-brown-76ers-spurs-trae-young-stephen-curry-nov-16/",
-      "source": "CBS NBA",
-      "published": "Mon, 16 Nov 2026 14:00:51 +0000",
-      "timestamp": 1794837651.0
-    },
-    {
-      "title": "Drake Maye injury update: Patriots reportedly fear QB fractured ankle, could miss rest of season",
-      "url": "https://www.cbssports.com/nfl/news/drake-maye-injury-update-patriots-qb-ankle-out-for-season/",
-      "source": "CBS NFL",
-      "published": "Mon, 16 Nov 2026 13:37:58 +0000",
-      "timestamp": 1794836278.0
     }
   ]
 }
