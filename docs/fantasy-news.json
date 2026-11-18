@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T07:23:19.225231+00:00",
+  "updated_at": "2026-11-18T20:28:06.054583+00:00",
   "count": 25,
   "counts": {
     "Fantasy NFL": 15,
@@ -7,6 +7,150 @@
     "Fantasy MLB": 5
   },
   "articles": [
+    {
+      "title": "Fantasy Football Trade Deadline: 15 Players to Buy Low & Sell High (2026)",
+      "url": "https://www.fantasypros.com/2026/11/fantasy-football-trade-deadline-15-players-to-buy-low-sell-high-2026/",
+      "source": "FantasyPros",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-18T17:57:17+00:00",
+      "timestamp": 1795024637,
+      "summary": "The top fantasy football buy-low candidate at the trade deadline is Carnell Tate, while Chuba Hubbard leads the sell-high list heading into Week 11. Tate posted a nine-catch, 145-yard game before..."
+    },
+    {
+      "title": "DeVonta Smith: Back at practice Wednesday",
+      "url": "https://www.rotowire.com//football/player/devonta-smith-15406",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-18T12:20:00+00:00",
+      "timestamp": 1795004400,
+      "summary": "Smith (hamstring) was spotted practicing Wednesday, Tim McManus of ESPN reports. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "6 Fantasy Football Risers & Fallers: Week 11 (2026)",
+      "url": "https://www.fantasypros.com/2026/11/6-fantasy-football-risers-fallers-week-11-2026/",
+      "source": "FantasyPros",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-18T12:04:01+00:00",
+      "timestamp": 1795003441,
+      "summary": "The 2026 NFL season is rolling along, so it's time to look ahead to Week 11. In this article, we'll focus on the biggest fantasy football risers and fallers heading into Week 11. Waiver Wire..."
+    },
+    {
+      "title": "T.J. Hockenson: Chance to return in Week 11",
+      "url": "https://www.rotowire.com//football/player/tj-hockenson-13610",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-18T11:57:00+00:00",
+      "timestamp": 1795003020,
+      "summary": "Head coach Kevin O'Connell said Wednesday that the Vikings hope Hockenson (wrist/chest) returns to action Sunday against the 49ers in Mexico City, Kevin Seifert of ESPN.com reports. Visit..."
+    },
+    {
+      "title": "David Montgomery: In line to play Thursday",
+      "url": "https://www.rotowire.com//football/player/david-montgomery-13556",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-18T11:57:00+00:00",
+      "timestamp": 1795003020,
+      "summary": "Montgomery (groin) is expected to play in Thursday's game against the Colts, Aaron Wilson of KPRC 2 Houston reports. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Jace Jung: Traded to Halos",
+      "url": "https://www.rotowire.com//baseball/player/jace-jung-17929",
+      "source": "RotoWire",
+      "sport": "Fantasy MLB",
+      "published": "2026-11-18T11:42:00+00:00",
+      "timestamp": 1795002120,
+      "summary": "The Angels acquired Jung from the Tigers on Wednesday in exchange for cash considerations. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Michael Pittman: Back practicing Wednesday",
+      "url": "https://www.rotowire.com//football/player/michael-pittman-14378",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-18T11:34:00+00:00",
+      "timestamp": 1795001640,
+      "summary": "Steelers head coach Mike McCarthy said Wednesday that Pittman (foot) has been designated for return from injured reserve, Nick Farabaugh of PennLive.com reports. Visit RotoWire.com for more..."
+    },
+    {
+      "title": "Brock Bowers: Absent from practice Wednesday",
+      "url": "https://www.rotowire.com//football/player/brock-bowers-17693",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-18T11:27:00+00:00",
+      "timestamp": 1795001220,
+      "summary": "Bowers (ankle) wasn't spotted on the field for Wednesday's practice, Ryan McFadden of ESPN.com reports. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Cade Cunningham: Questionable with knee soreness",
+      "url": "https://www.rotowire.com//basketball/player/cade-cunningham-5336",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-11-18T11:09:00+00:00",
+      "timestamp": 1795000140,
+      "summary": "Cunningham is questionable for Wednesday's game against the Pelicans due to right knee soreness. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Peyton Watson: Unlikely to play Wednesday",
+      "url": "https://www.rotowire.com//basketball/player/peyton-watson-5722",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-11-18T10:25:00+00:00",
+      "timestamp": 1794997500,
+      "summary": "Watson (back) is doubtful for Wednesday's game versus Memphis. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Ryan Rollins: Ruled out Wednesday",
+      "url": "https://www.rotowire.com//basketball/player/ryan-rollins-5668",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-11-18T10:10:00+00:00",
+      "timestamp": 1794996600,
+      "summary": "Rollins (illness) has been ruled out for Wednesday's game at Miami. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Bam Adebayo: Available Wednesday",
+      "url": "https://www.rotowire.com//basketball/player/bam-adebayo-4153",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-11-18T10:07:00+00:00",
+      "timestamp": 1794996420,
+      "summary": "Adebayo (hip) is available for Wednesday's game against the Bucks. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "RJ Barrett: Questionable to face Washington",
+      "url": "https://www.rotowire.com//basketball/player/rj-barrett-4767",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-11-18T09:49:00+00:00",
+      "timestamp": 1794995340,
+      "summary": "Barrett is questionable for Wednesday's game against the Wizards due to hamstring tightness, Esfandiar Baraheni of The Athletic reports. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Bryce Miller: Sent to Kansas City in trade",
+      "url": "https://www.rotowire.com//baseball/player/bryce-miller-17377",
+      "source": "RotoWire",
+      "sport": "Fantasy MLB",
+      "published": "2026-11-18T08:27:00+00:00",
+      "timestamp": 1794990420,
+      "summary": "The Royals acquired Miller, Logan Evans (elbow) and Jose Ferrer from the Mariners on Wednesday in exchange for Maikel Garcia, James McArthur and L.P. Langevin, Jeff Passan of ESPN.com reports...."
+    },
+    {
+      "title": "Maikel Garcia: Traded to Seattle in six-player deal",
+      "url": "https://www.rotowire.com//baseball/player/maikel-garcia-17707",
+      "source": "RotoWire",
+      "sport": "Fantasy MLB",
+      "published": "2026-11-18T08:17:00+00:00",
+      "timestamp": 1794989820,
+      "summary": "The Mariners acquired Garcia, James McArthur and L.P. Langevin from the Royals on Wednesday in exchange for Bryce Miller, Logan Evans (elbow) and Jose Ferrer, Jeff Passan of ESPN.com reports...."
+    },
+    {
+      "title": "Brandon Lowe: Grabs Silver Slugger at 2B",
+      "url": "https://www.rotowire.com//baseball/player/brandon-lowe-13897",
+      "source": "RotoWire",
+      "sport": "Fantasy MLB",
+      "published": "2026-11-18T08:02:00+00:00",
+      "timestamp": 1794988920,
+      "summary": "Lowe was named the National League Silver Slugger for second base Tuesday. Visit RotoWire.com for more analysis on this update."
+    },
     {
       "title": "Let's Stream Defenses: Week 11 (2026 Fantasy Football)",
       "url": "https://www.fantasypros.com/2026/11/lets-stream-defenses-week-11-2026-fantasy-football/",
@@ -80,157 +224,13 @@
       "summary": "Week 10 of the 2026 NFL season is in the books. Hopefully, your fantasy team earned a victory. However, the only easy win came last week. So, let's look at the top streaming quarterback options..."
     },
     {
-      "title": "Fantasy Football Running Back Handcuff Rankings: Week 11 (2026)",
-      "url": "https://www.fantasypros.com/2026/11/fantasy-football-running-back-handcuff-rankings-week-11-2026/",
-      "source": "FantasyPros",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-17T12:10:43+00:00",
-      "timestamp": 1794917443,
-      "summary": "This week, we have only one major injury to worry about, but a few handcuffs popped off - most notably Emmett Johnson. We also had Blake Corum score a touchdown in his sixth consecutive game, and..."
-    },
-    {
-      "title": "Fantasy Football Rankings: Week 11 (2026)",
-      "url": "https://www.fantasypros.com/2026/11/fantasy-football-rankings-week-11-2026/",
-      "source": "FantasyPros",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-17T12:10:37+00:00",
-      "timestamp": 1794917437,
-      "summary": "Here are our fantasy football rankings from our analysts. You can find our expert consensus fantasy football rankings for the week here. And you can also sync your fantasy football league for free..."
-    },
-    {
-      "title": "Keyonte George: Double-doubles in win",
-      "url": "https://www.rotowire.com//basketball/player/keyonte-george-5899",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-11-17T10:03:00+00:00",
-      "timestamp": 1794909780,
-      "summary": "George popped off for 30 points (10-17 FG, 4-8 3Pt, 6-6 FT), 11 assists, two rebounds and two blocks over 35 minutes in Tuesday's 132-107 win over the Clippers. Visit RotoWire.com for more..."
-    },
-    {
-      "title": "Draymond Green: Questionable for Wednesday",
-      "url": "https://www.rotowire.com//basketball/player/draymond-green-3299",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-11-17T09:49:00+00:00",
-      "timestamp": 1794908940,
-      "summary": "Green is questionable for Wednesday's game in Dallas due to inflammation in his right elbow. Visit RotoWire.com for more analysis on this update."
-    },
-    {
       "title": "Matt Olson: Notches second Silver Slugger",
       "url": "https://www.rotowire.com//baseball/player/matt-olson-12498",
       "source": "RotoWire",
       "sport": "Fantasy MLB",
       "published": "2026-11-17T09:23:00+00:00",
       "timestamp": 1794907380,
-      "summary": "Olson was named the National League Silver Slugger for first base Tuesday. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Riley Greene: Wins another Silver Slugger",
-      "url": "https://www.rotowire.com//baseball/player/riley-greene-16044",
-      "source": "RotoWire",
-      "sport": "Fantasy MLB",
-      "published": "2026-11-17T08:47:00+00:00",
-      "timestamp": 1794905220,
-      "summary": "Greene was awarded an American League Silver Slugger for the outfield Tuesday. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Bobby Witt: Wins third straight Silver Slugger",
-      "url": "https://www.rotowire.com//baseball/player/bobby-witt-16040",
-      "source": "RotoWire",
-      "sport": "Fantasy MLB",
-      "published": "2026-11-17T08:35:00+00:00",
-      "timestamp": 1794904500,
-      "summary": "Witt was awarded the American League Silver Slugger at shortstop Tuesday. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Pete Alonso: Secures second Silver Slugger",
-      "url": "https://www.rotowire.com//baseball/player/pete-alonso-14300",
-      "source": "RotoWire",
-      "sport": "Fantasy MLB",
-      "published": "2026-11-17T08:31:00+00:00",
-      "timestamp": 1794904260,
-      "summary": "Alonso was awarded the American League Silver Slugger for first base Tuesday. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Cade Cunningham: Scores team-high 27 points in win",
-      "url": "https://www.rotowire.com//basketball/player/cade-cunningham-5336",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-11-17T08:13:00+00:00",
-      "timestamp": 1794903180,
-      "summary": "Cunningham posted 27 points (12-25 FG, 1-4 3Pt, 2-3 FT), five rebounds, six assists and one block across 38 minutes in Tuesday's 105-93 win over the Spurs. Visit RotoWire.com for more analysis on..."
-    },
-    {
-      "title": "Ayo Dosunmu: Scores season-high 30 points in win",
-      "url": "https://www.rotowire.com//basketball/player/ayo-dosunmu-5337",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-11-17T08:01:00+00:00",
-      "timestamp": 1794902460,
-      "summary": "Dosunmu provided 30 points (11-19 FG, 7-11 3Pt, 1-2 FT), four rebounds, five assists and one steal across 39 minutes during Tuesday's 106-105 victory over Portland. Visit RotoWire.com for more..."
-    },
-    {
-      "title": "Victor Wembanyama: Double-doubles in loss",
-      "url": "https://www.rotowire.com//basketball/player/victor-wembanyama-5809",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-11-17T08:01:00+00:00",
-      "timestamp": 1794902460,
-      "summary": "Wembanyama racked up 25 points (11-23 FG, 1-8 3Pt, 2-2 FT), 18 rebounds, four assists, one steal and one block over 34 minutes in Tuesday's 105-93 loss to the Pistons. Visit RotoWire.com for more..."
-    },
-    {
-      "title": "Jace Jung: Booted from 40-man roster",
-      "url": "https://www.rotowire.com//baseball/player/jace-jung-17929",
-      "source": "RotoWire",
-      "sport": "Fantasy MLB",
-      "published": "2026-11-17T03:36:00+00:00",
-      "timestamp": 1794886560,
-      "summary": "The Tigers designated Jung for assignment on Tuesday, Evan Woodbery of MLive.com reports. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Baker Mayfield: 'Trending' toward sitting Week 11",
-      "url": "https://www.rotowire.com//football/player/baker-mayfield-12619",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-17T02:48:00+00:00",
-      "timestamp": 1794883680,
-      "summary": "Mayfield (foot) \"seems to be trending\" toward sitting out Sunday's game against the Lions, with Jalon Daniels likely to draw the Week 11 start, Ian Rapoport of NFL Network reports. Visit..."
-    },
-    {
-      "title": "Jalon Daniels: Could be headed for Week 11 start",
-      "url": "https://www.rotowire.com//football/player/jalon-daniels-19292",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-17T02:43:00+00:00",
-      "timestamp": 1794883380,
-      "summary": "Daniels \"seems to be trending\" toward drawing the start at quarterback for the Buccaneers on Sunday in Detroit while Baker Mayfield tends to a foot strain, Ian Rapoport of NFL Network reports...."
-    },
-    {
-      "title": "Marvin Harrison: Sits out practice again",
-      "url": "https://www.rotowire.com//football/player/marvin-harrison-17674",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-17T02:01:00+00:00",
-      "timestamp": 1794880860,
-      "summary": "Harrison (hamstring) was a non-participant in Tuesday's practice. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Woody Marks: Sits out another practice",
-      "url": "https://www.rotowire.com//football/player/woody-marks-18449",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-17T02:00:00+00:00",
-      "timestamp": 1794880800,
-      "summary": "Marks (concussion) didn't practice Tuesday. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Wan'Dale Robinson: Heads to IR with ankle injury",
-      "url": "https://www.rotowire.com//football/player/wandale-robinson-15838",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-17T01:26:00+00:00",
-      "timestamp": 1794878760,
-      "summary": "The Titans placed Robinson (ankle) on injured reserve Tuesday, Jim Wyatt of the team's official site reports. Visit RotoWire.com for more analysis on this update."
+      "summary": "Olson was awarded the National League Silver Slugger for first base Tuesday. Visit RotoWire.com for more analysis on this update."
     }
   ]
 }
