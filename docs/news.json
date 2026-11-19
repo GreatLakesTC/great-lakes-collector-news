@@ -1,13 +1,209 @@
 {
-  "updated_at": "2026-11-18T20:33:41.923839+00:00",
+  "updated_at": "2026-11-19T07:28:31.757700+00:00",
   "count": 30,
   "articles": [
     {
-      "title": "Intra-division trade sends catcher Fortes to Red Sox from Rays",
-      "url": "https://www.mlb.com/news/nick-fortes-red-sox-rays-trade",
+      "title": "This winter's most buzzworthy trade candidates, around the diamond",
+      "url": "https://www.mlb.com/news/trade-candidates-2027-mlb-offseason-every-position",
       "source": "MLB",
-      "published": "Wed, 18 Nov 2026 20:03:00 GMT",
-      "timestamp": 1795032180.0
+      "published": "Thu, 19 Nov 2026 03:02:13 GMT",
+      "timestamp": 1795057333.0
+    },
+    {
+      "title": "After challenging rookie campaign, Canady excited for 2nd season in AUSL",
+      "url": "https://www.mlb.com/news/nijaree-canady-excited-for-second-season-in-ausl",
+      "source": "MLB",
+      "published": "Thu, 19 Nov 2026 03:01:26 GMT",
+      "timestamp": 1795057286.0
+    },
+    {
+      "title": "Keelon Russell/Lotzeir Brooks - 2026 Panini Instant NIL",
+      "url": "https://insider.cards/story/keelon-russell-lotzeir-brooks-2026-panini-instant-nil-0fd8c6/",
+      "source": "Hobby",
+      "published": "Thu, 19 Nov 2026 02:14:17 +0000",
+      "timestamp": 1795054457.0
+    },
+    {
+      "title": "J'Koby Williams - 2026 Panini Instant NIL College Football",
+      "url": "https://insider.cards/story/jkoby-williams-2026-panini-instant-nil-college-football-7de93f/",
+      "source": "Hobby",
+      "published": "Thu, 19 Nov 2026 02:14:06 +0000",
+      "timestamp": 1795054446.0
+    },
+    {
+      "title": "Cooper Barkate - 2026 Panini Instant NIL College Football",
+      "url": "https://insider.cards/story/cooper-barkate-2026-panini-instant-nil-college-football-9bc67e/",
+      "source": "Hobby",
+      "published": "Thu, 19 Nov 2026 02:14:04 +0000",
+      "timestamp": 1795054444.0
+    },
+    {
+      "title": "Caleb Holt - 2026-27 Panini Instant NIL College Basketball",
+      "url": "https://insider.cards/story/caleb-holt-2026-27-panini-instant-nil-college-basketball-cb662a/",
+      "source": "Hobby",
+      "published": "Thu, 19 Nov 2026 02:14:02 +0000",
+      "timestamp": 1795054442.0
+    },
+    {
+      "title": "Darian Mensah - 2026 Panini Instant NIL College Football",
+      "url": "https://insider.cards/story/darian-mensah-2026-panini-instant-nil-college-football-e01a85/",
+      "source": "Hobby",
+      "published": "Thu, 19 Nov 2026 02:14:02 +0000",
+      "timestamp": 1795054442.0
+    },
+    {
+      "title": "Tyran Stokes - 2026-27 Panini Instant NIL College",
+      "url": "https://insider.cards/story/tyran-stokes-2026-27-panini-instant-nil-college-965346/",
+      "source": "Hobby",
+      "published": "Thu, 19 Nov 2026 02:14:01 +0000",
+      "timestamp": 1795054441.0
+    },
+    {
+      "title": "Dylan Raiola - 2026 Panini Instant NIL College Football",
+      "url": "https://insider.cards/story/dylan-raiola-2026-panini-instant-nil-college-football-44a6c5/",
+      "source": "Hobby",
+      "published": "Thu, 19 Nov 2026 02:13:57 +0000",
+      "timestamp": 1795054437.0
+    },
+    {
+      "title": "Nate Frazier - 2026 Panini Instant NIL College Football",
+      "url": "https://insider.cards/story/nate-frazier-2026-panini-instant-nil-college-football-06a33a/",
+      "source": "Hobby",
+      "published": "Thu, 19 Nov 2026 02:13:57 +0000",
+      "timestamp": 1795054437.0
+    },
+    {
+      "title": "Bear Bachmeier - 2026 Panini Instant NIL College Football",
+      "url": "https://insider.cards/story/bear-bachmeier-2026-panini-instant-nil-college-football-f758b9/",
+      "source": "Hobby",
+      "published": "Thu, 19 Nov 2026 02:13:54 +0000",
+      "timestamp": 1795054434.0
+    },
+    {
+      "title": "KJ Jackson - 2026 Panini Instant NIL College Football",
+      "url": "https://insider.cards/story/kj-jackson-2026-panini-instant-nil-college-football-8e344c/",
+      "source": "Hobby",
+      "published": "Thu, 19 Nov 2026 02:13:54 +0000",
+      "timestamp": 1795054434.0
+    },
+    {
+      "title": "Marcus Stokes - 2026 Panini Instant NIL College Football",
+      "url": "https://insider.cards/story/marcus-stokes-2026-panini-instant-nil-college-football-c7923b/",
+      "source": "Hobby",
+      "published": "Thu, 19 Nov 2026 02:13:40 +0000",
+      "timestamp": 1795054420.0
+    },
+    {
+      "title": "Jeremy Fears Jr. - 2026-27 Panini Instant NIL College",
+      "url": "https://insider.cards/story/jeremy-fears-jr-2026-27-panini-instant-nil-college-61441e/",
+      "source": "Hobby",
+      "published": "Thu, 19 Nov 2026 02:13:40 +0000",
+      "timestamp": 1795054420.0
+    },
+    {
+      "title": "NFL Week 11 injury report: Latest update on Chiefs' Kenneth Walker III; Lions' Kerby Joseph practices fully",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-11-injury-report-chiefs-kenneth-walker-iii-lions-kerby-joseph/",
+      "source": "CBS NFL",
+      "published": "Thu, 19 Nov 2026 01:17:02 +0000",
+      "timestamp": 1795051022.0
+    },
+    {
+      "title": "Why did Taylor seek move to White Sox rotation? 'I want to win ballgames'",
+      "url": "https://www.mlb.com/news/grant-taylor-discusses-white-sox-rotation",
+      "source": "MLB",
+      "published": "Thu, 19 Nov 2026 00:10:20 GMT",
+      "timestamp": 1795047020.0
+    },
+    {
+      "title": "12 sleeper prospects who earned 40-man roster spots",
+      "url": "https://www.mlb.com/news/top-sleeper-prospects-added-to-40-man-rosters-2026",
+      "source": "MLB",
+      "published": "Thu, 19 Nov 2026 00:00:00 GMT",
+      "timestamp": 1795046400.0
+    },
+    {
+      "title": "Brief Box Break: 2026-27 Topps Flagship Basketball Hanger",
+      "url": "https://insider.cards/story/brief-box-break-2026-27-topps-flagship-basketball-hanger-692f0e/",
+      "source": "Hobby",
+      "published": "Wed, 18 Nov 2026 23:50:23 +0000",
+      "timestamp": 1795045823.0
+    },
+    {
+      "title": "Giants' Cam Skattebo to halt backflip celebrations after Aidan Hutchinson jumping celebration injury",
+      "url": "https://www.cbssports.com/nfl/news/giants-cam-skattebo-backflip-celebrations-aidan-hutchinson-injury/",
+      "source": "CBS NFL",
+      "published": "Wed, 18 Nov 2026 23:43:27 +0000",
+      "timestamp": 1795045407.0
+    },
+    {
+      "title": "Sarah Strong - 2026-27 Panini Instant NIL College",
+      "url": "https://insider.cards/story/sarah-strong-2026-27-panini-instant-nil-college-c47378/",
+      "source": "Hobby",
+      "published": "Wed, 18 Nov 2026 22:22:39 +0000",
+      "timestamp": 1795040559.0
+    },
+    {
+      "title": "Austin Goosby - 2026-27 Panini Instant NIL College",
+      "url": "https://insider.cards/story/austin-goosby-2026-27-panini-instant-nil-college-ec694e/",
+      "source": "Hobby",
+      "published": "Wed, 18 Nov 2026 22:22:33 +0000",
+      "timestamp": 1795040553.0
+    },
+    {
+      "title": "Kaden Honeycutt - 2026 Panini Instant NASCAR #107",
+      "url": "https://insider.cards/story/kaden-honeycutt-2026-panini-instant-nascar-107-ddfdef/",
+      "source": "Hobby",
+      "published": "Wed, 18 Nov 2026 22:22:25 +0000",
+      "timestamp": 1795040545.0
+    },
+    {
+      "title": "Kaden Honeycutt - 2026 Panini Instant NASCAR #106",
+      "url": "https://insider.cards/story/kaden-honeycutt-2026-panini-instant-nascar-106-3ce84d/",
+      "source": "Hobby",
+      "published": "Wed, 18 Nov 2026 22:22:16 +0000",
+      "timestamp": 1795040536.0
+    },
+    {
+      "title": "Royals-Mariners blockbuster: All-Star 3B Garcia traded to Seattle in 6-player swap",
+      "url": "https://www.mlb.com/news/maikel-garcia-traded-from-royals-to-mariners",
+      "source": "MLB",
+      "published": "Wed, 18 Nov 2026 22:07:00 GMT",
+      "timestamp": 1795039620.0
+    },
+    {
+      "title": "2026-27 MLB free agent tracker: Tarik Skubal, Jazz Chisholm Jr., Randy Arozarena and more available players",
+      "url": "https://www.cbssports.com/mlb/news/mlb-free-agent-tracker-2026-27/",
+      "source": "CBS MLB",
+      "published": "Wed, 18 Nov 2026 21:46:43 +0000",
+      "timestamp": 1795038403.0
+    },
+    {
+      "title": "Sonny Gray returns to Twins on two-year, $55 million contract, per report",
+      "url": "https://www.cbssports.com/mlb/news/sonny-gray-twins-free-agency-contract/",
+      "source": "CBS MLB",
+      "published": "Wed, 18 Nov 2026 21:36:38 +0000",
+      "timestamp": 1795037798.0
+    },
+    {
+      "title": "A meal fit for a home run king? Brewers prospect goes viral with massive sandwich",
+      "url": "https://www.mlb.com/news/brewers-prospect-andrew-fischer-creates-viral-italian-deli-sandwich",
+      "source": "MLB",
+      "published": "Wed, 18 Nov 2026 21:31:00 GMT",
+      "timestamp": 1795037460.0
+    },
+    {
+      "title": "Royals trade former All-Star Garcia to Mariners for package headlined by Bryce Miller",
+      "url": "https://www.mlb.com/news/bryce-miller-royals-mariners-trade",
+      "source": "MLB",
+      "published": "Wed, 18 Nov 2026 21:05:00 GMT",
+      "timestamp": 1795035900.0
+    },
+    {
+      "title": "Hot Stove Rumors: Blue Jays, Skubal, Walker, new trade targets",
+      "url": "https://www.mlb.com/news/mlb-rumors-and-2026-27-free-agent-news-november-18",
+      "source": "MLB",
+      "published": "Wed, 18 Nov 2026 20:50:00 GMT",
+      "timestamp": 1795035000.0
     },
     {
       "title": "NBA Power Rankings: The LaMelo Ball effect is being felt in two places; Lakers take top spot from Spurs",
@@ -15,202 +211,6 @@
       "source": "CBS NBA",
       "published": "Wed, 18 Nov 2026 19:37:50 +0000",
       "timestamp": 1795030670.0
-    },
-    {
-      "title": "NBA MVP Rankings: Luka Dončić, Victor Wembanyama in a two-horse race; Stephen Curry's absence speaks volumes",
-      "url": "https://www.cbssports.com/nba/news/nba-mvp-rankings-luka-doncic-victor-wembanyama-stephen-curry/",
-      "source": "CBS NBA",
-      "published": "Wed, 18 Nov 2026 19:36:14 +0000",
-      "timestamp": 1795030574.0
-    },
-    {
-      "title": "Royals-Mariners blockbuster: All-Star 3B Garcia traded to Seattle in 6-player swap",
-      "url": "https://www.mlb.com/news/maikel-garcia-traded-from-royals-to-mariners",
-      "source": "MLB",
-      "published": "Wed, 18 Nov 2026 18:41:00 GMT",
-      "timestamp": 1795027260.0
-    },
-    {
-      "title": "Week 11 QB Power Rankings: Patrick Mahomes a big riser, while Packers' Jordan Love plummets",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-11-qb-power-rankings-joe-burrow-patrick-mahomes-jordan-love/",
-      "source": "CBS NFL",
-      "published": "Wed, 18 Nov 2026 18:22:52 +0000",
-      "timestamp": 1795026172.0
-    },
-    {
-      "title": "World Series-winning skipper hitting the road for 'The Pat Murphy Tour'",
-      "url": "https://www.mlb.com/news/pat-murphy-touring-wisconsin-after-winning-world-series",
-      "source": "MLB",
-      "published": "Wed, 18 Nov 2026 17:54:08 GMT",
-      "timestamp": 1795024448.0
-    },
-    {
-      "title": "Hot Stove Rumors: Blue Jays, Skubal, Walker, new trade targets",
-      "url": "https://www.mlb.com/news/mlb-rumors-and-2026-27-free-agent-news-november-18",
-      "source": "MLB",
-      "published": "Wed, 18 Nov 2026 17:48:39 GMT",
-      "timestamp": 1795024119.0
-    },
-    {
-      "title": "Brewers add No. 10 prospect Williams, 5 others to 40-man roster",
-      "url": "https://www.mlb.com/news/brewers-add-prospect-jett-williams-to-40-man-roster",
-      "source": "MLB",
-      "published": "Wed, 18 Nov 2026 17:41:00 GMT",
-      "timestamp": 1795023660.0
-    },
-    {
-      "title": "Royals swing big trade with Mariners headlined by Bryce Miller",
-      "url": "https://www.mlb.com/news/bryce-miller-royals-mariners-trade",
-      "source": "MLB",
-      "published": "Wed, 18 Nov 2026 17:32:00 GMT",
-      "timestamp": 1795023120.0
-    },
-    {
-      "title": "Maikel Garcia trade grades: Mariners land Gold Glove infielder; Royals get pitching help, but with huge risks",
-      "url": "https://www.cbssports.com/mlb/news/maikel-garcia-trade-grades-mariners-royals/",
-      "source": "CBS MLB",
-      "published": "Wed, 18 Nov 2026 17:31:56 +0000",
-      "timestamp": 1795023116.0
-    },
-    {
-      "title": "Silver Slugger caps breakout year for Meidroth, White Sox",
-      "url": "https://www.mlb.com/news/chase-meidroth-discusses-winning-silver-slugger-award",
-      "source": "MLB",
-      "published": "Wed, 18 Nov 2026 16:29:17 GMT",
-      "timestamp": 1795019357.0
-    },
-    {
-      "title": "Why Jaguars' Trevor Lawrence has legitimate 2026 NFL MVP case, is destined to win one at some point",
-      "url": "https://www.cbssports.com/nfl/news/jaguars-trevor-lawrence-legitimate-2026-nfl-mvp-case-destined-win-one-some-point/",
-      "source": "CBS NFL",
-      "published": "Wed, 18 Nov 2026 16:08:33 +0000",
-      "timestamp": 1795018113.0
-    },
-    {
-      "title": "Re-grading the Giannis Antetokounmpo trade: Why the Heat and Bucks both look much worse now",
-      "url": "https://www.cbssports.com/nba/news/regrading-giannis-antetokounmpo-trade-heat-bucks/",
-      "source": "CBS NBA",
-      "published": "Wed, 18 Nov 2026 14:15:41 +0000",
-      "timestamp": 1795011341.0
-    },
-    {
-      "title": "2026 Topps Gilded Collection Baseball Product History",
-      "url": "https://insider.cards/story/2026-topps-gilded-collection-baseball-product-history-2128dc/",
-      "source": "Hobby",
-      "published": "Wed, 18 Nov 2026 14:08:06 +0000",
-      "timestamp": 1795010886.0
-    },
-    {
-      "title": "Cardlines Break Auctions Ending Wednesday: 2026 Bowman NFL Blaster Boxes, 2026 ONIT Gravity Hobby Boxes, 2025 Panini Zenith NFL Cello Boxes",
-      "url": "https://insider.cards/story/cardlines-break-auctions-ending-wednesday-2026-topps-2-fanatics-mlb-8a44d7/",
-      "source": "Hobby",
-      "published": "Wed, 18 Nov 2026 06:19:29 +0000",
-      "timestamp": 1794982769.0
-    },
-    {
-      "title": "Vladdy gets traded -- in Dominican Winter League",
-      "url": "https://www.mlb.com/news/vladimir-guerrero-jr-dominican-winter-league-trade",
-      "source": "MLB",
-      "published": "Wed, 18 Nov 2026 02:52:08 GMT",
-      "timestamp": 1794970328.0
-    },
-    {
-      "title": "These ranked prospects got 40-man roster spots",
-      "url": "https://www.mlb.com/news/rule-5-draft-prospects-protected-on-40-man-roster-2026",
-      "source": "MLB",
-      "published": "Wed, 18 Nov 2026 02:15:00 GMT",
-      "timestamp": 1794968100.0
-    },
-    {
-      "title": "Jazz vs. Clippers NBA picks Tuesday: Injury-ravaged Utah could tie third-longest losing skid in team history",
-      "url": "https://www.cbssports.com/betting/news/jazz-vs-clippers-nba-picks-tuesday-injury-ravaged-utah-could-tie-third-longest-losing-skid-in-team-history/",
-      "source": "CBS NBA",
-      "published": "Wed, 18 Nov 2026 02:01:01 +0000",
-      "timestamp": 1794967261.0
-    },
-    {
-      "title": "Bednar returning to Yankees after accepting qualifying offer",
-      "url": "https://www.mlb.com/news/david-bednar-accepts-yankees-qualifying-offer",
-      "source": "MLB",
-      "published": "Tue, 17 Nov 2026 22:54:00 GMT",
-      "timestamp": 1794956040.0
-    },
-    {
-      "title": "2026-27 MLB free agent tracker: Tarik Skubal, Jazz Chisholm Jr., Randy Arozarena and more available players",
-      "url": "https://www.cbssports.com/mlb/news/mlb-free-agent-tracker-2026-27/",
-      "source": "CBS MLB",
-      "published": "Tue, 17 Nov 2026 21:11:31 +0000",
-      "timestamp": 1794949891.0
-    },
-    {
-      "title": "2026 Topps Chrome Football MVP Buyback Program",
-      "url": "https://insider.cards/story/2026-topps-chrome-football-mvp-buyback-program-b448ae/",
-      "source": "Hobby",
-      "published": "Tue, 17 Nov 2026 20:57:42 +0000",
-      "timestamp": 1794949062.0
-    },
-    {
-      "title": "Jake Bauers signs four-year, $58 million deal with Red Sox after helping lead Brewers to World Series",
-      "url": "https://www.cbssports.com/mlb/news/jake-bauers-contract-red-sox-brewers-mlb-free-agency/",
-      "source": "CBS MLB",
-      "published": "Tue, 17 Nov 2026 19:18:54 +0000",
-      "timestamp": 1794943134.0
-    },
-    {
-      "title": "2026 Topps Chrome Football Product History",
-      "url": "https://insider.cards/story/2026-topps-chrome-football-preview-rookies-refractors-and-release-date-3aed4f/",
-      "source": "Hobby",
-      "published": "Tue, 17 Nov 2026 18:57:41 +0000",
-      "timestamp": 1794941861.0
-    },
-    {
-      "title": "Texans' Azeez Al-Shaair reportedly facing surgery after move to injured reserve",
-      "url": "https://www.cbssports.com/nfl/news/texans-azeez-al-shaair-injury-surgery-ir-2026/",
-      "source": "CBS NFL",
-      "published": "Tue, 17 Nov 2026 17:44:35 +0000",
-      "timestamp": 1794937475.0
-    },
-    {
-      "title": "White Sox add Dustin May on three-year, $52.5 million contract after Cinderella 2026 season, per report",
-      "url": "https://www.cbssports.com/mlb/news/white-sox-dustin-may-free-agency-contract-rotation/",
-      "source": "CBS MLB",
-      "published": "Tue, 17 Nov 2026 16:30:44 +0000",
-      "timestamp": 1794933044.0
-    },
-    {
-      "title": "Believeland? Why the 6-4 Browns are on track to make the NFL playoffs despite troubling numbers",
-      "url": "https://www.cbssports.com/nfl/news/cleveland-browns-nfl-playoffs-2026-deshaun-watson/",
-      "source": "CBS NFL",
-      "published": "Tue, 17 Nov 2026 15:43:37 +0000",
-      "timestamp": 1794930217.0
-    },
-    {
-      "title": "NBA Rookie Rankings: Yaxel Lendeborg debuts at No. 1, Darryn Peterson making up ground in tight race",
-      "url": "https://www.cbssports.com/nba/news/nba-rookie-rankings-yaxel-lendeborg-darryn-peterson-nov-17/",
-      "source": "CBS NBA",
-      "published": "Tue, 17 Nov 2026 15:37:41 +0000",
-      "timestamp": 1794929861.0
-    },
-    {
-      "title": "Lions set to get key defensive player back in Week 11 in wake of Aidan Hutchinson injury",
-      "url": "https://www.cbssports.com/nfl/news/lions-kerby-joseph-set-to-return-week-11-buccaneers/",
-      "source": "CBS NFL",
-      "published": "Tue, 17 Nov 2026 15:04:43 +0000",
-      "timestamp": 1794927883.0
-    },
-    {
-      "title": "Six lessons learned from Week 10: Brock Purdy belongs in MVP race, John Harbaugh makes more poor decisions",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-10-results-brock-purdy-mvp-john-harbaugh/",
-      "source": "CBS NFL",
-      "published": "Tue, 17 Nov 2026 14:05:24 +0000",
-      "timestamp": 1794924324.0
-    },
-    {
-      "title": "Chargers' first win shakes up 2027 NFL Draft order; Texas climbs in college football Power Rankings",
-      "url": "https://www.cbssports.com/nfl/news/chargers-ravens-2027-nfl-draft-texas-college-football-power-rankings/",
-      "source": "CBS NBA",
-      "published": "Tue, 17 Nov 2026 14:03:01 +0000",
-      "timestamp": 1794924181.0
     }
   ]
 }
