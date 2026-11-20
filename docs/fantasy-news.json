@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T20:31:56.145393+00:00",
+  "updated_at": "2026-11-20T07:10:24.806003+00:00",
   "count": 25,
   "counts": {
     "Fantasy NFL": 15,
@@ -7,6 +7,15 @@
     "Fantasy MLB": 5
   },
   "articles": [
+    {
+      "title": "The 10 Most Intriguing Fantasy Players of Week 11 (2026)",
+      "url": "https://www.fantasypros.com/2026/11/the-10-most-intriguing-fantasy-players-of-week-11-2026/",
+      "source": "FantasyPros",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-20T05:19:33+00:00",
+      "timestamp": 1795151973,
+      "summary": "We all love the NFL, but sometimes it's unrequited love. Week 11 is a six-team bye week - the NFL's annual flipping of the bird to people who play fantasy football. Setting lineups will be a..."
+    },
     {
       "title": "Fantasy Football Week 11 Start/Sit Advice: 16 Sleepers & Busts (2026)",
       "url": "https://www.fantasypros.com/2026/11/fantasy-football-week-11-start-sit-advice-16-sleepers-busts-2026/",
@@ -71,15 +80,6 @@
       "summary": "The NFL Week 11 slate is gross, and that extends to the DFS main slate. Still, the game with the highest total on the slate is the most exciting to stack, and a matchup between division leaders is..."
     },
     {
-      "title": "Carnell Tate: Present for practice Thursday",
-      "url": "https://www.rotowire.com//football/player/carnell-tate-19268",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-19T12:21:00+00:00",
-      "timestamp": 1795090860,
-      "summary": "Tate (shoulder) was present for practice Thursday, Turron Davenport of ESPN.com reports. Visit RotoWire.com for more analysis on this update."
-    },
-    {
       "title": "6 Fantasy Football Lineup Landmines: Start/Sit Advice (Week 11)",
       "url": "https://www.fantasypros.com/2026/11/6-fantasy-football-lineup-landmines-start-sit-advice-week-11/",
       "source": "FantasyPros",
@@ -95,97 +95,124 @@
       "sport": "Fantasy NFL",
       "published": "2026-11-19T12:16:35+00:00",
       "timestamp": 1795090595,
-      "summary": "Welcome to Week 11 of the fantasy football season. Today, we dive into six smash starts for Week 11 fantasy football lineups. However, first, let me explain how I differentiate a smash start..."
+      "summary": "Welcome to Week 11 of the fantasy football season. Today, we dive into six smash starts for Week 11. First, let me explain how I differentiate a smash-start player from a must-start player in..."
     },
     {
-      "title": "Fantasy Football Rankings: Most Accurate Experts (Week 11)",
-      "url": "https://www.fantasypros.com/2026/11/fantasy-football-rankings-most-accurate-experts-week-11-2026/",
-      "source": "FantasyPros",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-19T12:16:32+00:00",
-      "timestamp": 1795090592,
-      "summary": "Do you have difficult fantasy football start/sit lineup decisions to be made? A great way to get ready for the week is to use our FREE Who Should I Start tool! Beyond that, you can check out our..."
-    },
-    {
-      "title": "Mike Evans: In uniform Thursday",
-      "url": "https://www.rotowire.com//football/player/mike-evans-9253",
+      "title": "Tyler Warren: Good yardage on one catch",
+      "url": "https://www.rotowire.com//football/player/tyler-warren-18534",
       "source": "RotoWire",
       "sport": "Fantasy NFL",
-      "published": "2026-11-19T12:13:00+00:00",
-      "timestamp": 1795090380,
-      "summary": "Evans (Achilles) is suited up for Thursday's practice, Cam Inman of The San Jose Mercury News reports. Visit RotoWire.com for more analysis on this update."
+      "published": "2026-11-19T09:06:00+00:00",
+      "timestamp": 1795079160,
+      "summary": "Warren brought in one of five targets for 22 yards in the Colts' 26-3 loss to the Texans on Thursday. Visit RotoWire.com for more analysis on this update."
     },
     {
-      "title": "Darren Waller: Limited Thursday",
-      "url": "https://www.rotowire.com//football/player/darren-waller-10215",
+      "title": "Daniel Jones: Another forgettable performance in loss",
+      "url": "https://www.rotowire.com//football/player/daniel-jones-13491",
       "source": "RotoWire",
       "sport": "Fantasy NFL",
-      "published": "2026-11-19T12:08:00+00:00",
-      "timestamp": 1795090080,
-      "summary": "Waller (knee) was a limited participant in Thursday's practice, Mike Kaye of ESPN reports. Visit RotoWire.com for more analysis on this update."
+      "published": "2026-11-19T09:02:00+00:00",
+      "timestamp": 1795078920,
+      "summary": "Jones completed 12 of 27 passes for 144 yards with no touchdowns and one interception and rushed once for three yards in the Colts' 26-3 loss to the Texans on Thursday before being replaced by..."
     },
     {
-      "title": "Dylan Harper: Out multiple weeks with hip strain",
-      "url": "https://www.rotowire.com//basketball/player/dylan-harper-6549",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-11-19T12:07:00+00:00",
-      "timestamp": 1795090020,
-      "summary": "Harper (hip) is expected to miss two to three weeks, Brett Siegel of ClutchPoints.com reports. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Dalton Kincaid: Sidelined for Thursday's practice",
-      "url": "https://www.rotowire.com//football/player/dalton-kincaid-16697",
+      "title": "C.J. Stroud: Keeps piling up TDs in win",
+      "url": "https://www.rotowire.com//football/player/cj-stroud-16886",
       "source": "RotoWire",
       "sport": "Fantasy NFL",
-      "published": "2026-11-19T11:43:00+00:00",
-      "timestamp": 1795088580,
-      "summary": "Kincaid (thumb/ankle) wasn't spotted on the field for Thursday's practice, Joe Buscaglia of The Athletic reports. Visit RotoWire.com for more analysis on this update."
+      "published": "2026-11-19T08:53:00+00:00",
+      "timestamp": 1795078380,
+      "summary": "Stroud completed 21 of 26 passes for 194 yards with three touchdowns and one interception and rushed six times for 27 yards in the Texans' 26-3 win over the Colts on Thursday. Visit RotoWire.com..."
     },
     {
-      "title": "DeVonta Smith: Practicing again Thursday",
-      "url": "https://www.rotowire.com//football/player/devonta-smith-15406",
+      "title": "Jonathan Taylor: Minimal production with 15 touches",
+      "url": "https://www.rotowire.com//football/player/jonathan-taylor-14455",
       "source": "RotoWire",
       "sport": "Fantasy NFL",
-      "published": "2026-11-19T11:42:00+00:00",
-      "timestamp": 1795088520,
-      "summary": "Smith (hamstring) is taking part in Thursday's practice, Andrew DiCecco of InsideTheBirds.com reports. Visit RotoWire.com for more analysis on this update."
+      "published": "2026-11-19T08:47:00+00:00",
+      "timestamp": 1795078020,
+      "summary": "Taylor rushed 11 times for 21 yards and brought in four of five targets for six yards in the Colts' 26-3 loss to the Texans on Thursday. Visit RotoWire.com for more analysis on this update."
     },
     {
-      "title": "Ryan Rollins: Cleared from injury report",
-      "url": "https://www.rotowire.com//basketball/player/ryan-rollins-5668",
+      "title": "Nico Collins: Gets into end zone Thursday",
+      "url": "https://www.rotowire.com//football/player/nico-collins-15200",
       "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-11-19T11:19:00+00:00",
-      "timestamp": 1795087140,
-      "summary": "Rollins (illness) is available for Thursday's game against Portland. Visit RotoWire.com for more analysis on this update."
+      "sport": "Fantasy NFL",
+      "published": "2026-11-19T08:42:00+00:00",
+      "timestamp": 1795077720,
+      "summary": "Collins secured three of five targets for 58 yards and a touchdown in the Texans' 26-3 win over the Colts on Thursday. Visit RotoWire.com for more analysis on this update."
     },
     {
-      "title": "Isaiah Stewart: Questionable with illness",
-      "url": "https://www.rotowire.com//basketball/player/isaiah-stewart-5137",
+      "title": "Darius Garland: Scores 23 points in loss",
+      "url": "https://www.rotowire.com//basketball/player/darius-garland-4749",
       "source": "RotoWire",
       "sport": "Fantasy NBA",
-      "published": "2026-11-19T11:12:00+00:00",
-      "timestamp": 1795086720,
-      "summary": "Stewart is questionable for Thursday's game against the Warriors due to an illness. Visit RotoWire.com for more analysis on this update."
+      "published": "2026-11-19T07:59:00+00:00",
+      "timestamp": 1795075140,
+      "summary": "Garland ended with 23 points (8-17 FG, 3-11 3Pt, 4-4 FT), five assists, two steals and one block over 35 minutes in Thursday's 124-112 loss to the Spurs. Visit RotoWire.com for more analysis on..."
     },
     {
-      "title": "Zach Edey: Sitting out Thursday",
-      "url": "https://www.rotowire.com//basketball/player/zach-edey-6263",
+      "title": "Nate Ament: Sniffs double-double in start",
+      "url": "https://www.rotowire.com//basketball/player/nate-ament-6965",
       "source": "RotoWire",
       "sport": "Fantasy NBA",
-      "published": "2026-11-19T11:09:00+00:00",
-      "timestamp": 1795086540,
-      "summary": "Edey (hip) has been ruled out for Thursday's game against the Warriors. Visit RotoWire.com for more analysis on this update."
+      "published": "2026-11-19T07:50:00+00:00",
+      "timestamp": 1795074600,
+      "summary": "Ament notched 18 points (6-11 FG, 2-5 3Pt, 4-4 FT) and nine rebounds in 35 minutes during Thursday's 124-114 loss to the Trail Blazers. Visit RotoWire.com for more analysis on this update."
     },
     {
-      "title": "Ty Jerome: Another absence coming",
-      "url": "https://www.rotowire.com//basketball/player/ty-jerome-4774",
+      "title": "Jaylen Wells: Leads all scorers Thursday",
+      "url": "https://www.rotowire.com//basketball/player/jaylen-wells-6305",
       "source": "RotoWire",
       "sport": "Fantasy NBA",
-      "published": "2026-11-19T11:07:00+00:00",
-      "timestamp": 1795086420,
-      "summary": "Jerome (hip) has been ruled out for Thursday's game against the Warriors. Visit RotoWire.com for more analysis on this update."
+      "published": "2026-11-19T07:45:00+00:00",
+      "timestamp": 1795074300,
+      "summary": "Wells finished with 22 points (8-10 FG, 4-5 3Pt, 2-2 FT) and seven rebounds across 24 minutes in Thursday's 126-98 win over the Warriors. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Victor Wembanyama: Drops 32-point double-double in win",
+      "url": "https://www.rotowire.com//basketball/player/victor-wembanyama-5809",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-11-19T07:41:00+00:00",
+      "timestamp": 1795074060,
+      "summary": "Wembanyama finished Thursday's 124-112 win over the Clippers with 32 points (13-26 FG, 2-7 3Pt, 4-4 FT), 11 rebounds, three assists, one steal and one block across 33 minutes. Visit RotoWire.com..."
+    },
+    {
+      "title": "Damian Lillard: Pops for 33 points in win",
+      "url": "https://www.rotowire.com//basketball/player/damian-lillard-3304",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-11-19T07:41:00+00:00",
+      "timestamp": 1795074060,
+      "summary": "Lillard tallied 33 points (10-18 FG, 5-12 3Pt, 8-9 FT) and six rebounds in 35 minutes during Thursday's 124-114 victory over Milwaukee. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Hunter Goodman: Recovering from shoulder surgery",
+      "url": "https://www.rotowire.com//baseball/player/hunter-goodman-17374",
+      "source": "RotoWire",
+      "sport": "Fantasy MLB",
+      "published": "2026-11-19T07:16:00+00:00",
+      "timestamp": 1795072560,
+      "summary": "Goodman underwent left shoulder surgery after last season but is expected to be ready for the start of spring training, Ken Rosenthal of The Athletic reports. Visit RotoWire.com for more analysis..."
+    },
+    {
+      "title": "Luis Castillo: Sent to Colorado in four-player deal",
+      "url": "https://www.rotowire.com//baseball/player/luis-castillo-14495",
+      "source": "RotoWire",
+      "sport": "Fantasy MLB",
+      "published": "2026-11-19T05:10:00+00:00",
+      "timestamp": 1795065000,
+      "summary": "The Rockies acquired Castillo and Davis Martin from the White Sox in exchange for Sean Sullivan and Douglas Veliz on Thursday, Jeff Passan of ESPN.com reports. Visit RotoWire.com for more analysis..."
+    },
+    {
+      "title": "Davis Martin: Dealt to Colorado",
+      "url": "https://www.rotowire.com//baseball/player/davis-martin-17886",
+      "source": "RotoWire",
+      "sport": "Fantasy MLB",
+      "published": "2026-11-19T05:02:00+00:00",
+      "timestamp": 1795064520,
+      "summary": "The Rockies acquired Martin and Luis Castillo from the White Sox in exchange for Sean Sullivan and Douglas Veliz on Thursday, Jeff Passan of ESPN.com reports. Visit RotoWire.com for more analysis..."
     },
     {
       "title": "Kyle Isbel: Booted off 40-man roster",
@@ -204,33 +231,6 @@
       "published": "2026-11-18T12:47:00+00:00",
       "timestamp": 1795006020,
       "summary": "The Twins signed Gray to a two-year, $55 million contract Wednesday, Jeff Passan of ESPN.com reports. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Jace Jung: Traded to Halos",
-      "url": "https://www.rotowire.com//baseball/player/jace-jung-17929",
-      "source": "RotoWire",
-      "sport": "Fantasy MLB",
-      "published": "2026-11-18T11:42:00+00:00",
-      "timestamp": 1795002120,
-      "summary": "The Angels acquired Jung from the Tigers on Wednesday in exchange for cash considerations. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Bryce Miller: Sent to Kansas City in trade",
-      "url": "https://www.rotowire.com//baseball/player/bryce-miller-17377",
-      "source": "RotoWire",
-      "sport": "Fantasy MLB",
-      "published": "2026-11-18T08:27:00+00:00",
-      "timestamp": 1794990420,
-      "summary": "The Royals acquired Miller, Logan Evans (elbow) and Jose Ferrer from the Mariners on Wednesday in exchange for Maikel Garcia, James McArthur and L.P. Langevin, Jeff Passan of ESPN.com reports...."
-    },
-    {
-      "title": "Maikel Garcia: Traded to Seattle in six-player deal",
-      "url": "https://www.rotowire.com//baseball/player/maikel-garcia-17707",
-      "source": "RotoWire",
-      "sport": "Fantasy MLB",
-      "published": "2026-11-18T08:17:00+00:00",
-      "timestamp": 1794989820,
-      "summary": "The Mariners acquired Garcia, James McArthur and L.P. Langevin from the Royals on Wednesday in exchange for Bryce Miller, Logan Evans (elbow) and Jose Ferrer, Jeff Passan of ESPN.com reports...."
     }
   ]
 }
