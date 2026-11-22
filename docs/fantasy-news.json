@@ -1,12 +1,21 @@
 {
-  "updated_at": "2026-11-21T19:11:42.854533+00:00",
-  "count": 23,
+  "updated_at": "2026-11-22T06:42:57.263134+00:00",
+  "count": 25,
   "counts": {
-    "Fantasy NFL": 14,
-    "Fantasy NBA": 4,
+    "Fantasy NFL": 15,
+    "Fantasy NBA": 5,
     "Fantasy MLB": 5
   },
   "articles": [
+    {
+      "title": "5 Fantasy Football Waiver Wire Stashes: Week 11 (2026)",
+      "url": "https://www.fantasypros.com/2026/11/5-fantasy-football-waiver-wire-stashes-week-11-2026/",
+      "source": "FantasyPros",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-21T20:24:42+00:00",
+      "timestamp": 1795292682,
+      "summary": "As we head into Week 11, one smart strategy is to stash players before Sunday's games. That way, you can get ahead of next week's fantasy football waiver wire rush. That's where this article comes..."
+    },
     {
       "title": "6 Fantasy Football Waiver Wire Pickups & Injury Replacements (Week 11)",
       "url": "https://www.fantasypros.com/2026/11/6-fantasy-football-waiver-wire-pickups-injury-replacements-week-11/",
@@ -26,40 +35,13 @@
       "summary": "The Primer is presented by Leaguebase. Leaguebase is the private clubhouse for the one league that actually matters: the one with a decade of rivalries and inside jokes behind it. Connect your..."
     },
     {
-      "title": "Ty Jerome: Cleared to play Saturday",
-      "url": "https://www.rotowire.com//basketball/player/ty-jerome-4774",
+      "title": "Draymond Green: Not listed on injury report",
+      "url": "https://www.rotowire.com//basketball/player/draymond-green-3299",
       "source": "RotoWire",
       "sport": "Fantasy NBA",
-      "published": "2026-11-21T11:01:00+00:00",
-      "timestamp": 1795258860,
-      "summary": "Jerome (hip) is available for Saturday's game against Minnesota. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Tyjae Spears: Lands on injured reserve",
-      "url": "https://www.rotowire.com//football/player/tyjae-spears-16941",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-21T10:45:00+00:00",
-      "timestamp": 1795257900,
-      "summary": "The Titans placed Spears (knee) on injured reserve Saturday, Jim Wyatt of the Titans' official site reports. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Josh Jacobs: Practicing Saturday",
-      "url": "https://www.rotowire.com//football/player/josh-jacobs-13582",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-21T10:30:00+00:00",
-      "timestamp": 1795257000,
-      "summary": "Jacobs (finger) is participating in Saturday's practice session, Bill Huber of SI.com reports. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Trey Murphy: Won't play Saturday",
-      "url": "https://www.rotowire.com//basketball/player/trey-murphy-5401",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-11-21T10:22:00+00:00",
-      "timestamp": 1795256520,
-      "summary": "Murphy (knee) has been ruled out for Saturday's game against the Spurs. Visit RotoWire.com for more analysis on this update."
+      "published": "2026-11-21T10:13:00+00:00",
+      "timestamp": 1795255980,
+      "summary": "Green (elbow) has been removed from the injury report ahead of Sunday's meeting with the Celtics. Visit RotoWire.com for more analysis on this update."
     },
     {
       "title": "A.J. Ewing: Lands eight-year extension with Mets",
@@ -71,40 +53,85 @@
       "summary": "Ewing and the Mets agreed to an eight-year contract extension Saturday, Chelsea Janes of SNY.tv reports. Visit RotoWire.com for more analysis on this update."
     },
     {
-      "title": "Rachaad White: Expected to play Monday",
-      "url": "https://www.rotowire.com//football/player/rachaad-white-15802",
+      "title": "Ty Jerome: Looks good in return",
+      "url": "https://www.rotowire.com//basketball/player/ty-jerome-4774",
       "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-21T09:53:00+00:00",
-      "timestamp": 1795254780,
-      "summary": "White (heel) is trending toward being available for Monday's game against the Bengals, Tashan Reed of The Washington Post reports. Visit RotoWire.com for more analysis on this update."
+      "sport": "Fantasy NBA",
+      "published": "2026-11-21T08:17:00+00:00",
+      "timestamp": 1795249020,
+      "summary": "Jerome closed with 18 points (7-17 FG, 3-9 3Pt, 1-1 FT), four rebounds, six assists and two steals in 27 minutes during Saturday's 104-95 loss to the Timberwolves. Visit RotoWire.com for more..."
     },
     {
-      "title": "Jacory Croskey-Merritt: Trending toward playing Monday",
+      "title": "Jalen Brunson: Nets game-high 30 points in win",
+      "url": "https://www.rotowire.com//basketball/player/jalen-brunson-4405",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-11-21T08:08:00+00:00",
+      "timestamp": 1795248480,
+      "summary": "Brunson supplied 30 points (11-23 FG, 6-10 3Pt, 2-3 FT), seven rebounds and five assists over 36 minutes during Saturday's 97-96 victory over Portland. Visit RotoWire.com for more analysis on this..."
+    },
+    {
+      "title": "Victor Wembanyama: Delivers historic performance in win",
+      "url": "https://www.rotowire.com//basketball/player/victor-wembanyama-5809",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-11-21T08:02:00+00:00",
+      "timestamp": 1795248120,
+      "summary": "Wembanyama finished with 50 points (20-29 FG, 5-11 3Pt, 5-6 FT), 19 rebounds, one assist, four steals and five blocks across 32 minutes in Saturday's 114-91 win over the Pelicans. Visit..."
+    },
+    {
+      "title": "Donovan Clingan: Double-doubles with two stocks",
+      "url": "https://www.rotowire.com//basketball/player/donovan-clingan-6254",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-11-21T07:57:00+00:00",
+      "timestamp": 1795247820,
+      "summary": "Clingan closed with 22 points (9-11 FG, 3-4 3Pt, 1-1 FT), 13 rebounds, four assists, one block and one steal across 31 minutes during Saturday's 97-96 loss to New York. Visit RotoWire.com for more..."
+    },
+    {
+      "title": "Puka Nacua: Out even for playoffs",
+      "url": "https://www.rotowire.com//football/player/puka-nacua-16790",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-21T05:26:00+00:00",
+      "timestamp": 1795238760,
+      "summary": "Nacua (knee) is expected to be sidelined 4-to-5 months after undergoing MCL surgery, which means he likely won't be able to return to action even if the Rams advance to the Super Bowl, Adam..."
+    },
+    {
+      "title": "Jacory Croskey-Merritt: Expected to return for MNF",
       "url": "https://www.rotowire.com//football/player/jacory-croskey-merritt-18811",
       "source": "RotoWire",
       "sport": "Fantasy NFL",
-      "published": "2026-11-21T09:50:00+00:00",
-      "timestamp": 1795254600,
-      "summary": "Croskey-Merritt (groin) is trending toward playing in Monday night's game against the Bengals, Nicki Jhabvala of The Athletic reports. Visit RotoWire.com for more analysis on this update."
+      "published": "2026-11-21T03:35:00+00:00",
+      "timestamp": 1795232100,
+      "summary": "Croskey-Merritt (groin) is slated to be activated from IR in time to play in Monday's game against the Bengals, Matt Zenitz of CBS Sports reports. Visit RotoWire.com for more analysis on this update."
     },
     {
-      "title": "Ryan Rollins: Moving to starting role",
-      "url": "https://www.rotowire.com//basketball/player/ryan-rollins-5668",
+      "title": "Kyren Williams: Dealing with sore toe",
+      "url": "https://www.rotowire.com//football/player/kyren-williams-15807",
       "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-11-21T09:38:00+00:00",
-      "timestamp": 1795253880,
-      "summary": "Rollins is in the starting lineup for Saturday's game against the 76ers. Visit RotoWire.com for more analysis on this update."
+      "sport": "Fantasy NFL",
+      "published": "2026-11-21T01:56:00+00:00",
+      "timestamp": 1795226160,
+      "summary": "Head coach Sean McVay said Saturday that Williams is tending to a sore toe but is expected to play Wednesday against the Packers, Sarah Barshop of ESPN reports. Visit RotoWire.com for more..."
     },
     {
-      "title": "Tyrese Maxey: Available Saturday",
-      "url": "https://www.rotowire.com//basketball/player/tyrese-maxey-5158",
+      "title": "Joe Burrow: Officially cleared for Monday Night Football",
+      "url": "https://www.rotowire.com//football/player/joe-burrow-14442",
       "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-11-21T09:27:00+00:00",
-      "timestamp": 1795253220,
-      "summary": "Maxey (foot) is available for Saturday's game against the Bucks, Austin Krell of OnPattison.com reports. Visit RotoWire.com for more analysis on this update."
+      "sport": "Fantasy NFL",
+      "published": "2026-11-21T01:31:00+00:00",
+      "timestamp": 1795224660,
+      "summary": "Burrow (illness) does not have an injury designation ahead of Monday's game against the Commanders. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Rachaad White: Questionable for Monday",
+      "url": "https://www.rotowire.com//football/player/rachaad-white-15802",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-21T01:22:00+00:00",
+      "timestamp": 1795224120,
+      "summary": "White (heel) is listed as questionable for Monday's game versus the Bengals. Visit RotoWire.com for more analysis on this update."
     },
     {
       "title": "Fantasy Football Week 11 Player Grades & Start/Sit Advice (2026)",
@@ -168,15 +195,6 @@
       "published": "2026-11-20T08:01:15+00:00",
       "timestamp": 1795161675,
       "summary": "Set your lineup with our Week 11 fantasy football rankings, featuring our analysts' top players at quarterback, running back, wide receiver, tight end, D/ST and kicker. Whether you're weighing..."
-    },
-    {
-      "title": "The 10 Most Intriguing Fantasy Players of Week 11 (2026)",
-      "url": "https://www.fantasypros.com/2026/11/the-10-most-intriguing-fantasy-players-of-week-11-2026/",
-      "source": "FantasyPros",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-20T05:19:33+00:00",
-      "timestamp": 1795151973,
-      "summary": "We all love the NFL, but sometimes it's unrequited love. Week 11 is a six-team bye week - the NFL's annual flipping of the bird to people who play fantasy football. Setting lineups will be a..."
     },
     {
       "title": "Bobby Miller: Sent to Minnesota",
