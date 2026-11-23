@@ -1,13 +1,146 @@
 {
-  "updated_at": "2026-11-22T19:42:32.100913+00:00",
+  "updated_at": "2026-11-23T07:41:46.016189+00:00",
   "count": 30,
   "articles": [
     {
-      "title": "MLB rumors: Scott Boras sets Tarik Skubal timeline, plus Red Sox eyeing former Rookie of the Year",
+      "title": "Examining Dodgers' rotation options after not re-signing Skubal",
+      "url": "https://www.mlb.com/news/dodgers-rotation-plans-without-tarik-skubal",
+      "source": "MLB",
+      "published": "Mon, 23 Nov 2026 02:31:27 GMT",
+      "timestamp": 1795401087.0
+    },
+    {
+      "title": "Rotation a 'blank canvas,' here are SD's options with Skubal no longer in play",
+      "url": "https://www.mlb.com/news/padres-starting-pitching-plans-after-missing-out-on-tarik-skubal",
+      "source": "MLB",
+      "published": "Mon, 23 Nov 2026 01:18:53 GMT",
+      "timestamp": 1795396733.0
+    },
+    {
+      "title": "Tarik Skubal signing with Mets: Two-time Cy Young winner lands historic nine-year, $450 million contract",
+      "url": "https://www.cbssports.com/mlb/news/tarik-skubal-mets-free-agency-contract/",
+      "source": "CBS MLB",
+      "published": "Mon, 23 Nov 2026 00:29:36 +0000",
+      "timestamp": 1795393776.0
+    },
+    {
+      "title": "These 7 teams have the prospects to swing a big trade this offseason",
+      "url": "https://www.mlb.com/news/mlb-teams-with-prospects-to-trade-offseason-2026",
+      "source": "MLB",
+      "published": "Mon, 23 Nov 2026 00:24:00 GMT",
+      "timestamp": 1795393440.0
+    },
+    {
+      "title": "2026-27 MLB free agent tracker: Mets land Tarik Skubal on nine-year, $450 million contract",
+      "url": "https://www.cbssports.com/mlb/news/mlb-free-agent-tracker-2026-27/",
+      "source": "CBS MLB",
+      "published": "Mon, 23 Nov 2026 00:23:18 +0000",
+      "timestamp": 1795393398.0
+    },
+    {
+      "title": "5 immediate takeaways from Skubal's deal with Mets",
+      "url": "https://www.mlb.com/news/takeaways-tarik-skubal-mets-contract",
+      "source": "MLB",
+      "published": "Mon, 23 Nov 2026 00:19:41 GMT",
+      "timestamp": 1795393181.0
+    },
+    {
+      "title": "What's next for the Mets after record-breaking deal with Tarik Skubal? Biggest needs for 2027",
+      "url": "https://www.cbssports.com/mlb/news/whats-next-for-mets-tarik-skubal-rotation-bullpen-first-baseman-extensions/",
+      "source": "CBS MLB",
+      "published": "Mon, 23 Nov 2026 00:12:31 +0000",
+      "timestamp": 1795392751.0
+    },
+    {
+      "title": "So you missed out on Tarik Skubal: The best starting pitchers still available through free agency, trade",
+      "url": "https://www.cbssports.com/mlb/news/mlb-starting-pitchers-available-free-agency-trade-tarik-skubal-suitors/",
+      "source": "CBS MLB",
+      "published": "Sun, 22 Nov 2026 23:51:39 +0000",
+      "timestamp": 1795391499.0
+    },
+    {
+      "title": "All the records broken by Tarik Skubal's nine-year, $450 million contract with the Mets",
+      "url": "https://www.cbssports.com/mlb/news/tarik-skubal-mets-free-agency-contract-records-total-value-aav/",
+      "source": "CBS MLB",
+      "published": "Sun, 22 Nov 2026 22:31:41 +0000",
+      "timestamp": 1795386701.0
+    },
+    {
+      "title": "Here are the largest free-agent contracts in MLB history",
+      "url": "https://www.mlb.com/news/largest-contracts-in-mlb-history-c300060780",
+      "source": "MLB",
+      "published": "Sun, 22 Nov 2026 22:28:00 GMT",
+      "timestamp": 1795386480.0
+    },
+    {
+      "title": "Derrick Henry injury: Ravens star RB clears concussion protocol after leaving game post-TD",
+      "url": "https://www.cbssports.com/nfl/news/derrick-henry-injury-ravens-star-rb-leaves-evaluated-concussion-after-scoring-touchdown/",
+      "source": "CBS NFL",
+      "published": "Sun, 22 Nov 2026 22:09:15 +0000",
+      "timestamp": 1795385355.0
+    },
+    {
+      "title": "Dwight Howard admits he told Magic not to trade for Stephen Curry before he became 'one of the greatest'",
+      "url": "https://www.cbssports.com/nba/news/dwight-howard-stephen-curry-trade-magic-monta-ellis/",
+      "source": "CBS NBA",
+      "published": "Sun, 22 Nov 2026 21:49:33 +0000",
+      "timestamp": 1795384173.0
+    },
+    {
+      "title": "Eagles' Jalen Hurts update: Super Bowl MVP QB has been in team facility, 'in good spirits'",
+      "url": "https://www.cbssports.com/nfl/news/eagles-jalen-hurts-update-super-bowl-mvp-qb-team-facility-good-spirits/",
+      "source": "CBS NFL",
+      "published": "Sun, 22 Nov 2026 21:09:22 +0000",
+      "timestamp": 1795381762.0
+    },
+    {
+      "title": "Why Schwarber's path to 500 home runs would be nearly unprecedented",
+      "url": "https://www.mlb.com/news/kyle-schwarber-s-unusual-path-to-500-home-runs",
+      "source": "MLB",
+      "published": "Sun, 22 Nov 2026 21:08:15 GMT",
+      "timestamp": 1795381695.0
+    },
+    {
+      "title": "Looking back at 7 big Braves contract extensions",
+      "url": "https://www.mlb.com/news/notable-braves-contract-extensions",
+      "source": "MLB",
+      "published": "Sun, 22 Nov 2026 21:07:59 GMT",
+      "timestamp": 1795381679.0
+    },
+    {
+      "title": "MLB rumors: Scott Boras sets Tarik Skubal timeline, plus Tigers signing former Rookie of the Year",
       "url": "https://www.cbssports.com/mlb/news/mlb-rumors-tarik-skubal-free-agency-timeline-red-sox-luis-gil/",
       "source": "CBS MLB",
-      "published": "Sun, 22 Nov 2026 18:00:02 +0000",
-      "timestamp": 1795370402.0
+      "published": "Sun, 22 Nov 2026 20:33:06 +0000",
+      "timestamp": 1795379586.0
+    },
+    {
+      "title": "Titans' Carnell Tate stuns Cowboys with one of NFL season's strangest touchdowns",
+      "url": "https://www.cbssports.com/nfl/news/titans-carnell-tate-touchdown-cowboys/",
+      "source": "CBS NFL",
+      "published": "Sun, 22 Nov 2026 20:32:23 +0000",
+      "timestamp": 1795379543.0
+    },
+    {
+      "title": "In 2021, a Tom Brady rookie card sold at auction for a record $2.25 million; two months later, a different copy sold for $3.1 million",
+      "url": "https://insider.cards/story/in-2021-a-tom-brady-rookie-card-sold-at-auction-for-a-record-usd-2-25-a7e33b/",
+      "source": "Hobby",
+      "published": "Sun, 22 Nov 2026 19:28:27 +0000",
+      "timestamp": 1795375707.0
+    },
+    {
+      "title": "Rare 1958 Topps Cello Box, Josh Gibson Signed Photo Among REA Fall Auction Headliners",
+      "url": "https://insider.cards/story/rare-1958-topps-cello-box-josh-gibson-signed-photo-among-rea-fall-06ec8f/",
+      "source": "Hobby",
+      "published": "Sun, 22 Nov 2026 19:20:53 +0000",
+      "timestamp": 1795375253.0
+    },
+    {
+      "title": "T206 Cobbs, Vintage Rookie Cards, Autographs Highlight Wheatland’s December Auction",
+      "url": "https://insider.cards/story/t206-cobbs-vintage-rookie-cards-autographs-highlight-wheatlands-185bc2/",
+      "source": "Hobby",
+      "published": "Sun, 22 Nov 2026 18:50:51 +0000",
+      "timestamp": 1795373451.0
     },
     {
       "title": "Logan Webb landing spots: Five possible destinations for Giants starting pitcher on the trading block",
@@ -17,13 +150,6 @@
       "timestamp": 1795364219.0
     },
     {
-      "title": "Why Jaguars' Trevor Lawrence has legitimate 2026 NFL MVP case, is destined to win one at some point",
-      "url": "https://www.cbssports.com/nfl/news/jaguars-trevor-lawrence-legitimate-2026-nfl-mvp-case-destined-win-one-some-point/",
-      "source": "CBS NFL",
-      "published": "Sun, 22 Nov 2026 14:01:37 +0000",
-      "timestamp": 1795356097.0
-    },
-    {
       "title": "I Opened $1, $100, and $1,000 Worth of Sports Cards!",
       "url": "https://insider.cards/story/i-opened-usd-1-usd-100-and-usd-1-000-worth-of-sports-cards-9631ca/",
       "source": "Hobby",
@@ -31,18 +157,11 @@
       "timestamp": 1795356013.0
     },
     {
-      "title": "Rams' Puka Nacua had surgery on MCL injury, WR expected to miss rest of season and playoffs, per report",
-      "url": "https://www.cbssports.com/nfl/news/rams-puka-nacua-mcl-injury-surgery-out-for-season/",
-      "source": "CBS NFL",
-      "published": "Sun, 22 Nov 2026 13:18:09 +0000",
-      "timestamp": 1795353489.0
-    },
-    {
-      "title": "Want the nastiest pitches? Sign these free agents",
-      "url": "https://www.mlb.com/news/the-best-pitches-on-the-2026-27-free-agent-market",
-      "source": "MLB",
-      "published": "Sun, 22 Nov 2026 02:41:07 GMT",
-      "timestamp": 1795315267.0
+      "title": "Cardlines Break Auctions Ending Sunday: 2025 NBA Prizm Mega Box, 2026 ONIT Gravity Hobby Boxes, 2026 WNBA Donruss Mega Boxes",
+      "url": "https://insider.cards/story/cardlines-break-auctions-ending-wednesday-2026-topps-2-fanatics-mlb-8a44d7/",
+      "source": "Hobby",
+      "published": "Sun, 22 Nov 2026 06:19:29 +0000",
+      "timestamp": 1795328369.0
     },
     {
       "title": "Which version of these top free agents will their next teams be getting?",
@@ -50,13 +169,6 @@
       "source": "MLB",
       "published": "Sun, 22 Nov 2026 02:40:48 GMT",
       "timestamp": 1795315248.0
-    },
-    {
-      "title": "A deep dive into 1 of the best free-agent starting pitchers not named Skubal",
-      "url": "https://www.mlb.com/news/trevor-rogers-keys-to-success-in-2027",
-      "source": "MLB",
-      "published": "Sun, 22 Nov 2026 01:03:59 GMT",
-      "timestamp": 1795309439.0
     },
     {
       "title": "Is Stephen Curry the real NBA MVP? It's hard not to think so when you watch the Warriors without him",
@@ -87,41 +199,6 @@
       "timestamp": 1795286298.0
     },
     {
-      "title": "Sports Card Grading Trends For March 2026",
-      "url": "https://insider.cards/story/sports-card-grading-trends-for-march-2026-2b61df/",
-      "source": "Hobby",
-      "published": "Sat, 21 Nov 2026 17:17:48 +0000",
-      "timestamp": 1795281468.0
-    },
-    {
-      "title": "Rockies executive Forbes celebrates health milestone",
-      "url": "https://www.mlb.com/news/rockies-chris-forbes-learns-cancer-is-in-remission",
-      "source": "MLB",
-      "published": "Sat, 21 Nov 2026 14:20:21 GMT",
-      "timestamp": 1795270821.0
-    },
-    {
-      "title": "Which Brewers prospects could break out in 2027?",
-      "url": "https://www.mlb.com/news/brady-ebel-matthew-wood-excelling-for-brewers-in-minor-leagues",
-      "source": "MLB",
-      "published": "Sat, 21 Nov 2026 14:11:32 GMT",
-      "timestamp": 1795270292.0
-    },
-    {
-      "title": "Don't sleep on these three NFL Week 11 games, from Joe Burrow's historic run to a rookie QB encore",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-11-games-joe-burrow-bengals-commanders/",
-      "source": "CBS NFL",
-      "published": "Sat, 21 Nov 2026 14:04:41 +0000",
-      "timestamp": 1795269881.0
-    },
-    {
-      "title": "D-backs trade for right-hander Oviedo from Red Sox",
-      "url": "https://www.mlb.com/news/johan-oviedo-traded-to-d-backs-from-red-sox",
-      "source": "MLB",
-      "published": "Sat, 21 Nov 2026 00:48:00 GMT",
-      "timestamp": 1795222080.0
-    },
-    {
       "title": "NBA injury updates: The latest on Tyrese Haliburton, Anthony Edwards, Kawhi Leonard, Dylan Harper, more",
       "url": "https://www.cbssports.com/nba/news/nba-injury-updates-tyrese-haliburton-kawhi-leonard-dylan-harper-brandon-ingram/",
       "source": "CBS NBA",
@@ -134,83 +211,6 @@
       "source": "CBS MLB",
       "published": "Fri, 20 Nov 2026 23:19:08 +0000",
       "timestamp": 1795216748.0
-    },
-    {
-      "title": "Tigers agree to six-year extension with newly converted starter Troy Melton (source)",
-      "url": "https://www.mlb.com/news/tigers-troy-melton-contract-extension",
-      "source": "MLB",
-      "published": "Fri, 20 Nov 2026 22:31:00 GMT",
-      "timestamp": 1795213860.0
-    },
-    {
-      "title": "NBA One-Month Superlatives: MVP, top rookie, best surprise and fresh title predictions",
-      "url": "https://www.cbssports.com/nba/news/nba-one-month-superlatives-mvp-rookie-surprise-title-predictions/",
-      "source": "CBS NBA",
-      "published": "Fri, 20 Nov 2026 16:30:17 +0000",
-      "timestamp": 1795192217.0
-    },
-    {
-      "title": "2026-27 MLB free agent tracker: Yankees reunite with righty; Tarik Skubal, Teruaki Sato remain unsigned",
-      "url": "https://www.cbssports.com/mlb/news/mlb-free-agent-tracker-2026-27/",
-      "source": "CBS MLB",
-      "published": "Fri, 20 Nov 2026 14:46:19 +0000",
-      "timestamp": 1795185979.0
-    },
-    {
-      "title": "Luis Castillo trade grades: White Sox give up steady back-end starter to offload salary; Rockies get creative",
-      "url": "https://www.cbssports.com/mlb/news/luis-castillo-trade-grades-white-sox-rockies/",
-      "source": "CBS MLB",
-      "published": "Fri, 20 Nov 2026 14:33:25 +0000",
-      "timestamp": 1795185205.0
-    },
-    {
-      "title": "NBA's eight biggest disappointments through one month: Injury bug, same old East and an underwhelming champ",
-      "url": "https://www.cbssports.com/nba/news/nbas-biggest-disappointments-one-month-injury-bug-east-underwhelming-champ/",
-      "source": "CBS NBA",
-      "published": "Thu, 19 Nov 2026 17:22:11 +0000",
-      "timestamp": 1795108931.0
-    },
-    {
-      "title": "White Sox add Dustin May on three-year, $52.5 million contract after Cinderella 2026 season, per report",
-      "url": "https://www.cbssports.com/mlb/news/white-sox-dustin-may-free-agency-contract-rotation/",
-      "source": "CBS MLB",
-      "published": "Thu, 19 Nov 2026 13:41:51 +0000",
-      "timestamp": 1795095711.0
-    },
-    {
-      "title": "After challenging rookie campaign, Canady excited for 2nd season in AUSL",
-      "url": "https://www.mlb.com/news/nijaree-canady-excited-for-second-season-in-ausl",
-      "source": "MLB",
-      "published": "Thu, 19 Nov 2026 03:01:26 GMT",
-      "timestamp": 1795057286.0
-    },
-    {
-      "title": "Sonny Gray returns to Twins on two-year, $55 million contract, per report",
-      "url": "https://www.cbssports.com/mlb/news/sonny-gray-twins-free-agency-contract/",
-      "source": "CBS MLB",
-      "published": "Wed, 18 Nov 2026 21:36:38 +0000",
-      "timestamp": 1795037798.0
-    },
-    {
-      "title": "NBA Power Rankings: The LaMelo Ball effect is being felt in two places; Lakers take top spot from Spurs",
-      "url": "https://www.cbssports.com/nba/news/nba-power-rankings-lamelo-ball-timberwolves-hornets-lakers-spurs/",
-      "source": "CBS NBA",
-      "published": "Wed, 18 Nov 2026 19:37:50 +0000",
-      "timestamp": 1795030670.0
-    },
-    {
-      "title": "NBA MVP Rankings: Luka Dončić, Victor Wembanyama in a two-horse race; Stephen Curry's absence speaks volumes",
-      "url": "https://www.cbssports.com/nba/news/nba-mvp-rankings-luka-doncic-victor-wembanyama-stephen-curry/",
-      "source": "CBS NBA",
-      "published": "Wed, 18 Nov 2026 19:36:14 +0000",
-      "timestamp": 1795030574.0
-    },
-    {
-      "title": "2025-26 Topps Five Star Basketball Collector’s Guide",
-      "url": "https://insider.cards/story/2025-26-topps-five-star-basketball-collectors-guide-ce5399/",
-      "source": "Hobby",
-      "published": "Wed, 18 Nov 2026 17:42:15 +0000",
-      "timestamp": 1795023735.0
     }
   ]
 }
