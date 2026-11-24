@@ -1,7 +1,35 @@
 {
-  "updated_at": "2026-11-23T23:55:14.893181+00:00",
+  "updated_at": "2026-11-24T09:56:46.750534+00:00",
   "count": 30,
   "articles": [
+    {
+      "title": "Cubs reach multiyear deal with lefty Rogers as rotation revamp begins (source)",
+      "url": "https://www.mlb.com/news/trevor-rogers-cubs-contract",
+      "source": "MLB",
+      "published": "Tue, 24 Nov 2026 05:09:00 GMT",
+      "timestamp": 1795496940.0
+    },
+    {
+      "title": "5 grizzled veteran free agents with something left to prove",
+      "url": "https://www.mlb.com/news/veteran-free-agents-that-can-make-an-impact-in-2027",
+      "source": "MLB",
+      "published": "Tue, 24 Nov 2026 03:00:12 GMT",
+      "timestamp": 1795489212.0
+    },
+    {
+      "title": "Notes: Mantle SGC 7 Tops $1 Million; Panini's New Deal; KAT Expands Breaking Biz; ECHL Charity Auction",
+      "url": "https://insider.cards/story/notes-mantle-sgc-7-tops-usd-1-million-paninis-new-deal-kat-expands-e8ecc1/",
+      "source": "Hobby",
+      "published": "Tue, 24 Nov 2026 01:41:11 +0000",
+      "timestamp": 1795484471.0
+    },
+    {
+      "title": "Why the 2026 rookie class might have been the best ever",
+      "url": "https://www.mlb.com/news/analyzing-success-of-2026-mlb-rookie-class",
+      "source": "MLB",
+      "published": "Tue, 24 Nov 2026 00:26:12 GMT",
+      "timestamp": 1795479972.0
+    },
     {
       "title": "Micah Parsons injury update: Packers star cleared to make 2026 debut vs. Rams in Week 12",
       "url": "https://www.cbssports.com/nfl/news/micah-parsons-injury-update-packers-return-rams-2026/",
@@ -66,13 +94,6 @@
       "timestamp": 1795451942.0
     },
     {
-      "title": "Where does Blue Jays' rotation stand before potential additions?",
-      "url": "https://www.mlb.com/news/blue-jays-starting-rotation-projection-ahead-of-2027",
-      "source": "MLB",
-      "published": "Mon, 23 Nov 2026 15:14:36 GMT",
-      "timestamp": 1795446876.0
-    },
-    {
       "title": "Why Mets owner Steve Cohen was willing to give Tarik Skubal the most lucrative pitcher contract in MLB history",
       "url": "https://www.cbssports.com/mlb/news/tarik-skubal-mets-steve-cohen-new-york/",
       "source": "CBS MLB",
@@ -108,13 +129,6 @@
       "timestamp": 1795393776.0
     },
     {
-      "title": "These 7 teams have the prospects to swing a big trade this offseason",
-      "url": "https://www.mlb.com/news/mlb-teams-with-prospects-to-trade-offseason-2026",
-      "source": "MLB",
-      "published": "Mon, 23 Nov 2026 00:24:00 GMT",
-      "timestamp": 1795393440.0
-    },
-    {
       "title": "2026-27 MLB free agent tracker: Mets land Tarik Skubal on nine-year, $450 million contract",
       "url": "https://www.cbssports.com/mlb/news/mlb-free-agent-tracker-2026-27/",
       "source": "CBS MLB",
@@ -136,6 +150,13 @@
       "timestamp": 1795391499.0
     },
     {
+      "title": "Best Sports Card Rip Apps 2026 | Legal Card Ripping App Reviews (November)",
+      "url": "https://insider.cards/story/best-sports-card-rip-apps-2026-reviews-of-every-legal-card-rip-app-056d94/",
+      "source": "Hobby",
+      "published": "Sun, 22 Nov 2026 23:27:00 +0000",
+      "timestamp": 1795390020.0
+    },
+    {
       "title": "All the records broken by Tarik Skubal's nine-year, $450 million contract with the Mets",
       "url": "https://www.cbssports.com/mlb/news/tarik-skubal-mets-free-agency-contract-records-total-value-aav/",
       "source": "CBS MLB",
@@ -150,18 +171,18 @@
       "timestamp": 1795384173.0
     },
     {
-      "title": "Why Schwarber's path to 500 home runs would be nearly unprecedented",
-      "url": "https://www.mlb.com/news/kyle-schwarber-s-unusual-path-to-500-home-runs",
-      "source": "MLB",
-      "published": "Sun, 22 Nov 2026 21:08:15 GMT",
-      "timestamp": 1795381695.0
-    },
-    {
       "title": "MLB rumors: Scott Boras sets Tarik Skubal timeline, plus Tigers signing former Rookie of the Year",
       "url": "https://www.cbssports.com/mlb/news/mlb-rumors-tarik-skubal-free-agency-timeline-red-sox-luis-gil/",
       "source": "CBS MLB",
       "published": "Sun, 22 Nov 2026 20:33:06 +0000",
       "timestamp": 1795379586.0
+    },
+    {
+      "title": "Rare 1958 Topps Cello Box, Josh Gibson Signed Photo Among REA Fall Auction Headliners",
+      "url": "https://insider.cards/story/rare-1958-topps-cello-box-josh-gibson-signed-photo-among-rea-fall-06ec8f/",
+      "source": "Hobby",
+      "published": "Sun, 22 Nov 2026 19:20:53 +0000",
+      "timestamp": 1795375253.0
     },
     {
       "title": "Logan Webb landing spots: Five possible destinations for Giants starting pitcher on the trading block",
@@ -190,27 +211,6 @@
       "source": "CBS MLB",
       "published": "Sat, 21 Nov 2026 18:38:18 +0000",
       "timestamp": 1795286298.0
-    },
-    {
-      "title": "NBA injury updates: The latest on Tyrese Haliburton, Anthony Edwards, Kawhi Leonard, Dylan Harper, more",
-      "url": "https://www.cbssports.com/nba/news/nba-injury-updates-tyrese-haliburton-kawhi-leonard-dylan-harper-brandon-ingram/",
-      "source": "CBS NBA",
-      "published": "Fri, 20 Nov 2026 23:30:29 +0000",
-      "timestamp": 1795217429.0
-    },
-    {
-      "title": "Royce Lewis trade grades: Dodgers land former No. 1 pick; Twins get another arm, arrow-up prospect",
-      "url": "https://www.cbssports.com/mlb/news/royce-lewis-trade-grades-twins-dodgers/",
-      "source": "CBS MLB",
-      "published": "Fri, 20 Nov 2026 23:19:08 +0000",
-      "timestamp": 1795216748.0
-    },
-    {
-      "title": "NBA One-Month Superlatives: MVP, top rookie, best surprise and fresh title predictions",
-      "url": "https://www.cbssports.com/nba/news/nba-one-month-superlatives-mvp-rookie-surprise-title-predictions/",
-      "source": "CBS NBA",
-      "published": "Fri, 20 Nov 2026 16:30:17 +0000",
-      "timestamp": 1795192217.0
     }
   ]
 }
