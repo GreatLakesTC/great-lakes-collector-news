@@ -1,7 +1,91 @@
 {
-  "updated_at": "2026-11-24T09:56:46.750534+00:00",
+  "updated_at": "2026-11-24T22:28:28.399731+00:00",
   "count": 30,
   "articles": [
+    {
+      "title": "O's add 'Fastball Freddy' to rotation on largest deal for pitcher in franchise history",
+      "url": "https://www.mlb.com/news/freddy-peralta-orioles-contract",
+      "source": "MLB",
+      "published": "Tue, 24 Nov 2026 20:52:00 GMT",
+      "timestamp": 1795553520.0
+    },
+    {
+      "title": "MLB proposal to union offers assurance of guaranteed contracts",
+      "url": "https://www.mlb.com/news/mlb-proposal-to-mlbpa-guaranteed-contracts-escrow",
+      "source": "MLB",
+      "published": "Tue, 24 Nov 2026 20:14:28 GMT",
+      "timestamp": 1795551268.0
+    },
+    {
+      "title": "Micah Parsons injury update: Packers star activated, cleared to make 2026 debut vs. Rams in Week 12",
+      "url": "https://www.cbssports.com/nfl/news/micah-parsons-injury-update-packers-return-rams-2026/",
+      "source": "CBS NFL",
+      "published": "Tue, 24 Nov 2026 19:46:55 +0000",
+      "timestamp": 1795549615.0
+    },
+    {
+      "title": "Freddy Peralta lands with Orioles: After post-trade turnaround, ALCS MVP scores five-year, $125 million deal",
+      "url": "https://www.cbssports.com/mlb/news/freddy-peralta-orioles-free-agency-contract/",
+      "source": "CBS MLB",
+      "published": "Tue, 24 Nov 2026 19:44:45 +0000",
+      "timestamp": 1795549485.0
+    },
+    {
+      "title": "2026-27 MLB free agent tracker: Mets land Skubal, Cubs go holiday shopping with Trevor Rogers, Teruaki Sato",
+      "url": "https://www.cbssports.com/mlb/news/mlb-free-agent-tracker-2026-27/",
+      "source": "CBS MLB",
+      "published": "Tue, 24 Nov 2026 19:14:32 +0000",
+      "timestamp": 1795547672.0
+    },
+    {
+      "title": "MLB CBA negotiations timeline: League, MLBPA trade new proposals over revenue sharing as Dec. 1 deadline nears",
+      "url": "https://www.cbssports.com/mlb/news/mlb-cba-negotiations-timeline-2026/",
+      "source": "CBS MLB",
+      "published": "Tue, 24 Nov 2026 19:05:45 +0000",
+      "timestamp": 1795547145.0
+    },
+    {
+      "title": "Cubs signing NPB slugger Teruaki Sato on six-year, $120 million contract as offseason overhaul continues",
+      "url": "https://www.cbssports.com/mlb/news/cubs-teruaki-sato-free-agency-contract/",
+      "source": "CBS MLB",
+      "published": "Tue, 24 Nov 2026 15:29:17 +0000",
+      "timestamp": 1795534157.0
+    },
+    {
+      "title": "Prisco's NFL Week 12 Power Rankings: Thanksgiving feast offers a proving ground for contenders",
+      "url": "https://www.cbssports.com/nfl/news/priscos-nfl-week-12-power-rankings-thanksgiving-games/",
+      "source": "CBS NFL",
+      "published": "Tue, 24 Nov 2026 14:33:23 +0000",
+      "timestamp": 1795530803.0
+    },
+    {
+      "title": "Why the Cowboys and Lions always play on Thanksgiving Day: All 32 NFL team's record on the holiday",
+      "url": "https://www.cbssports.com/nfl/news/why-cowboys-lions-always-play-thanksgiving-day-all-32-nfl-teams-record-holiday/",
+      "source": "CBS NFL",
+      "published": "Tue, 24 Nov 2026 14:30:32 +0000",
+      "timestamp": 1795530632.0
+    },
+    {
+      "title": "MLB extension candidates: 10 players who could get deals before CBA expires, including two Cy Young winners",
+      "url": "https://www.cbssports.com/mlb/news/mlb-extension-candidates-jacob-misiorowski-cam-schlittler-nolan-mclean-payton-tolle/",
+      "source": "CBS MLB",
+      "published": "Tue, 24 Nov 2026 14:30:06 +0000",
+      "timestamp": 1795530606.0
+    },
+    {
+      "title": "Trevor Rogers signing with Cubs: Chicago begins rotation rebuild with five-year, $120 million deal, per report",
+      "url": "https://www.cbssports.com/mlb/news/trevor-rogers-cubs-free-agency-contract/",
+      "source": "CBS MLB",
+      "published": "Tue, 24 Nov 2026 13:17:07 +0000",
+      "timestamp": 1795526227.0
+    },
+    {
+      "title": "6 lessons from Week 11: Kyle Shanahan is as good as it gets, plus a rookie RB earning a role",
+      "url": "https://www.cbssports.com/nfl/news/6-lessons-week-11-kyle-shanahan-49ers-chiefs-colts/",
+      "source": "CBS NFL",
+      "published": "Tue, 24 Nov 2026 13:16:51 +0000",
+      "timestamp": 1795526211.0
+    },
     {
       "title": "Cubs reach multiyear deal with lefty Rogers as rotation revamp begins (source)",
       "url": "https://www.mlb.com/news/trevor-rogers-cubs-contract",
@@ -31,13 +115,6 @@
       "timestamp": 1795479972.0
     },
     {
-      "title": "Micah Parsons injury update: Packers star cleared to make 2026 debut vs. Rams in Week 12",
-      "url": "https://www.cbssports.com/nfl/news/micah-parsons-injury-update-packers-return-rams-2026/",
-      "source": "CBS NFL",
-      "published": "Mon, 23 Nov 2026 23:44:04 +0000",
-      "timestamp": 1795477444.0
-    },
-    {
       "title": "NBA trade rumors: Lakers planning to be active, Jazz looking elsewhere after Kyrie Irving buzz",
       "url": "https://www.cbssports.com/nba/news/nba-trade-rumors-lakers-jazz-kyrie-irving-nov-23/",
       "source": "CBS NBA",
@@ -50,13 +127,6 @@
       "source": "Hobby",
       "published": "Mon, 23 Nov 2026 22:08:47 +0000",
       "timestamp": 1795471727.0
-    },
-    {
-      "title": "Panini America Online Store | Shop Sports Trading Cards",
-      "url": "https://insider.cards/story/panini-america-online-store-shop-sports-trading-cards-1315c5/",
-      "source": "Hobby",
-      "published": "Mon, 23 Nov 2026 22:05:37 +0000",
-      "timestamp": 1795471537.0
     },
     {
       "title": "49ers, longtime general manager John Lynch reach extension",
@@ -73,25 +143,11 @@
       "timestamp": 1795463750.0
     },
     {
-      "title": "MLB CBA negotiations timeline: League, MLBPA trade new proposals over revenue sharing as Dec. 1 deadline nears",
-      "url": "https://www.cbssports.com/mlb/news/mlb-cba-negotiations-timeline-2026/",
-      "source": "CBS MLB",
-      "published": "Mon, 23 Nov 2026 19:37:00 +0000",
-      "timestamp": 1795462620.0
-    },
-    {
       "title": "Predicting MLB's next mega contracts: Paul Skenes, Junior Caminero, James Wood and more in line to get paid",
       "url": "https://www.cbssports.com/mlb/news/predicting-mlb-next-mega-contracts-paul-skenes-junior-caminero-james-wood-elly-de-la-cruz/",
       "source": "CBS MLB",
       "published": "Mon, 23 Nov 2026 18:15:42 +0000",
       "timestamp": 1795457742.0
-    },
-    {
-      "title": "Steelers gave DK Metcalf $150 million, traded George Pickens. Now they're paying for both decisions",
-      "url": "https://www.cbssports.com/nfl/news/why-steelers-regretting-dk-metcalf-150-million-contract-trading-george-pickens/",
-      "source": "CBS NFL",
-      "published": "Mon, 23 Nov 2026 16:39:02 +0000",
-      "timestamp": 1795451942.0
     },
     {
       "title": "Why Mets owner Steve Cohen was willing to give Tarik Skubal the most lucrative pitcher contract in MLB history",
@@ -101,39 +157,11 @@
       "timestamp": 1795446403.0
     },
     {
-      "title": "There’s a new ace reportedly available via trade. Here’s why the Cubs are a perfect match",
-      "url": "https://www.mlb.com/news/why-logan-webb-is-a-fit-for-the-cubs-via-potential-trade",
-      "source": "MLB",
-      "published": "Mon, 23 Nov 2026 14:57:47 GMT",
-      "timestamp": 1795445867.0
-    },
-    {
-      "title": "Cover 32: AFC contender is at risk of missing playoffs entirely, plus game balls, biggest gaffes from Week 11",
-      "url": "https://www.cbssports.com/nfl/news/cover-32-afc-contender-risk-missing-playoffs-entirely-plus-game-balls-gaffes-week-11/",
-      "source": "CBS NFL",
-      "published": "Mon, 23 Nov 2026 13:49:38 +0000",
-      "timestamp": 1795441778.0
-    },
-    {
-      "title": "Rotation a 'blank canvas,' here are SD's options with Skubal no longer in play",
-      "url": "https://www.mlb.com/news/padres-starting-pitching-plans-after-missing-out-on-tarik-skubal",
-      "source": "MLB",
-      "published": "Mon, 23 Nov 2026 01:18:53 GMT",
-      "timestamp": 1795396733.0
-    },
-    {
       "title": "Tarik Skubal signing with Mets: Two-time Cy Young winner lands historic nine-year, $450 million contract",
       "url": "https://www.cbssports.com/mlb/news/tarik-skubal-mets-free-agency-contract/",
       "source": "CBS MLB",
       "published": "Mon, 23 Nov 2026 00:29:36 +0000",
       "timestamp": 1795393776.0
-    },
-    {
-      "title": "2026-27 MLB free agent tracker: Mets land Tarik Skubal on nine-year, $450 million contract",
-      "url": "https://www.cbssports.com/mlb/news/mlb-free-agent-tracker-2026-27/",
-      "source": "CBS MLB",
-      "published": "Mon, 23 Nov 2026 00:23:18 +0000",
-      "timestamp": 1795393398.0
     },
     {
       "title": "What's next for the Mets after record-breaking deal with Tarik Skubal? Biggest needs for 2027",
@@ -148,13 +176,6 @@
       "source": "CBS MLB",
       "published": "Sun, 22 Nov 2026 23:51:39 +0000",
       "timestamp": 1795391499.0
-    },
-    {
-      "title": "Best Sports Card Rip Apps 2026 | Legal Card Ripping App Reviews (November)",
-      "url": "https://insider.cards/story/best-sports-card-rip-apps-2026-reviews-of-every-legal-card-rip-app-056d94/",
-      "source": "Hobby",
-      "published": "Sun, 22 Nov 2026 23:27:00 +0000",
-      "timestamp": 1795390020.0
     },
     {
       "title": "All the records broken by Tarik Skubal's nine-year, $450 million contract with the Mets",
@@ -190,27 +211,6 @@
       "source": "CBS MLB",
       "published": "Sun, 22 Nov 2026 16:16:59 +0000",
       "timestamp": 1795364219.0
-    },
-    {
-      "title": "Is Stephen Curry the real NBA MVP? It's hard not to think so when you watch the Warriors without him",
-      "url": "https://www.cbssports.com/nba/news/stephen-curry-injury-absence-nba-mvp-warriors/",
-      "source": "CBS NBA",
-      "published": "Sat, 21 Nov 2026 21:06:29 +0000",
-      "timestamp": 1795295189.0
-    },
-    {
-      "title": "MLB rumors: Logan Webb trade possible for Giants, Freddy Peralta market picking up steam, more",
-      "url": "https://www.cbssports.com/mlb/news/mlb-rumors-freddy-peralta-hiromi-itoh-mark-vientos-mets-cubs-white-sox/",
-      "source": "CBS MLB",
-      "published": "Sat, 21 Nov 2026 21:04:40 +0000",
-      "timestamp": 1795295080.0
-    },
-    {
-      "title": "A.J. Ewing, Mets agree to eight-year, $95 million extension after standout rookie season, per reports",
-      "url": "https://www.cbssports.com/mlb/news/a-j-ewing-new-york-mets-contract-extension/",
-      "source": "CBS MLB",
-      "published": "Sat, 21 Nov 2026 18:38:18 +0000",
-      "timestamp": 1795286298.0
     }
   ]
 }
