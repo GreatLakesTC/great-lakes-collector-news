@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-23T23:50:44.988819+00:00",
-  "count": 23,
+  "updated_at": "2026-11-24T09:50:43.464386+00:00",
+  "count": 24,
   "counts": {
     "Fantasy NFL": 15,
     "Fantasy NBA": 5,
-    "Fantasy MLB": 3
+    "Fantasy MLB": 4
   },
   "articles": [
     {
@@ -53,6 +53,105 @@
       "summary": "The spreads were large for many Week 11 contests. Still, some games were competitive, and there was plenty to take away from the action. A white-hot quarterback in a well-oiled offensive machine..."
     },
     {
+      "title": "Devin Vassell: Drains four threes Monday",
+      "url": "https://www.rotowire.com//basketball/player/devin-vassell-5113",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-11-23T11:21:00+00:00",
+      "timestamp": 1795432860,
+      "summary": "Vassell contributed 16 points (6-15 FG, 4-9 3Pt), six rebounds, two assists and one steal across 34 minutes during Monday's 123-107 victory over the Kings. Visit RotoWire.com for more analysis on..."
+    },
+    {
+      "title": "Darius Acuff: Struggles with shot in loss",
+      "url": "https://www.rotowire.com//basketball/player/darius-acuff-6931",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-11-23T11:13:00+00:00",
+      "timestamp": 1795432380,
+      "summary": "Acuff notched 12 points (5-14 FG, 0-4 3Pt, 2-2 FT), one rebound and four assists across 33 minutes during Monday's 123-107 loss to the Spurs. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Rui Hachimura: Notches 19 points in Monday's loss",
+      "url": "https://www.rotowire.com//basketball/player/rui-hachimura-4778",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-11-23T11:09:00+00:00",
+      "timestamp": 1795432140,
+      "summary": "Hachimura logged 19 points (7-10 FG, 2-4 3Pt, 3-3 FT), three rebounds, three assists and one block across 29 minutes during Monday's 116-104 loss to the Rockets. Visit RotoWire.com for more..."
+    },
+    {
+      "title": "Brandon Ingram: Scores 16 points in Clippers debut",
+      "url": "https://www.rotowire.com//basketball/player/brandon-ingram-3861",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-11-23T11:08:00+00:00",
+      "timestamp": 1795432080,
+      "summary": "Ingram provided 16 points (6-18 FG, 0-6 3Pt, 4-5 FT), seven rebounds and four assists in 27 minutes during Monday's 116-104 loss to Houston. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Amen Thompson: Efficient performance Monday",
+      "url": "https://www.rotowire.com//basketball/player/amen-thompson-5931",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-11-23T11:07:00+00:00",
+      "timestamp": 1795432020,
+      "summary": "Thompson ended Monday's 116-104 victory over the Clippers with 20 points (9-12 FG, 1-1 3Pt, 1-2 FT), four rebounds, five assists and one block over 28 minutes. Visit RotoWire.com for more analysis..."
+    },
+    {
+      "title": "Chig Okonkwo: Productive with four catches in win",
+      "url": "https://www.rotowire.com//football/player/chig-okonkwo-16042",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-23T09:15:00+00:00",
+      "timestamp": 1795425300,
+      "summary": "Okonkwo brought in four of five targets for 66 yards in the Commanders' 22-20 win over the Bengals on Monday night. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Antonio Williams: Career-best totals in win",
+      "url": "https://www.rotowire.com//football/player/antonio-williams-19237",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-23T09:10:00+00:00",
+      "timestamp": 1795425000,
+      "summary": "Williams brought in nine of 11 targets for 122 yards in the Commanders' 22-20 win over the Bengals on Monday night. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Jacory Croskey-Merritt: Scores TD in return from injury",
+      "url": "https://www.rotowire.com//football/player/jacory-croskey-merritt-18811",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-23T09:06:00+00:00",
+      "timestamp": 1795424760,
+      "summary": "Croskey-Merritt rushed 13 times for 54 yards and a touchdown and brought in two of three targets for 23 yards in the Commanders' 22-20 win over the Bengals on Monday night. Visit RotoWire.com for..."
+    },
+    {
+      "title": "Mike Gesicki: Team-high yardage total in loss",
+      "url": "https://www.rotowire.com//football/player/mike-gesicki-12764",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-23T09:01:00+00:00",
+      "timestamp": 1795424460,
+      "summary": "Gesicki brought in five of six targets for 77 yards in the Bengals' 22-20 loss to the Commanders on Monday night. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Chase Brown: Forgettable rushing night in loss",
+      "url": "https://www.rotowire.com//football/player/chase-brown-16934",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-23T08:56:00+00:00",
+      "timestamp": 1795424160,
+      "summary": "Brown rushed six times for six yards and brought in five of eight targets for 30 yards in the Bengals' 22-20 loss to the Commanders on Monday night. Visit RotoWire.com for more analysis on this..."
+    },
+    {
+      "title": "Trevor Rogers: Lands with Cubs",
+      "url": "https://www.rotowire.com//baseball/player/trevor-rogers-14790",
+      "source": "RotoWire",
+      "sport": "Fantasy MLB",
+      "published": "2026-11-23T07:55:00+00:00",
+      "timestamp": 1795420500,
+      "summary": "Rogers agreed to a five-year, $120 million contract with the Cubs on Monday, Jon Morosi of MLB Network reports. Visit RotoWire.com for more analysis on this update."
+    },
+    {
       "title": "Paul Goldschmidt: Agrees to deal with Mets",
       "url": "https://www.rotowire.com//baseball/player/paul-goldschmidt-11724",
       "source": "RotoWire",
@@ -60,96 +159,6 @@
       "published": "2026-11-23T07:06:00+00:00",
       "timestamp": 1795417560,
       "summary": "The Mets agreed to a contract with Goldschmidt on Monday, Robert Murray of FanSided.com reports. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Rachaad White: Active in Week 11",
-      "url": "https://www.rotowire.com//football/player/rachaad-white-15802",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-23T03:48:00+00:00",
-      "timestamp": 1795405680,
-      "summary": "White (heel) is active for Monday's game against the Bengals. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Kris Murray: Starting Monday",
-      "url": "https://www.rotowire.com//basketball/player/kris-murray-5943",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-11-23T03:44:00+00:00",
-      "timestamp": 1795405440,
-      "summary": "Murray will start Monday against the Hornets, Hornets reporter Rod Boone reports. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Sam Darnold: In uniform for unofficial practice",
-      "url": "https://www.rotowire.com//football/player/sam-darnold-12490",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-23T03:33:00+00:00",
-      "timestamp": 1795404780,
-      "summary": "Darnold (quadriceps/ribs) was suited up for Monday's unofficial practice, Bob Condotta of The Seattle Times reports. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Jalen Smith: Good to go Monday",
-      "url": "https://www.rotowire.com//basketball/player/jalen-smith-5169",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-11-23T03:23:00+00:00",
-      "timestamp": 1795404180,
-      "summary": "Smith (illness) will play Monday against the Cavaliers, K.C. Johnson of Chicago Sports Network reports. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Nic Claxton: Available to play",
-      "url": "https://www.rotowire.com//basketball/player/nic-claxton-4827",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-11-23T03:21:00+00:00",
-      "timestamp": 1795404060,
-      "summary": "Claxton (illness) is available for Monday's matchup with the Cavs, Bulls' reporter Will Gottlieb reports. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "P.J. Washington: Iffy for Tuesday",
-      "url": "https://www.rotowire.com//basketball/player/pj-washington-4781",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-11-23T03:21:00+00:00",
-      "timestamp": 1795404060,
-      "summary": "Washington (illness) is questionable for Tuesday's game against the Nuggets. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Jaylen Brown: Will play Monday",
-      "url": "https://www.rotowire.com//basketball/player/jaylen-brown-3894",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-11-23T03:15:00+00:00",
-      "timestamp": 1795403700,
-      "summary": "Brown (hamstring) will play Monday against the Trail Blazers, Ky Carlin of USA Today reports. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Jake Ferguson: Estimated as 'DNP' Monday",
-      "url": "https://www.rotowire.com//football/player/jake-ferguson-15947",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-23T03:02:00+00:00",
-      "timestamp": 1795402920,
-      "summary": "Ferguson (knee/ankle) was listed as a non-participant on Monday's practice estimate, Tommy Yarrish of the Cowboys' official site reports. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Dalton Kincaid: Limited listing on Monday's practice estimate",
-      "url": "https://www.rotowire.com//football/player/dalton-kincaid-16697",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-23T02:54:00+00:00",
-      "timestamp": 1795402440,
-      "summary": "Kincaid (thumb/ankle) was listed as a limited participant on Monday's practice estimate. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Micah Parsons: Reportedly gains clearance to return",
-      "url": "https://www.rotowire.com//football/player/micah-parsons-15182",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-23T02:48:00+00:00",
-      "timestamp": 1795402080,
-      "summary": "Ian Rapoport of NFL Network reported Monday that Parsons (knee) has received clearance to return to action Wednesday at the Rams. Visit RotoWire.com for more analysis on this update."
     },
     {
       "title": "Fantasy Football Week 11 Player Grades & Start/Sit Advice (2026)",
