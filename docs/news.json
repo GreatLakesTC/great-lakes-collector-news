@@ -1,13 +1,62 @@
 {
-  "updated_at": "2026-11-25T21:43:44.126184+00:00",
+  "updated_at": "2026-11-26T08:22:05.677937+00:00",
   "count": 30,
   "articles": [
+    {
+      "title": "Rockies continue to bolster starting pitching, add Peterson, Sandoval (sources)",
+      "url": "https://www.mlb.com/news/david-peterson-rockies-deal",
+      "source": "MLB",
+      "published": "Thu, 26 Nov 2026 03:09:00 GMT",
+      "timestamp": 1795662540.0
+    },
+    {
+      "title": "NFL on Thanksgiving halftime shows: Ranking the 10 most memorable performances",
+      "url": "https://www.cbssports.com/nfl/news/nfl-thanksgiving-2026-ranking-most-memorable-halftime-shows/",
+      "source": "CBS NFL",
+      "published": "Thu, 26 Nov 2026 03:04:30 +0000",
+      "timestamp": 1795662270.0
+    },
     {
       "title": "2026-27 MLB free agent tracker: Pre-Thanksgiving frenzy finds new homes for Skubal, Rogers, Peralta, more",
       "url": "https://www.cbssports.com/mlb/news/mlb-free-agent-tracker-2026-27/",
       "source": "CBS MLB",
-      "published": "Wed, 25 Nov 2026 21:30:58 +0000",
-      "timestamp": 1795642258.0
+      "published": "Thu, 26 Nov 2026 01:31:07 +0000",
+      "timestamp": 1795656667.0
+    },
+    {
+      "title": "Robert returns to Orioles on 1-year deal (source)",
+      "url": "https://www.mlb.com/news/luis-robert-jr-contract-orioles",
+      "source": "MLB",
+      "published": "Thu, 26 Nov 2026 00:40:00 GMT",
+      "timestamp": 1795653600.0
+    },
+    {
+      "title": "Veteran backstop Sánchez joining Marlins on 1-year contract (sources)",
+      "url": "https://www.mlb.com/news/gary-sanchez-marlins-contract",
+      "source": "MLB",
+      "published": "Thu, 26 Nov 2026 00:29:00 GMT",
+      "timestamp": 1795652940.0
+    },
+    {
+      "title": "NFL Week 12 injury report: Thanksgiving game statuses, latest updates for Sam Darnold, Brock Purdy",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-12-injury-report-updates-kenneth-walker-brock-purdy-sam-darnold/",
+      "source": "CBS NFL",
+      "published": "Thu, 26 Nov 2026 00:01:26 +0000",
+      "timestamp": 1795651286.0
+    },
+    {
+      "title": "Each MLB club's best prospect acquired via trade",
+      "url": "https://www.mlb.com/news/best-prospects-who-were-trade-acquisitions",
+      "source": "MLB",
+      "published": "Thu, 26 Nov 2026 00:00:00 GMT",
+      "timestamp": 1795651200.0
+    },
+    {
+      "title": "Padres add World Series standout reliever JoJo Romero as San Diego bulks up bullpen again, per report",
+      "url": "https://www.cbssports.com/mlb/news/padres-jojo-romero-free-agency-contract/",
+      "source": "CBS MLB",
+      "published": "Wed, 25 Nov 2026 21:43:23 +0000",
+      "timestamp": 1795643003.0
     },
     {
       "title": "This rookie had one of the best seasons by any reliever in 2026. Here's how he did it",
@@ -24,11 +73,18 @@
       "timestamp": 1795638410.0
     },
     {
-      "title": "Brewers bring back righty Senzatela on 1-year contract",
-      "url": "https://www.mlb.com/news/antonio-senzatela-brewers-contract",
-      "source": "MLB",
-      "published": "Wed, 25 Nov 2026 20:08:00 GMT",
-      "timestamp": 1795637280.0
+      "title": "Jadan Baugh - 2026 Panini Instant NIL College Football",
+      "url": "https://insider.cards/story/jadan-baugh-2026-panini-instant-nil-college-football-10db6a/",
+      "source": "Hobby",
+      "published": "Wed, 25 Nov 2026 20:19:53 +0000",
+      "timestamp": 1795637993.0
+    },
+    {
+      "title": "Keisean Henderson - 2026 Panini Instant NIL College",
+      "url": "https://insider.cards/story/keisean-henderson-2026-panini-instant-nil-college-cad1bd/",
+      "source": "Hobby",
+      "published": "Wed, 25 Nov 2026 20:19:52 +0000",
+      "timestamp": 1795637992.0
     },
     {
       "title": "MLB CBA negotiations timeline: League, MLBPA trade new proposals over revenue sharing as Dec. 1 deadline nears",
@@ -66,6 +122,13 @@
       "timestamp": 1795623384.0
     },
     {
+      "title": "A $120 million contract and an MVP Award? All in a day's work for Sato",
+      "url": "https://www.mlb.com/news/teruaki-sato-wins-npb-mvp-award-after-agreeing-to-cubs-contract",
+      "source": "MLB",
+      "published": "Wed, 25 Nov 2026 14:55:52 GMT",
+      "timestamp": 1795618552.0
+    },
+    {
       "title": "After big Peralta signing, could O's still add to rotation mix?",
       "url": "https://www.mlb.com/news/orioles-rotation-landscape-after-freddy-peralta-signing",
       "source": "MLB",
@@ -80,6 +143,20 @@
       "timestamp": 1795618496.0
     },
     {
+      "title": "Dakorien Moore - 2026 Panini Instant NIL College Football",
+      "url": "https://insider.cards/story/dakorien-moore-2026-panini-instant-nil-college-football-6caae8/",
+      "source": "Hobby",
+      "published": "Wed, 25 Nov 2026 14:18:26 +0000",
+      "timestamp": 1795616306.0
+    },
+    {
+      "title": "Matthew Stafford 1/1, Tom Brady Autos Headline Biggest Early Pulls from 2026 Topps Chrome Football",
+      "url": "https://insider.cards/story/matthew-stafford-1-1-tom-brady-autos-headline-biggest-early-pulls-from-4d140f/",
+      "source": "Hobby",
+      "published": "Wed, 25 Nov 2026 14:09:02 +0000",
+      "timestamp": 1795615742.0
+    },
+    {
       "title": "NBA rumors: Latest on Knicks and Karl-Anthony Towns, plus Wizards' Anthony Davis plan, a Nets trade candidate",
       "url": "https://www.cbssports.com/nba/news/nba-rumors-knicks-karl-anthony-towns-wizards-anthony-davis-nets-michael-porter-jr/",
       "source": "CBS NBA",
@@ -87,88 +164,11 @@
       "timestamp": 1795614458.0
     },
     {
-      "title": "2026 Topps Finest Formula 1® || Collector Guide",
-      "url": "https://insider.cards/story/2026-topps-finest-formula-1-collector-guide-7ade75/",
-      "source": "Hobby",
-      "published": "Wed, 25 Nov 2026 10:46:12 +0000",
-      "timestamp": 1795603572.0
-    },
-    {
-      "title": "2026 Topps Inception Football – First Day Issue",
-      "url": "https://insider.cards/story/2026-topps-inception-football-first-day-issue-1daf0a/",
-      "source": "Hobby",
-      "published": "Wed, 25 Nov 2026 07:50:01 +0000",
-      "timestamp": 1795593001.0
-    },
-    {
-      "title": "Wilt Chamberlain's rookie card sat 60 years in a Minnesota grocery cabinet; Goldin sold the SGC 10 find for a record $1.7 million",
-      "url": "https://insider.cards/story/wilt-chamberlains-rookie-card-sat-60-years-in-a-minnesota-grocery-a3d1ad/",
-      "source": "Hobby",
-      "published": "Wed, 25 Nov 2026 03:43:00 +0000",
-      "timestamp": 1795578180.0
-    },
-    {
-      "title": "Who are the best hitters 25 and under? Check out our lineup",
-      "url": "https://www.mlb.com/news/best-players-in-mlb-25-and-under-heading-into-2027",
-      "source": "MLB",
-      "published": "Wed, 25 Nov 2026 03:22:41 GMT",
-      "timestamp": 1795576961.0
-    },
-    {
-      "title": "2026 Topps Gilded Collection Baseball: A Potential Home Run For Collectors",
-      "url": "https://insider.cards/story/2026-topps-gilded-collection-baseball-a-potential-home-run-for-ee0cec/",
-      "source": "Hobby",
-      "published": "Wed, 25 Nov 2026 00:48:00 +0000",
-      "timestamp": 1795567680.0
-    },
-    {
-      "title": "Brandon Aiyuk to meet with Commanders, per report: Free agent WR seeks reunion with Jayden Daniels",
-      "url": "https://www.cbssports.com/nfl/news/brandon-aiyuk-meeting-commanders-report-free-agent-wr-reunion-jayden-daniels/",
-      "source": "CBS NFL",
-      "published": "Tue, 24 Nov 2026 23:04:41 +0000",
-      "timestamp": 1795561481.0
-    },
-    {
-      "title": "A Comprehensive Guide To The 1977 Topps Star Wars Set",
-      "url": "https://insider.cards/story/a-comprehensive-guide-to-the-1977-topps-star-wars-set-3bd356/",
-      "source": "Hobby",
-      "published": "Tue, 24 Nov 2026 22:27:51 +0000",
-      "timestamp": 1795559271.0
-    },
-    {
-      "title": "O's add 'Fastball Freddy' to rotation on largest deal for pitcher in franchise history",
-      "url": "https://www.mlb.com/news/freddy-peralta-orioles-contract",
-      "source": "MLB",
-      "published": "Tue, 24 Nov 2026 20:52:00 GMT",
-      "timestamp": 1795553520.0
-    },
-    {
-      "title": "MLB proposal to union offers assurance of guaranteed contracts",
-      "url": "https://www.mlb.com/news/mlb-proposal-to-mlbpa-guaranteed-contracts-escrow",
-      "source": "MLB",
-      "published": "Tue, 24 Nov 2026 20:14:28 GMT",
-      "timestamp": 1795551268.0
-    },
-    {
       "title": "Freddy Peralta lands with Orioles: After post-trade turnaround, ALCS MVP scores five-year, $125 million deal",
       "url": "https://www.cbssports.com/mlb/news/freddy-peralta-orioles-free-agency-contract/",
       "source": "CBS MLB",
       "published": "Tue, 24 Nov 2026 19:44:45 +0000",
       "timestamp": 1795549485.0
-    },
-    {
-      "title": "John Mateer - 2026 Panini Instant NIL College Football",
-      "url": "https://insider.cards/story/john-mateer-2026-panini-instant-nil-college-football-37f3cc/",
-      "source": "Hobby",
-      "published": "Tue, 24 Nov 2026 19:25:19 +0000",
-      "timestamp": 1795548319.0
-    },
-    {
-      "title": "2026 Topps Finest F1 Collector Guide: Top Autos, Inserts & More",
-      "url": "https://insider.cards/story/2026-topps-finest-f1-collector-guide-top-autos-inserts-and-more-c988e3/",
-      "source": "Hobby",
-      "published": "Tue, 24 Nov 2026 19:22:34 +0000",
-      "timestamp": 1795548154.0
     },
     {
       "title": "GTA 6: Panini and Rockstar Announce Official Trading Cards!",
@@ -199,18 +199,18 @@
       "timestamp": 1795526227.0
     },
     {
+      "title": "Best Sports Card Rip Apps 2026 | Legal Card Ripping App Reviews (November)",
+      "url": "https://insider.cards/story/best-sports-card-rip-apps-2026-reviews-of-every-legal-card-rip-app-056d94/",
+      "source": "Hobby",
+      "published": "Tue, 24 Nov 2026 02:22:46 +0000",
+      "timestamp": 1795486966.0
+    },
+    {
       "title": "NBA trade rumors: Lakers planning to be active, Jazz looking elsewhere after Kyrie Irving buzz",
       "url": "https://www.cbssports.com/nba/news/nba-trade-rumors-lakers-jazz-kyrie-irving-nov-23/",
       "source": "CBS NBA",
       "published": "Mon, 23 Nov 2026 23:16:57 +0000",
       "timestamp": 1795475817.0
-    },
-    {
-      "title": "Predicting MLB's next mega contracts: Paul Skenes, Junior Caminero, James Wood and more in line to get paid",
-      "url": "https://www.cbssports.com/mlb/news/predicting-mlb-next-mega-contracts-paul-skenes-junior-caminero-james-wood-elly-de-la-cruz/",
-      "source": "CBS MLB",
-      "published": "Mon, 23 Nov 2026 18:15:42 +0000",
-      "timestamp": 1795457742.0
     }
   ]
 }
