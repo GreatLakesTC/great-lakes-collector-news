@@ -1,34 +1,125 @@
 {
-  "updated_at": "2026-11-27T08:37:31.005642+00:00",
+  "updated_at": "2026-11-27T21:19:08.615007+00:00",
   "count": 30,
   "articles": [
     {
-      "title": "We’re Giving Away $4,000 in Sports Cards!",
-      "url": "https://insider.cards/story/were-giving-away-usd-4-000-in-sports-cards-bfbe1c/",
-      "source": "Hobby",
-      "published": "Thu, 26 Nov 2026 22:30:32 +0000",
-      "timestamp": 1795732232.0
+      "title": "Henry Davis trade grades: Pirates cut ties with former No. 1 pick, add utilityman Tim Tawa from Diamondbacks",
+      "url": "https://www.cbssports.com/mlb/news/henry-davis-trade-grades-pirates-diamondbacks-tim-tawa/",
+      "source": "CBS MLB",
+      "published": "Fri, 27 Nov 2026 19:35:36 +0000",
+      "timestamp": 1795808136.0
     },
     {
-      "title": "From 17 to 25, here is the best prospect at each age",
-      "url": "https://www.mlb.com/news/best-mlb-prospects-by-age-2026",
+      "title": "Bears feared to lose another TE long-term as Colston Loveland looks for second opinion on knee injury",
+      "url": "https://www.cbssports.com/nfl/news/bears-te-colston-loveland-second-opinion-knee-injury-thanksgiving-win/",
+      "source": "CBS NFL",
+      "published": "Fri, 27 Nov 2026 19:15:33 +0000",
+      "timestamp": 1795806933.0
+    },
+    {
+      "title": "How Shohei Ohtani and the Dodgers are handling his two-way status after injury-riddled 2026 season",
+      "url": "https://www.cbssports.com/mlb/news/shohei-ohtani-dodgers-two-way-status-2027-season/",
+      "source": "CBS MLB",
+      "published": "Fri, 27 Nov 2026 18:38:05 +0000",
+      "timestamp": 1795804685.0
+    },
+    {
+      "title": "Cubs signing NPB slugger Teruaki Sato on six-year, $120 million contract as offseason overhaul continues",
+      "url": "https://www.cbssports.com/mlb/news/cubs-teruaki-sato-free-agency-contract/",
+      "source": "CBS MLB",
+      "published": "Fri, 27 Nov 2026 17:59:06 +0000",
+      "timestamp": 1795802346.0
+    },
+    {
+      "title": "Luka Dončić reveals he 'wanted Walker' Kessler, helped push Lakers GM Rob Pelinka for big trade",
+      "url": "https://www.cbssports.com/nba/news/luka-doncic-walker-kessler-lakers-rob-pelinka-trade/",
+      "source": "CBS NBA",
+      "published": "Fri, 27 Nov 2026 17:46:57 +0000",
+      "timestamp": 1795801617.0
+    },
+    {
+      "title": "Trevor Rogers signs with Cubs: Chicago begins rotation rebuild with five-year, $120 million deal",
+      "url": "https://www.cbssports.com/mlb/news/trevor-rogers-cubs-free-agency-contract/",
+      "source": "CBS MLB",
+      "published": "Fri, 27 Nov 2026 17:45:54 +0000",
+      "timestamp": 1795801554.0
+    },
+    {
+      "title": "Jaguars lose WR Parker Washington to shoulder injury as playoffs draw near",
+      "url": "https://www.cbssports.com/nfl/news/jaguars-wr-parker-washington-out-week-12-considered-week-to-week-shoulder-injury-playoffs/",
+      "source": "CBS NFL",
+      "published": "Fri, 27 Nov 2026 17:04:49 +0000",
+      "timestamp": 1795799089.0
+    },
+    {
+      "title": "Week 12 bold predictions: Vikings set season sack record, J.J. McCarthy has best game of career",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-12-bold-predictions-vikings-sack-record-j-j-mccarthy-giants/",
+      "source": "CBS NFL",
+      "published": "Fri, 27 Nov 2026 15:19:49 +0000",
+      "timestamp": 1795792789.0
+    },
+    {
+      "title": "Mets finalize Ewing's 8-year, $95 million extension",
+      "url": "https://www.mlb.com/news/a-j-ewing-contract-extension-mets",
       "source": "MLB",
-      "published": "Thu, 26 Nov 2026 21:24:42 GMT",
-      "timestamp": 1795728282.0
+      "published": "Fri, 27 Nov 2026 15:16:00 GMT",
+      "timestamp": 1795792560.0
     },
     {
-      "title": "2026-27 Topps Hoops Basketball Preview: A Big Rookie Class, But Is Hobby Worth $190?",
-      "url": "https://insider.cards/story/2026-27-topps-hoops-basketball-preview-a-big-rookie-class-but-is-hobby-930ecd/",
-      "source": "Hobby",
-      "published": "Thu, 26 Nov 2026 20:05:58 +0000",
-      "timestamp": 1795723558.0
-    },
-    {
-      "title": "Veteran backstop Sánchez joining Marlins on 1-year contract (sources)",
-      "url": "https://www.mlb.com/news/gary-sanchez-marlins-contract",
+      "title": "Root of success: Dodgers prospect thriving with revamped arsenal",
+      "url": "https://www.mlb.com/news/zach-root-dodgers-prospect-development-qa",
       "source": "MLB",
-      "published": "Thu, 26 Nov 2026 14:49:00 GMT",
-      "timestamp": 1795704540.0
+      "published": "Fri, 27 Nov 2026 14:58:48 GMT",
+      "timestamp": 1795791528.0
+    },
+    {
+      "title": "Black Friday bargains: Four MLB free agents who could provide the most bang for your buck",
+      "url": "https://www.cbssports.com/mlb/news/mlb-free-agency-bargains-2026-black-friday/",
+      "source": "CBS MLB",
+      "published": "Fri, 27 Nov 2026 14:58:22 +0000",
+      "timestamp": 1795791502.0
+    },
+    {
+      "title": "Feeling healthy, free agent Woodruff sets sights on pitching in '27",
+      "url": "https://www.mlb.com/news/brandon-woodruff-plans-to-pitch-in-2027",
+      "source": "MLB",
+      "published": "Fri, 27 Nov 2026 14:54:52 GMT",
+      "timestamp": 1795791292.0
+    },
+    {
+      "title": "Shaw’s ’26 outfield trial may open path back to Cubs’ starting lineup",
+      "url": "https://www.mlb.com/news/matt-shaw-cubs-outfield-option-2027",
+      "source": "MLB",
+      "published": "Fri, 27 Nov 2026 14:47:38 GMT",
+      "timestamp": 1795790858.0
+    },
+    {
+      "title": "Which righty starter could balance Red Sox's rotation?",
+      "url": "https://www.mlb.com/news/red-sox-options-for-right-handed-starters-on-free-agent-market",
+      "source": "MLB",
+      "published": "Fri, 27 Nov 2026 14:34:33 GMT",
+      "timestamp": 1795790073.0
+    },
+    {
+      "title": "Which free-agent starters are on Braves' wish list?",
+      "url": "https://www.mlb.com/news/braves-free-agent-starting-pitcher-options-ahead-of-2027",
+      "source": "MLB",
+      "published": "Fri, 27 Nov 2026 14:28:44 GMT",
+      "timestamp": 1795789724.0
+    },
+    {
+      "title": "2026 Topps Inception Football – First Day Issue",
+      "url": "https://insider.cards/story/2026-topps-inception-football-first-day-issue-1daf0a/",
+      "source": "Hobby",
+      "published": "Fri, 27 Nov 2026 06:59:25 +0000",
+      "timestamp": 1795762765.0
+    },
+    {
+      "title": "Jeremiah Smith - 2026 Panini Instant NIL College Football",
+      "url": "https://insider.cards/story/jeremiah-smith-2026-panini-instant-nil-college-football-1b8e45/",
+      "source": "Hobby",
+      "published": "Thu, 26 Nov 2026 20:49:54 +0000",
+      "timestamp": 1795726194.0
     },
     {
       "title": "Rockies continue to bolster starting pitching, add Peterson, Sandoval (sources)",
@@ -38,32 +129,11 @@
       "timestamp": 1795662540.0
     },
     {
-      "title": "NFL on Thanksgiving halftime shows: Ranking the 10 most memorable performances",
-      "url": "https://www.cbssports.com/nfl/news/nfl-thanksgiving-2026-ranking-most-memorable-halftime-shows/",
-      "source": "CBS NFL",
-      "published": "Thu, 26 Nov 2026 03:04:30 +0000",
-      "timestamp": 1795662270.0
-    },
-    {
       "title": "2026-27 MLB free agent tracker: Pre-Thanksgiving frenzy finds new homes for Skubal, Rogers, Peralta, more",
       "url": "https://www.cbssports.com/mlb/news/mlb-free-agent-tracker-2026-27/",
       "source": "CBS MLB",
       "published": "Thu, 26 Nov 2026 01:31:07 +0000",
       "timestamp": 1795656667.0
-    },
-    {
-      "title": "Robert returns to Orioles on 1-year deal (source)",
-      "url": "https://www.mlb.com/news/luis-robert-jr-contract-orioles",
-      "source": "MLB",
-      "published": "Thu, 26 Nov 2026 00:40:00 GMT",
-      "timestamp": 1795653600.0
-    },
-    {
-      "title": "NFL Week 12 injury report: Thanksgiving game statuses, latest updates for Sam Darnold, Brock Purdy",
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-12-injury-report-updates-kenneth-walker-brock-purdy-sam-darnold/",
-      "source": "CBS NFL",
-      "published": "Thu, 26 Nov 2026 00:01:26 +0000",
-      "timestamp": 1795651286.0
     },
     {
       "title": "Padres add World Series standout reliever JoJo Romero as San Diego bulks up bullpen again, per report",
@@ -94,18 +164,18 @@
       "timestamp": 1795623622.0
     },
     {
-      "title": "After big Peralta signing, could O's still add to rotation mix?",
-      "url": "https://www.mlb.com/news/orioles-rotation-landscape-after-freddy-peralta-signing",
-      "source": "MLB",
-      "published": "Wed, 25 Nov 2026 14:55:22 GMT",
-      "timestamp": 1795618522.0
-    },
-    {
       "title": "NBA rumors: Latest on Knicks and Karl-Anthony Towns, plus Wizards' Anthony Davis plan, a Nets trade candidate",
       "url": "https://www.cbssports.com/nba/news/nba-rumors-knicks-karl-anthony-towns-wizards-anthony-davis-nets-michael-porter-jr/",
       "source": "CBS NBA",
       "published": "Wed, 25 Nov 2026 13:47:38 +0000",
       "timestamp": 1795614458.0
+    },
+    {
+      "title": "The 7 biggest contracts in Mets history",
+      "url": "https://www.mlb.com/news/the-biggest-contracts-in-mets-history",
+      "source": "MLB",
+      "published": "Wed, 25 Nov 2026 00:09:00 GMT",
+      "timestamp": 1795565340.0
     },
     {
       "title": "Freddy Peralta lands with Orioles: After post-trade turnaround, ALCS MVP scores five-year, $125 million deal",
@@ -115,25 +185,11 @@
       "timestamp": 1795549485.0
     },
     {
-      "title": "Cubs signing NPB slugger Teruaki Sato on six-year, $120 million contract as offseason overhaul continues",
-      "url": "https://www.cbssports.com/mlb/news/cubs-teruaki-sato-free-agency-contract/",
-      "source": "CBS MLB",
-      "published": "Tue, 24 Nov 2026 15:29:17 +0000",
-      "timestamp": 1795534157.0
-    },
-    {
       "title": "MLB extension candidates: 10 players who could get deals before CBA expires, including two Cy Young winners",
       "url": "https://www.cbssports.com/mlb/news/mlb-extension-candidates-jacob-misiorowski-cam-schlittler-nolan-mclean-payton-tolle/",
       "source": "CBS MLB",
       "published": "Tue, 24 Nov 2026 14:30:06 +0000",
       "timestamp": 1795530606.0
-    },
-    {
-      "title": "Trevor Rogers signing with Cubs: Chicago begins rotation rebuild with five-year, $120 million deal, per report",
-      "url": "https://www.cbssports.com/mlb/news/trevor-rogers-cubs-free-agency-contract/",
-      "source": "CBS MLB",
-      "published": "Tue, 24 Nov 2026 13:17:07 +0000",
-      "timestamp": 1795526227.0
     },
     {
       "title": "NBA trade rumors: Lakers planning to be active, Jazz looking elsewhere after Kyrie Irving buzz",
@@ -155,62 +211,6 @@
       "source": "CBS MLB",
       "published": "Mon, 23 Nov 2026 15:06:43 +0000",
       "timestamp": 1795446403.0
-    },
-    {
-      "title": "Panini America Collectible Trading Cards & Sports",
-      "url": "https://insider.cards/story/panini-america-to-launch-gta-vi-sports-trading-card-collection-next-db1a7f/",
-      "source": "Hobby",
-      "published": "Mon, 23 Nov 2026 08:00:00 +0000",
-      "timestamp": 1795420800.0
-    },
-    {
-      "title": "Tarik Skubal signing with Mets: Two-time Cy Young winner lands historic nine-year, $450 million contract",
-      "url": "https://www.cbssports.com/mlb/news/tarik-skubal-mets-free-agency-contract/",
-      "source": "CBS MLB",
-      "published": "Mon, 23 Nov 2026 00:29:36 +0000",
-      "timestamp": 1795393776.0
-    },
-    {
-      "title": "What's next for the Mets after record-breaking deal with Tarik Skubal? Biggest needs for 2027",
-      "url": "https://www.cbssports.com/mlb/news/whats-next-for-mets-tarik-skubal-rotation-bullpen-first-baseman-extensions/",
-      "source": "CBS MLB",
-      "published": "Mon, 23 Nov 2026 00:12:31 +0000",
-      "timestamp": 1795392751.0
-    },
-    {
-      "title": "So you missed out on Tarik Skubal: The best starting pitchers still available through free agency, trade",
-      "url": "https://www.cbssports.com/mlb/news/mlb-starting-pitchers-available-free-agency-trade-tarik-skubal-suitors/",
-      "source": "CBS MLB",
-      "published": "Sun, 22 Nov 2026 23:51:39 +0000",
-      "timestamp": 1795391499.0
-    },
-    {
-      "title": "All the records broken by Tarik Skubal's nine-year, $450 million contract with the Mets",
-      "url": "https://www.cbssports.com/mlb/news/tarik-skubal-mets-free-agency-contract-records-total-value-aav/",
-      "source": "CBS MLB",
-      "published": "Sun, 22 Nov 2026 22:31:41 +0000",
-      "timestamp": 1795386701.0
-    },
-    {
-      "title": "Dwight Howard admits he told Magic not to trade for Stephen Curry before he became 'one of the greatest'",
-      "url": "https://www.cbssports.com/nba/news/dwight-howard-stephen-curry-trade-magic-monta-ellis/",
-      "source": "CBS NBA",
-      "published": "Sun, 22 Nov 2026 21:49:33 +0000",
-      "timestamp": 1795384173.0
-    },
-    {
-      "title": "MLB rumors: Scott Boras sets Tarik Skubal timeline, plus Tigers signing former Rookie of the Year",
-      "url": "https://www.cbssports.com/mlb/news/mlb-rumors-tarik-skubal-free-agency-timeline-red-sox-luis-gil/",
-      "source": "CBS MLB",
-      "published": "Sun, 22 Nov 2026 20:33:06 +0000",
-      "timestamp": 1795379586.0
-    },
-    {
-      "title": "Logan Webb landing spots: Five possible destinations for Giants starting pitcher on the trading block",
-      "url": "https://www.cbssports.com/mlb/news/logan-webb-landing-spots-giants-trade/",
-      "source": "CBS MLB",
-      "published": "Sun, 22 Nov 2026 16:16:59 +0000",
-      "timestamp": 1795364219.0
     }
   ]
 }
