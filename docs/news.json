@@ -1,27 +1,34 @@
 {
-  "updated_at": "2026-11-26T21:34:43.688403+00:00",
+  "updated_at": "2026-11-27T08:37:31.005642+00:00",
   "count": 30,
   "articles": [
+    {
+      "title": "We’re Giving Away $4,000 in Sports Cards!",
+      "url": "https://insider.cards/story/were-giving-away-usd-4-000-in-sports-cards-bfbe1c/",
+      "source": "Hobby",
+      "published": "Thu, 26 Nov 2026 22:30:32 +0000",
+      "timestamp": 1795732232.0
+    },
+    {
+      "title": "From 17 to 25, here is the best prospect at each age",
+      "url": "https://www.mlb.com/news/best-mlb-prospects-by-age-2026",
+      "source": "MLB",
+      "published": "Thu, 26 Nov 2026 21:24:42 GMT",
+      "timestamp": 1795728282.0
+    },
+    {
+      "title": "2026-27 Topps Hoops Basketball Preview: A Big Rookie Class, But Is Hobby Worth $190?",
+      "url": "https://insider.cards/story/2026-27-topps-hoops-basketball-preview-a-big-rookie-class-but-is-hobby-930ecd/",
+      "source": "Hobby",
+      "published": "Thu, 26 Nov 2026 20:05:58 +0000",
+      "timestamp": 1795723558.0
+    },
     {
       "title": "Veteran backstop Sánchez joining Marlins on 1-year contract (sources)",
       "url": "https://www.mlb.com/news/gary-sanchez-marlins-contract",
       "source": "MLB",
       "published": "Thu, 26 Nov 2026 14:49:00 GMT",
       "timestamp": 1795704540.0
-    },
-    {
-      "title": "After a $3.79 Billion Launch, GTA 6 Gets a Real-World Sports Card Set From Panini",
-      "url": "https://insider.cards/story/after-a-usd-3-79-billion-launch-gta-6-gets-a-real-world-sports-card-set-bb6f88/",
-      "source": "Hobby",
-      "published": "Thu, 26 Nov 2026 08:45:50 +0000",
-      "timestamp": 1795682750.0
-    },
-    {
-      "title": "2026 Topps Inception Football – First Day Issue",
-      "url": "https://insider.cards/story/2026-topps-inception-football-first-day-issue-1daf0a/",
-      "source": "Hobby",
-      "published": "Thu, 26 Nov 2026 06:08:12 +0000",
-      "timestamp": 1795673292.0
     },
     {
       "title": "Rockies continue to bolster starting pitching, add Peterson, Sandoval (sources)",
@@ -59,20 +66,6 @@
       "timestamp": 1795651286.0
     },
     {
-      "title": "Each MLB club's best prospect acquired via trade",
-      "url": "https://www.mlb.com/news/best-prospects-who-were-trade-acquisitions",
-      "source": "MLB",
-      "published": "Thu, 26 Nov 2026 00:00:00 GMT",
-      "timestamp": 1795651200.0
-    },
-    {
-      "title": "John Mateer - 2026 Panini Instant NIL College Football",
-      "url": "https://insider.cards/story/john-mateer-2026-panini-instant-nil-college-football-271daa/",
-      "source": "Hobby",
-      "published": "Wed, 25 Nov 2026 22:50:05 +0000",
-      "timestamp": 1795647005.0
-    },
-    {
       "title": "Padres add World Series standout reliever JoJo Romero as San Diego bulks up bullpen again, per report",
       "url": "https://www.cbssports.com/mlb/news/padres-jojo-romero-free-agency-contract/",
       "source": "CBS MLB",
@@ -85,20 +78,6 @@
       "source": "CBS NBA",
       "published": "Wed, 25 Nov 2026 20:26:50 +0000",
       "timestamp": 1795638410.0
-    },
-    {
-      "title": "Jadan Baugh - 2026 Panini Instant NIL College Football",
-      "url": "https://insider.cards/story/jadan-baugh-2026-panini-instant-nil-college-football-10db6a/",
-      "source": "Hobby",
-      "published": "Wed, 25 Nov 2026 20:19:53 +0000",
-      "timestamp": 1795637993.0
-    },
-    {
-      "title": "Keisean Henderson - 2026 Panini Instant NIL College",
-      "url": "https://insider.cards/story/keisean-henderson-2026-panini-instant-nil-college-cad1bd/",
-      "source": "Hobby",
-      "published": "Wed, 25 Nov 2026 20:19:52 +0000",
-      "timestamp": 1795637992.0
     },
     {
       "title": "MLB CBA negotiations timeline: League, MLBPA trade new proposals over revenue sharing as Dec. 1 deadline nears",
@@ -115,13 +94,6 @@
       "timestamp": 1795623622.0
     },
     {
-      "title": "A $120 million contract and an MVP Award? All in a day's work for Sato",
-      "url": "https://www.mlb.com/news/teruaki-sato-wins-npb-mvp-award-after-agreeing-to-cubs-contract",
-      "source": "MLB",
-      "published": "Wed, 25 Nov 2026 14:55:52 GMT",
-      "timestamp": 1795618552.0
-    },
-    {
       "title": "After big Peralta signing, could O's still add to rotation mix?",
       "url": "https://www.mlb.com/news/orioles-rotation-landscape-after-freddy-peralta-signing",
       "source": "MLB",
@@ -134,13 +106,6 @@
       "source": "CBS NBA",
       "published": "Wed, 25 Nov 2026 13:47:38 +0000",
       "timestamp": 1795614458.0
-    },
-    {
-      "title": "Panini GTA 6 Trading Cards: Here's Everything We Know",
-      "url": "https://insider.cards/story/panini-gta-6-trading-cards-heres-everything-we-know-d40331/",
-      "source": "Hobby",
-      "published": "Wed, 25 Nov 2026 00:33:52 +0000",
-      "timestamp": 1795566832.0
     },
     {
       "title": "Freddy Peralta lands with Orioles: After post-trade turnaround, ALCS MVP scores five-year, $125 million deal",
@@ -211,6 +176,41 @@
       "source": "CBS MLB",
       "published": "Mon, 23 Nov 2026 00:12:31 +0000",
       "timestamp": 1795392751.0
+    },
+    {
+      "title": "So you missed out on Tarik Skubal: The best starting pitchers still available through free agency, trade",
+      "url": "https://www.cbssports.com/mlb/news/mlb-starting-pitchers-available-free-agency-trade-tarik-skubal-suitors/",
+      "source": "CBS MLB",
+      "published": "Sun, 22 Nov 2026 23:51:39 +0000",
+      "timestamp": 1795391499.0
+    },
+    {
+      "title": "All the records broken by Tarik Skubal's nine-year, $450 million contract with the Mets",
+      "url": "https://www.cbssports.com/mlb/news/tarik-skubal-mets-free-agency-contract-records-total-value-aav/",
+      "source": "CBS MLB",
+      "published": "Sun, 22 Nov 2026 22:31:41 +0000",
+      "timestamp": 1795386701.0
+    },
+    {
+      "title": "Dwight Howard admits he told Magic not to trade for Stephen Curry before he became 'one of the greatest'",
+      "url": "https://www.cbssports.com/nba/news/dwight-howard-stephen-curry-trade-magic-monta-ellis/",
+      "source": "CBS NBA",
+      "published": "Sun, 22 Nov 2026 21:49:33 +0000",
+      "timestamp": 1795384173.0
+    },
+    {
+      "title": "MLB rumors: Scott Boras sets Tarik Skubal timeline, plus Tigers signing former Rookie of the Year",
+      "url": "https://www.cbssports.com/mlb/news/mlb-rumors-tarik-skubal-free-agency-timeline-red-sox-luis-gil/",
+      "source": "CBS MLB",
+      "published": "Sun, 22 Nov 2026 20:33:06 +0000",
+      "timestamp": 1795379586.0
+    },
+    {
+      "title": "Logan Webb landing spots: Five possible destinations for Giants starting pitcher on the trading block",
+      "url": "https://www.cbssports.com/mlb/news/logan-webb-landing-spots-giants-trade/",
+      "source": "CBS MLB",
+      "published": "Sun, 22 Nov 2026 16:16:59 +0000",
+      "timestamp": 1795364219.0
     }
   ]
 }
