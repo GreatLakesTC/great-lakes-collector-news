@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T21:28:06.001304+00:00",
+  "updated_at": "2026-11-27T08:23:49.476754+00:00",
   "count": 25,
   "counts": {
     "Fantasy NFL": 15,
@@ -8,6 +8,15 @@
   },
   "articles": [
     {
+      "title": "Fantasy Football Week 12 Rankings (2026)",
+      "url": "https://www.fantasypros.com/2026/11/fantasy-football-week-12-rankings-2026/",
+      "source": "FantasyPros",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-27T08:15:36+00:00",
+      "timestamp": 1795767336,
+      "summary": "Set your lineup with our Week 12 fantasy football rankings for the 2026 NFL season. Our analysts break down the rankings by position, with half-PPR tiers for quarterbacks, running backs, wide..."
+    },
+    {
       "title": "Fantasy Football Week 12 Start/Sit Advice: Sleepers & Busts (2026)",
       "url": "https://www.fantasypros.com/2026/11/fantasy-football-week-12-start-sit-advice-sleepers-busts-2026/",
       "source": "FantasyPros",
@@ -15,33 +24,6 @@
       "published": "2026-11-26T15:27:45+00:00",
       "timestamp": 1795706865,
       "summary": "The best fantasy football sleepers for Week 12 are Jack Bech, Chimere Dike, and Devaughn Vele, while Jaylen Warren and Chuba Hubbard top the list of Week 12 busts. Bech has drawn 16 targets in two..."
-    },
-    {
-      "title": "A.J. Brown: Estimated as 'DNP' on Thursday",
-      "url": "https://www.rotowire.com//football/player/aj-brown-13432",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-26T12:53:00+00:00",
-      "timestamp": 1795697580,
-      "summary": "Brown (hamstring) was listed as a non-participant on Thursday's practice estimate. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Stefon Diggs: Off injury report",
-      "url": "https://www.rotowire.com//football/player/stefon-diggs-10133",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-26T12:42:00+00:00",
-      "timestamp": 1795696920,
-      "summary": "Diggs (personal) was removed from the Commanders' injury report Thursday. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Bhayshul Tuten: Logs another 'DNP' on Thursday",
-      "url": "https://www.rotowire.com//football/player/bhayshul-tuten-18524",
-      "source": "RotoWire",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-26T12:36:00+00:00",
-      "timestamp": 1795696560,
-      "summary": "Tuten (ankle/foot) didn't practice Thursday, Ryan O'Halloran of The Florida Times-Union reports. Visit RotoWire.com for more analysis on this update."
     },
     {
       "title": "The Primer: Week 12 Edition (2026 Fantasy Football)",
@@ -80,67 +62,94 @@
       "summary": "Every week, fantasy football matchups are won and lost based on who's available. Below are some of the bigger names on this week's injury report, along with what to expect. Waiver Wire Advice..."
     },
     {
-      "title": "Mitchell Robinson: Questionable for Friday",
-      "url": "https://www.rotowire.com//basketball/player/mitchell-robinson-4426",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-11-26T11:01:00+00:00",
-      "timestamp": 1795690860,
-      "summary": "Robinson (illness) is questionable for Friday's game against the Hawks. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Deni Avdija: Teases triple-double in win",
-      "url": "https://www.rotowire.com//basketball/player/deni-avdija-5152",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-11-26T09:36:00+00:00",
-      "timestamp": 1795685760,
-      "summary": "Avdija logged 33 points (11-21 FG, 5-8 3Pt, 6-8 FT), 12 rebounds, seven assists and two steals across 36 minutes during Wednesday's 116-111 win over the Spurs. Visit RotoWire.com for more analysis..."
-    },
-    {
-      "title": "Victor Wembanyama: Erupts for 44 in return Wednesday",
-      "url": "https://www.rotowire.com//basketball/player/victor-wembanyama-5809",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-11-26T09:27:00+00:00",
-      "timestamp": 1795685220,
-      "summary": "Wembanyama had 44 points (17-30 FG, 3-9 3Pt, 7-10 FT), 16 rebounds, three assists, two blocks and one steal in 35 minutes during Wednesday's 116-111 loss to the Trail Blazers. Visit RotoWire.com..."
-    },
-    {
-      "title": "Giannis Antetokounmpo: Listed as probable",
-      "url": "https://www.rotowire.com//basketball/player/giannis-antetokounmpo-3456",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-11-26T01:15:00+00:00",
-      "timestamp": 1795655700,
-      "summary": "Antetokounmpo is probable for Friday's game against the Knicks due to right groin tendinitis. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Isaiah Likely: Another limited listing",
-      "url": "https://www.rotowire.com//football/player/isaiah-likely-16033",
+      "title": "Josh Downs: Limited to one catch Thursday",
+      "url": "https://www.rotowire.com//football/player/josh-downs-16689",
       "source": "RotoWire",
       "sport": "Fantasy NFL",
-      "published": "2026-11-26T01:09:00+00:00",
-      "timestamp": 1795655340,
-      "summary": "Likely (groin) was listed as limited on Thursday's practice report, Dan Salomone of the Giants' official site reports. Visit RotoWire.com for more analysis on this update."
+      "published": "2026-11-26T09:35:00+00:00",
+      "timestamp": 1795685700,
+      "summary": "Downs secured one of four targets for 13 yards in the Chiefs' 13-10 loss to the Bills on Thursday. Visit RotoWire.com for more analysis on this update."
     },
     {
-      "title": "Andrew Wiggins: Probable to play Friday",
-      "url": "https://www.rotowire.com//basketball/player/andrew-wiggins-3571",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-11-26T01:05:00+00:00",
-      "timestamp": 1795655100,
-      "summary": "Wiggins is probable for Friday's game against the Knicks due to a right ankle sprain. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Justin Herbert: Misses another practice Thursday",
-      "url": "https://www.rotowire.com//football/player/justin-herbert-14446",
+      "title": "DJ Moore: Pair of grabs in Week 12 win",
+      "url": "https://www.rotowire.com//football/player/dj-moore-12477",
       "source": "RotoWire",
       "sport": "Fantasy NFL",
-      "published": "2026-11-26T01:01:00+00:00",
-      "timestamp": 1795654860,
-      "summary": "Herbert (concussion) was officially deemed a non-participant in Thursday's practice. Visit RotoWire.com for more analysis on this update."
+      "published": "2026-11-26T09:32:00+00:00",
+      "timestamp": 1795685520,
+      "summary": "Moore hauled in two of six targets for 15 yards in the Bills' 13-10 win over the Chiefs on Thursday. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Dalton Kincaid: Two catches in return",
+      "url": "https://www.rotowire.com//football/player/dalton-kincaid-16697",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-26T09:28:00+00:00",
+      "timestamp": 1795685280,
+      "summary": "Kincaid brought in both targets for 13 yards in the Bills' 13-10 loss to the Chiefs on Thursday. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Rashee Rice: Forgettable numbers in loss",
+      "url": "https://www.rotowire.com//football/player/rashee-rice-16963",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-26T09:23:00+00:00",
+      "timestamp": 1795684980,
+      "summary": "Rice brought in two of five targets for 19 yards in the Chiefs' 13-10 loss to the Bills on Thursday. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Patrick Mahomes: Unremarkable numbers in loss",
+      "url": "https://www.rotowire.com//football/player/patrick-mahomes-11839",
+      "source": "RotoWire",
+      "sport": "Fantasy NFL",
+      "published": "2026-11-26T09:18:00+00:00",
+      "timestamp": 1795684680,
+      "summary": "Mahomes completed 16 of 29 passes for 174 yards with no touchdowns or interceptions and rushed three times for two yards in the Chiefs' 13-10 loss to the Bills on Thursday. He also fumbled twice..."
+    },
+    {
+      "title": "Dylan Harper: Questionable for Friday",
+      "url": "https://www.rotowire.com//basketball/player/dylan-harper-6549",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-11-26T03:42:00+00:00",
+      "timestamp": 1795664520,
+      "summary": "Harper (hip) is questionable for Friday's game against the Lakers. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "De'Aaron Fox: Questionable for Friday",
+      "url": "https://www.rotowire.com//basketball/player/deaaron-fox-4116",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-11-26T03:36:00+00:00",
+      "timestamp": 1795664160,
+      "summary": "Fox (shin) is questionable for Friday's game against the Lakers. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Zach Edey: Uncertain status for Friday",
+      "url": "https://www.rotowire.com//basketball/player/zach-edey-6263",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-11-26T03:24:00+00:00",
+      "timestamp": 1795663440,
+      "summary": "Edey (ankle) is questionable for Friday's game against the Timberwolves. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Austin Reaves: Officially listed as questionable",
+      "url": "https://www.rotowire.com//basketball/player/austin-reaves-5334",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-11-26T03:21:00+00:00",
+      "timestamp": 1795663260,
+      "summary": "Reaves (heel) is questionable for Friday's game against the Spurs. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "LaMelo Ball: Listed questionable vs. Memphis",
+      "url": "https://www.rotowire.com//basketball/player/lamelo-ball-5151",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-11-26T03:15:00+00:00",
+      "timestamp": 1795662900,
+      "summary": "Ball (ankle) is questionable for Friday's game against the Grizzlies. Visit RotoWire.com for more analysis on this update."
     },
     {
       "title": "The 10 Most Intriguing Fantasy Players of Week 12",
@@ -177,15 +186,6 @@
       "published": "2026-11-25T21:53:01+00:00",
       "timestamp": 1795643581,
       "summary": "Hey, friends. Here's this week's rankings/tiers article. As always, feel free to use these tiered half-point PPR rankings as a tiebreaker for your difficult lineup decisions. Normally, I include..."
-    },
-    {
-      "title": "6 Fantasy Football Lineup Landmines: Start/Sit Advice (Week 12)",
-      "url": "https://www.fantasypros.com/2026/11/6-fantasy-football-lineup-landmines-start-sit-advice-week-12-2026/",
-      "source": "FantasyPros",
-      "sport": "Fantasy NFL",
-      "published": "2026-11-25T21:53:00+00:00",
-      "timestamp": 1795643580,
-      "summary": "Arguably, the most frustrating thing in fantasy football is seeing someone in your starting lineup struggle that week. Therefore, the logic behind this article is simple - identify fantasy..."
     },
     {
       "title": "Antonio Senzatela: Re-signs with Milwaukee",
