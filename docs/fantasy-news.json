@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-27T21:13:20.253570+00:00",
-  "count": 25,
+  "updated_at": "2026-11-28T07:43:51.889928+00:00",
+  "count": 22,
   "counts": {
     "Fantasy NFL": 15,
     "Fantasy NBA": 5,
-    "Fantasy MLB": 5
+    "Fantasy MLB": 2
   },
   "articles": [
     {
@@ -35,15 +35,6 @@
       "summary": "What if we could go back to August and draft our fantasy football team again, using what we know now? Quite a bit would look different, and that's exactly what I'll be discussing today. Who would..."
     },
     {
-      "title": "Jazz Chisholm: Nearing deal with Blue Jays",
-      "url": "https://www.rotowire.com//baseball/player/jazz-chisholm-14550",
-      "source": "RotoWire",
-      "sport": "Fantasy MLB",
-      "published": "2026-11-27T12:54:00+00:00",
-      "timestamp": 1795784040,
-      "summary": "The Blue Jays are nearing a contract agreement with Chisholm, Robert Murray of FanSided.com reports. Visit RotoWire.com for more analysis on this update."
-    },
-    {
       "title": "3 Bold Predictions for Week 12 (2026 Fantasy Football)",
       "url": "https://www.fantasypros.com/2026/11/3-bold-predictions-for-week-12-2026-fantasy-football/",
       "source": "FantasyPros",
@@ -51,24 +42,6 @@
       "published": "2026-11-27T12:03:38+00:00",
       "timestamp": 1795781018,
       "summary": "My fantasy football bold predictions produced a winner last week, bringing my season record to 8-24-1. My record isn't where I'd like it, but last week's winner was a no-doubter. I predicted the..."
-    },
-    {
-      "title": "Austin Reaves: Will play Friday",
-      "url": "https://www.rotowire.com//basketball/player/austin-reaves-5334",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-11-27T11:17:00+00:00",
-      "timestamp": 1795778220,
-      "summary": "Reaves (heel) is available for Friday's game against San Antonio, NBA reporter Marc Stein reports. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Kyrie Irving: Questionable with knee management",
-      "url": "https://www.rotowire.com//basketball/player/kyrie-irving-3186",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-11-27T11:07:00+00:00",
-      "timestamp": 1795777620,
-      "summary": "Irving is listed as questionable for Friday's game against the Suns due to left knee injury management. Visit RotoWire.com for more analysis on this update."
     },
     {
       "title": "Henry Davis: Shipped to Arizona in trade",
@@ -80,22 +53,49 @@
       "summary": "The Diamondbacks acquired Davis from the Pirates on Friday in exchange for Tim Tawa, Jeff Passan of ESPN.com reports. Visit RotoWire.com for more analysis on this update."
     },
     {
-      "title": "Dylan Harper: Goes through shootaround",
-      "url": "https://www.rotowire.com//basketball/player/dylan-harper-6549",
+      "title": "Victor Wembanyama: Posts double-double Friday",
+      "url": "https://www.rotowire.com//basketball/player/victor-wembanyama-5809",
       "source": "RotoWire",
       "sport": "Fantasy NBA",
-      "published": "2026-11-27T10:52:00+00:00",
-      "timestamp": 1795776720,
-      "summary": "Harper (hip) participated in Friday's morning shootaround, per Matt Guzman of SI.com. Visit RotoWire.com for more analysis on this update."
+      "published": "2026-11-27T10:00:00+00:00",
+      "timestamp": 1795773600,
+      "summary": "Wembanyama posted 25 points (10-25 FG, 2-5 3Pt, 3-8 FT), 16 rebounds, two assists, four steals and two blocks across 35 minutes in Friday's 99-96 win over the Lakers. Visit RotoWire.com for more..."
     },
     {
-      "title": "LaMelo Ball: Downgraded to out Friday",
-      "url": "https://www.rotowire.com//basketball/player/lamelo-ball-5151",
+      "title": "Joel Embiid: Won't play Saturday",
+      "url": "https://www.rotowire.com//basketball/player/joel-embiid-3572",
       "source": "RotoWire",
       "sport": "Fantasy NBA",
-      "published": "2026-11-27T10:52:00+00:00",
-      "timestamp": 1795776720,
-      "summary": "Ball (ankle) has been ruled out for Friday's game against the Grizzlies. The guard was previously questionable after spraining his left ankle during Wednesday's win over Oklahoma City. Visit..."
+      "published": "2026-11-27T09:48:00+00:00",
+      "timestamp": 1795772880,
+      "summary": "Embiid has been ruled out for Saturday's game against the Rockets due to right foot plantar fasciitis management, Kris Rhim of ESPN.com reports. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "LeBron James: Won't play Saturday",
+      "url": "https://www.rotowire.com//basketball/player/lebron-james-2344",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-11-27T09:46:00+00:00",
+      "timestamp": 1795772760,
+      "summary": "James (back injury management) won't be available for Saturday's game against the Rockets, according to Kris Rhim of ESPN. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Luka Doncic: Struggles from deep in loss",
+      "url": "https://www.rotowire.com//basketball/player/luka-doncic-4396",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-11-27T09:41:00+00:00",
+      "timestamp": 1795772460,
+      "summary": "Doncic registered 31 points (14-31 FG, 1-13 3Pt, 2-3 FT), six rebounds, eight assists and three steals over 38 minutes during Friday's 99-96 loss to the Spurs. Visit RotoWire.com for more analysis..."
+    },
+    {
+      "title": "Yaxel Lendeborg: Leads GS in scoring in loss",
+      "url": "https://www.rotowire.com//basketball/player/yaxel-lendeborg-6562",
+      "source": "RotoWire",
+      "sport": "Fantasy NBA",
+      "published": "2026-11-27T09:29:00+00:00",
+      "timestamp": 1795771740,
+      "summary": "Lendeborg finished with 18 points (5-14 FG, 1-4 3Pt, 7-9 FT), seven rebounds, two assists, a steal and two blocks across 30 minutes in Friday's 116-94 loss to the Trail Blazers. Visit RotoWire.com..."
     },
     {
       "title": "Fantasy Football Week 12 Rankings (2026)",
@@ -107,58 +107,58 @@
       "summary": "Set your lineup with our Week 12 fantasy football rankings for the 2026 NFL season. Our analysts break down the rankings by position, with half-PPR tiers for quarterbacks, running backs, wide..."
     },
     {
-      "title": "Justin Herbert: Not spotted Friday",
-      "url": "https://www.rotowire.com//football/player/justin-herbert-14446",
+      "title": "Michael Pittman: Just one catch in return to lineup",
+      "url": "https://www.rotowire.com//football/player/michael-pittman-14378",
       "source": "RotoWire",
       "sport": "Fantasy NFL",
-      "published": "2026-11-27T01:10:00+00:00",
-      "timestamp": 1795741800,
-      "summary": "Herbert (concussion) wasn't present for the portion of Friday's practice open to the media, Noah Furtado of The Athletic reports. Visit RotoWire.com for more analysis on this update."
+      "published": "2026-11-27T04:54:00+00:00",
+      "timestamp": 1795755240,
+      "summary": "Pittman caught one of two targets for seven yards in Friday's 27-5 win over the Broncos. Visit RotoWire.com for more analysis on this update."
     },
     {
-      "title": "Isaiah Likely: No designation for Sunday",
-      "url": "https://www.rotowire.com//football/player/isaiah-likely-16033",
+      "title": "DK Metcalf: Finds end zone against Broncos",
+      "url": "https://www.rotowire.com//football/player/dk-metcalf-13424",
       "source": "RotoWire",
       "sport": "Fantasy NFL",
-      "published": "2026-11-27T01:08:00+00:00",
-      "timestamp": 1795741680,
-      "summary": "Likely (groin) doesn't have a designation for Sunday's contest at Indianapolis, Dan Salomone of the Giants' official site reports. Visit RotoWire.com for more analysis on this update."
+      "published": "2026-11-27T04:27:00+00:00",
+      "timestamp": 1795753620,
+      "summary": "Metcalf caught three of four targets for 36 yards and a touchdown in Friday's 27-5 win over Denver. Visit RotoWire.com for more analysis on this update."
     },
     {
-      "title": "Jakobi Meyers: Cleared to face Titans while Washington sits",
-      "url": "https://www.rotowire.com//football/player/jakobi-meyers-13517",
+      "title": "Rico Dowdle: Leading rusher in Week 12 win",
+      "url": "https://www.rotowire.com//football/player/rico-dowdle-14657",
       "source": "RotoWire",
       "sport": "Fantasy NFL",
-      "published": "2026-11-27T01:07:00+00:00",
-      "timestamp": 1795741620,
-      "summary": "Meyers (ankle) doesn't have an injury designation for Sunday's game against the Titans, Ryan O'Halloran of the Florida Times-Union reports. Visit RotoWire.com for more analysis on this update."
+      "published": "2026-11-27T04:22:00+00:00",
+      "timestamp": 1795753320,
+      "summary": "Dowdle carried the ball 11 times for 71 yards in Friday's 27-5 win over the Broncos. Visit RotoWire.com for more analysis on this update."
     },
     {
-      "title": "Anthony Black: Iffy for Saturday",
-      "url": "https://www.rotowire.com//basketball/player/anthony-black-5910",
-      "source": "RotoWire",
-      "sport": "Fantasy NBA",
-      "published": "2026-11-27T01:06:00+00:00",
-      "timestamp": 1795741560,
-      "summary": "Black (back) is questionable for Saturday's game against the Wizards. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Bhayshul Tuten: Ruled out for Sunday",
-      "url": "https://www.rotowire.com//football/player/bhayshul-tuten-18524",
+      "title": "Jaylen Warren: Held in check against Denver",
+      "url": "https://www.rotowire.com//football/player/jaylen-warren-15984",
       "source": "RotoWire",
       "sport": "Fantasy NFL",
-      "published": "2026-11-27T01:03:00+00:00",
-      "timestamp": 1795741380,
-      "summary": "Tuten (ankle) has been ruled out for Sunday's game against the Titans, Ryan O'Halloran of The Florida Times-Union reports. Visit RotoWire.com for more analysis on this update."
+      "published": "2026-11-27T04:18:00+00:00",
+      "timestamp": 1795753080,
+      "summary": "Warren carried the ball 20 times for 46 yards and caught one of two targets for zero yards in Friday's 27-5 win over the Broncos. Visit RotoWire.com for more analysis on this update."
     },
     {
-      "title": "Derrick Henry: Cleared to face Texans",
-      "url": "https://www.rotowire.com//football/player/derrick-henry-10819",
+      "title": "Mason Rudolph: Avoids mistakes in Friday's win",
+      "url": "https://www.rotowire.com//football/player/mason-rudolph-12629",
       "source": "RotoWire",
       "sport": "Fantasy NFL",
-      "published": "2026-11-27T01:01:00+00:00",
-      "timestamp": 1795741260,
-      "summary": "Henry (concussion) doesn't have an injury designation for Sunday's game against the Texans, per Adam Caplan of SiriusXM NFL Radio. Visit RotoWire.com for more analysis on this update."
+      "published": "2026-11-27T04:12:00+00:00",
+      "timestamp": 1795752720,
+      "summary": "Rudolph completed nine of 15 passes for 142 yards and a touchdown in Friday's 27-5 win over the Broncos. Visit RotoWire.com for more analysis on this update."
+    },
+    {
+      "title": "Jazz Chisholm: Agrees to terms with Toronto",
+      "url": "https://www.rotowire.com//baseball/player/jazz-chisholm-14550",
+      "source": "RotoWire",
+      "sport": "Fantasy MLB",
+      "published": "2026-11-27T01:16:00+00:00",
+      "timestamp": 1795742160,
+      "summary": "The Blue Jays and Chisholm agreed to a one-year, $20 million contract Friday, Jeff Passan of ESPN.com reports. The deal includes a $16 million club option (or $1.5 million buyout) for 2028. Visit..."
     },
     {
       "title": "Fantasy Football Week 12 Start/Sit Advice: Sleepers & Busts (2026)",
@@ -204,33 +204,6 @@
       "published": "2026-11-26T11:53:23+00:00",
       "timestamp": 1795694003,
       "summary": "Every week, fantasy football matchups are won and lost based on who's available. Below are some of the bigger names on this week's injury report, along with what to expect. Waiver Wire Advice..."
-    },
-    {
-      "title": "Luis Robert: Re-signs with Orioles",
-      "url": "https://www.rotowire.com//baseball/player/luis-robert-14686",
-      "source": "RotoWire",
-      "sport": "Fantasy MLB",
-      "published": "2026-11-25T04:44:00+00:00",
-      "timestamp": 1795581840,
-      "summary": "Robert signed a one-year, $12 million contract with the Orioles on Wednesday, Jeff Passan of ESPN.com reports. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Kevin Gausman: Nabs one-year deal from Tigers",
-      "url": "https://www.rotowire.com//baseball/player/kevin-gausman-11473",
-      "source": "RotoWire",
-      "sport": "Fantasy MLB",
-      "published": "2026-11-25T03:59:00+00:00",
-      "timestamp": 1795579140,
-      "summary": "Gausman signed a one-year, $25 million contract with the Tigers on Wednesday, Jeff Passan of ESPN.com reports. Visit RotoWire.com for more analysis on this update."
-    },
-    {
-      "title": "Foster Griffin: Back with Guardians",
-      "url": "https://www.rotowire.com//baseball/player/foster-griffin-13391",
-      "source": "RotoWire",
-      "sport": "Fantasy MLB",
-      "published": "2026-11-25T03:48:00+00:00",
-      "timestamp": 1795578480,
-      "summary": "Griffin signed a three-year, $48 million contract with the Guardians on Wednesday, Robert Murray of FanSided.com reports. Visit RotoWire.com for more analysis on this update."
     }
   ]
 }
